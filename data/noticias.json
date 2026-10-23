@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-23T16:07:45-05:00",
+  "actualizado": "2026-10-23T18:54:55-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Reconstrucción de zonas afectadas por el terremoto costará $ 54 billones: solo para viviendas se necesitan $ 19,7 billones",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQU3AyMWdpNm1EblFySWhzVU8xOEZaMzlDcDNmcGdzZ0xENHIxT0JaUThuOXJzRHRmc1E2M0VkcVliZlF5ejJsNk45TjZrS3QyZVpKR0tLUmZHWXBqWk13YUNUMDBwWUJMdEhKS1MyVmhXTXh2ejI1cGh6RXlUY2YtbVE4V1psVWFhTkJNT0V0QXU2NnZoaERTRkRzejRGZnUzOW5QVzVhNHVuUzl5N0NZc0tjVzlGSmRNMl9TeVFCMGNNTVluU29CV0tVaWFzSllta05uYmpURHhTOENhNE0zMDVEMGdMOWhjM1JJdWkxSE5TVk5JS3A5TlFKN2PSAYICQVVfeXFMTVM5LXZOd21rb1pTVXBGZHhLcE1uQ0NfdWw4ZUk5bE52ZUx4WW5RZjFOOUZYYnFtNXBZVGZ3MmRCU1h3Y01Fd3RpaEIzbXEwSmdiTzJJTjJtWXhjS09JN0lCbTVENEppN3JjNWZzUTFEbTFXbEZPS2RHSV8tWmNYYTM0LVFnRGZvcm5yRzdDbzJ1dTRWQmNuRGtPLTE0b3Bqd0d6N3Y2aDJ2U1N4S2FQT0hFdHB3Q01aQVlPTjVpQWkwN3dPRDhZQVQya3ZCWHZ1THRuc0pDeG1rMlJiRV8zUDlKdDdYdzltcGZLdnhQNmwwQ0JrbDhGMDExYTQxRm9rVFhR?oc=5",
+      "fecha": "2026-10-23T22:30:20.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "MinVivienda recalcula el costo de la reconstrucción tras el terremoto: ahora lo estiman en $54 billones",
+      "medio": "CAMBIO Colombia",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MQ2NTUExuRFhRUHVDdzZ0ZHBKTTFYSFIzSlY3M1Q5aFc1cmQ2ZXk4UW9Pc2ljSC0tNzJrYThpNUd4alN4WURwUG9CMVBCeDF1dkxRRll3anV6X1lNV2xUdEhjdlBZQ0k4bmx3RzhHenJEcm15d21nd011TFJ3dw?oc=5",
+      "fecha": "2026-10-23T21:55:49.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "“Es una oportunidad para modernizar la ciudad”: Alcalde de Pereira sobre el ‘Fondo Milagro’ para la reconstrucción",
+      "medio": "El País",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeURQcng0V0VxS2F0ZURyS3ZHTVAtcGFVUHhELUlQWkhhYUczeXJ5M1VmV0lJbUlNaTcxQUZaOVNnczFoTzRoZVJLemtaalU2QlJtNjJmM2pDTHJTQTA4WE9uQ3ZNX2FmRTlEVGVoY3I2aXlZWnROOEFOX0N4NFB3VUEzUG5XbXc5WE9XYmxtNnpFTzFOdmQxU0o2S0FSOTN2T0RkekpzNWwtMWdNRVpOVzJ5TmdWdFh1X2hvWDVhcGpfLXU2emdSZ1B2cGplSmdKQ1FLblNOb0RobFVXb1hoVk5ENXJNQk4wOXfSAe8BQVVfeXFMTzNGX1l5bWRlR2YtQzVlaU5oYThjVkpiZzQwWERHeTFVcHZHNFgzTkwzQ3pEbkxxV3hoeE0zSnA2TlBWZmdlbFNMMXo5UHVyOFNhSE5keUVVdG5ZcXVKWTZpaXhKU0ktUVYxbGFkSmRJaEthcE1iQUZjVEw5VjBpT0oxWkdNN3ZKMzFPWW5yUXFUWVA5VlFuams3RXctOXZsRzZGNnBvVWpnaFlQVkJ1Y1hHVjVISTZBdUJ0T0hNeGxnMkJfUkJqVU5UXzBvWkowTFlXYk8xUVNEWk01WEhYOHRlNzlTa0RubmMzOHE3cU0?oc=5",
+      "fecha": "2026-10-23T21:37:55.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "El costo de la reconstrucción por el terremoto ascenderá a COP 54 billones",
+      "medio": "El Espectador",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2d1aXFnelNBZGN3cFdoSXQ4dkZpVVBPMTZxVXFQYi0zMlFzaTBCakJMcmxDSUJqQVYzT29EblZMdkFaWXdnUEtxR1ZrTjFLLVZFWFJHZjBjQzV6aW9kaW1id3lsS1A2dWNxSmRjQ0VpMHdsZ2RnTFBZUG5DVnFFMFdxYXV6M0g0b2lZbnVaSW1PY19ySVdZUXVyQ0sxUW92MTBuMkFoRXVrS1l2LTBmTWJDMA?oc=5",
+      "fecha": "2026-10-23T21:35:25.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Manizales comparte su experiencia de reconstrucción tras el terremoto",
       "medio": "Eje21",
@@ -1200,6 +1232,14 @@
       "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
+      "titulo": "Shakira y CAF se unen por la reconstrucción educativa del Chocó",
+      "medio": "Chocó 7 días",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2Q3TkNDVVptLUtDenpKTVR3bWJqMlJSLVRfYzZ1bHllQXNWVDRyVkU3TURTdm12U0JfXzZJN2lQMHVlek1BVXU2MEJmRTh3SmFiUnV5dW9DcndxMVJxazhHbkdERUJJSmM5d0pQYnBTdFVqRnd3cEhYY242bkpKSm1TUXNJSW1Ob3VKRnN1N1M?oc=5",
+      "fecha": "2026-10-15T07:00:00.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
       "titulo": "Primera dama anuncia rendición de cuentas por donaciones para damnificados del terremoto",
       "medio": "La FM",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUkxRDNjRGtSZGZVcGc0VEF2NDJYQU96ajNBWi1mUjBCU3ZyekVVTC1WNEk4WFNSdGlmUUc5eXJEd1dXQmR0TFR2TWdTMjJpWXJ5SVQ0akJObmdlNm9rRGR6QjJ6TUY3V1dYbDd5LTQzbGZHRENKRDNldnN2UDdjMzRkS2k4RlRQOXFtS0lPSHZ1Q3ZJQXfSAZYBQVVfeXFMTVNVaHZMWkp3NTg1cWtVVGVNbnFWMngwdVE0Q3RteU1IXzR4RE45X190UlNuUDh5SUV0MUE3XzdGZjVuUXVZWXRUSDgwUXp1emtHNHBGYXVYM1lQdWp3RjhXODNVcThOYUsyN3RDUmIybUxzdjZXbmJucXBMU2hxX2VzY2o2Y1BuRXJOUzhUemhteEdBOEZn?oc=5",
@@ -1558,46 +1598,6 @@
       "fecha": "2026-10-11T07:00:00.000Z",
       "depto": "Nacional",
       "consulta": "damnificados terremoto UNGRD"
-    },
-    {
-      "titulo": "El Chocó: reconstrucción y construcción + una adenda",
-      "medio": "Razón Pública",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnpPS2M4YjA2cnRNZXNRalgtZTkwQU81U0VjbWJ6VjcwTlU1THROSVp4VlJ2MmJtalAxd1A4d0l3cWpqLUZfNXhFTWlBekJ1dWppRmxGTU85bC1LVTZRTk9PcDJPTU9WWV9QVk56UTFKZ1NQUE8zUW5wOEQxNzNwUQ?oc=5",
-      "fecha": "2026-10-11T07:00:00.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Tras el sismo, Cali evalúa miles de estructuras y alista la reconstrucción: “El plan es que de aquí a diciembre se coloque el primer ladrillo”",
-      "medio": "El País",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQazN1T0ViNEpHNEk1bk1HNWVGd1pHMWRjekxJMC1pNnJHNFh4NVhEVU5zM3pVQTlfcnpqQTV5LXZaUEJSYTVQU1FocWV4eTZRcnZfdHpZVEpNYUFidGlyLXNDN0stbnVXdjRGS1lOWTl3TTRoQnJxNlVFWERTY1JkNElTWGZHOWlJT3VmRGdkTnItZzlvUVRjcHhVV0pvNzRzTnNlOFU3NU1WM0NpM01PS3lyV0JXbGktZDRMNkhJamFMSEhXVlo5VTZubUw5SF84ZU93VjZlQXdGQjBuUFZudExVc0dlQm9CQWg2ckszMWVYNGd6Uk5TUVpVYVNONl9BN3VhZTNRMjBoXzDSAZACQVVfeXFMUEhLX1VKZVkwWEpUOF9jRkdUelktb2tzQVMzYmFnX0ltcVdkMEN6NENMZW5pUm1EeEl2NDhLb2ItWGFqRkh0aU91UjRuQVUzVVZVTGJWQmFjYkg3TFYxdjhxTzEyWWw4djBNd2NVZF9Ec1hPQ1M2bmhONlhvX0xRTW0zVjZLTHNQZF9ONWFkNzZTWDlkRng0MTJzV2hLTFZDcndWcU5EOHNVTlVDSVpvWnl1cjJ4VHRBakRfZWstQW9oQkF3N1gyeWZ2YUJka0JGaGUxaG8ydU1naGw5WGZlZlpmZlZNRlhsdi1yS1hmbEJfQzFLUzJSNzhIdU5oQ3pVTjd2Y1FZS3BsaGxGQ0tNTmY?oc=5",
-      "fecha": "2026-10-11T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Entre abrazos, música y esperanza, Cali conmemoró dos meses del terremoto",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaWdCbXVWX25WY0pkS1Q0cUdqVFRGNWNseHVUUFdQa0prTDBwelk0dzI3dExPRk5BMTJsRkdXTldYRDVrUFR6OXJYUF82bWFOTzJSNVRlNVR6RE1QaFVTYmJuZFhVbjd2cE5yUkhvZWM3OWpKT25RODB0Wld5QksyejJ4OVMxeVRLWmVCZHFFUV81OGVEU2x4ajNiMHN6cVVNRHVTRVhheFRqNEtTUWduSXVVd25JTy1xVjVuaGszZE16cDNjdnAyZlZyNm1ZTWtFakZJODlsYXNKa1U5U0HSAd4BQVVfeXFMTjF4V2MyRkxITFpyZjAyQzdxMDBabFhvMDZVNDltNHpRREtYdHFpSmdQNjN3WlVPT09fMTJvdm5PWS1jWDNwV01CNm9lOWwxUm1BWXlvVVRrVmZMbHVNWjBtZlB3RS16TjFQSkszdTdXd2I5azltWFhBTVhkRnJvQUd1el8wQk1CdXg3ZkNwbkhSNm1fdFFBOUwxZWVucVB5WW9NeHdLUGpTR0tMeFdLWEFOVlhWQ1VKb2lveVU4TUFkRVVFaHpLRTRUcnBwOGJmN1liWkdBcG9FalpWQ0xn?oc=5",
-      "fecha": "2026-10-11T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "La venta de vivienda nueva en Colombia tuvo una dura caída en 2026: así la afectó el terremoto del 10 de agosto",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbXRUTmNpbGJuS1FMOWVUcHVfU203UUc1cVgwVDkzRGVtcFpaX3JvWVcxNVJFeFl4ZWx3QXphNV9FQVF5VG54OW9CN3ZaLTFsS29wQ1lmZThQdFhOR2xGTHZENWs0cjRaaU9UaFlVZUZQaDdzQXlMTjlvN25iR1ZoWGVEV0xYSExuaVlJYV84bUVOem5MMU5qR3ctcU4wTUtEZlF4eDZpU0gyeUZVZ21XUlBkWG5Ba19pYnNCd3U1M0x0T0pudjZ2NmNqd3pCcnNwYkhveWthcTNhOEk5S0lwOXZDSm5sWEV0NDNR0gGGAkFVX3lxTFBZSjU3XzdsMVpVY3pwTE1QWGZzUzJPV1FwcUlzeG1FVzBPYWhxZ0NENWd4Ylp4bkZHVWlRN3dzU2JDVnA5WmZESmxVVEYyeHEzaGhiSGxnbkpodXB6ZGhCTTdfeTVnbW5SM0h3VVMyaWlmZi02Q042RkZBLUpTTzR6R3c1VnlJdmNnYzFySTVJZ3M3SVN0NGd6MEsyTE1iZ3hpTTNrYXFXUld0VVBCRGJDQkN4NHFwSDNjRkNWdklCcGpHTnhwM3dxb2lNWndJMFBZNGRnTkpMZERXVFdQTWdjVlEwZy1fNnJ6LTJqeWoyQllXVHdSWjVRZlNFX3BCZ1g3VU84ZkE?oc=5",
-      "fecha": "2026-10-11T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Más de 48.000 personas recibieron ayudas tras el terremoto del 10 de agosto, según balance de la primera dama",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOektneUdTVlVhdWFKOUpFNFhVazcxQkRiX2RLdVpkS0c0V0pFTmdpVGJOSFp5ZGVicEpvMGtNamt6LWlpcUtVQ1BsQmVfODZyYmVtb3VTQk1iQ09rWnlaRkU3LS1ubDlVT2VaUC1tZW9VQU1rT0RhV1ZlM1NUcFVRR3lkZ0NtVjVxSUNZOFhsc2w4MDJIVEVWTE9jS3NOY0hmT3FWRE9QWENuRUtGeGhLZGJkU2gzLUV4aTl3SWRHOFZCd1cwaDVWYm9FN2U3R1BqNkhGVlBmVk1KYXh0RWJqREg4bGdpSlHSAYICQVVfeXFMTU82N0VyUkZQd3ZESTEtNzRfTDd3eUpCQU1Hd1daNGdCcUtIZHdfd1JwajVYVUViQThibFZHZUtRck14ZHBXLW5SbF9Ma1BwelcwOXFsYlktN3BPU3ZoN0tkTEFReVRSeHlreTBXTjR3WWptRXdVdjlEN3lYdFpUcjlqTTNEUmtQWm00UHlDNFd6WVItSjBPd0Nab3NjZnppdVJrMVV1Q1pQWHlJRlhPNEpjWFZUNklkS1k2TjQxODBOcmwyYzBHUFZ4YV9jcEdYQzJTT2t4bG5kYkZPelFkRjdoaTN5TkYtLUh2NmxqWEhEZk0zc2E0eXlLREVCZks1d3VR?oc=5",
-      "fecha": "2026-10-11T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
     }
   ]
 }
