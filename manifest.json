@@ -1,0 +1,14 @@
+{
+  "name": "Bitácora de la Reconstrucción",
+  "short_name": "Reconstrucción",
+  "description": "Registro ciudadano de la reconstrucción tras el terremoto del 10 de agosto de 2026 en Colombia — Vibras Positivas HM",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#0f3d3e",
+  "lang": "es-CO",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

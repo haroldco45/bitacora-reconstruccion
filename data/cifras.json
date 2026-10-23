@@ -1,0 +1,27 @@
+{
+  "corte": "UNGRD y Registro Único de Damnificados (RUD), corte 9 de octubre de 2026; Fondo Milagro, balance del 22 de octubre de 2026",
+  "danos": [
+    { "valor": "335", "texto": "personas fallecidas", "fuente": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647" },
+    { "valor": "4.516", "texto": "personas heridas", "fuente": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647" },
+    { "valor": "103", "texto": "personas desaparecidas", "fuente": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647" },
+    { "valor": "303.934", "texto": "familias en el RUD", "fuente": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647" },
+    { "valor": "486.917", "texto": "personas damnificadas", "fuente": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647" },
+    { "valor": "36.478", "texto": "viviendas destruidas", "fuente": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647" },
+    { "valor": "206.931", "texto": "viviendas averiadas", "fuente": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647" },
+    { "valor": "16 / 500", "texto": "departamentos / municipios afectados", "fuente": "https://www.eltiempo.com/vida/medio-ambiente/como-avanza-la-reconstruccion-de-colombia-dos-meses-despues-del-terremoto-el-sismo-del-10-de-agosto-dejo-mas-de-36-000-viviendas-destruidas-3592647" }
+  ],
+  "plata": [
+    { "valor": "$30 billones", "texto": "costo estimado de la reconstrucción", "fuente": "https://www.elcomercio.com/actualidad/mundo/un-mes-terremoto-colombia-danos-promesas-y-controversias-peor-sismo-siglo/" },
+    { "valor": "$624.656 M", "texto": "en el Fondo Milagro (crédito Banco Mundial)", "fuente": "https://www.elheraldo.co/colombia/2026/10/23/de-la-espriella-presento-balance-del-fondo-milagro-y-detallo-inversiones-para-la-reconstruccion-tras-el-terremoto/" },
+    { "valor": "$377.000 M", "texto": "apoyos económicos de la UNGRD", "fuente": "https://www.elheraldo.co/colombia/2026/10/23/de-la-espriella-presento-balance-del-fondo-milagro-y-detallo-inversiones-para-la-reconstruccion-tras-el-terremoto/" },
+    { "valor": "$332.000 M", "texto": "para 7.385 intervenciones de vivienda", "fuente": "https://www.elheraldo.co/colombia/2026/10/23/de-la-espriella-presento-balance-del-fondo-milagro-y-detallo-inversiones-para-la-reconstruccion-tras-el-terremoto/" },
+    { "valor": "$826.000 M", "texto": "de MinVivienda anunciados para noviembre", "fuente": "https://www.elheraldo.co/colombia/2026/10/23/de-la-espriella-presento-balance-del-fondo-milagro-y-detallo-inversiones-para-la-reconstruccion-tras-el-terremoto/" },
+    { "valor": "+$1 billón", "texto": "aportes privados (manejados por sus fundaciones)", "fuente": "https://www.elheraldo.co/colombia/2026/10/23/de-la-espriella-presento-balance-del-fondo-milagro-y-detallo-inversiones-para-la-reconstruccion-tras-el-terremoto/" }
+  ],
+  "mini": [
+    { "valor": "36.478", "texto": "casas destruidas" },
+    { "valor": "486.917", "texto": "damnificados" },
+    { "valor": "$624.656 M", "texto": "en el Fondo Milagro" },
+    { "valor": "7.385", "texto": "intervenciones de vivienda anunciadas" }
+  ]
+}

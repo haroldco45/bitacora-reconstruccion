@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bitácora de la Reconstrucción</title>
+<meta name="description" content="Registro ciudadano de todo lo que se hace en la reconstrucción tras el terremoto del 10 de agosto de 2026 en Colombia. Vibras Positivas HM.">
+<meta name="theme-color" content="#0f3d3e">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="top-row">
+    <div>
+      <p class="kicker">Terremoto M7,4 · 10 ago 2026</p>
+      <h1>Bitácora de la Reconstrucción</h1>
+    </div>
+    <button id="btnActualizar" class="btn-round" aria-label="Actualizar">⟳</button>
+  </div>
+  <p class="estado-sync" id="estadoSync">Cargando…</p>
+</header>
+
+<main>
+  <!-- HOY -->
+  <section id="v-hoy" class="vista activa">
+    <div class="hoy-card">
+      <p class="hoy-fecha" id="hoyFecha"></p>
+      <p class="hoy-dia"><span id="diasSismo">–</span> días desde el sismo</p>
+    </div>
+
+    <div class="mini-cifras" id="miniCifras"></div>
+
+    <h2>Noticias de hoy</h2>
+    <div id="hoyNoticias" class="lista"></div>
+
+    <h2>Registros más recientes</h2>
+    <div id="hoyRegistros" class="lista"></div>
+  </section>
+
+  <!-- REGISTROS -->
+  <section id="v-registros" class="vista">
+    <h2>Todo lo que se ha hecho</h2>
+    <input id="buscaReg" class="buscador" type="search" placeholder="Buscar: Cali, vivienda, Fondo Milagro…">
+    <div class="filtros">
+      <select id="fDepto"><option value="">Todos los departamentos</option></select>
+      <select id="fTipo"><option value="">Todos los tipos</option></select>
+      <select id="fEstado"><option value="">Todos los estados</option></select>
+    </div>
+    <p class="conteo" id="conteoReg"></p>
+    <div id="listaRegistros" class="lista"></div>
+    <div class="acciones-datos">
+      <button id="btnExportCSV" class="btn sec">Descargar Excel (CSV)</button>
+      <button id="btnExportJSON" class="btn sec">Copia de seguridad</button>
+      <label class="btn sec">Restaurar copia<input id="inImport" type="file" accept="application/json" hidden></label>
+    </div>
+  </section>
+
+  <!-- NOTICIAS -->
+  <section id="v-noticias" class="vista">
+    <h2>Noticias de la reconstrucción</h2>
+    <input id="buscaNot" class="buscador" type="search" placeholder="Buscar en noticias…">
+    <p class="conteo" id="conteoNot"></p>
+    <div id="listaNoticias" class="lista"></div>
+  </section>
+
+  <!-- CIFRAS -->
+  <section id="v-cifras" class="vista">
+    <h2>Cifras oficiales</h2>
+    <div id="cifrasDanos" class="grid-cifras"></div>
+    <h2>Plata para la reconstrucción</h2>
+    <div id="cifrasPlata" class="grid-cifras"></div>
+    <p class="nota" id="cifrasCorte"></p>
+  </section>
+
+  <!-- NUEVO REGISTRO -->
+  <section id="v-nuevo" class="vista">
+    <h2 id="tituloForm">Nuevo registro</h2>
+    <p class="nota">Anota lo que viste o lo que anunciaron: una entrega de casas, una obra que arrancó, un subsidio que llegó o uno que no ha llegado.</p>
+    <form id="formReg" autocomplete="off">
+      <input type="hidden" name="id">
+      <label>¿Qué se hizo? *<input name="titulo" required maxlength="140" placeholder="Ej: Entregaron 20 casas en Quibdó"></label>
+      <div class="dos">
+        <label>Fecha *<input name="fecha" type="date" required></label>
+        <label>Estado *
+          <select name="estado" required></select>
+        </label>
+      </div>
+      <div class="dos">
+        <label>Departamento *<select name="depto" required></select></label>
+        <label>Municipio<input name="municipio" maxlength="60" placeholder="Ej: Pereira"></label>
+      </div>
+      <label>Tipo *<select name="tipo" required></select></label>
+      <label>Detalle<textarea name="detalle" rows="4" maxlength="1200" placeholder="Cuántas familias, qué barrio, qué falta…"></textarea></label>
+      <div class="dos">
+        <label>Entidad responsable<input name="entidad" maxlength="80" placeholder="Fondo Milagro, Alcaldía, UNGRD…"></label>
+        <label>Monto (pesos)<input name="monto" type="number" min="0" step="1" inputmode="numeric" placeholder="Opcional"></label>
+      </div>
+      <label>Cantidad<input name="cantidad" maxlength="60" placeholder="Ej: 100 viviendas, 1.400 negocios"></label>
+      <label>Fuente (enlace)<input name="fuente" type="url" maxlength="400" placeholder="https://…"></label>
+      <div class="form-acciones">
+        <button type="submit" class="btn">Guardar registro</button>
+        <button type="button" id="btnCancelar" class="btn sec">Limpiar</button>
+      </div>
+    </form>
+  </section>
+</main>
+
+<nav class="tabs" aria-label="Secciones">
+  <button data-v="hoy" class="activo"><span>☀️</span>Hoy</button>
+  <button data-v="registros"><span>📋</span>Registros</button>
+  <button data-v="nuevo" class="tab-mas"><span>＋</span>Registrar</button>
+  <button data-v="noticias"><span>📰</span>Noticias</button>
+  <button data-v="cifras"><span>📊</span>Cifras</button>
+</nav>
+
+<div id="modal" class="modal" hidden>
+  <div class="modal-caja" role="dialog" aria-modal="true">
+    <button class="cerrar" id="modalCerrar" aria-label="Cerrar">✕</button>
+    <div id="modalCuerpo"></div>
+  </div>
+</div>
+
+<div id="toast" class="toast" hidden></div>
+
+<footer class="pie">
+  App ciudadana de <strong>Vibras Positivas HM</strong> · Caucasia, Antioquia<br>
+  Los registros “Verificado” vienen de fuentes públicas enlazadas. Los tuyos quedan en este teléfono hasta que los envíes.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
