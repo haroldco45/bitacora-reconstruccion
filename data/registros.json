@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T07:55:00-05:00",
+  "actualizado": "2026-10-23T08:10:00-05:00",
   "registros": [
     {
       "id": "of-001",
@@ -245,13 +245,13 @@
       "depto": "Risaralda",
       "municipio": "Pereira",
       "tipo": "Educación",
-      "titulo": "Fundación Terpel financia con $23.000 millones la reconstrucción total de la sede San Nicolás",
-      "detalle": "La remoción de escombros abrió el terreno para el proyecto, financiado íntegramente por la fundación.",
-      "entidad": "Fundación Terpel",
+      "titulo": "Arrancó la demolición del Colegio San Nicolás en Pereira",
+      "detalle": "El 22 de octubre empezó con maquinaria la demolición de los bloques que el terremoto dejó agrietados. El colegio atendía a 588 estudiantes de preescolar, básica y media; tras la reconstrucción tendría cupo para 720. La Fundación Terpel financia el diseño y la reconstrucción total con $23.000 millones.",
+      "entidad": "Fundación Terpel · Gobierno Nacional",
       "monto": 23000000000,
-      "cantidad": "",
+      "cantidad": "588 → 720 estudiantes",
       "estado": "En ejecución",
-      "fuente": "https://ciudadregion.com/regiones/risaralda/pereira/fondo-milagro-recursos-terremoto-pereira-edificio-invico-viviendas"
+      "fuente": "https://www.larepublica.co/economia/gobierno-arranco-reconstruccion-de-colegios-en-risaralda-con-4-000-millones-iniciales-4508904"
     },
     {
       "id": "of-019",
@@ -280,6 +280,20 @@
       "cantidad": "",
       "estado": "En ejecución",
       "fuente": "https://childrenchangecolombia.org/respuesta-de-emergencia-para-victimas-del-terremoto-en-colombia-octubre-2026/"
+    },
+    {
+      "id": "of-021",
+      "fecha": "2026-10-22",
+      "depto": "Risaralda",
+      "municipio": "Pereira",
+      "tipo": "Educación",
+      "titulo": "MinEducación destina $4.000 millones para 27 mejoramientos de colegios en Pereira",
+      "detalle": "Según el presidente, el terremoto afectó 167 sedes educativas y 95 están en riesgo de colapso. Con apoyo del BID arrancan inspecciones a la infraestructura escolar de Risaralda: unas 80 visitas técnicas previstas en octubre.",
+      "entidad": "Ministerio de Educación · BID",
+      "monto": 4000000000,
+      "cantidad": "27 mejoramientos",
+      "estado": "Anunciado",
+      "fuente": "https://www.larepublica.co/economia/gobierno-arranco-reconstruccion-de-colegios-en-risaralda-con-4-000-millones-iniciales-4508904"
     }
   ]
 }
