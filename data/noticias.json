@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-10-23T18:54:55-05:00",
+  "actualizado": "2026-10-23T22:30:45-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Minvivienda estima en $54,3 billones el costo de la reconstrucción del país tras el terremoto",
+      "medio": "ELHERALDO.CO",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONU0zc05SemE4YmliWWlDTV96UVUyTktOX3VyV0F2TDZzUWVBakppUE1XRFFMUGlNUFgxekVXbkxIUXlOM0JJam5Xb2YtSFgtLWNDRVR5dGRVTlc4dWZXYm85cU9lQUx6YXVoWmZsMm5iM0psbVozd3U5VUZhdnFjYXk2V2o2T1FtUWRyLWxoSG1teWt3bGkydE1LUjFYSWFKVzlYcllzV2FROUd4bV9EVHF2SUtwSHNaS2o2RkNfU0o5eFhlTVh0MThNM0FMRVBiNGNJ?oc=5",
+      "fecha": "2026-10-24T01:54:01.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Presidente Abelardo De La Espriella rinde cuentas sobre sus labores y el Fondo Milagro tras 73 días del terremoto",
+      "medio": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWlZ1MmdrMXFrLUVIc25kRVVfa0NnV05GV3RwcGVSLWdzX2RtWVZfaF9FN2FybzVIOEk0SU1MYXVBU2dtclJndnhQeUxKODIzLUZCTVR1U3R1UFc1MU5pbHl4dlpjWUIxN0RCZHJXRU45Z3hxWFMxSHJJSGdEV08zaFFsVVg5ZHJVazA3ZkZON2ZfUTZCeWxwNTJJSmJCbDZnU2l3TzhuR2U5MDRoRkhJaVpXMFdpYTlPZFRPM3dUZ0hFUTRjcG5FQk5zYmZGZ3g1cjBzZDNsU0lwN3VHdzRTc0UwV05LS21lLUplajlJVkgydHNkX3fSAfYBQVVfeXFMUFpWdTJnazFxay1FSHNuZEVVX2tDZ1dORld0cHBlUi1nc19kbVlWX2hfRTdhcm81SDhJNElNTGF1QVNnbXJSZ3Z4UHlMSjgyMy1GQk1UdVN0dVBXNTFOaWx5eHZaY1lCMTdEQmRyV0VOOWd4cVhTMUhySUhnRFdPM2hRbFVYOWRyVWswN2ZGTjdmX1E2QnlscDUySUpiQmw2Z1Npd084bkdlOTA0aEZISWlaVzBXaWE5T2RUTzN3VGdIRVE0Y3BuRUJOc2JmRmd4NXIwc2QzbFNJcDd1R3c0U3NFMFdOS0ttZS1KZWo5SVZIMnRzZF93?oc=5",
+      "fecha": "2026-10-24T01:32:51.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Gobierno recalculó el costo de la reconstrucción tras el terremoto: pasó de $30 a $54 billones",
+      "medio": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2RNNG85VU11R3FILU9NOVMxeVN0QVZOWW1LZWRoRU9ndVBuMmVFS2xDWXlGN2lwTV9KUjhPMWM1UG5lczR6Um9GVTRGQWZrLUM1T1lNYU5rb2stUC1sU01lei01a2RCYzJua2NINDMwSENibUdDSktaVDFhLWZ4UGpnOVBuQThFb2t5T2lSNS1qcU8xNHRCLUVWYjJKTDF3NlBUSA?oc=5",
+      "fecha": "2026-10-24T01:29:17.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "El Valle del Cauca traza una ruta para transformar su economía y duplicar su PIB por habitante: 'De la reconstrucción por el terremoto al desarrollo'",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxObGdxd21PTjRoUWR2Sl9tS0N3UXU2Uk9zNk9UWG5NMzRhZFQ3TWF3eE4yQ3hYUWYzeGs5aWhXZExGbEIzNzI1VW94QllsMGI0bEQxUlhud0ZXN0JpSTFZeWpwcW81ZGVseU5zSmNZajh4QnY4R1dUQkpWSEIxNThzYUx0MVdNdzdxcTZBQzBnaktoOXhsT0NPYXFrN3Y1UDdQSFdEb2xSX0c5STllazZqTXNESjFMaG1oUmZac01uUVAxNDBYd2pYSkR5Q3JONWE0SUlaVjh1dlA4NzdTQmwtV21mZDJYYkd5Q3NVU0ZhdG1kU0twOUhpR0pnTENUWHFLV01WVkdrbVd3NHZpSXFJVjhGTmlXWHVOcE44dVBB0gGjAkFVX3lxTE9hWTRueWhmV3JrcmxZREhIblJLdDNpZ1N0R1ZYc20zM3lKWnB6dU1xcElSOG9UTUdtTUVlSlpzLVhKVGF6R2NpNmhjUlh4SUg2ZlhMQUZEdmlidzVxTXBMYTduVGZWZzJoR3ItMHJjWG9PWHJ1Wmk2OGZJZHNnWVhIOWRkZHU2M2FsN25MdjZ4YnItdTBHc2Zyd1hhNHU5MC1xWi1Xa2RsUmd1SXNkM3Axc0tqWWUzeE5HVEF5ZWpMZlFqdEV6THpJVjBIdHltTC0zaHVSWlMwNWU4RDQtcjUyNkxJSWFRNkljVlRfTFAtdjhOcGVpNFFjQ254bTU2VE1xb2FOYVctLTZEbGJDbVdKeUFDMl9sUWdMNE1ZbHo3SXBaRQ?oc=5",
+      "fecha": "2026-10-24T00:46:32.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "La reconstrucción en Colombia tras el terremoto de magnitud 7,4 costará $54 billones, según el Ministerio de Vivienda: “Una cifra alarmante”",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVmZoV08tQnVPR1N2eExRRHpaQU5NeVhnZVV1RmRKbTRldVMtSDYzY1lnTmFKcG9VZ1NoM18zaFEyOW5lUjNBVDFWVFpIb3lVYlNBd0R0UGk3QlZLS2N0QWVLYUQ3bkNUcTFHNTFvSkxqemFnVEk3UFJ4d3JPX2p1amk1QVBIdjlGTnRnX01WNE1OaUo4R0RvZ0hDTlpyV24xVTV0LWtvcmQ5b0M5YjR4NnA3Wm1iR1lGUzFYSHFvV01XQ1ZaZldpOWVUTnBkaTdtNzZJQ2pFakQ1Y3FaMDhqMUpmVlZkbi1QUXVEanY3ekpVcnludXVhZkd2T3gzaTBseDU2QldWOG5Sd2_SAaYCQVVfeXFMTXVYSER4S3NKdjJjOEN4bFNvcWVYVlpDV2VNMFdUbTBJazE1OFNiSEFIZDBQakpxVEtOMTdiTVRoUm5vX0hOZm1Na3A2VG56dTltb3A1d3lPOHZETngwMFFySC1ISk44OFpJNEsyZ19EN2FZSWs2U1cxUGRoMnVrMHpyTVRJWl93bkZZTHJQSEZRaHRHN0g5V2tGM3F6S2UzOEFJcG95VEEyc1ktQ081U0tzcElBNVFqRURyRHRpN0laNHl5ZHVuLUVaWGNySktzU0U2cjFYbjREMU13WDJldEtUTjlSVXFVVy1mSzV1NVE2bHdaeEhLQ0QzNk9LS3NMdmRoT21tZDdnU0Z6Umw5Sm43S182VVJXSVFyWW4tMEIzcUVIWndn?oc=5",
+      "fecha": "2026-10-24T00:31:21.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "\"Hoy la reconstrucción nos cuesta $54,3 billones\": MinVivienda tras terremoto en Colombia",
+      "medio": "Blu Radio",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXdvRGhPNUk0X0t5d2JLZy1QX0FpTjRsaTNQdldGdG5oUkpVaGM1WHhVOU5JM3Z5M2FQMFBxcHRaSF9ZRlN0VlZhSnVTZlZNVC1ZYWpFNV9pRk13NlRrVEJyZ1VucGxFZkJJLThzM18wM1ZSNWNJZHNfZy1wRlFwWDBTby1WXzA2UUxzelZkeEI2TGZiZS1QM29PNU1pcU1fZkVOSmQ1RVFMQ2R1a3pMemVRTVh5dnUwelI1OXdNcHZKTmY3NEHSAdMBQVVfeXFMT0toUVh5dGh1Z0ZVam9DQTZCeGZiOTlKWS1TS0RJNHFmYVI1WjRJY0dudDJFeHRGSGxTUHZITDlId0VpSUczZlNiSkpJMDdpMzlEbU1BLUxpV1A1WmhCdHdWNk1MR3lLRkp1eTd6Y21fRW9vS2hRa0VzY3dlU08wRUJHdlpNdU9OLVNYcHVCMlNWS21VWTJ1STc1Wk5tbWprSDdPVVZxUjBTN3JDLWN6czNNRlVTNjl4MzYwVE1ES3N6SWZaSUhmRndTaHV2dy1KR05YMA?oc=5",
+      "fecha": "2026-10-24T00:08:51.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Sector constructor recaudó $ 300.000 millones para la reconstrucción de las zonas afectadas por el terremoto",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ3VFVmw5d04teFR0WlVkQmFlNF9IUi1Va29WYnFGeXB3Y1BXZlJFcDNFd25jYzVwaVE4Tmt1MVU1NlhITmI1QVY0bmtDdTFRQlk3ZV9BaXdQbkRMbF9hZ2dBMlhBYWl6WV8xNW83dHR0cnN6S0Jkd0RnLTQ5bUVxclhkTWpQdmQxVUZuUXVyV0hHc2ExczNXSjMtbW9LUllBb0xsS2plQWhmdGprTnRRbllFLTFVTUZQWHpGS2s1bUFUdTdxWW8ydnl1VTFQNXRXUE1nOTBPUmd3SC1oeHRhMUhwM2tGR3RINXBPMjVR0gHzAUFVX3lxTFB4NkNmWHVhdjRWeG4tTUV3RHFVUlNOLVcwV1NUejBHRVg2Mkk4S0FtM3FjbWxLV1BVV3RhZ3RVTzkyZTVqSzJrOGdlUjFzZFBIbkg1LXNIeExrVWsxVjd2M21YU1R2ckVQZ3AtV2R1cVJoUkNpSll2Y01rTEpiTDAzX2huY29iSjZsSlEyR0ZySmd6ZkZ4MHR5bkhxbmhERXY1LUVzYjFkdFk2TC1aVE9RdGtoSktNcEhwUkRIRE11WG9LRnNFU2xYMi1uVDY1djk3ckR2bXI0ZExXSEM0dnJqa3pJWE1EVWlQeEVpWlkydVBHMA?oc=5",
+      "fecha": "2026-10-23T23:34:29.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Grupo Argos alista Obras por Impuestos en Colombia para acelerar reconstrucción tras el terremoto",
+      "medio": "Valora Analitik",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0ctS1lBQzdCLUJnVnpjSzJLTDhtTDJicnlLMUsyaTdOMmhtbndVcTZleGlVVWJieGtoQkpVZWEwUXd4OGVJeFU4UTY1QlBWREtPUk51ZUpfTjRhRTRpS0QyQXdPVzhGM3hKaDk1VElRVFl3bGdRTjFudmJOMEdqY2N4akt0NWdZRUE5ZXdzUkVtZ0hoUlpwdmlmbFJFY3pXYXJoSFh6XzY1czZnSVZzTldKVS1jTUxQNG9keWsxUVZORlI5bk9SV9IBzgFBVV95cUxNZlJJZVVvbThaUE44ODhwS0NicTNYc3lrQ043cXB1SVNHWVFQckltSFdRNkJXalN0X3NPNElicl9uZGpqa2t3RzZrYW1GYzBBdTdoR0Q5U2o1QkhiYzk3aDUwT0ZGRnVCbkJmQXVkNjhBZ3VqM3hDbEZUYW5yQVB4N1NFU01CcTh6ejd4RXZGWERSa244cVRlcVR3aU9ta0NjLUFRSHhRNXRLMkhPVTJxNllIaWtqcVp4RnBNMmlTaEtoOXVfYkpkN1ZXa3pXZw?oc=5",
+      "fecha": "2026-10-23T23:30:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Reconstrucción de zonas afectadas por el terremoto costará $ 54 billones: solo para viviendas se necesitan $ 19,7 billones",
       "medio": "El Tiempo",
@@ -11,10 +75,34 @@
       "consulta": "terremoto Chocó reconstrucción"
     },
     {
+      "titulo": "Costo de la reconstrucción de Colombia tras terremoto aumenta a $54 billones",
+      "medio": "Valora Analitik",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkR0SW1FQ1JmbUticVB2N0lHWGVtVjBWYmpDT3hCc2o4S3NoX3dfUXBaZmdKRGRTRVZCOFBwMGExZGRTRTVBclh3QjA4eHJEaGpxeDBrTjN3dWthSFRFWXE0SFVnVWxpNWJwd2ZMZU43ZG5JQ3VhQjVtbTdHVmc4S2NEWEFqMjhSSXB5YzY2Y2lZUTRMaHc2cmV3bG14d1QwNGJ1ZTlBb1LSAa4BQVVfeXFMTVBVVWs4NDlKQkFtMGhNSXNWWHVPcnV2ZkhyODNQMFg2QW9nYjhqYmlIdjluZ1BHNmZ3TEJDT01NTmNvVldpSDJlMGw1c2JIb3RlWUdTZWxNWldmVktpbDIwblRDTWNvTUJCNGFFTlB5U1JNTDFvTHNOcTU1bmJtT2QtYlY5UE9QQlRKelltTFE3cTZha1FYMkM2ckhWbTh6ek1qWFJJaWFQTzF1V2xR?oc=5",
+      "fecha": "2026-10-23T22:25:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
       "titulo": "MinVivienda recalcula el costo de la reconstrucción tras el terremoto: ahora lo estiman en $54 billones",
       "medio": "CAMBIO Colombia",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MQ2NTUExuRFhRUHVDdzZ0ZHBKTTFYSFIzSlY3M1Q5aFc1cmQ2ZXk4UW9Pc2ljSC0tNzJrYThpNUd4alN4WURwUG9CMVBCeDF1dkxRRll3anV6X1lNV2xUdEhjdlBZQ0k4bmx3RzhHenJEcm15d21nd011TFJ3dw?oc=5",
       "fecha": "2026-10-23T21:55:49.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Ministerio de Vivienda recalcula el costo de la reconstrucción tras el terremoto: ahora lo estiman en $54 billones",
+      "medio": "CAMBIO Colombia",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MQ2NTUExuRFhRUHVDdzZ0ZHBKTTFYSFIzSlY3M1Q5aFc1cmQ2ZXk4UW9Pc2ljSC0tNzJrYThpNUd4alN4WURwUG9CMVBCeDF1dkxRRll3anV6X1lNV2xUdEhjdlBZQ0k4bmx3RzhHenJEcm15d21nd011TFJ3dw?oc=5",
+      "fecha": "2026-10-23T21:55:49.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Ministro de Vivienda revela la cifra que tiene el Gobierno para la reconstrucción de las zonas afectadas por el terremoto",
+      "medio": "El País",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZWEtZDI0QVJDMlo3UWlCMzl1eUZwX0ZhbXVFeGtnQWloU3Z3d1Y0d3E3ZHRMSDE1blJxa1VDVU9tS1dMSHZVcjdaLXJXeFU5OUpNS2EweVBvUEdlaXJDc0xIUVVQN3BTYVlhcmpJRUNWYWRYZGxBSHRPR3A5R050THRIYjFsOE1ZZmVhVmllRjdPRHRQZmU2aUxWM3Z5UXRDbTl0OXNmdG5HMGRWV3plVUJlekI2b0NSNl9mUEl6OFM1TjhPeWtmTkFwbVRLbUlMdV9sbnhYX25qd3N3MkhFc2ZJbmpEOEo5aHVPMkpuZm5vbW9XUlU3MEdR0gH_AUFVX3lxTE42WnI2N2l1Yjd5MXhpMno0V1Raa2tTRmVPVThQZXBBMkFEeVRsX09XVUExOFJESXM4bi1FUjlGNTRRMS1HeFZRLU1YT0dQd193eVBmd2NFbkN4SlRxWFFsY2tiNnRpSFdHeWNGNkxfZ0lDVGdIejVmYl8wNVlBcndLemtFdzZkNEQ1OUhUWmZSMEpEQmFlQ3hFZWFQQVM4eUFiYWlDUl85MlZURTRUbXV4R3k5V3E5Q0ZhcWtYTjg4N3JFUEFFRVFZd040Y2IxajhZcWNJdWNPbzI4bl8tRldyMzEzYi03bkxvU01kdXVhOWlYbFZTcUxBRVNzeDdZSQ?oc=5",
+      "fecha": "2026-10-23T21:46:25.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
     },
@@ -164,6 +252,14 @@
     },
     {
       "titulo": "Fondo Milagro entra en operación para administrar con transparencia los recursos de la reconstrucción",
+      "medio": "Defensores de la Patria",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG1pcU1XLVk1SGk1MzZRbkVFX2dtMEU3LXNXR3RqdXhBX3pkaXhPRm0tdm9KajRPNXBsNE9YRUpMODRXR0NPazV5dFN2dHZwY3VXbGZ1eFd4bGdLT0VoMTQ2YUQ5bmFORzZTck44RTM1a3F6RDRvN081RU9oNmlDMkt6bEZ0MVN4cWNyVnNFUU9taUJVa25HbnVZSU82a3ZmRWg5cXZ3czVXS1IxcVpUaV9zWVBUUnR1S3dYM2s4ZjBnQ1EtNzlKdWJaT0U5OG8z?oc=5",
+      "fecha": "2026-10-23T13:38:50.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Fondo Milagro opera para administrar la reconstrucción",
       "medio": "Defensores de la Patria",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG1pcU1XLVk1SGk1MzZRbkVFX2dtMEU3LXNXR3RqdXhBX3pkaXhPRm0tdm9KajRPNXBsNE9YRUpMODRXR0NPazV5dFN2dHZwY3VXbGZ1eFd4bGdLT0VoMTQ2YUQ5bmFORzZTck44RTM1a3F6RDRvN081RU9oNmlDMkt6bEZ0MVN4cWNyVnNFUU9taUJVa25HbnVZSU82a3ZmRWg5cXZ3czVXS1IxcVpUaV9zWVBUUnR1S3dYM2s4ZjBnQ1EtNzlKdWJaT0U5OG8z?oc=5",
       "fecha": "2026-10-23T13:38:50.000Z",
@@ -1456,6 +1552,14 @@
       "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
+      "titulo": "“Cada peso debe tener un destino verificable”: Abelardo De La Espriella anuncia que el Fondo Milagro cuenta con un billón de pesos",
+      "medio": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdjlybG1hVzRZTkZzQWpMTVZQa2tRV1pHVDZDcVZqTGJra0ZVeG9VQk5DQVg3RkpFQ3B1ODg2QzY0cXpiUHlTek45amdicXdwSllyMHVFWHRGSVhpaExSTWhnRDkzbU1SZDFCOVh2UnV6N25IU1laeDdWYlBPdnc5bThrMHhiMlZ0akt5MnFsSk4zaXAxQzdSUTZSb3ZxLXVsRDJmWVc1bXNEeEI0U3hIQXpIdXZoSllYSXJDRDRnWHN1UWtqdmNkNWhjZ1lxZDV6QzhPbHBBdVZucWY5VXhibmVxUlI5R0JpVzIxamdzaWlJMXBGYUI1dmtibFU5NmQ5clBseXJrSdIBjAJBVV95cUxQa3BBS0lxYmphdVNnQzRYVGg4cWNPc01pTFQzOVdzcEFLekVOZ3NfaW55eWVSYU1JUmEtcHg0VTY5MUdCZzM3NFpkdEI3eU15R19qWlRpQzRLTEgzcWw2UjRmYzZZOUoyeDZQZXlqaUhhXzFHc0I2N3ctSElHLTFuT3U2Z3VWNmVDQWtPUjJnRVAwd3hXV2Q2YVNYQW5ZeTBoTTRVXzUtQnVhT09xTi1tU21rdlB1czQyNTViZUJzRkVDVy0xbkhRV1FqSm9TSWRKZjFXWU1hRmczbFRSVUh1b0hyZ0hIVU11bWQ3YnJZYnNWOUVwTUFHY1VBNmhFNEJ3ZDZKTlZwWEJHclAz?oc=5",
+      "fecha": "2026-10-13T07:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Terremoto Colombia: ayuda humanitaria y reconstrucción",
       "medio": "Misiones Salesianas",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0Y5cE9maWk5Snh0MUszMXduTE1takNpZkpYaVZiV2VxdWpmTmhvNzdZcXNubGp2dHF1RXlmenlYQkFFRTZRd05CTzlfYlRiNGY5anE1Rl8zdjEzcDdWZVVXb1QwMk5hQmhyeUxNT2s0S1hMaWNTQVhHa1VzOGswclVHR0lQNEc2VHlaWFpZS0o2b0hpbTR2N3diNldvNTB3TGxNd01VSFE?oc=5",
@@ -1494,110 +1598,6 @@
       "fecha": "2026-10-12T07:00:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Se necesitan más garantías de transparencia en la reconstrucción",
-      "medio": "Transparencia por Colombia",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVkyWVM1RnVuYURhZXE1eU1ud2NGcGNkQ3dwZ200Z29zaDRqTnpvOFc2ZV8tcHNRekNKOW9WUmNwN1l1dlMzUm8zUnJoWllGbHhOSFZBcFUtTWxSdUgtSVduMXc3M3E0REMxZ3Q2TVZxaF9lbml6RDF0ZUZnTVhtVVFlUDVkWEtVb2JPaFUxalZ1LWZnQmJnNU03X0Q4NTI5WS16Rw?oc=5",
-      "fecha": "2026-10-12T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Gobierno anuncia primer billón de pesos del Fondo Milagro para reconstruir regiones afectadas por el terremoto",
-      "medio": "Diario del Norte",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYm1SVWpucDJicjRQNXU0OEJjT0ltMmNuNlQzWU9CdnZJTnp1OHZhN0F0QWJReGtmZHVHbjg4cFFaZG43MTJvcHhJM25MaFoxUWw1R3RnQmExUXdUYjNBWl9NNG9vZWV0aGpOUy1QUzdOVTZSWEZSNUdpZDlSdm85N1ExRXFNalNHZFRDQnhDWnd6dFRxTE10VHlSZ29ibDhjSzIyUm1TVlhxZ0tiZWcwaWVzNFBUUllwbXR4LXRieWt1NkxQRlc2bEh3elhfeUNJU09YdmJwb1hpZG9oN1E?oc=5",
-      "fecha": "2026-10-12T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Cinco visitas, la misma retórica: El Chocó sigue en ruinas tras el terremoto del pasado 10 de agosto",
-      "medio": "Chocó 7 días",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczFHeDdBb3NPclpCQThVeDFIQ0hGVUpOWlgzMlV1S0c4YjBWeEtTSjNFRFRRZnFTZVMwTk0wSjRFV2kxT2JSc3R6Y2NhX0RHbzZVLURTMkp5SDNnVXdpMWk0YVlWWnh6bXBZUFpYaHdOZkJqbzBCY0RDZjFmbnB3VloyLVJ6MVMtNHF6QzQzUmJPcTd6a2xLQ3N2MDFCOFpIb2pBQnVRdGJXRDZfSzFJcnVNakJtX0plYWVxOGV6NA?oc=5",
-      "fecha": "2026-10-12T07:00:00.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Gobierno anuncia fondo de $1 billón para reconstruir zonas afectadas por el terremoto",
-      "medio": "Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTV84eFVXcVBBRENDa3AzZ1JLbzJMbkdIN2JxdTdQeU9zMlpqQ0w2NUU0N05HRl9hVkJxRGdsR2gzSnBFVWFidDV0S1dXWUtuZEVEZ1ZLcm9JeUxzZ0JGdzl0OEtnd0lDb0tGa2xIV1hUOEthWnd2RndKWGp3NE9ubllWaWhjUEQxRTFYb1RmXzdROThORHUtRDBsY0dMLWkzNllfaHVMUDhxempVTDhybFdQdTlJQ2pmRU9LbHc4c3NzVWt3dFRzbTBMTzlVVWJB0gHWAUFVX3lxTE83UkNKZUtoWTdVTWtfT0pNeUVkM3ZBZWZFVnVJSmpaR3R6OGpwTGFfa3RGR2s0NFNzSi1WYTBtMFRrVHVDUVU3SU54X1RnYzBIRkhvNjdmYU9IQm9GZkVweVFiVXZsd3lBVUM4YWVkd3J0QWhXZU1tZV81X3VJVDNmR0VEcjFvLXlxcjhXNHpoRzNqSC02VGxaZ3A5blVWOENoTVVaektXS1k0ZEl2U3hxZko1X2JNUndlU2FCd0xPQ2hpOXdYM0ZKV0ttSTMwNFg3ZnFPUUE?oc=5",
-      "fecha": "2026-10-12T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Venta de vivienda nueva cayó en Colombia: terremoto agravó la crisis del sector constructor en 2026",
-      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdU1wa3ZCSEJCeTYtckI5R1BHaGNBZUhFYmsxRUtSWkkxTDJEN3ZvLWFpbzhsZ2N6ZW5pVE1lMWwteGpfbzY3dXROZktpN3JVQ1NtRnhlZHowNWNJTXNUT3dzdWQwYjlUSHV1WXk2b1czMUFna0g3VEJlVk5obXJjZzd5dEZpLTU4LUxDM0ZvZGdEb0x5eURRaVNJc2xnMWxmbUhSTW1Oc0o4azhlUUxKZmlzekZsMFJVYlNnS25BN2kyc3RxYlhnSGNvZ3ZPaENJUXF4U0R1b0NBTUVTemc?oc=5",
-      "fecha": "2026-10-12T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Fundación Colombia Luz y Sonrisas, de la primera dama, estaría inhabilitada para recibir las donaciones para los damnificados del terremoto: la Dian se pronunció",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNUmdiVDVfNjUzNkdZcEc4TkRnblc2ZTJTNFBxOThZSDIwdTZBeU5QNlVmX2hHVkZDNEV1eEFWejlTTUZNWW1PNmJ0c25nOWNfQlBLaGdJYV9laHVwSGZ3cVRvbG5fSDI2OTkyY0VxbDNtbDNfbVpIbWFSQXNOWmZ1RVpPVWxBS1Jvck9NR3lESW1oZU9wX2FRZkozVlR1R2ZKcDZqLU5QMkk1MWpiWHQyMjlmNHFMZDMxOE9PdjQ1UkpIZE9ZVGZwZVhaRmxvUUJnVmltLTZyak9CVnZBQ1pEd2dqRGZEVlNKc3pzMFlaUmxMcVhXUHBWWU9YSnNhWHI1REt3WnF2Uk5VYm1jcUtoeUNRZ2RxcEJIWGFKZnVHVjBOdXI5a1HSAcACQVVfeXFMUF9yaHhvcC1QbVFMM0hMblU4UUQ1Z0ZyRU05VmZEODNhUkZQNTJiRndtNDlXVlF1UlVNQ1MzQU1wTlFpM2c2VWVNdmEwbEJTQVRWaWkxeFdncmw0bGptLWFPRlhUSmF1UDRjb0VBRUZhTHIwTmNMR1JrS1pUWmhOeE03Wi1vazNJb0pFQU9adkdDYXFSajAtcGg1ekFBMkRXTGVLS2UwVmszakdPWDUzVTNrOG9oU1NhR1JVTms3ZjdVeGN3dmxUcENMRjRkQkFZTnVyU1gwd0VtcVFYeFNnbVFzVXRaXzhDUHZCc3NHVDdHbUEyRzEzTHVKejhVT0lUWFpRMk5ONVVfSWE1T00xV0UzYzlEMkdsTDBZMkdhRVJ4ZEhOSi0zWHEzRUtwNkdBUjhaWlljcEpncFJ4aTItcFY?oc=5",
-      "fecha": "2026-10-12T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Así está Pereira dos meses después del terremoto: ¿en qué va la reconstrucción?",
-      "medio": "La Linterna Azul",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVi1DajFTdkFZZmlUaGw5eDgxWXczYmFVUUlLSUNKWHNpbGxUQXltTm95TGNGamM5UjlDcEFFa3ZsZjVtVUFzbTRkaDM3Vkp4SDk2eWhCNXVTcWNYRy1IRXNNQ2dmQkI5R2htUk85Vi00N0JENF9la2gyVlhDbTJJanJ3Y0Z1ZHRmMDdGREpycmlGSlBpQ1ZSUmx4Z1NkZTBLaXMyLWM5cm1VYTRlbXJKenZ4bmoyQTFEQ0VhNTZCOFM1VFlO?oc=5",
-      "fecha": "2026-10-12T05:11:44.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "¿Se puede reconstruir Brubatá (Tadó) en el mismo lugar donde ocurrió el terremoto?",
-      "medio": "Chocó 7 días",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYlVOS01VV0d3UVZkbFUxUkI0emtWbUhYMXhQVmpjMHJ5aEhndWxsYlU0TDJfdWJONnljSE55Z0pTYjVDbUFCYVlqTGZwSU80Q3NNZFZjR3lzUkcxR1VxMllfTk5adk9KdVlWdHpzcXpPdWJUb0RmU2NxZnpfd24tV3p2OXN1aURfcEx0X1UzUVRoWGtlaGJPVnphTlJMR1NZRWVJZg?oc=5",
-      "fecha": "2026-10-12T02:14:26.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Entre las ruinas del terremoto: Ejército Nacional abre camino para reconstrucción en el Chocó",
-      "medio": "Diario La Libertad",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM21qWnF2SGU0QTRYRXVnd2NWX1RDTlRRRGhtLVJLYU1aenhGNF9tUE9Nc3d6Z1M5SkRnOEZUZ1R2ZGxtT0Z4LWxvY1hyaGdSSURONUgyUC1uMmgxNnlrQTVRV0JQV3ZtbUMxWmNmYmlTaDNsY0R6X3RUeWJ0TWpuOHMzQVJNTnBseXpNWWl0LUpJYXloVUpLdU1TMFg4ei1oR3JSaUtfRzVYSFRwNU92M01vZ1ZYXzNzdFpzbnVvVW9iZTY3WWJpNFFsd0tGUQ?oc=5",
-      "fecha": "2026-10-11T18:22:36.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Gobierno Nacional abre el Banco de Proyectos de obras por impuestos para la reconstrucción de zonas afectadas por terremoto del 10 de agosto",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbFdtcTNwODFlUjVTcWRSOGFmMXI3T19GdTFCS18yLUhURDJHZklyWEVHN1Vqa1NCQXhJZnRmdUI2YXgwckctcm8xTnpRbWVFaDRtN0lfbS1WTjRDMHJhNjR1YUhldmpacmFRTHFVVG9Rc2oybFBxN0pVTHdxaGhrUUNzNTBlRm1rVXdQclhDQ1h3WmNvVnlwendHenczZ2h6aGw2VDdpMU1wOWgwTE9aMGk1RmRsZXJXRWJHbThhN1ROb3ZkOUdFZ2Y1bDl2WnQxNGdocVkxd2tNcjZtekVDNnFPSmgzN0xCWVdlUE1iTVRfaFNMbmlWSy0zNmVmQzFvbTkydVRrQjhJbUlFNzl0cXpGUnUxS2g5cWFR0gGgAkFVX3lxTFBKN0pRUEt2d3lFbmtmNFdnSHJ2bnFSc01TRm0wU25ETTViVVVicFNhejB4amMxWXdKVElTSFdGZ1JjUXFuWVlaaXg1UV80azVySXFralFUTlZWVFpaX052eUk0N2NHSFJ4dGJybkl5anlPaGdoVW5GeEFxRTdOUFJ0QlFOaUZYMFE0SWpOWFZXb1J4aTNRX3pjUS1IWks2VWJxVnRWbmloSkx1T2tFMHVtbE1LeTFmVGlVb1F5bkotM05WLUItR2JuMUt3S0g3aFRuNkVPWUpIMEZBbTNfR2NwWXgwZ2JCUU16YmlOYU1DUHVfTUpRN2tkcjlfcFNKMXo1OGtHcDRsUTVKWUw1WFgyNmF2MWJvSXZaR2pPM3JKWA?oc=5",
-      "fecha": "2026-10-11T15:39:05.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Los 4 pesados empresarios a quienes De la Espriella puso al frente del Fondo Milagro y su billón de pesos",
-      "medio": "Las2orillas.co",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVmNLaVhvTmxxSmVKUHFqNDZiV2RwcktZX1ZHWkFUakd6U1ZLaWtlc2xkdEdRc0dmWXRCVHRzdnpYbk5tbzR2STJ0R1ZscXl2eDdqa3pzS0RfMUV5QTJ5LXl1MDBNc3h2b3VuRnpReG5RN0pSbjBNTUFzUWtDRDRJSkg3TFVpbE55MWMwdlhDaXRCTV9LZklXU2Y2SUd6Rld6YXVib0c3bTJTWExqUUw2N0xwYURNZzJIMkhfeEJaZm1TbFhvRnRSSG1YOVBmQQ?oc=5",
-      "fecha": "2026-10-11T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "La Defensoría del Pueblo pidió al Gobierno reabrir el registro de damnificados por el terremoto del 10 de agosto y ampliar la ayuda a las comunidades afectadas. Dos meses después de la emergencia, que dejó 335 muertos y afectó a 500 municipios de 16 d",
-      "medio": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRXJycU1HRUlJVmg4ZjVuaTlnaWFmZTBxUTBsNEw0RE4ydWtoZ1dVNFdvRDdWZlhQdkIwdW00dWpfRWZJZHhsc1VWMGxVUFV0SGN4dWN2OXNCeEE5My1mRXdzcUlrcDFtVERHZ2dxS1pIQ0ZJWXVwWXphVk9fWFNfWXJScDJIS1IwODRhREhGYXlBaGRxMW9GYlI3TklIQkZ4cms3X080RjFEX0tQbVVxYnlIU0FsS3k1TzdlNXB1Q2FaTVNpZ2pVMDBvUEpBaTZSU0ZWZkt0TnpHZVJUejF4dmdqY3ZQdkdETkdkTkdKMA?oc=5",
-      "fecha": "2026-10-11T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "damnificados terremoto UNGRD"
-    },
-    {
-      "titulo": "Balance oficial registra 335 fallecidos en Colombia tras terremoto",
-      "medio": "Diario Primicia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXNzX005TnNka19SRDA3Nmt3b2JkcThabE8yenpCM1RNUTNGUUFKWi1weURiTHQ3cWFuS19GaDhZZHktWkpaSS11Nnd4b0JTMWZxMVA1ZTlrdWVSQmNDUWdnSDExbDNMNjc4eUV4QS1VdUN5anZiR2xkbWEwazA2djJmeHBQZnp0dl9jTlMwQnJQbzBMeHJOcWNvTWZJUQ?oc=5",
-      "fecha": "2026-10-11T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "damnificados terremoto UNGRD"
     }
   ]
 }
