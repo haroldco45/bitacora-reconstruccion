@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-24T11:48:37-05:00",
+  "actualizado": "2026-10-24T14:16:11-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Cerrejón y Minuto de Dios impulsan proyecto de reconstrucción de viviendas para familias afectadas por el terremoto en Quibdó",
+      "medio": "Diario La Libertad",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbFNYNjA1Q3JkaWU5LUE1V3RtcFNodkpJd3QtWVQ1dTl2VUp1WHhZQVdzUngwYWw1bnhUSHI3QkFuLWNsYkdtS3ExTDBrYXVSQUtoTGY0alB1eWMwNVdnTGcyejNzeXNyeVNQMG1qSWxKZ3FpSFlkZmVDTC1ZU0NzX0RtUW9ycUJLUUNSY2d5Y0x6XzVoTzBPRmlqbXlXLWxxd01YNHpLcWc3cTNKeHpnYS16OWhMR2t3Ym14S1VzNnBYeEZkeWkxVmFtT0pWMThHNHB3MEwzbUtOMEpWT3Y0Ym53NjdoZUZiV0h4SHgwbW9Fd3gwT1ZEZm9B?oc=5",
+      "fecha": "2026-10-24T17:57:59.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Reconstrucción tras el terremoto en Colombia requerirá $54 billones: casi $20 billones serán para vivienda",
+      "medio": "RTVC Noticias",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmtWcVo3NWZtdzJTVE10b21CbXVqbk5Mb1hmZlJhLUVjS3ZfNk5GTl85blE1eGRlNlVSdFdtTXd1ZlBrY1ItYW9XVkFQRzE4T2V3dTJyX0tjWEY3OTJNQ2IzbnBhMWpsOVJMU1dtR0M4dDhhbDJpNEFKQ0thamctZnVsY0FTVG8xU2Q5d2JEUW9BcTZ5ZDRSdWI5czdsdnZWdVJkZlk1bUVTMGdDV2RIZw?oc=5",
+      "fecha": "2026-10-24T17:43:54.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Abelardo De La Espriella habló sobre la reconstrucción de Cali tras el terremoto: ¿qué dijo?",
       "medio": "Minuto60",
@@ -25,6 +41,14 @@
       "fecha": "2026-10-24T13:30:22.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Claudia López arremete contra Abelardo de la Espriella por la reconstrucción de Pereira",
+      "medio": "El Nuevo Dia (Colombia)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMU55WU4ySHRZMS00QnlYYVg1THM3Q3pKbWtrOXM4b0o5eXhJVW5NRm85MVU2cWxIampSdE96MzBWdm5SRXZYTHhJaktHVk9nWWc3MHNxS0hVTjJ2bXlPWU9HeWRCM0EydWxHX0dUZXBQd1dIVUoxSF9xc2FDT0h2eFhSRzUtd3BtbnIxaTBNUVVzanRaUlpzOG1oUi1KLUx2MXNzemlkQ2JFMzE3aE5OY3VkSTctTHVhOVZQZXRIMWV4RUM0?oc=5",
+      "fecha": "2026-10-24T12:01:31.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
     },
     {
       "titulo": "¿Colados en el terremoto?: los pedidos de Santander y Caquetá para reconstruir infraestructura que, al parecer, nunca se destruyó",
@@ -599,6 +623,14 @@
       "fecha": "2026-10-22T22:30:35.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "#Noti90 El presidente Abelardo de la Espriella se refirió a las obras de reconstrucción que se realizarán en Cali a través del ‘Fondo Milagro’, tras las afectaciones ocasionadas por el terremoto. 📌 Conoce más en 90minutos.co",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYVFXRnRNRm9OOGhneDlQa0dLRWNiLXRTdVE3S0NjSDNlaEljRlJiZ19nb0VBeTFQUzBEX25pR1RNNS1GX2VBR19IVEhyYnRKV1lVdHhwNUpmOUhTcXF5UmtDZVVDT3J5eEw5ZnNmSFU4MEJHZFYyQjEtLWFaX2tQaGFxOFZSc0NvTU1COWwyYm9KdTdGMlcxTVhPSVExeGJ0YXBsSDFDZmZVdlAxN0tPWjZHMHBIbkg3WGxpNXdSbEJNbzRBS1FNamZzcWt3RnZad2tfcHI3VHViNzFOazlPUTh4ZTg2Sy1YREE?oc=5",
+      "fecha": "2026-10-22T22:24:13.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Eder: Cali demuele en 11 frentes y espera abrir otros 11 con el Fondo Milagro",
@@ -1566,38 +1598,6 @@
       "fecha": "2026-10-14T07:00:00.000Z",
       "depto": "Chocó",
       "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Alcaldía de Cali presenta balance de la reconstrucción dos meses después del terremoto",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaWdjeGpJMHB5d3dCVVZqNkhBLU0xdGVDa09zUXN3UTJvZmxnWGtYWmM0STh0RWQtVldDZ0hGUk1Pb1FyWjgxZzVmakdubFlfZFZ2eWRoNHVyam1ONGlZeEZHZUVDWjA2YlBXRVNwMlpicXVNSURvY2g0SzVYX0w2TkZ3SDFsOG11dkw5aXVxOVFnZHhzcDJieHlCaF9zQk3SAZ8BQVVfeXFMTmRIVm5DQmxXdkpNcXdFeHZfVzZjMi1uRFhPSEl3UTBvY1ZKUFF3cmt1Zl9xcXNrcjBDWXRMV0JBMVdJeXZmSlN5Y092clNkd1VZd1hybVF0Yk5oSkdPekhRdU44bmx2eUloYlZ6YllwNnQ1UzBhaHYxTlIzTWtNcTItTW5lRUFoaDF0cm1yWkVXcFl3SFlrMEhrd2pKVjlj?oc=5",
-      "fecha": "2026-10-14T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Cali pasó del colapso a la reconstrucción",
-      "medio": "Alcaldía de Santiago de Cali",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGg4OGVwYXhvU3ZUOXktN3JYOEFFbzlXZXdZQVcyMWRkTXhhOGo4YUQxU2h0NXk1WThvV1RqMzBXb2pVZnltMklGRjFaUmNOWjRIa3liRXFSTXpCeGxqbGFjc3FOUW42YkNQQWxWWUQ4cHN2YXIxWWxjTG96ZDVoSDV1eU5iTTZFYUtZejJUSEdJTmVEVlIyY0ZEQlItZw?oc=5",
-      "fecha": "2026-10-14T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Cali avanza entre evaluaciones, ayudas y el reto de la reconstrucción después de dos meses del terremoto",
-      "medio": "El País",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVUZMUFBUNi1INGJhWExUeWNTX2t3MXZ6Y050ZTJveTNIUE5kUnB5V1YwRFVMa0c2QkdUb0otMmFPZ3NFNURzOVc1ZVZvQW9mR29pcVc4dnI0WU9XbFpTZDA1eEtONm1OODRBNk1zN3hWZlFEVDJqbGtPWEVkZDNYcnhRMnVvbXB5ZlZUSXZoUTBLUktVODBBMWFWVkdVMm9NT3hBX09GUXJQSHY3Vlc4d0FXUFEtVGUxRE9xel9BYTlqUkEwV3A0djFrVU03YlVWVVhWVDRzcmItanJ40gHiAUFVX3lxTE5ITXpIQ3R4b0NRYktnRk1jdFgxc2hDaFVpcm02ZUhZMUhDZllERkJUMHphZnF4N0JqNElfV3I1c2dJWTJ2eVNnVXhUUkhHalJqa0RYbzRqU2pPNGd4cHBOai1LWWRDQkwzeUV4ekRlbFNybkZhczIzY3BzY3ZPVkZGSWl4VnVtbVhQUUdvdUpXRUJCRGRZME9KM3N4UFVaLUw0QkszNkRnN2cyN0xIU0JWRkUyZGxPU1FiWGt5a1AwMGhxd1MxRXY3US1tU1Z3NU9BZ0hGdjVLQXNOQUNFNkhxUmc?oc=5",
-      "fecha": "2026-10-14T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Dos meses del terremoto: así avanza Cali",
-      "medio": "CW+ Noticias",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVp2OUdnYWtkdTAyeExaYmV6VmZYbTk5c3ZILXZadTBHQ0xiOXp6Z1djX3l2RlN6eUVTTnhjcm9kM2k0ajNrZmdDaGpJazdxTVM0VXhzbXRyLXNQRVdDb2oxTWtSVUlqd2FxRUZrU3BYdHMydGlkY0k1aDhMV2xTWHRPVGhpWWdzT09BV296aFJnZWlP?oc=5",
-      "fecha": "2026-10-14T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
     }
   ]
 }
