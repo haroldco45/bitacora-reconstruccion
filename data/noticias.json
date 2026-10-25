@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-25T09:29:16-05:00",
+  "actualizado": "2026-10-25T12:47:09-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "ONU Derechos Humanos pide reconstruir y reabrir la Casa de las Memorias de Cali, cerrada tras el terremoto",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc1ZaajhzQ1ZRaGNXTDI5d01KVmo2Y1RxeFdnNTIwaGFzcEFMSTEtV1NIUmFhelR3eDhycDBsODRNa1NvZ20tN0Y3UVZXbG13cnc1TmZwR05zTGRjUFZzdUZnMXo1cHo1cy03SVQyNG40QkxCTF9CcEI3MFZobXFfZFhGa0R3Znp4cDA2eU9YMS02c1JwbElIWDJrV3NaRzhyVkdxSlg0T0pFMjcyZzJreWZTX2JGT2xDSHN1MC1zMTR3NmFNRWE4Ry1UOHdjTm1hZWNMc0hHV04wY3N3cW5OT212YnlHUmPSAewBQVVfeXFMT1MzekhTZHkza1NINXNyUHFVY2tJMzg2aGJJUWVUaVBzLXNiZktvUnNYcTZIeXpLeGRUSDJSS1l1d2lnRXNpUHFhRkJrZkRjbUwtSkRBVW5BMVNsLXVzWUJOcy02TGxDdUQ1NmlrNVRSOGJyMmEtZzZYSmpqbE1KU1BKQURCLVN2WVhKVC1PMnhMb3MwVXo2SEVibEk5a1ZRM3NYek95Y29XS0YxaVZSdEJOdVVNREh3NDVJclA0TzJRcUpWQmk1aVRxZFU5ZlNyU29GSWFEMkozeHdBWUh0WVVDWDRPVllwa3hlamc?oc=5",
+      "fecha": "2026-10-25T17:16:34.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
     {
       "titulo": "Reconstrucción de Cali y proyectos estratégicos del Valle: los temas en la mesa en el Encuentro de Infraestructura",
       "medio": "TuBarco",
@@ -347,6 +355,14 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Subsidios de vivienda para damnificados del terremoto",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUm04cl93Q096MGhTX2dJZ2tBSUNJRTdnOFRSS0g5T1R1V3VrZW5PUnFkY0dESGxNYkplYU5HZXZwWDMwVmQwbzk4NkxSTnBfWmMwV2lfYVNCYjhqVDhpbUJFYkhzdGRmbmtnU1hDYk1lbVVSM19xTzk5THpCaW44WVByWmItaVdHbGQzeUsyODVJcklKTTdJVkwxMGFwUdIBqAFBVV95cUxPMjg0bkNpU2E4OFphNTZYZkM5MmJPNmRpUzE0dGVWMkFWWlFKYnRSejNhb2NHdUN2Vjk2bG1YOEtYQk40bjVKYVFSWWVEdHRfWnQ5cVg5MmNoOFQ3SmNyZVZhZUh5NF9tams5dFFvQ3J1UHRpNVQ3cElkc0RGcEREa0JHaVRtQkxHNE8wOE9Udi1tYkFGaWxNNmhqamFSVE5lek9hNFNhWFA?oc=5",
+      "fecha": "2026-10-23T18:48:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
       "titulo": "La reconstrucción puede generar empleo y fortalecer las economías regionales, según Camacol",
       "medio": "Radio Nacional de Colombia",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0dqcEdSekhrMk5zbWl3RjIzQXB5bzA4TFg5QTU2ZFJXNTk1NXVVeXFyRWZZbGRuQTNNSU8wbHNDRXdGd0kwZWU1VVI3RzdoLWVlRzd3NEl2eWtWVEtaaXJsMnBrVEVJck5EcXExMjNQc3pHbVN1SW9YV21GeTU5X1pTb3NGc3M?oc=5",
@@ -536,6 +552,14 @@
       "url": "https://www.elheraldo.co/colombia/2026/10/23/de-la-espriella-presento-balance-del-fondo-milagro-y-detallo-inversiones-para-la-reconstruccion-tras-el-terremoto/",
       "fecha": "2026-10-23T07:35:00.000Z",
       "depto": "Nacional"
+    },
+    {
+      "titulo": "'Fondo Milagro' inicia labores, anuncio el presidente De la Espriella",
+      "medio": "El Meridiano",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VPbzVQM1hlTFlZV0VlRk1NSkNvd2JIeE80LUtzUmpneFB3bFJESzFfMWpuQm1FNF9GSVVkaVczU0tIbnFKakM0NVFON211eHN3QXA4QlI0Tzlra3otbWxZZnVHMTRnRTZfUkY5Sm42T2gwVXB4M0RQV01xRE5OVmd3ZlBKakJSbW5RSGdKdm85MVhfS3lpWldyc0pobFJmVldHVlk4WDIzN1hPckE?oc=5",
+      "fecha": "2026-10-23T06:37:07.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Presidente anuncia $624.000 millones del Fondo Milagro para la reconstrucción tras el terremoto en Pereira",
@@ -1574,30 +1598,6 @@
       "fecha": "2026-10-15T07:00:00.000Z",
       "depto": "Chocó",
       "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Reconstruir Pereira después del terremoto: expertas advierten sobre el agua y el crecimiento urbano",
-      "medio": "La Patria",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXFyMGpwOE5OYkNOVWJaZXNabF9HTUJZcTVGem9vaWY5bkJKLTRtSE5VTXVGTm5mckVyN25TSzF2X3FSUVBCS1ZJa2pvOVY1d0RFZ1hndUdHVGlVbzJzTmNrM3JwT2I4TEstTzBpZkhuTS05WGVncE9HOWg5aFRBT1BIMjZqV1E4YTF2VjRQam1mSFIyUmtNUjM3R3Rkdnl6TmxmcnlUMTFKcE9IT3hpQU9GUFRLSXJr?oc=5",
-      "fecha": "2026-10-15T07:00:00.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Dos meses tras el terremoto en Cali: 'El número de edificios por demoler podría llegar hasta los 150', dijo el alcalde Alejandro Eder",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNDhaMktzWWFQUENDVjdDX0pfbVVURnFUaWN1bEJES2RYTWN1S1BoUWF3Y3hwZG14TGNZM1RzTXU3bFczdlB4TXNPUF8xTWVoVG5jV0lPLWItS1NkTW5sZ1Z4RmY0ek9SMk84d1V0bWJTUkJkUWJlazhsUExQQkdxazVKQTdkUzRWb3U5SzdIYllUNG9MbUlvQW0wZURFUnkxTWZubkVsUXBUYktLTFloVjdZVkd5NXhvaC1xNGNmektVN2lXcDJfYi1ZWG1La2dtbVhCZEhJR0xNYWh2c2drcFk5c2ZERDQxWm45WnVheDFkYUZERDJhaVJLajR3MTcwTkxZMElaSdIBjAJBVV95cUxPNzMxZUVLLVpEeWx0OHZqR3JMOC11UjBTVlZlMkp3ZEJGYVJ0emNoazItdkpNLTRMSnhhZTdTUWNnS2Z2M0ZEVVZJV2VlVDFTT1pUNm1UUnJqSVFOVmN6RWpFbkplbExsUnprbGo5clZSYXYxeEtSQzVQMktzcEIwZVBlOTlnYlNHclRmalNTS3VTRHNHNmJBUnM4bFhNbUxEMGtHNUJyMm5kWF9nWC0ycUxjYnl0VnR5bnc3LVpiSVN2bnNad2dBTjRfdnZHSllDUWFSUEJtbUVBOU9iYmRGQWlya3RvUFk5NDZrVU1zUmxpNC03eWxEVS1NX3JFdWk0YlhZU1ZYai1JZU9C?oc=5",
-      "fecha": "2026-10-15T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Gobierno amplía subsidios de agua, alcantarillado y aseo para damnificados por el terremoto",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVlBxak9hVnZfaTlJRDIxZFJQNlBJN0VkdUlMY3d5QjVqR0VRdUtPTFBDakk5V2d0d01mM1ZGekpRcVVkZkI1WmFFZDdXRG1vem43VWNudFJFZ2VVSm1SQVlDaUdJdlM1aG5jN2UtYjQ0THBkRHZKQTd3RUZmVS1YVHhlSlpBd3dncGZXcE1WUkU4eWt2UXJRaXl4RnhDVVdLQ0ltQ3NfcklzZllDM3h4dTJpQXBEUE0tOUJBZW10eXNzNDM0YTQtZHgzR1NoTl9W0gHrAUFVX3lxTE5aUUtDazViZmJScEJNXzA2Yms2Q0tFRVFTdlBjdkZVRURCU1poa1BOQ0RHUTRHenlPZnVOSFpCZXI5dVhScmROYVpLa2RMRzdjMktWRkFRdWl2Q29TWmlaZFhRSjNnZ1k4ZHF2c1h0Qmp6bmVGSUVGQ3FqQklOY0ZLaHFXZXROMG1jVkRlNzBfLVRteWNLMms4OGY2Nk1qM280SHk0T2VGdkxhbXNxdzZsdy1kV0JZbUg2ZDZGbWY5bEpQdEFXVV9ieDVDNFExb0lWLUgzX1ZqN3JVeWdaR2R4dWRvVGU1REpwV1U?oc=5",
-      "fecha": "2026-10-15T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
     }
   ]
 }
