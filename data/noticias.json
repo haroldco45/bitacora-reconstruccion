@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-25T20:00:14-05:00",
+  "actualizado": "2026-10-26T01:44:01-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Presidente Abelardo De La Espriella hizo aclaración sobre el Fondo Milagro y los aportes de los empresarios",
+      "medio": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTURsQzJwMEl6M3NQT2U4X3p6Z2FjQWh6WE1GMDZzU09JUHR4UjIxbWViOHdNclRUekNxaXZ2NWZVR0dmSkN6Q3BQN29NWEJRV0lQQ281d3RZMU51MWxsTGpzcXlXTlE2RUZ5TGdOTHVZOVVFT2Zvdm9lMllMMkQ5ajhQSkNnNlNrUk9td3ZLYlg2SzdSb1kxT0xRZncyYW5idGhvNjYxTGlINWRzMGxIVUctQm56T2RubHg2VFpnZGlNOGpkY3hhZHViSDR1ZkVHN3dubWpFS3hQVFREa0NtNTU4WTlkWVZvRUJHTtIB8gFBVV95cUxPVWdSR3hlY0gzRkdfbFVGWTMxMnVJdmczcGVueXFNTnlJeE96OGdjcDRLRmp3REZxTUxCby1lWW9HUFFxZUNWM1NFbUJNLUNqYllxUWlZSnVHWXBuaXNES21NaXlPUFlxQkdfWDY5cjBJRmo3NU9VZ0JuT0hTTVFDVVpZU0psbk1CaE5NbnNxSHF2ZU1mSlc1eWYtQjc1VFBrdjYzVVhhNjVTbmh4eDRXUnNaLUM5dmJ3ZGtDMWJkR0hNU3V1ZG1GVGtIVG16RzdyenIzZGY3Z1ZmeUhQMkVUUy1mYWxwTlpiTU9qajZXbGRndw?oc=5",
+      "fecha": "2026-10-26T02:49:51.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "De la Espriella anuncia Ley de Rescate Económico y explica el manejo del Fondo Milagro",
+      "medio": "Diario La Libertad",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmtfVzMtNnZKQnpubTlMODB4TnFBUGNyaWJCZzZabzl5V3hWQ1doelpTMGNMV09mMVgxMDNBMGItSW40cFdvWklZT01pclVpWlkzX0U2bG54UEF1aldhdWhmYlViNTVjZDl0di1uckFyRnpqVndDbDNCNUd0TFpERS1ZWUVhQU0zYjdibTgzT1V3SDJrekJYVEZ6VVN0cEQ2cXJWVDQtSEFaZU1fMWpQQlplY2t3WWVqLUR5UzdveENfMWZCalE?oc=5",
+      "fecha": "2026-10-26T02:38:06.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Presidente De la Espriella anuncia ley de rescate económico y responde por recursos de Fondo Milagro",
+      "medio": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalpRcTNkb3YwQVdOTkdxcGc0bjdaSGZZZnQxbnZ3SFdvMmVhQU9kdEdjQnhxaURTUUVwMEw5OTI2UmN1aVdnV3VMdWpjWE95amI5ZDVRdDAwSktyOVpkLVNVZXlSWDNIMktRampCazd4RTBtand4Y1h4R3hLbldaanJsdDhEZGxEdVZJNUhvdUcwNTE5SExCaDBmYWZUXzBnZWsxQmFsX0w0QUNIbzF2OF9RV3hGTkFhdWJTZ2w4end2cllsd1RiUERUY19lQ09Y0gHkAUFVX3lxTE11bmJ2ejZkazdpOVQ2LVFiRmJIU1NhM1lpamtkbExJaERocjAtblU0NU81T1J1ei1xTHQtZnNsaXhOam1naExYZjZ5RVA4MDhkbDZ4VkxvWHJSNWo5YUc2djdWSHhKSGlnTFBCYlpNdzF6aUp3UEF5cnpmLUFFNGV6UWk4dHQ5RXpZNUtzUjJiX1RhNW9WQnFLQmlTNU1va1d4b0QtUzFyVVRoOTZOdjNhdGxua3dFUDE5V2xyU2xZWms3YWZKMmxzNGJBTVBJQ0dtcVlWS3BiT1lNQlptTXJ1NzdUWA?oc=5",
+      "fecha": "2026-10-26T02:13:22.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
     {
       "titulo": "Reconstrucción tras el terremoto en Colombia costará $54,3 billones",
       "medio": "elnorte.com.co",
@@ -1520,6 +1544,14 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Reconstrucción por el terremoto: 82 % de 768 contratos se adjudicaron por contratación directa, la mayoría desde el orden territorial",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTl9wSlZ1TFAyMGQtRlJ4TzNsb2dWZHdBWmdrTThJcFVLa1kzbGFDWTRsMXZmeDVMVlZzUnRkZzZQOUcwV0lfcjZtelJFOHpmUnVzTW9Gd1RDelN3cXFlOGtfRE5wdFd6NXdsa2ZENzJJUVBibm9oSEdpNE5pV3BQVWpCX0U3bExfWmlRN3dreXNuWWRzSnh1WnZ2SEtEQVVHeXljY2Mzb0RQSW9Kal9HZU04Yllqa0d6TVhjekt5b3BPWGoxVFhEdTJYbHRMc2pUeVdiaVhHa0YyVTZLd24tUERiY3BqLXAxZ1NaYVpETzd5dHRRbUZiSnpvQmVieHpuMTBvUWdWeUNtVlZ6TUxPMW9uVGtwZV85YUHSAZ8CQVVfeXFMTWZsZmp1aU1oemhPbXRvWjZPa1YzSGg0aE00amExMFZEcTFXcENXQlF6dFBpYmxvZXU2VWRSSkFuV05wUl94d3c4bFlmUk5EWmxQS3c3N2hDZ3EtbHlxb0M1OG0yWGNRc2NWT1VtdW1zd2Etb0tUa1JjVlg5VEZlQXZLOUxDNWt3dEVmVFRSaUN1VTVfY2JCOGExRWRvQnFjRnQxUkdreUljS0QzZjB0bXl2alRUUzNiNHNURmFXMzhGZ25KZ1lndUlZd3B2WkkxdlJjRHg0b2NJTTl0cWFPNU0wMHBLX3Y0S0RZYWlNSDE0V08tRTVIRTJzNU1rOGtubEF3TnlWRVJDS3A0eUo4ci1TS3V0SGRTNzVJZDhfTlE?oc=5",
+      "fecha": "2026-10-16T07:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
       "titulo": "Shakira y la Fundación Pies Descalzos concretaron una importante alianza para la reconstrucción de dos centros educativos afectados en Chocó",
       "medio": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOX1NjY3VxbGRfcU81d3NPOFZDc0xXR3ZvVVBhWXI0VEtPQWtQQnpsMEhZTjVORWNJR1pLRUx0M0dleUVNem5ZOTQwbC1SX3BfNXJ1elJSbldoV3BIVUlKVzdzc1ZXZTlSNTlDZzFYS0FWakZBUDBZdXEwNzJ5Vzh5akl3bWlwZkNJTFpockJFaWZ6clRJeFlDby1LbVhXcVFueDQ3d29ZbFItcFBfbXJLRlR0aG9LVW5JeW03VEI5LWpMQk8wU1JvTlVCNjdCOWNlMHY2WDhpSm5URkxwLXlVRzFoOTB3S1p3TU5ZTFAyd3V5YzFLOGdmeDJFN0NDUmZPbmlmLVhFRG9tdGE1MTNHRmR4WdIBrgJBVV95cUxQNGtlSFBLekFqaElQa3d3RDNKc2JzMFdvcloyenpxRkdzRDdWREk0cktiZ0xQUFRsX0llaGhkblBKbHlCajJxRjQzR3MyU3lGazUzR3k2S2FQVWM4anJsZGNiTmdPRTB5VWxSUzhINVhnaGdTaTNubEdzRERGMVlZQlBBSlpMemFXRWhUcXd1MW8yV0oyVmg0SVJGSE5YT2ZsaWt1RFBkaUtkaXZ0TWQ0TmVZclRtb3RrMWtPY0hxTDl5bXBzLUVaNXBubUpYVHpHUjRhdjJ5WDNQM04yNUhpaEdOSXhmMEJ3b0V3dUZPcHZQb1pQWDh6RUYzaEJEWGRRTXdHcTlHenlRYlF0cE8tY195dENFZV9IRlVmWDV5V0lfMjZfel9XZnNVWmZqQQ?oc=5",
@@ -1566,38 +1598,6 @@
       "fecha": "2026-10-15T17:31:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Fondo Milagro: todavía no arranca y hoy se reúne su Consejo Directivo",
-      "medio": "La Silla Vacía",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUxwWFFXLVhzMUlPU0pMeUJhY3R1UUNVeWw2RERqcUZZdUQ3VWhzVS1ZcWRHOUlmdU5tdlFKRm11R0k4NHZxcnp1OGtocHJYSEJ0dlYySERHd0JQY1hPM2JQRXBfX0s2bUd6ZFlBQl9ZMTNta3pCWGRXUWx5MWZfT2pFME1zY3FQeEZka2FqdFBfeDZiS0J3ZVFGeGE?oc=5",
-      "fecha": "2026-10-15T16:18:05.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "“Hacienda girará directamente los recursos para atender la emergencia tras el terremoto”: gerente del Fondo Milagro",
-      "medio": "Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUWRkQ2pldjN1RS1TelRSczVxX0lQa1pjVm1YakgzU2s1MTl6X3hXaHNHakJpaVU0Z2gtcm1PRC1pN280NUJSZ3p5ek9PNEdVR0Q1S3NpM2J1TVpmcmVJT3JuRTlCUXViQTBadEhDcjA3SE9EMGlFOWttenpneUFBRVRMTGZTcVJJeEVOaVNjOVdzWm9aYUZDUGVWaGhia1BMYktkQ1h4bEVwRUpzc3hEVHpBRndwcDhkSXFablVyd1JfVjdNTldXVUg3T0h0a2dfV3pNazNIOGlEd2Q5ZXVWRDBHY3UxME9XcXdxZU5ycDZuWXJEbFNrVXY2b9IBgAJBVV95cUxNZEE3OU1XLVdmQ2hwZTRNWnlPeUJ0Y0J0RGF5Uy1rQURxdS12QXBpREtvV1pBVkY3U1hpd3RiMUJoV1JRb1A5ZV9FY1RBOU1ZMDFvcF80R0VQYl9nNzZiMndPaUZNcDd1U1FyV3BxSGJuelQtZDgycVBESmdIWHdWNVhCeE5qRlFIX1BqT01zc0tOdFEtMHJCN25UM1lfTEhxZEVNOGt1M0FBYjFEZkNpOFQxVEl6aHBQVUYwVHlpcFZiOWN6VzVueHlFMDYwMGlwS1E0ZEZ5ZzA2eE1JQ2I3N0pJTUNmZ2V1a0FGNEl5VWJfSmkzY1ZDTTRwZWgwcTFM?oc=5",
-      "fecha": "2026-10-15T15:24:47.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Fondo Milagro abrirá con $624.000 millones e iniciará con demoliciones de viviendas",
-      "medio": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNk53OElGQTJhbXVXc041cTdlYzlOVDBIQlFmRXlaZHJYVVNtZC15MThwMll2ZlB4SHo1Znlpb0pZTjVidnN4YlhFTUlwX1NmbmZZR1RtV25wQkt5ejJVY0hWSW9TUTFHdzliTHdnYWN0dTAwT3VxMEVFYjdQYVhBeWVvcmoxcGplNmMycGxlMHdjLUVMbGdQWVR2bUo3Qi1fNTdvb3JITnZ0b2hUY0pHeUpRU3JVbC1zZW9UWGVNV2cwSFFz0gHEAUFVX3lxTE8zMDM2cFgwQkdYNjB3NkEtWUUxbFhIaXRFd0hHNTgwcmx5TWdyTGsxTDB2NHZhSVVxU2tDLU1XRUN0ZW1DYkROamxKbmxsTFZ0aGpVWWI3OXhXRW1Lb0dIbU5tbTIzRG5aRHczVWJuV1A4R0h2Sy1YSm1uT3VNQXVHYUYxTXFTS1FEVUxYRzNITHNkRWhLUFF5dzAwY1ZRbkdTbTg0aVBGVGpWcnd4czAxUVJ6VmpDX1ZGQ1V6YkZlTGMtQU4?oc=5",
-      "fecha": "2026-10-15T15:04:09.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Fondo Milagro y reconstrucción luego del terremoto: Transparencia por Colombia identificó riesgos en contratos",
-      "medio": "El País",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUtJVHBhY053X1Nqc0VhTVk0RjBOQlFvS19oWmUwZjhKMThJWlpYU3lJeE82UW5UOW94SEF1eG1Wa0JYaGY0ZTYzTTRsb09WblJlcHB0dG1ZUmVzOXdCQjBEMk54ZThCX29fZWV6cDNsZWNMdmZiamFnUFBXUFZCTVg5SnVtVlI2STd2cnIxN0hGa0hxNGFORTVqWi1pcDRiUDZXazF4NXlkQmtrSXZVd1dvU0VZY3hDRmJvVm16S0JEWmoxeGRzdFVXUlRNcUloek1ieFVydXd2RUJ3b0gtRVZMeW1nYzlDMUHSAe8BQVVfeXFMTTVuXy0ycVdHSWhhd1o1dFRRRW9SeVk1WThyVG1IZUhBZlJSbGtvaENNNElfcW9pWDJudW9zREpnYVdoZnFNMHczeDg4UGdFWkJtUC1pWEd2QmlOT1RWMERISEt2U0xZM0NCd0gwZ2V1S2lNZk1jQmo2RHdPTTFHNm9WMWZjajNpOU0zU2huMlV6bHg4UmxUU3pLWHZHRWdVQnF1SW9uaGItTlBZN2hHdkNjUUt2MXNZUmg2RjZJaHF6dTMzVXAtX24tWFVqOWtINUZPTXZOajZWdWd4VnRWTktYYWdTZUI3UXF6bF84UHM?oc=5",
-      "fecha": "2026-10-15T14:46:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
     }
   ]
 }
