@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-26T08:56:31-05:00",
+  "actualizado": "2026-10-26T14:47:35-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Reconstrucción de Chocó: Fondo Milagro priorizará demoliciones, vivienda e infraestructura",
+      "medio": "HSB Noticias",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3YtaG9YcVZYSVFMS2RRMmh1OGttdHBUSmQwazl1clI2dVRTbmdvalBLMEpXMk83VUExZTlLdUVjSkZLaXowMnVNUUt1NVZlQlhJaXByVWhrZkRJc1U2R3g0VmJRZ0t2WEN2OFZQcU1rUVZGWHF0WklZV3ZGbnptTDRjQkRobzZ3NFk0WjhLQ0pmMGpxZUN4LU5UY2FuU2FUOXNFel9iNlY5MXk3enUwWVpxclRYRi1ScF82NHVR?oc=5",
+      "fecha": "2026-10-26T14:36:47.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
     {
       "titulo": "Abelardo de la Espriella respondió las críticas al manejo del Fondo Milagro y las donaciones privadas para la reconstrucción tras el terremoto: “Absolutamente claro”",
       "medio": "Infobae",
@@ -11,12 +19,28 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Gobierno anuncia recorte de $267.000 millones en el Dapre y aclara a dónde van los aportes al Fondo Milagro | El Colombiano",
+      "medio": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV05xVEFwVjRfQ1VjbTBibUZ6ZktFa0pRUGxKSGxKNUNFa1BpQVRRUVFIT3BIOHU0eTRwU1pfajlrUU0teVZsSDUwTHRQaXJJa3RVdDRSM0k5dDBuQ3F3NUtJU3lyTXJ5UGhEeGVteVc1M1ZhQ3NOOG9KWlk2enJ3VDZEdmFXVDBUT093aUlWYldSbGEtRW41LVJ0a3hLQnRhZDlLSy1DLUxUUEZWYlRiUDdUYzdHMUXSAbwBQVVfeXFMTlVjNGFIZjM0M3BSUm1EVjdCWU8zSkJsbkJXcFVfSkY2UG5ZZkYzOTlpaThtODZLbkNZeUduTTFNaUdCNzhpQ3o2Tkh1Z2M1Z1RiNzY2TER1cU1mdWlPdC1HaFg5RGI0UVNPTVltTnRYZzhLSGxwYkdON3NGYW9YZ2ZzRm5ub29iaWFYczB5eVdUWGhaVWoyYlBMVDZjUEs5QkROX2pnbDl6UFRMc2tNejY4MDBqZHd4SFY3cjI?oc=5",
+      "fecha": "2026-10-26T12:18:55.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Ministro de Vivienda estima en $54 billones el costo de reconstrucción tras el terremoto en 16 departamentos de Colombia",
       "medio": "Pulzo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUXlwSVU0ZXMxbUtBQVVlaU8ybF8wRFVUSFFjZ0EtOXc5LTZIaG11MnhGV3F2QnRsb2xhbkhDRFp5MjNpUkpUYmprNVMwWWJKZlAyLWZIQmMtcnQ0ek1WR0RnRGVqN1ZHNWdNN1FrMnVXNy1NTlVVRlFtVXJHajJqR2YyOGN5UE9INkJxS1E4eXcwZG5EYTR4RF83bk5Lelc5WWsxWmk2d3otZnVUMk9tdTEwTFlLUldQRUJKQWk4Mi00R0ZZdUZrNWVtTzVBTVExWXJUVW1IWWQ4Z9IB3wFBVV95cUxNTzlicmtNRFozZlZJUUpQd0FVZmEtQTVCaFNBSzdhelF0dkZSMzRaSXVjZk80enJCSy0yby1kX1lBOS0yNlI3bmI3TUt3OFZLeDd6cUJUN3cxT1Eta3JkMHZPbUFLMlNSMjhnMTJpYkFYSVloZ0U5QW1VZS13d3czeWFKSlRzdXR0bnZxYWVBLXRvT3ZDc252ZDZCelpVWWZwWThxc0szZWU2UlNQejhKb2JVNnJIZlhacmRqN2hzZUFpRTNGUUFMSnBadk5rb3NaTlhOcmNhZkFJXzc2OWJz?oc=5",
       "fecha": "2026-10-26T11:05:01.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Damnificados denuncian demoras en reconstrucción en Chocó | Noticias UNO -",
+      "medio": "Noticias Uno",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnVNR1VKWVVsQjFLUkxQYkE1bDcyS3VxaHRTRlJPU2Nnbk9sdWpyUng2bnJUOFJqc1JIV2ZCVk9uWXVwYnIyMnVvamwzSDN6R0lfTVZWLUpvZnpTMzlUWms2TUwybHdwRXREZ0JjazJwRTl3ZFhRbHgwS25jYXNCR3dqMWU1WEM3bUFzVkdwLXY1YzAxZTEzLXJPSDFZSEZETWZ3NHVTVFYyTF9p?oc=5",
+      "fecha": "2026-10-26T04:56:00.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
     },
     {
       "titulo": "Presidente Abelardo De La Espriella hizo aclaración sobre el Fondo Milagro y los aportes de los empresarios",
@@ -1574,30 +1598,6 @@
       "fecha": "2026-10-16T09:42:20.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Reconstrucción por el terremoto: 82 % de 768 contratos se adjudicaron por contratación directa, la mayoría desde el orden territorial",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTl9wSlZ1TFAyMGQtRlJ4TzNsb2dWZHdBWmdrTThJcFVLa1kzbGFDWTRsMXZmeDVMVlZzUnRkZzZQOUcwV0lfcjZtelJFOHpmUnVzTW9Gd1RDelN3cXFlOGtfRE5wdFd6NXdsa2ZENzJJUVBibm9oSEdpNE5pV3BQVWpCX0U3bExfWmlRN3dreXNuWWRzSnh1WnZ2SEtEQVVHeXljY2Mzb0RQSW9Kal9HZU04Yllqa0d6TVhjekt5b3BPWGoxVFhEdTJYbHRMc2pUeVdiaVhHa0YyVTZLd24tUERiY3BqLXAxZ1NaYVpETzd5dHRRbUZiSnpvQmVieHpuMTBvUWdWeUNtVlZ6TUxPMW9uVGtwZV85YUHSAZ8CQVVfeXFMTWZsZmp1aU1oemhPbXRvWjZPa1YzSGg0aE00amExMFZEcTFXcENXQlF6dFBpYmxvZXU2VWRSSkFuV05wUl94d3c4bFlmUk5EWmxQS3c3N2hDZ3EtbHlxb0M1OG0yWGNRc2NWT1VtdW1zd2Etb0tUa1JjVlg5VEZlQXZLOUxDNWt3dEVmVFRSaUN1VTVfY2JCOGExRWRvQnFjRnQxUkdreUljS0QzZjB0bXl2alRUUzNiNHNURmFXMzhGZ25KZ1lndUlZd3B2WkkxdlJjRHg0b2NJTTl0cWFPNU0wMHBLX3Y0S0RZYWlNSDE0V08tRTVIRTJzNU1rOGtubEF3TnlWRVJDS3A0eUo4ci1TS3V0SGRTNzVJZDhfTlE?oc=5",
-      "fecha": "2026-10-16T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Shakira y la Fundación Pies Descalzos concretaron una importante alianza para la reconstrucción de dos centros educativos afectados en Chocó",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOX1NjY3VxbGRfcU81d3NPOFZDc0xXR3ZvVVBhWXI0VEtPQWtQQnpsMEhZTjVORWNJR1pLRUx0M0dleUVNem5ZOTQwbC1SX3BfNXJ1elJSbldoV3BIVUlKVzdzc1ZXZTlSNTlDZzFYS0FWakZBUDBZdXEwNzJ5Vzh5akl3bWlwZkNJTFpockJFaWZ6clRJeFlDby1LbVhXcVFueDQ3d29ZbFItcFBfbXJLRlR0aG9LVW5JeW03VEI5LWpMQk8wU1JvTlVCNjdCOWNlMHY2WDhpSm5URkxwLXlVRzFoOTB3S1p3TU5ZTFAyd3V5YzFLOGdmeDJFN0NDUmZPbmlmLVhFRG9tdGE1MTNHRmR4WdIBrgJBVV95cUxQNGtlSFBLekFqaElQa3d3RDNKc2JzMFdvcloyenpxRkdzRDdWREk0cktiZ0xQUFRsX0llaGhkblBKbHlCajJxRjQzR3MyU3lGazUzR3k2S2FQVWM4anJsZGNiTmdPRTB5VWxSUzhINVhnaGdTaTNubEdzRERGMVlZQlBBSlpMemFXRWhUcXd1MW8yV0oyVmg0SVJGSE5YT2ZsaWt1RFBkaUtkaXZ0TWQ0TmVZclRtb3RrMWtPY0hxTDl5bXBzLUVaNXBubUpYVHpHUjRhdjJ5WDNQM04yNUhpaEdOSXhmMEJ3b0V3dUZPcHZQb1pQWDh6RUYzaEJEWGRRTXdHcTlHenlRYlF0cE8tY195dENFZV9IRlVmWDV5V0lfMjZfel9XZnNVWmZqQQ?oc=5",
-      "fecha": "2026-10-16T01:11:00.000Z",
-      "depto": "Chocó",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "El Fondo Milagro empieza su funcionamiento con cerca de COP 1 billón",
-      "medio": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUtUSkZGQlozazNHcFZSZTVWUndNWEwtVTRCTWVsS0pHX1VRUkRjZHM4VV9JUDR3STFrM05qUFk4em9pbjlrd09SRFhqY1NrN3hmSXlxZTNRNGFNYklfakE5VTB5STdaa3N1cTRLUHRsOUtxY2hHazNpLXZsM21pRENMZEJLb0JGeXBzenY1QjVXVzZBb0JzNUVnNUxZc1lLWWFtWGRldWxjNUk?oc=5",
-      "fecha": "2026-10-15T20:45:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
