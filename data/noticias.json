@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-26T14:47:35-05:00",
+  "actualizado": "2026-10-26T18:36:06-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "¿Qué ha pasado con el Fondo Milagro? Presidente De la Espriella hizo un balance",
+      "medio": "Noticias RCN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHI5ak8zN2thaUpObFFGdVd0QlZzNG5XaVAxRlc5aldMVVQ0U1pvcERaYXdFdGtDXzlrQURqSGpUQkVXckZ4NGNhOExfdDVRbUdEQklvQWVsczZOWHRmREs5d3YwdC15ZU5LS2xlWk9PcDdsalhRSUFvNjQ4WGluNlNvTWlZak1YSjlub2hBcnlTSmJZRHFfNVZ1eTAwd1RETFN4QnJMMFoyN1J4UHF2cGFWZ9IBswFBVV95cUxQMmZVaUpENTJwUjJUeVpua0tnbkZTdE9raThlZDZYUHdnT042WndvUmFYQjN2LUJ3d3JGY3JSeFlQLUpnSmpUU0NNWGNpYTJlZm94aGwyWDBJYTlORzRiODRoMkhQbTJLSGtMRVNmZ1BHVm1pZkl1RmFxVEkwM2hDYTJ6NHlPdXZaYXFrMnl2ckxKMTBEZFZibVJQMVEzT3ZDRFhjZWtVVGRIa0NqQ2VDNnhrMA?oc=5",
+      "fecha": "2026-10-26T20:54:59.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Glorias de la Selección Colombia se la juegan por la reconstrucción del Quindío",
+      "medio": "La FM",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVNyOE5zRUJ6YmhhejB5UmZEdXBZTHdSQVZnQTlGZ241bUNERHRsZ05OZC1QVzZnb0dKOVRaTmVSYTdlQ3EybWttc2JRZ3RvR0lxdDA5bklJaUI1OEVDSFRZcDRzc0g5WUh6ZVliVnBWTUpadW5GMkxudlJyVWx4WHhXVzBVS1lRVGdxTGdEWHF6VEtlVjdMdG1qdi1rQmREa1pqSVd30gGmAUFVX3lxTE1yVktyWnR0WWkwWDhZcnYwOHAxcVR3X2p0MHNoYjV2X3BHS3dQeVhweWNXaGJ0UkRmLTRqYzBxVUpIbWx5VWxWYUFuQ0EwSmFIZW9nTlpqMTNFTlBSZlF1U2F5eFd3ZTctWWg1UEVTWnd6RWxsQ2NSTmlQbWdjcC1fTVJxQk5SVUVGZkl3bW0xYVZsMXg1NkxRYUdORWxpM3BHSjBFc0E?oc=5",
+      "fecha": "2026-10-26T19:39:46.000Z",
+      "depto": "Quindío",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Reconstrucción de Chocó: Fondo Milagro priorizará demoliciones, vivienda e infraestructura",
       "medio": "HSB Noticias",
@@ -17,6 +33,14 @@
       "fecha": "2026-10-26T13:49:17.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Pronunciamiento de Abelardo de la Espriella sobre los recursos del Fondo Milagro",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3VPUHpMZkVfU3hldHdfVlhoRUhrYU5XcUM1dlowSWhEV2IyRzBpX041SFRKWldHM2xYelV4N3d3RGZEd2lZblcyZ1J5SURKSUl5N1F2dGJtdjZ0S0xoelI5MGM5VnV5MVJmeVR3WWctQzFBUGpFbThWWi1wVzJCN3VrUWpqWVlzWkt0UUJXODdhOUl1VWpuZzV2N1dOZlhGVE94ejRiOFRkQ1NxR1NpOUUyRk1sTXBRTFFtTXBXeVUtUWlCZnpoZg?oc=5",
+      "fecha": "2026-10-26T12:32:32.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Gobierno anuncia recorte de $267.000 millones en el Dapre y aclara a dónde van los aportes al Fondo Milagro | El Colombiano",
@@ -1574,30 +1598,6 @@
       "fecha": "2026-10-16T11:45:15.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Ministerio de Transporte evaluará proyectos de Risaralda para gestionar recursos en el Fondo Milagro",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW54T3haazNOc1FQdUVPaGlVdHdiVnc2QURmak8xcGVMajBNMzVNS1FqNUc3OW9fdi1YZTczRVgyTklHSDd3bHRNbmcteU1sSnNSekJ3ZEpQdFEzRTlaU2g4elBEMFQzZWxkQ1AxMmg1Z0hMUldhUVNPTl9adlRPN2t0aW9KVWFYQUI5ckJUV2J0dk9CYldhZG9EWi1acF9ldzN5Mm5fMlNSTzJZVGdIQUNuUEkxTjZOZmhPZHFwUUl0TEJ2bjg0MFVTZDBnN1Bu0gHkAUFVX3lxTE1uejZNaWt6NFJ0SkFNZ3l3ZllsR3BYUWJwZzRxZlhtZmk0RlNUd0xma3hzdVM4LW02VlYydmMyUktPVkUzaDdtR0pza1ROQk1VcGZVYTloSmtFUTUwMVNqQlB5VzVXR2pBejNlTzdzZHhRZlBjMk9DaXU2UlQyV3lzV0liVUtKSjdaTFFIY2VBUC1Ub0N2Q2ZKVzA5V1VEbEg4UkEwbEppVnh2Wm9na054RWRoN0pBa2RqTGNIbGtmR2R5T09MWjhYNTB1M3dhQm4zYlNHX2U1NkI0OE1JWHlYaU03Vg?oc=5",
-      "fecha": "2026-10-16T11:00:55.000Z",
-      "depto": "Risaralda",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Gobierno colombiano reglamenta subsidios de servicios públicos para damnificados por terremoto",
-      "medio": "CRprensa.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlpQLUhMZnRWZUJmbTBlQmloOERJbjFGVmVjd2FTZy1rUFd5bHBhY0EzMUQ4RU83ZjRkei1DbXNqMlZ6T1BUZWw3aHd6MEFjQlIzdUhOVXVZekNsOEx5VHIyd205bF9HM0RXQkJYYVpRaE43ZDFhMHVwUXY4SXAzbnZsSnVqUThXU2tyQmZTdUFQdjh4Yi1OOVBRX1prOFlQYlZSR2pVemlySFJpZm0wd1cxNmdJSUF3QXdSaFlaWmYzTW9yeUE?oc=5",
-      "fecha": "2026-10-16T09:43:05.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "La importancia de la transparencia en la reconstrucción por el terremoto: ¿cuánto va en contratación directa?",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdkFyV2xRRWRwWGRKNDhLd3dOUjVIcGdqSDFtclkzOTdWRF8wTXI2S2xzaHNvX1NnS0pvOGhhWU81X0tOMjVtZGV5MDlZQUUtVlkwN2hCOE9nQnpvSElfQnl3Z3lGN1BrbDlJaUU5UkpQeDRxYmNKTnplcnlCTmNfYVI3VjQ0OXhBN0lSeFlmVGYyZUpPM1BwSk1qWm9CTktfZ0lEX2tFY1VMVVdYS0pVVk4wSW9IVTZ4LUd0ampoSmlScGJoZ3hncTFOQVBPUC15cFZOOUR6Mlo0YkhiWXhCS01zWkZVNHRodDhfaHFSclRmZkE30gH6AUFVX3lxTE5RLXFKX3FrWWVhMlRtTDdoVllDTklQanp3clNkckozb2lYMzdHbFRBZXpzVFhUQUtxenRKbVU2NDYzMlBtcXEtWXF0V1BfcVZsRE9PUEdWMVN0Y2NXV0NVQ1l3MVpzSTVrNTVKd1Y4RlhOTVRGWTg5X3VDRWpZTS12NmdxNURBUnN4LTE1QmF1Unp3SFptb1N2VVpNNjVYS0ZxQ0NlT2lGdGNpSzlTRXMwakxpNWdCZm1lNm5KSTJ2VnFYRUhfaW1OV051c0xEcFFEZzlIZFVpTUtqakVpZkUtYXJjMGR0bmM1VjlWWVcyck5nYXRfUnlBdkE?oc=5",
-      "fecha": "2026-10-16T09:42:20.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
     }
   ]
 }
