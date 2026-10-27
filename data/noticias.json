@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-27T10:45:28-05:00",
+  "actualizado": "2026-10-27T15:27:14-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Cali anuncia bonos de vivienda para familias que perdieron sus hogares tras el sismo del 10 de agosto",
+      "medio": "Pulzo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBjZmYyS203bUN6ZmxoWXdBVUZ4cFZ4QjRhV1ZwM3I0NnhGb0hENUxLV0VsSk80dHE1YkNON3p1TTdMVHRLYmpGMG8xYTNBS041c0huZW5vcC1vSXljZGVtSDhicE5UV1dKWlE2N1YzYkp6aHFHSC01dVZiVmJ5N3I4YUU4SXoyTkUxdDhmdFlBN0wybDhnQ0w0ZjhxV3hsMUpSMDBncVJVWUpMS2tFUjdqdFRxTWlVNy1xZGxsY2ZsSGZSZG5wNlFyWdIB0AFBVV95cUxQUi0tLVNOMHlDNG9QOVhvbjNhWU5yMEpIdHYta2NzUEl2UzdLTDU3Z3JEUmFCeDFuN0FSWXBqME1MWkM5cGRtVHVaUnZiM1lRMURaOFpsSGVpTnJEeUpUSEFvYVZRTzYwLWQ2WFVGaFowNFlrSkpPdXJDejdlVWFKWXNxTDkzWHBTUGpZLXVfclBiS0JNbThBQl9ocEUxTVBPWEs5QjRWeFVibUVaMU1fS3lwQUttR1Rrb3pvM3NvNl82a3dRMHVBeDluX1lfMFRY?oc=5",
+      "fecha": "2026-10-27T18:46:36.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Quindío proyecta $3,29 billones para la reconstrucción tras el terremoto: Gobierno aportaría el 94 %",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdVhaOXhZQ3BQMklCUVl5REQzbm9sTHVGX2tqTlhBSWxwZk9QMHNfNXc3YnE4LUhpSEhjbnp3aDZqdUtrbmlBYXNWdG5DUWdDd1RFdjdXcXlOX0pmR2JQWl9MUlJOZEh3UnFfWHlNeHl3ck4ybXdIUmdkR0V6TEc2X0RJYnFVRGViY0FXTHdZWlJpNVhTZDJxV3NObmx4MTdQQUJLRDFGaFBOSEdSQnI5dGVERnZ1WFhtdldvdFlHZUdQa2ZZZjB5dk1YWUJ4ZGcz0gHWAUFVX3lxTFBSU2cySk5RNWRMd0p1dGlDVkswQWRldnBRTkg1LTFoTWZWVkZmSHlvWGgwOGNpU01YN25hSGtxc0RfTjJmTlM0NTF0bEdIdjZaZktybFZCM0xrUzZPTGQxWWlWZ0cxWEl2RHlxQkVWM2luNXBzeUY4dzdPOE5MQ1hhWVg5aVlXNVdKa05vSWR4WlBvN2V6QmJWZ1FLc1hXNHJKVHBfSEpoajh5Rmd0dzgyWjhiRUR6c1JVcVVUcDhoWkkwS1hwV2E4R0VBcEdyaFFVNnFoOWc?oc=5",
+      "fecha": "2026-10-27T17:48:31.000Z",
+      "depto": "Quindío",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Buenaventura y la reconstrucción del Valle, los ejes del encuentro de infraestructura en Cali",
+      "medio": "El País",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbDNNYnk5Q1NTUFBTa0xDYTJ1VVBmSG5OdklDUEdWVTRUOWQwempKTFZ4eC1MTWRfd2pFRUoybkJaUGNvR1hzR1BiTzJtbXVQMUVzYWdCZEpPLW9mSU5TeV9NVUZCTDN1YnE4Y2FOWlBpQXBGWmFpYVZPZExVUHREX0Q4bVVyQ2I1VnRqTi1HNTMyYV9FMVAxREdpNWt3UTV6bWdXLVNaaWJKVzNfdkx2Q2FRRm1wbkRtYk9BaTFUdFZZdFBici1MTXo3NVdneFNkQXc40gHYAUFVX3lxTE1PR0lCSjRnLTF2Rmk0eE1oM0RBTE9TZ2ZmSUR0T25HZ053T2JtYzV6REpWX0Nqa2VZdDhPa3BLY0FHUjVoUjdVMng1T1Z3VkhZNi1RbThBOEpHbnhsRXRmTkw2NkZFc0pWdUtsNzIwV292VjR5MUxCVlJUMkhBVEdJQjQyUWFvUHVYWkUweGdsdkZpN0JyMVJKRDUxNnJ6c2d4UGl1cjBlaW5nRnpiSEJUenYxVlFoMFREaFFKa1J3QVktZkJGdG1Hc3ZiU3pGOFNhU0ZYb3h2Sg?oc=5",
+      "fecha": "2026-10-27T17:16:27.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "“Vivienda es prioridad en reconstrucción”: alcalde de Tadó | RE Quibdó & Chocó 2026",
+      "medio": "Chocó 7 días",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUZYZnF2eXBkZmRVSUNtczNTSTZ1ZEp1Y1lNMkxOZGNtdWlsMk5UbUZVLTJYU29pVHNjRTFCYUdubkVjdnctNkFwT3A3MEFTdkpHSFEwdVBXMzZkMHVyaTFZZlI3cXgzQUVBSXNWeDNFN0QtOU1SOUJEbnIwS2VZVDk2bkQ3TFBSYzdBb0hpWVFrMTl4SzBMcjNLUEZ3NjNoUGc?oc=5",
+      "fecha": "2026-10-27T14:22:10.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Bonos de $50 millones: Ayuda para damnificados por terremoto en Cali",
+      "medio": "Estrella Digital Colombia",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbVY2SGJkUVNpUTVyNEJCRW5LOEE1a1B0NWFJanJBTHFQOTlScG9mUm5VMlZaZERISXJuenprazk3X1FWUXhmSGJoWnlnbzNnNXVSVjBQWWJmUjc5bjhiN0t0bEJVZnZ1bUpXOW5Fakp2Q0ZfLXhabWxVaFBuOUE?oc=5",
+      "fecha": "2026-10-27T13:08:32.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
     {
       "titulo": "Gobernador de Risaralda solicitó acelerar segundo giro de ayudas para damnificados del sismo",
       "medio": "CiudadRegion",
@@ -25,6 +65,14 @@
       "fecha": "2026-10-27T05:00:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Ministerio de Vivienda impulsa la reconstrucción de viviendas rurales dispersas del Eje Cafetero afectadas por el terremoto",
+      "medio": "Minvivienda",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUWhtZDNib0dDTTJfUFJfNlUteDlYbno1TVNmTGFGNEdVWjhhZEI0NjdUX3phbl9SZGdFTi1yNFF0akJBU1lIVGItZ1k1d3c1S2dKdVNyVmx4TVRZWEx5bHIzLUFNc085SXlIRG95c1ZzWV9YRHB6d2E5blFTcTJiLUNEVDVwQ3U4WHBmWklnOUFjYXh1WklXT2hvZUdDWEY2ZEJGZmdsY3p1ZEZfd25DU2hSaDM1cFA5eFZqMVN2UWFnVWxyUGliU3kzV1lNWEM1M0N5aGh0R2FfOUY1SFpkSWRjMFhvWFFiNGt4c2dXVlo3N1ktbEpjZQ?oc=5",
+      "fecha": "2026-10-27T02:39:25.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "En marcha proceso de reconstrucción de I.E. San Nicolás de Pereira, que quedó en ruinas tras el sismo",
@@ -153,6 +201,14 @@
       "fecha": "2026-10-25T17:16:34.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "La reconstrucción por el terremoto en Colombia es una prueba de fuego para el Estado",
+      "medio": "Periódico UNAL",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTUdCVlptT25xS3dhVjhpT0xjbDR3VFhKWlNoN21mQkNtdUxvemJMelhjbVdyaUtWZmJTYmpsSDREaVFKT1UxVGNKNHR4QjM4TlFhYURDcXdiMWhsNU5wOFhmUkJKQ0NiaWtYY2NiWFotNDFrakc1THlNa2ZXWHQ5SnczRy1sTTJxSUNYclBmbmVfWjJCeUFfbVhGYlVpU25jOUpuTUhaekJfYzBGaHhobUNLUmxfd2htdU55QVMwNk1KZw?oc=5",
+      "fecha": "2026-10-25T07:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Reconstrucción de Cali y proyectos estratégicos del Valle: los temas en la mesa en el Encuentro de Infraestructura",
@@ -1542,62 +1598,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQ3hvRFN1c05uX2FMOFk4cGd5OWVENXBkaHppSXQtamJSNUdSYTJmSjhkRnJZY0dYSktCOGxDSlVRYUZkc0VvZTY2NFZCVkZRZWhuYVpQTkF3TzB3cjFhc2RzXzk4VUxod0dubFVkRVZrRjY1M2tyY0ZPNVdhQ1dTakdsWGFXbUlXd0RFVERzUENBbzRWNGFGRXF5Z3Q2b0xVYi1ZTUJvRjVPbUNubFdXLVhoSVBUSHVWSU5waGgxdzZIeEdlY3NQOGZqM2wwODBqNmFzWEJxRUw0bHN4UThnTjc5ZUdKX05wSGVqUkd4X3FnUEV2TEVCczFyeGM5UGpnLXNRNFYtNmFvNk1TY1ZldUxDMTZVQlRWTzBj0gG2AkFVX3lxTE1tUXYxSHBTQ2tqNEwtRzRVRkFOYTF2ZXVYZDhCb0FGdmxTSGhxc1JYUzIwNTlmcHJMLWlFVHlKdXZ3bnI4bGFNLXljTWY1UExWT2tzdjRtRFduV2s3ODhJRGQ3SkJBYVVvNGppME5FT3AzRFIyWnpFLUxuTjgtak9GcVhHNkJPUWtJQjlraWllSWE4eGp0ZGRsaXE4VU1JRlFuVkVILVd0ZU8xV2VmVFV6dGp4YVBUOTBhOXRSX2NXYm8xQ2NJYVZPOWJhSlh3WGRaQnlWcFpLYlNvWVB2TmVMTkJ2ZWJMTFNRME9qa09EX2xYeHpwRXVZX3JwV1RJdXdIUmZxb0dMek1fVmhHWlhScFlxYWtqMmxtZFhieGN2NGotZzBlSFlacG9oTHJJMEQzRFNVQUE?oc=5",
       "fecha": "2026-10-16T22:55:00.000Z",
       "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Alcalde Alejandro Eder reveló cuánto costará y tardará la reconstrucción de Cali tras el terremoto",
-      "medio": "Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSGFDLVgyYzRpbzQwU3o4MWx3MFpOQkpSYmRhUVczREZSalE2RUxkUHluYUhpRjdWYVBTRFRzMkY5aXZBVldMT2hmT0FjSXp4dTJnWHJaSGVzN0pheWVkUkdYVUNhelhtLXdVY2pPdXBzV1Jhem9jZ3N6bzhBc25Ed1lvM3p2QVpLTzNndHZ4em4xYUFCbXpZZ2UyYlJZMTg4Ykt1ZUp4bTlwY3ZBdWRqNjI0d0ZFdHdoQWdIV3JjOHE5YmNMY3hKRVdNMmNWbzllVVdBblVIX1pBRUZuZTJxRktpbm95YzhqbUJ2OEdpUlNlMUdka0E1U9IB_gFBVV95cUxNem9ueExfYjNjV1ZqN0tKaGQ1ZExrMnIzcmJ1WUlvamlqTDhWYk1EaDM5c0pjcHhxQ21LdXVmLXJwWUJtTldCMVhuVkkxNmR6OVdXLWFtMXdTekpYQmtwTzFiYlRKR0lQQWRNbUhxNFhMek5laU5zQ1hpYjJNZ2JiNjlHd1lSbUFhc3FNOGhTQzNGck1rb0dIRlJGV2pYRVdkNThtY2NIVHhQRUUtcXpvVGgtZ09vVE5SUXM2ZXNMak83NUc1dWpFUFEzc0N3TnRORkVycnMzS1MyUUp6Smdab3lEQmNub0dvUXVobHpOa00xdHVwNVNWdHhMaF92Zw?oc=5",
-      "fecha": "2026-10-16T22:35:43.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Primera dama rinde cuentas: su fundación reporta más de $54.000 millones para la reconstrucción tras el terremoto",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSkxtcUFjVnFGN2JSLTVfMGtPOUdvWVk4RFhiTWVaR2J5RkJ3cWNYZUhQX3MzNGh3ZnNERVJXSzJwRjZ0c25xa0VrUTdkZUJVcjZlRUlFenBEREN6LW02VWhZNXZKTXdCMkZBbUtfNUROUWxtUXMyanMzYzhyc2pMc0FVUGJVZnNxb250N3BBbWNYTmxDUUp3VUJZbXNqTFhXOXNaOF9YVdIBpwFBVV95cUxQc2dIOUFlaHF3NUNsT05ucWZ0TUdreU16azMtRHUwTnFwZlpiMmhCSmtoWnpkbnlFYmlEbkhhR2NNeG1kbldZbVAwMlQ0aVdtZEY5bEJkLXd2T1JyWmJ4blpOOTZqd2xyc3g2QXNBbHQwRHF4ZWdMbElyWjdnZDlBVy1oMGkzN21EXzdDZ0ZMSkV6WjN2ZVc1UW5jWWVDblpXWjVybzFXTQ?oc=5",
-      "fecha": "2026-10-16T21:36:56.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Cali transforma los escombros del terremoto en materiales para reconstruir la ciudad",
-      "medio": "Alcaldía de Santiago de Cali",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSU9IZXdXTUFkblpob3VRc045VGZfemNqT3hZSnVmVjItZ2oxX1oyOC1YSjcxSHpPNTRDcWttRDVaNzJkd29NXzRmSUhmVWRfVmp0dXFJWTlzckx2UDhaeWI2MkkxMXY1cW10NklfYnN1U2Uxdm5BZW83RVFHTDZlUlVmelNaNTQtdGNzRHdBempESGkybVI5RlIyMGhrVjdPUTk2X2pRTDBnTzBjNlVqNVJ0ek5tWlhJcFMzZzNsazBvQVh0UHlzUWRGTWFwX1hTQURBQ19aRQ?oc=5",
-      "fecha": "2026-10-16T21:32:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Crece la molestia con la reconstrucción y la opacidad del Fondo Milagro",
-      "medio": "La Silla Vacía",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkxlOXZKRl9ubm1adkVuUGdkM1JOTFZKM0JFYUFKaHl6NjgtLXNYd29WRElhYzBqU0gxZzlWa1NOUnRIZlBsM19PUEtCbUQyNmZxd1h1TU1RQjMxR1haWlR4LWxoS1FwVDBfVG9GZU5DMjduQl84VWhQOFBmang1ck0zdHdMX3QyWUdJNFZNcE9IOHBsZ0d4Q0FibXZNNFduRWtuLUl6Z054aFNlWFFGWnN0NlR6cDQ?oc=5",
-      "fecha": "2026-10-16T20:03:15.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Más de 22 mil damnificados por el terremoto en el Valle recibirán nuevas ayudas económicas",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTEctdFZmQnZFc3V2VU5SY1VKcGQtQl9XVFJJWUUxWVF1QU85MDFQb0VzeUxFY2NFTU9QZmVrUWtKZmxWQWlhcDZnWUtUVjRMNWVYU0M0d3V6VkRVb29vZXpZMEtRdTQ2YWRUeUtCZXphSTFwbVR0dmtMcjBKMlMzWXhrSy1lWGUtU3BtRjMyWTFEQlZlZlA5MGFncXpnQ1hzdHl5MUJiSkNpYXdDX1YwWXNjVGx2aDRnMFdxVEJ1U23SAcABQVVfeXFMTlNXNjg2WkFqTzQwT3ZsZXpPS0hkMTVlYTQwLWpsSm1GU2pXZml6Zm5qS0c2LWF3cFpTd3dmLXdCUFRMaVh5enR4YWdUYW1rLVFubElyVHotTDBqVy1Gc1NrNXdfYmFaQTlCcjdDbkZ0a0lmVzVFM0lSLW1fV1Z4UmtxMWx6TUpFQjVHckVNMm1LU0djMnM1ai1pdjNDMFR4MzZvSTAwLXlMVGNrNm9LelpHX1ZpM1I1UEdSSmUzdGxk?oc=5",
-      "fecha": "2026-10-16T20:00:33.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "“Los reservamos para la reconstrucción”: primera dama explica qué hará con los recursos de su fundación tras el terremoto | El Colombiano",
-      "medio": "El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWVVWFdILWVzY3l2UnV4d3Z3QU41VU9xRGtod2pkYkcwZTZoQzV2S255Y3IwelVLYW05bk05SDNrV3V2UjNkcERjWFhXT1BPYTBLYTNUZ05KeE5CUUItY01GQjRjUzVZSmlIaVh3SG9YdEJDZ2dIMzctWUU5WE1paHlQOWdiWXRFaDhRNVp5U0tHaTUwa0p5Z3pzcmhZX2gyQXF3STBaaFhsdzdCQXZaUHRKRW1Lc25aMTJmX2phYk51Q1hubGJv0gHMAUFVX3lxTE1ucmk2S3FJVDdqWmlzQ1dmd0VkS1dZZld0aGNlMl9OcFpiYzA0SUFrZ2NXYnhHYkc2T3lnRExLdHp2b2FBazBXOXYyLUp0d2J0dmRjTlpVQ1FBa1dtVjRJb0ZUY3lSTGpwT3R5WndBQ1gwZHJFeC1mNXhBTGxQMkhsalMzOGlxY1RBTnc0alBDSkpjS05iRkVzVkJKTUdoSm1Zdy1fZXFOZTJQc2l3aTI3cHlONHh2ck1rZHJOYmcxUEFmZF9wWEFqc0t0Rg?oc=5",
-      "fecha": "2026-10-16T19:50:54.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Shakira se une a la reconstrucción de colegios en Chocó tras el terremoto: estos serán los primeros",
-      "medio": "Valora Analitik",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLWg5aktvOTJWamVLY3ZLUi1NQUMxQXEtWHRWS0tzRGE1dDdzVW9Zd0lMQW10a29pQVI3LXA0c05RTEwyNFV1N3FaYW83Q3NpSXdkZTVNX2pkcjBzQ3FXbmd4ZFZHaGlfcVgxS1J3UXJyNXRJaEI1V3hqV3IwN21wN2t6VUM1cU9GZmpUdlNzVHhsZHhCX3M0QnBWY0M1VnBUUWVON2ItOXRQc1hBRXNJN3dYX21STFYxRlJKX1BVSlQ4YllYWlM0RWo4Y3pJRW5kVzU2Tnl2dXM2cW_SAeABQVVfeXFMT0F1akVZNktBc1N2TS1PNjN2ZjNtVHNMM3lHbUl4TzdHdE5FRHUzUDNSdFJkV0J1UFR3S1RkcmVqRy05ZC0wYTZnTVg0RTRWRlNkVllLbDJfcUtRV1BBbTk2S1Q1V3A5aXRpRVV5UTZPMHU3N3pCbE5rdFp1dzZTMnJlcHYyLUR0SnRvODFma1ctR0FPdEsxRm5Pb2NxOW9NZG5ydGczaGpXU0VBX3JQQ2VoSGdwTElRamJMeThsWk9XNlpqOXl2alBpdnpjZ18tbTJ0QjcxaFVRY3BPUzBPMFk?oc=5",
-      "fecha": "2026-10-16T19:39:41.000Z",
-      "depto": "Chocó",
       "consulta": "reconstrucción terremoto Colombia"
     }
   ]
