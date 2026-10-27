@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-26T22:55:42-05:00",
+  "actualizado": "2026-10-27T04:39:46-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "El Fondo Milagro en marcha",
+      "medio": "EL INFORMADOR - Santa Marta, Colombia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczE3LV9tQjFrRjloVjNENFEyZFE0Tjl3ZDUxZ3lOclJTX0JpRDVaZ2x4c2NWcXdlS0JySjM1YlhjcDlocUVpOWo1RV9mb29tVFNUaVpqOEFCVmdudnZ5MTFoTnVUSW1rdHRidjBFbnNxa3NTaFlzaFZiVWFvR0VPcVhjYV92WldaS1JRU0oyellub3hnTllWRjRrUmQ?oc=5",
+      "fecha": "2026-10-27T05:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
     {
       "titulo": "En marcha proceso de reconstrucción de I.E. San Nicolás de Pereira, que quedó en ruinas tras el sismo",
       "medio": "Noticias RCN",
@@ -41,6 +49,14 @@
       "fecha": "2026-10-26T13:49:17.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Gobierno anuncia 150 viviendas nuevas y 900 mejoramientos en el Valle con el Fondo Milagro",
+      "medio": "Diario del Sur",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSWpYLW13Y1p0RWFTNVNneVFfd2xNVkFGZUk1M0k3eklHYUlreXBoOFlYSTRTQnc3TUtZdUowT0MwczZDVThwODlzRGY2bWVLY1hQLUtpZVQ3dGhQSV92N0ZzUWdqaDJ0b2FXb3BNbXNSdlhIUzZHbkpkTGxvdlJiTFpMeWt3Ym9UcUdDbk5NRDFEUnJBdXA4M2w3ZGRhdnJNYnBjQ3RRU095WG10YUdEeVdSSFZHbk5nSTZqRWJQU1FHWm56?oc=5",
+      "fecha": "2026-10-26T13:23:22.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Pronunciamiento de Abelardo de la Espriella sobre los recursos del Fondo Milagro",
@@ -1257,6 +1273,14 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Las cuentas claras y el chocolate espeso: ¿cómo se financiará la reconstrucción?",
+      "medio": "Corporación Latinoamericana Sur",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFNmazZOSGFqUFAzcWJYa3hzcWtydWl2VlFMbzFTd04zdXpWU0JkOXE5UXJkVkRzMGIwSUI2Tml3NkhBc0FCTHhJQnZkaU5DNWtxR3E0ZXI5cV9KeGtJRlNTTEJxNnpGN1BEc1Q0M1dqMUpfYkdXM0hmaEhjeUN6d2taTkQtd0E2THZTajZNcnlHLXNZeDNqeGhkam53a1BmRl9n?oc=5",
+      "fecha": "2026-10-19T20:20:30.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
       "titulo": "“Hay opacidad de información”: Humberto Tobón, sobre plata para reconstrucción tras el terremoto",
       "medio": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUR0OHRtZWFTakFxeTZKLWlvODBuUDBfU05kWjZmOXVCWENzdC02ajRUcWI2akR1TGo1TFdXMWNYR3pkOURRWE1GZkpfUDJIakxiaTM0aXp0RDczc1JYU0NEQURtQ3FpXzdxaUFNU3RLdWJmUU9oS2Q2YXJETUhDcDFRY3VoVzlGdlptMTk3bmh6T3dsc2I5eE1VcVh0TjdCbDVXM1MwRHp1Ui1WSVdjZEtNd0pNaXJUUGFTb1lPWUNaM0dEcEHSAdoBQVVfeXFMT1FObUpoZFRqaFdGX2JfazZDTEhuV0NlQ0lLT2tGR3ZHWmRXVHl0aDYxcFBSMVZRem83UFZRM29vczZxRHZUQ0NJdnJJdlBFQ3QxZWFuREtJYmZHUTNueS1MckR1Vld5aFJIWmNwc3V3b2EzU0wxN2hJRVFBdXc5eEdDMUt0LXhxSE9peU9XU3ZtUWdRVHNkQnRiMi1xNVFjdzIwRUxBYnVlNEd3VmlaNHlzaUgyckFQaDJ4dWZ3MzRWQlNoTDRoYjM3OFcwUXB1dmxPQ0U5emtaVVE?oc=5",
@@ -1279,6 +1303,14 @@
       "fecha": "2026-10-19T14:16:17.000Z",
       "depto": "Valle del Cauca",
       "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Quibdó y Chocó: 20 expertos debaten la reconstrucción en EAFIT",
+      "medio": "Noticias De Buenaventura, Colombia Y El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0t5RE1CdjlvcEJmcDNKaUhqUHQ4WGtZYlRhXzB1d2pkQWQ2RXYwUXVPbVJRckxaZExGcHp1OTAzeW01NnplUFB5Ry13RjBfSS1hVV92djNJZG0tUDRENWRlUWFxaXMxUE5XQkVGQ2VZVGJud19TZjNJZlIxNkRNUW5Cd1R4MU5HNVBOaWhCdlpHWlVHWkFlelBB?oc=5",
+      "fecha": "2026-10-19T12:15:45.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
     },
     {
       "titulo": "“Nos tienen esperando”: Damnificados del terremoto aseguran que siguen sin recibir subsidios de arriendo | El Colombiano",
@@ -1567,37 +1599,6 @@
       "fecha": "2026-10-16T14:38:39.000Z",
       "depto": "Valle del Cauca",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Primera dama explica cómo funciona el fondo milagro para atender damnificados por el terremoto",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGl0VGpDeXpuQ0VBQ0JWaFlrWUItUE92eFNxVjVxTVpaOUVLb3lRYkJNZFdhTjhoZWVDSDV2RTljVXhWd183ZmVMNDN0WDMzVmFoM0dNZE9TRU85WmhUTENkUy1jdWR6aFJtUnRCSEdMeEE1dHBtT3JOSUtMT2FRX2NacHpsVW9kS3FDM2lnVkM3b01JeG5WZGFOTmZ4alQ0LWl1blNxMmdFaDRQUGVYQzNHVlh2Y0kyX1FQekN5OGLSAcABQVVfeXFMT0stSDNiS2Q3dnpKMFpaWmcxYzZKYnotNHJhX19zNTloRUk1T3dlckxPWURlMGhLLTdVWjM4aVpUcjVDNk5kTzFNeEp0ZmpHOVBWcnU2X0I2SFNwTW1SMDhxTXpLdG1sTVBFd3Fndnc5LU5md204NVBDeF91OHNWMkxvakN3dFM1dTg4bG9IdkNGRjhocHpPaVhKcnc0YmtLc2J5ZXdKUm53aFFsOENBRWV4LUZpNHlDQ3NyRzJOaVpY?oc=5",
-      "fecha": "2026-10-16T14:25:33.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "ONU alerta que 57.000 damnificados del terremoto en Colombia podrían quedarse sin ayuda por falta de fondos y el avance de El Niño",
-      "medio": "ICNDiario",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSzZiRVhuQUJxYUptbm5WN2V1UHJ3WnM4cU00RFpfSjZfVWVTblhFbE95b3JyR2FmeW9pYXNoaWVUOFZJdDJXTV8zM3ZZN1Q0R2lPX1hWLTAtTkx3dHN6UVBMWmUxR2VqblJLcTVfYmpWTjZPZTR3NnN5NmdXSFlEZXlaRXJ0OEZMbUdPdHNybk02UFFYd1NwSXRMVDM5U0JVampickxhOU1ESlN6VGtuaFhQQkU0QlpTTGtfckNtLS1vT3NwbnlIbE5BOGRyMmNlMmYtVnA2a01MVndJb1Z3TGF6bFJNQ3hVcDBXcmIwYVlfZHc?oc=5",
-      "fecha": "2026-10-16T13:53:43.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "La opacidad en el Fondo Milagro",
-      "medio": "La Silla Vacía",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTVPTkRRLXU4M1N1a0VKVmk5ZW5UN09QMkNjM0dOb2VfMk1HbGlSQmxaNnpPMjVOcUxjRFVUWmR0a09BdGdIYnItMlBVUlNLbk0yVFptZk5BUFRlSW9DSVVyRko3X29TbWJNQzNZMTBVUk1zNEpTM1Fxcy1aSnFzcEdxTk9vU3NWVnBaVFN0MmF3VkFaUFo1ZHhLcjN4cUI1SkE?oc=5",
-      "fecha": "2026-10-16T12:22:40.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Terremoto en Colombia: 57.000 personas podrían quedarse sin ayuda ante la llegada de El Niño",
-      "medio": "Noticias ONU",
-      "url": "https://news.un.org/es/story/2026/10/1542065",
-      "fecha": "2026-10-16T12:00:00.000Z",
-      "depto": "Nacional"
     }
   ]
 }
