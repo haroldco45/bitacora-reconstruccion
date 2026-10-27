@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-26T18:36:06-05:00",
+  "actualizado": "2026-10-26T22:55:42-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "En marcha proceso de reconstrucción de I.E. San Nicolás de Pereira, que quedó en ruinas tras el sismo",
+      "medio": "Noticias RCN",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOFZRSDlPbFFlaFFObjFfcUh6UDNpN2p4MjFPQzN3dkRaSWJiZmtvY3BqRUdxbTh2Z2ptWG5QeTRHNFBCVktyUEZIcHNZSG1RZ3J6cXlnbXNlX0t1dmZKMFpTOVNSVnZsSVlDUTlwcUczNzEtVW1oa05jSVFUcDBpdndWdmVJY3RyRkVPT0xkRExjdDNOaUxETmwzbXhWLTREM0ZudmJpbXhaTnVyNFVsdTAtODB5MF9PN1FOTUlyU2NGdjF3ZVFSQzE3MkZqQ2RmVGpWbHhZZDBnRmJq0gHcAUFVX3lxTFBRbGdSYkY4VzlvT05iSmttWUtDdmlrZ3hGY2dZWk1Gby1GZlpKUHIxSGoyZUFyQUF6dFZ1LUJ3eGkzRkMwazJvSXZfX2Z5X0dSOW82MjRhbmh1UEc5Q0poRkVJeDRmQ2dxTGVudC1zeTJaVm9TaXdzem96Um13VnFFRmNNNHpRRXMxZjFDQ1Fqd1BNbXR3MUlXWUlfVTZOOFljV2lFUW1Fd0ZEbUVXLWhFdXM1Z2lnVmxONUc1QVlsak15SU5wT3lBU09WbTRqM25aVzRTaUlEazhUOGU?oc=5",
+      "fecha": "2026-10-27T00:42:55.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
     {
       "titulo": "¿Qué ha pasado con el Fondo Milagro? Presidente De la Espriella hizo un balance",
       "medio": "Noticias RCN",
@@ -1590,14 +1598,6 @@
       "url": "https://news.un.org/es/story/2026/10/1542065",
       "fecha": "2026-10-16T12:00:00.000Z",
       "depto": "Nacional"
-    },
-    {
-      "titulo": "La reconstrucción de Cali se hace desde el aire: la tecnología de drones que fortalece la respuesta tras el terremoto",
-      "medio": "Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQX25ROUswWEwzdDdfVjBPWEx2Q2lZNlRkblJndV9UTzd6eUlBbVpSNkhwN1NudVZhWFZHeGFicWpoR2E5U28tNVU5UzlpXzBPVGZnVWZNQ2txX05ib0FCbXZxTnZXOTZkMlRwd2Q2YlRhS0RfWTh4UDViWmM5aHpwaDNDYVNQOHQwdlNXUk1EVi1CY2dlbHpPcGxqOU1hbGlHM0NEb1I4VjRfNXFOUUwzMlhGc3I1Q25MeU1uUXFLdV8xYWFQaTRmTUZYLTc2dkFfSk1MOUNLTS1XQk1SOU96UFpPS3pucC1zN1NSMmR5YmVlQk4tQWc?oc=5",
-      "fecha": "2026-10-16T11:45:15.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
     }
   ]
 }
