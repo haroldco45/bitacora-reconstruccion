@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-27T04:39:46-05:00",
+  "actualizado": "2026-10-27T10:45:28-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Gobernador de Risaralda solicitó acelerar segundo giro de ayudas para damnificados del sismo",
+      "medio": "CiudadRegion",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHh1VXBJb09relZvR21MU3dRVFF6UmozY1F0NC1ST29UeFhwdTZGRVowcGw5LTdfbDhvUnlhd2ZibFhTSm90Tm01SGJmcUZFckpKZm9tT1JkY1paVm1WWk5Heno0TTZqVnJLSkZLc2FMdGlJSDY1bGdjMVZzczJfSmVjOEIxbHkxM3B6UnVvbm9Fd21iS1dYYjZuOHVud2FLU0lER1RicVlzMy0w?oc=5",
+      "fecha": "2026-10-27T12:41:08.000Z",
+      "depto": "Risaralda",
+      "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "“Los recursos han llegado a Cali, Valle, Pereira y próximamente a Manizales”: gerente Fondo Milagro",
+      "medio": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXZWM2doaGMwel80a0RrWi0zWC1rY2VnY01YT2VuaTFOYnNDVnQtc3VIbnNjN080bkc2WWVreEZldmgxT0hMY21EX1RScnduRkxxQ0cwRU1GQmIzZl9qT1NWWkdtaWtoWldSYmFKbGxYd3pMVllPM0NSbTZNa3FFRXk1dUllYlY2WW4xSjhGNG4xQXR3eW9ZVVJhZlprak1aNE1WQXdxQmJzS3piSUhoT1lkamoyNVNQRU1jRXpEV05YTWQxd1J4QtIB3AFBVV95cUxQM2RZZy1lNkk3N0xTT2pEMHBOTnBhakpNa1VNdmVfbFBJaHBoYlRid19nUzNMMk5mNTF1Q1ZpcWlZdGZzVzc1M0tldHlOaS1HUGY4Q09YRERxX1RrUHhZYVFac0VRWWRqUDBRRVBwUDJpNlc4S3c4cjNlQVJtQ3ZKeGVScWg3UzBCeTBZQ3NIblduWWx5QmZuTkxsanZGRTI3X3F5dTltNkhBck5lZzZfZ0kxY0VnbWs1WEpnd0JWQnJYcUVLQWVjWDBrUTc5U2tmbFZBYllpU0RRRUFa?oc=5",
+      "fecha": "2026-10-27T11:30:26.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "\"Fondo Milagro\""
+    },
     {
       "titulo": "El Fondo Milagro en marcha",
       "medio": "EL INFORMADOR - Santa Marta, Colombia",
@@ -17,6 +33,14 @@
       "fecha": "2026-10-27T00:42:55.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Ruta de la plata tras el terremoto: brecha por financiar es de $43,25 billones, ¿de dónde saldrán? | El Colombiano",
+      "medio": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmVWTUpRNEg0YmRNZ1M3THNEaEFDckxDQl9zRHA1amdNQVU0b2NzTFFyX1dTZWFIUm5tMTR1UW1sZDJUdjZ3YlpMeHpsMFZCV01JS0pWNW1IWVBWbW51SHp2bE5JNkp5QVoyc2Q4aXY5MFdGWDdaTkJPaFhKRFBsVFk0Rk90MHRkZXBiOEx6UTB2UFo4bnkwOG9qYnc1RmFLblZYRTFPNzRYUU1NRkFGeUZnbzZicUt4Rnpod19uVEo5MGRSVE5TNWp5VnlPRXZa0gHWAUFVX3lxTE45OGN3ckxTdVIxQXd1MktHMXI4am9oWkYyRXpPcVVMMUsyWFA0NWxqSUEzTHlRYXlteWtKSnU0MERlVzZCa0tSZS1fQklUU1pKU3Njcm1EX2lha0JneTZQd1VMZlRpTVVBc1A2dGlxdElHV0hPTE1VY2R2NFdVVzFHUFFFeG5PZkJWZkJtc20zcnp1MDlPYWFjVk5QaUlmZUZjLTJ1Uzg5eWp3WXlnU3dsTUJiOVJzZEhXMFpGeFBldm15QVBEdGhPZWZKQVNzZmhldm1Kdmc?oc=5",
+      "fecha": "2026-10-26T21:12:42.000Z",
+      "depto": "Nacional",
+      "consulta": "damnificados terremoto UNGRD"
     },
     {
       "titulo": "¿Qué ha pasado con el Fondo Milagro? Presidente De la Espriella hizo un balance",
@@ -1574,30 +1598,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLWg5aktvOTJWamVLY3ZLUi1NQUMxQXEtWHRWS0tzRGE1dDdzVW9Zd0lMQW10a29pQVI3LXA0c05RTEwyNFV1N3FaYW83Q3NpSXdkZTVNX2pkcjBzQ3FXbmd4ZFZHaGlfcVgxS1J3UXJyNXRJaEI1V3hqV3IwN21wN2t6VUM1cU9GZmpUdlNzVHhsZHhCX3M0QnBWY0M1VnBUUWVON2ItOXRQc1hBRXNJN3dYX21STFYxRlJKX1BVSlQ4YllYWlM0RWo4Y3pJRW5kVzU2Tnl2dXM2cW_SAeABQVVfeXFMT0F1akVZNktBc1N2TS1PNjN2ZjNtVHNMM3lHbUl4TzdHdE5FRHUzUDNSdFJkV0J1UFR3S1RkcmVqRy05ZC0wYTZnTVg0RTRWRlNkVllLbDJfcUtRV1BBbTk2S1Q1V3A5aXRpRVV5UTZPMHU3N3pCbE5rdFp1dzZTMnJlcHYyLUR0SnRvODFma1ctR0FPdEsxRm5Pb2NxOW9NZG5ydGczaGpXU0VBX3JQQ2VoSGdwTElRamJMeThsWk9XNlpqOXl2alBpdnpjZ18tbTJ0QjcxaFVRY3BPUzBPMFk?oc=5",
       "fecha": "2026-10-16T19:39:41.000Z",
       "depto": "Chocó",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "“El Fondo Milagro sigue siendo de papel”: Catherine Juvinao",
-      "medio": "El Olfato",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaElFZ1VlRnBmX25JQ1N2TXBfczFxbHRueVQtS082TEdYOFJpRjd4ZmpLVG9VRWJqeDFSdHE5TWhrRDBjZE5NUEVoX1hwaWJHdHMzSjBEWkdqaHZ0a3VYTzNfMTFPMjZaamhnVkVhNTJUVjZSSFo4RzRkcUVteUZaalYyX3NOSVl2aXJ6RQ?oc=5",
-      "fecha": "2026-10-16T18:01:22.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "La primera dama Ana Lucía Pineda explicó cómo se van a gastar los millones que están en las cuentas de su fundación para atender a los damnificados del terremoto: “Los reservamos”",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQUJOUzdtTU5fQ0ZvdUNxdUdCS2xlZmNEWXJJcWw0ZHRSbVVqcFcyZmpMQjliY1JNdVhUa2ZWY052RXpfMTJlMmFBaGo3VTFzSThyTHBqckpfMXdjeXRXTHY3ckR1RFd3R2hzVFl6NTJhTWpBbXpQVEhLbG1KdmxLT2ZpRF9pS25ubmlNeXZrcUg4cnBkbkpweFFlVjZLTm83eUI5VG80MWNIcHA3b010dWRfNG5QNzA0eFptYXotUU5mbW5LOFZOZ1YyZTJJQTBJLVRBSnFZWEd1S1ZraFpTQ0k4eHhSMnk4WXFPODNUb29ndDBjQnFOaTFPZnRscjhfTVdqdE0xX0NyV3pHc3V4ZkFldW9EdlJQbEZHS0I4YmlsU2FUSWR4c1BnSHJsNkJmSHFKZ0hMeTFPTXEzbE9vanRQTdIB3gJBVV95cUxQTnRQd28yRjh3bFZfaG1oZG5nc0I1ZU14QVkzNUZTVVF3cVV5MFdtcWkwMk9VQ3ZRWUR6Qk9FNzlsQ1h3aXFKMnoxRVJ3d21jelpYNVN0NEp1SlZmeFBSY3VVTFR0YkwxSGhYWU5fRVhhMVBvY0t6eXZaTlJneV9NMkt3WFZHWDdrZnkwZ3lfcGZnclB0RUUxZzU3UkkyWmJlaERFTzVxVlRucl81R1VlWmxEVmp6cTd0dWRrZ1BnZEVZUjd5YjE4aWt5RGM4ZDRKY3VCaFRnaGNDY3BsREJRLVZsVEFQZzF2cXE2ekpvTWc5WEZsd1JWTlVJVHJkWWtTQXFZa1JYTXNzSDlkMS1jLWxHMlA5U3BlNEJKOFJfbkxERFFfWnZ2eGxoU2tNYUhzbFZDVEtBeVZZRG1aTTU4WjFOcGk1cm9haHZXdk9KU21nSWtYTkJ1MWQzMFhNdw?oc=5",
-      "fecha": "2026-10-16T16:41:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Tras terremoto, Cali y Risaralda trazan ruta de demolición para avanzar con la reconstrucción",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMGZiYVYxbDVKLTZ3cFI4WTVlaWU5QlpoalY0Nkd4RER1WDEzM3dNNkRsbHdvZmRWVG01RDFMd1hGcmRGN29ldFdxTG9ZYmxEZlVKS0FzMHVfTmxzdGNzajlLeEM3eFZUbTNnMFo0WkZSVnZubXY0TXhIRjhKVWM0X1Vremdwdm93NDZnM0tNR09EYUpCbmtFX0lFdW5GSFEzVS1BcWFDbFFpZjlEb200bHczbEdTZFBjbVZRSWVRQXZkekVidWfSAdoBQVVfeXFMTVEtNFlXNHRiU3RxelVwYlhWeVphNXZQVk9LcTdvdkl5Zk5obWFnLXYyTmhCTjB0aDBfS3JjcEhZbmpWbmRsdVNkQk4yLVN0cE5NeXFqODI5UXkwLXc2M19INWI2WWlYU3c3TERGbVk2ZjlySUZlc3FKTHJoQkRjREpBUWJINXFLX0xjSE5OZFdSWm83cTZKRWVnUTN0aDJqY0xNaXQ3TTV4eW9aY2FYWWw0ckp2anhxdmV4bGRYT1JiMlBsZ2IxbXlhLUs0Mm0xa3BSMFBCTjQ0ZUE?oc=5",
-      "fecha": "2026-10-16T14:38:39.000Z",
-      "depto": "Valle del Cauca",
       "consulta": "reconstrucción terremoto Colombia"
     }
   ]
