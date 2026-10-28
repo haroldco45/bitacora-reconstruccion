@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-27T18:56:12-05:00",
+  "actualizado": "2026-10-27T23:41:29-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Pereira reunirá a personeros de Colombia para exigir decisiones frente a la reconstrucción tras el terremoto",
+      "medio": "Risaraldahoy.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ3hqSUt4MVJUZFFMQV9rWDZabnQxLXVTUEw1TkNtVFFYSXNZeXAzRUxaTl8tZmRoYkxLdDJtbks0cklpZmlFSlgtanM0b3lLQnJiZ2IwbEVrVE1vRzJrRWc3MFdiNHRGRDJVUnFSS25HaTRITXlsc3BQV1VxUWc2M2R3dkN0ZzR4OXRHb3lNSGpWNWNIdS1FaVlYcXB1TU56cUpOZnFYanBJSlRvU1lPRlRUallyU2dNRjNJQXQ1blpMT0tBVU4xa1NEc1Rjckk?oc=5",
+      "fecha": "2026-10-28T02:42:12.000Z",
+      "depto": "Risaralda",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Madera decomisada por tráfico ilegal será utilizada en la reconstrucción de zonas afectadas por el terremoto",
+      "medio": "Noticias RCN",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTlRMTVVyQmFwUFhOZzJ1eExCVUdBbDl1NzM2M2JwUUVHSnRNM0tNNEFXZkJ3SGdycXZ1b3hOSEs1dVBubnBhTmhFYWNxZnZJdU9UZmF3a3dlU0t5YWw1a1lfcWd0bXJzR1NaazZEOHlFZG5ma1V6bkdxODVlWWs4cjNFRWJkUFNETFNKTTdJZVNqaDdUdFVJTl9RaUJfXzZNbW1Xak1FQTRUclg0cWhsOVpSNzJaNTR6NWJUR3JLX2lmd1c5T2plMnlTYjQ0MkZtNDVZNHd3MDRHQ0NnZ0d1ZXVoTTREV1k20gHoAUFVX3lxTFBMTVBlaWtveTlVYVNTZFVtQzEyb25qeUp1a3owd1YtaGRrZFM4c1BYQUpuS3BJZm54YzdDS2FaZk9MVFR5eGR5S3RLdkNnWk1FMXZwSnU0Z0k1WmNFWERPSjNEQnhOR0lSZVF6QVowWWdSdjY5TExxbGV4aEdOejVtZ2tZNzJZbU9ZLVc0MmdVTl9tRmxsNDNMdUlUc05YS2JUbmFzQUIzOG00MlRaWi1YSUtyX3Z1ZlRnaXZhWi1PaFk5VUhmbzZjMk1PY0ZfWUZzWndRMzJ6amkzMmZDNHJ1Y3JiQlp0cXA?oc=5",
+      "fecha": "2026-10-28T00:27:48.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
     {
       "titulo": "“¿Dónde está el alcalde?”: denuncian traslado de recursos del Acpm de Bogotá al Fondo Milagro, pese a que el impacto fiscal sigue sin definirse",
       "medio": "Infobae",
@@ -43,6 +59,14 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Quindío: $3,29 billones para reconstrucción tras terremoto",
+      "medio": "Estrella Digital Colombia",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWbUt4X3doR3JVU0FOMTlySE4ySVBiRkwtSktaUVFBZ2NqYmNURFI5SVZ0LWdzUk5sMjdHenRyMEFpODJGY3JXWDZvaW5OLU5oYzFNalNVRjRVWi1ONDZrV3BhUkEtRkhKcXE1akVfT2gwNmhoUkE5NzY2dWEyUQ?oc=5",
+      "fecha": "2026-10-27T17:48:31.000Z",
+      "depto": "Quindío",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
       "titulo": "Del harén de Petro al fondo milagro",
       "medio": "Proclama del Pacifico",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnckhCVFo1MVp4WUZZdFJPdjctRlhRUTRvLXVrYW1IZV9NbVdIUGRSLU9zYi1TeVQtakZ1Y19uQ1J6TXZadW9ZcnZCZGxhSzFUT2JtaWVRQkR0ZEkwUFhuekxzRHlzZTctMEpiaGJkUEFQY05aMkJN?oc=5",
@@ -57,6 +81,14 @@
       "fecha": "2026-10-27T17:16:27.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "El nuevo destino de la madera incautada en Cundinamarca: ayudará a reconstruir zonas afectadas por un terremoto del 10 de agosto",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTF83amFjQVJONlA1Qm4waHR4QVZ4aW9SUTNCNWkzU1dUeXB3MzlabTFCMlJKTDVieFl6a1FHQ2tCb1JrZ1d3aFM4NEhXTWJieHJTZk42dFJ0M2Q4cWVHYU1yX2xoMHVYVXBKT1c1VmpURGNXRDZlb0k0N2ZVdnJBSzdHandlUmtoS0lYTi1rd0hHbV9zZnl1dTdHV2JaYXloS3ZMLXM1QnVrSWRpWXl3YzM5OUZBTlh3SjZlcTdGLUZnOXRvaW5fYzBmdTFITlJMMF82V1g0WjQ2QU9nTEMxX3QyNHpFVzJISXRqU1ZOTS1MOThmOGxxNF92NNIBgAJBVV95cUxQb1l6aXdhU0tPOEtTTzhuY1JTTjAzUFdNLWd6RFY2Rk1fbHJmbDJiR3ozdEVzbEFhTkhCWmJvZUNGNWEzTzZ3ZmNPYlpXbDZlYzMwVC1jb3c4U2F5ekRNYTRNWktycVQ5d3hRVThNZE5OcUZ4dHdTQk5JVURnT3AzNkRIZXoza01qbEFHN20wdDAxMEpYa1ZXQjlGeTVzNHRrcnJqMjg4bkhzSFhEVmZxOXpXVDRVUnFCT05RbzltVmg2eU85ZWRMNEpWRkJ4MEJYNEY4MUhOQzNEY0xjdXA0cV9LejdVZ3lfdUM1SExYNC00eU92NVMtOEVVYzExNjlw?oc=5",
+      "fecha": "2026-10-27T16:56:03.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "\"El Fondo Milagro está más en el papel que en la realidad\": Fredy Arias sobre la reconstrucción",
@@ -225,6 +257,14 @@
       "fecha": "2026-10-26T02:13:22.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Primicia: Amarilo llevará a Pereira el modelo de Quora, su megaproyecto de $2,4 billones en Bogotá, tras el sismo",
+      "medio": "Portafolio.co",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2ZBc1RzOWJnaFo2akdTbFFlM3R3MzlmckNfWFNMcTJWSlgydGo5VmRLUUY0X0dodmdTeE14WUpsVkhQcTc4aHBKaG9HOVQ4MHFvbEwyZ2VseGhJNzJubHJMekxJaHJmaXc0SlltRFc2WTVzWklXRE9OMEJKZUxqY2x2bUpTOVRhSWdudVE3aW5KODdIWE9zZEVaUlphNi1PM3JubG00OTlxeVVPZ1ZKNERZdW9lVm5KbnJwc3E0amdteF9Bb1NzUDhJN1ByczNBOUJYRmxEYlRwMlIxSHhQbElVZDl4Z9IB6wFBVV95cUxNd09vR2U0azQtWDBYSzlQUDVpTmg5eG15cFU0b3pjNnV4N0ZTZVlURm1lNGlyVFB0RFZucjRGS3ZKUGpaWV82VldTNWNnU0liSjdBa3h2dWx3UnlkTHBMZU45UTQ4c3M3VWJSejBDQmo4OFdVbDBzNVdYcWFaRDdXd3NsMS1HVEZLMnBaMi1OTnRWTUZkUzJ6N2tNekk4VmgtVkNvOVE1d2tSM2ZLdDdJNUJIeUZZZGZ0Vks4N1pTUVQwZmdsT090cUh6Q01IamNtODhOSmVUWkkzRU15dlVrUHhTZTlRRVU4Nllr?oc=5",
+      "fecha": "2026-10-25T19:55:12.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
     },
     {
       "titulo": "Reconstrucción tras el terremoto en Colombia costará $54,3 billones",
@@ -632,6 +672,14 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZThFeVNwUXBOQXlyV0ZyRHFiWFFHZmRPTjRDN0xKWWZYTmwtY0hnRzRTcnVraURtZVdQNVV0UHN1ZjFVRFk3empXemlxTFJYbkdPX1ZvR25oeUZsWERuQjFyR3FtY1BIMmFZeXdnUWh2dFZwQ1lGQnVTRmxDeXA1QmNVd2RhRWtOeVRTX2ZlQUdEcS1pbGltLTA5SFpkQUVYZUhKd3Fn?oc=5",
       "fecha": "2026-10-23T20:43:41.000Z",
       "depto": "Caldas",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Fondo Milagro inicia operaciones con $1 billón para reconstrucción",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWJxbTVhdEZIbVBtQ19GRzc2bEpGeXV0RFZzMkNFTGRUdmtOdkhNNWR5M0JwYzdPcXRfa0dCZ0xWX1YtdGYycTR3eXlQT1VoUHhEcW1RTnFPRVdySjRsRWVDQXJGajRqVnJhYm9ueF96NDN5NzZlNGo2WXlfS0pYcnIyVGtRRjJpcHJTNFRiUldzcmg5V2s3dTlxQ055UE3SAaoBQVVfeXFMTTA5S25GYUdXVW9RYjB3UDRPbGhFYW1LZDdZVDlZeG94aXh3YzI5al9waTkxaTNTZUFXY3RlTVhGTXF0TEFvdWhQRlp0VzVkTGtUUU1ueWQ5alMwMnFZeDFJQUVaSGZGQ0Y2cjE2dV9lTUU4VmhwNGpVZEpVY2tpYjJuWi1nUEpUSDhXWnBFczJtRTJiYm9YZ0tHYTVDZWxpaE44OGNEMlpZenc?oc=5",
+      "fecha": "2026-10-23T20:15:00.000Z",
+      "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     },
     {
@@ -1551,54 +1599,6 @@
       "fecha": "2026-10-17T12:00:00.000Z",
       "depto": "Nacional",
       "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Fondo Milagro garantiza transparencia en manejo de recursos: \"ninguna tragedia puede convertirse en un negocio\"",
-      "medio": "RTVC Noticias",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0ZnS3lkcXFHVzBwNlNXd1FDbUgxSkQ4c05xSkh1Q0Fob0tlTE8zU3R0ZkJwMmExcjdwNnFGaUhyUmo1WVB2cTVqcU1qZE1rQkFkaElnd2h3U25BalBlZThPeUpCSUhyQ2hOMGtxQ3UxSXBKV3Q2d21lODNTQVpPZUZ4TDRMYTBJcnVvdmJvajNENlJLZVQ4Qy1ROUFDQQ?oc=5",
-      "fecha": "2026-10-17T07:33:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Reconstrucción de Cali avanza a dos meses del terremoto",
-      "medio": "Diario Occidente",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2lwaEFkMGcwMEotV3ZJOF9ES2tJLTBwOXhpZDRoYlY5eWYwQTJhX1djQWY4R1k3NUl4ZjBnNEk1R0sxcDBkTjdkNjN5eVVpSFRPalBrd1NDb3VrZjJFTHIwRkFUOHBVTU5hR3dzSEYyeElseWszSzkwYkpBR1lmNWxfdTBXd29JUFkxa9IBlwFBVV95cUxOS3I3QzNGU3c4d3c1RFBxeGo3UjU5OVktRXJoYkxiaWVDUkMzVlFKZjRuTXFWa1d2SjJ3aHpwdzM3VnlRalM5UkttQnBlNmZqUE1Ja2dqOG9JbGhHSV9JQlphME9vQ2FiM0pOZHQzMEVjNnJ1ek1lcENlRkhaSkl2UjN1aGx0SGhNR0YyNlVmWTczb0dyYl8w?oc=5",
-      "fecha": "2026-10-17T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Cali debe presentar proyectos al Fondo Milagro: concejales piden celeridad en la ejecución del plan de atención a la emergencia",
-      "medio": "Concejo de Cali",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONU9zOGRCcHNmb0JXdWdMejIydEVyaWFtSTJhaXAyX1Y5Y1pVaGVOeTFIUGFPNHplSkZ1WDVtVDFBTGRWRmRXNEZZNlZ3OEFCenVlaW5EdUxYT1BNMUJLRnRUdk9QYXNSWDFES2padWlLTWZIQnljRXM5VFhwbFIzTWZmWXBjdW1Xa3g5OHpfMGp4TFVDRVM3WldkOGQ5d09YNm9qdkkxRUpuV0pLZkVxRkZaQW9xOTYyV1NHeTV5UE90cmstSEtTUVlOWXZJTEd3c1ZJUXVfMzNydTgyUWxYNENYR3VROGRuX3BZN2J5RnUtNENwVHRKQUpXZVFpNFZOaDNVQUxyTTdsVFJQ?oc=5",
-      "fecha": "2026-10-17T05:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Cali transforma escombros del sismo en materiales de construcción",
-      "medio": "El Nuevo Siglo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3l0bW9nd0hpZFFGMkpEaFdJcGM4ZEprYjlfWi1iZkhPVElvTVFZNDdfOWZfVFFsdWpxekwtWlBWd2RmRW5uaDk2dHRMdkJfT2VoNlJIcTY2dm9Fdk1kdFRnR2xPZGxuQjREYzB5UE5EeG9FR2d2eDJVTHA3bGduZDBwUW9rc0Y1bHlJTWFiQmxrQ1FZaGhoSW1wNEJXSjFwcldQaGFqRQ?oc=5",
-      "fecha": "2026-10-17T02:47:44.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Fundación de la primera dama reportó más de $54.000 millones en aportes privados tras el terremoto | El Colombiano",
-      "medio": "El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSmQ5S1M4SXFwcmdkeEkzWFVXWEFBTnNWTU9RSFl3d3FkNUlSSVVydmlTaW1yeEVwQ1hlSDdCMVhVMHNjMTNTdW4xMnZ3NUtrQ0t0NEY3dWktZkxGWW1sdkVCUEgxZFNCaTd2bWpSSmJsVDdMLXRCdlhJak9zTFdlalRIM3ljWlRwS2VEYjJIa2pSNURKSmZvSU9yM2c1dnk0dGJxa2NFVmpFXzlpbS1FM2YxdlduVkJSZFo1Um9TVFlOdk1xUU9n0gHMAUFVX3lxTFA0TnlxRmN0YTMwRHV5S2J1RUVkTERVNHRPYTlYalMtZUoybE5jMWROSmJib1EyUGRSRlBreUt2UDNOcW9MN1hiOVFsdFdkRHlzV0NwNng1Z1VaWldUNmVvVnhDdjZRNWJIRDBtYjNmUVVJWEtkUmhoUU1qaDYzQllFb1NUSWdfNGpnUjRTQnVVbnBwMEZCeWVMMHNEVDFSSGlHT3hSZFF3MHZXRTFtTHRYa3BYSVBOejY2ajBsWHVmNEtxUExnNTU3end0cQ?oc=5",
-      "fecha": "2026-10-17T02:05:37.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Representantes de los consejos territoriales de planeación del Quindío y Quimbaya participaron en un taller sobre gestión del riesgo y reconstrucción comunitaria tras el terremoto del 10 de agosto 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
-      "medio": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWGhnNUxWV1NDbHpnTHcxbEhiaEFKY0NtM0VYRGQ1M1dpckpxYi1jWHdoWTBQMDU3ekw5MmZxX3NDVXhTTmJVUGxZaWJoOEcyY2pKWDF2V1VPLTc5SUFXdDNuNmZ6eVRpdlhkNFpldmxVN1pZUVlQZW95UEp0MWxab0RDS0xod0ZpT3F3SE1sMU9QaFdVV1BUaUJ4b2N1a0JIUng4czByTE82dWV5N2E3RkNXZGtoYk5WYThhbF9obmlDcFZ5eVJoLVZOYk9VSFJ5TWRJRkdqRWNfZE05VlVSRGdkWFZxdTRiN25WNzlSNA?oc=5",
-      "fecha": "2026-10-17T00:52:19.000Z",
-      "depto": "Quindío",
-      "consulta": "terremoto Chocó reconstrucción"
     }
   ]
 }
