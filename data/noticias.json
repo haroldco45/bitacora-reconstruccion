@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-28T16:49:41-05:00",
+  "actualizado": "2026-10-28T20:35:12-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Gobierno pide aplazar debate sobre recursos para atender emergencia por terremoto",
+      "medio": "Diario La Libertad",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2NmYk5QWEg1YnRPbE5kVXliaUo5SEFuaTJmMFRKYUdpRjhzdUJNeUc4Y2dnM2ZqYnVqcWVwQjk0YTZWeEF6YVhjVzd5U3NKUThWQmo1ZnNrNzQ2SkNucXF2dXRQemtsbmtWZklsWTEtMEcyUGRhR3dNVE9zNlFJdEk5azEweVNUeHNVa0tEUnhsQ0ZFdGdOTkY3WS1ueWE3ZmR1TzVsbVVSVEZpUExaNVFtZzdGUGxFclJmMFBmdw?oc=5",
+      "fecha": "2026-10-29T00:26:06.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
     {
       "titulo": "Piden arrestar al ministro de Hacienda por presunto desacato en caso del Fondo Milagro: el alto funcionario no habría respondido a seis preguntas",
       "medio": "Infobae",
@@ -11,10 +19,34 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Gobierno pide más tiempo para rendir cuentas sobre la reconstrucción tras el terremoto, ¿qué pasó? | El Colombiano",
+      "medio": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjlzY2tQYkNOU1QwdEVkWW9vMUVJa3BFOVY4UUlJcS1ITHVsV25QZlRGdDNSb2lZeE9WdnpubzJBeExpVWdSLXhCR1RHZThVdWhYTzdEaHRoZmFGX3FnU01HSFlleVpwOEJuOHR1RXZjOUd2c0J0cTNkbnNhMXRnRFZ6dVMyRVA2Znp5TXlyUzhPWVJqWlFubzBQQnFvc3JzU1FJNklFLTg2Q05z0gGyAUFVX3lxTE1TV2xDNkQ0NlVfSWg1YUJyeEN1MTQtWlhIZ0h4bDF2YVN4TzZLdGpMc2VWMjFNZUkzd1dObUlxSUxldUVaYWJObE5rOVZmY2otZmZUOFZwazNRUHRTOWpRYXEyVVVNdngzcjB3OVZCSjVpTW9VTWJyYnFrVmJrMlFhN2NJUGZXVjNRcFZlQVZjMUZvNmZQY1NxMWxhUldIVVYySTMyZFdvWnVLODl2QVN5Q0E?oc=5",
+      "fecha": "2026-10-28T19:17:34.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Alcalde de Cali anuncia beneficios a empresas que inviertan en reconstrucción de la comuna 19",
+      "medio": "Blu Radio",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZlAxWndFdF9KdTJpbEVHcVJuX2Z4NklWbDc0SklqU3d2cGVnTmNCbU5Sczh4VmVvVWpUbDZVenVVbVR0Y0EtOEtmVXJ5U0hHVm1LNDIyakxoR0IwWWp2T0h0MGNNYlZvM29SeUJiVGVTX2trUmNXTWFlRzhCdnhyNmlhMUZ1dGNzLTJQeGZmSy0tck5tQkIyUkZQbjZucml3cnN0SzdOQ0RISFFDeGRQMmp1V1JFLVliQlA1N0p0dlpKZ1hjemo1MUgzSF9fMUtQZ1pfQndta2LSAeYBQVVfeXFMTmxRUFpDaEphdHJOaWdGMWZUdzRmR1U4b2Y2Q2dHQ2ZqdXVLM0NpMHlHQ1hJRTV6NjN0QVhjWHlPeWRhMXpyZ015MTdpY093YlBqbWNqV2g4UWNSM19GR1JwTUVtdkNYaXBHd3RkaXB1cG9HMmZfMmVkc0ktOUJJRHQwTjFQSmY3T2lMck5GYWVNc3hQVE4tN1VXeVVObzdYMnhJQlJyX0VCZ2xtRnd4UEpOX09DNURZN3JVdmV3QVFyYmpnWUNqdzBHd1h3XzdYdURsaTFPeXRjRUNFajJ5UnRidnhOTGc?oc=5",
+      "fecha": "2026-10-28T18:36:19.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
       "titulo": "“Necesitamos claridad, víctimas del terremoto merecen respuestas”: Simón Molina sobre Fondo Milagro",
       "medio": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGliSnhrdC0wckJlWW9tMkpUbzV5OW5sZ0tsMk5JSEJvdWpLVVJyZWZCX2ZkV3pIMGx3YWRyVHJ0RWZnYlBBSFdGcTdRY3d1TzYtbkc3enJsZVdGajd1UGlxMGNFVFNwSkNTZmFjLXBRLXJLMy1sYWs5Ql9xeUFLaGpfTnJCaWMySXgyVHN6SVg3NXRSZTgyS3VHd3dJQ2lvTWRQd0w0TlljT25JaWJXYWxLY3owMDlJZUQ5akFseTUzVkluQnYyV2pn0gHeAUFVX3lxTE8zbTByamJzSzdmVjB4YS1ZQl9MUG1Rbm5KaF9mTVVmRWd3dkU1UXg4Um1uVlN5SlQzT2FIVFVEV3hxWFRhVHV0dUpiaXVsSUtSYmx5XzNyTDdYUWxEa256YkVtQkRUajR6TVpmMGJxYzVOX1d3Y1JucWhkZmx2TmExeExab0dzaGdmZkVqdE9aczVZTkJIdE92YnVDUnBsMzBiZ0NxTDZzTHhuUm9JZUJFQjNwYzQ1RWtjcjF5VHlFRWM5WkJsdHg2VkZyRFN4cG41ZHVwVkYtZ05zdGhIUQ?oc=5",
       "fecha": "2026-10-28T16:37:52.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Senador Wally destapa el desastre de Abelardo: cero contratos para atender damnificados y miles de familias esperando soluciones tras el terremoto ¡luego de tres meses!",
+      "medio": "Al Punto",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPOFpiS0tmWkFpOWUweGxBZFk0YXFheXI0ZXphRU16V0pkNS1uYkdseXFOTEI3Rm1yUXVwd0U3eFlRODB1elRFTlRLZ1RiQ2F3V21UbEd0T2dNVlJRcUdUb1p0Z3FqUG9lNHNuSkszcHp0bUFjWlpDQnZxYVVyb1lYU2M2dy1CSWdERFA4eElTQjhnR25aemg3ZXhQNjN1QlBzazNoUENWMTBPZlB1aWQ5REk1a1VBSUJ6czdaY0lFZ05jRWFlRHM0bjAxNnkwc051c0hBeFRoSXQtUjg2cFhqcldpOUR3QU9TWWt2d3V1dWpHZnJJOWdpWEhZamVpQ0lBNnEwM3pOVk9Dai1DaGc?oc=5",
+      "fecha": "2026-10-28T16:31:55.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     },
@@ -1567,38 +1599,6 @@
       "fecha": "2026-10-18T19:33:12.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "La hacienda que Alfonso Jaramillo levantó hace 60 años en Pereira y que su nieta debe reconstruir tras el terremoto",
-      "medio": "Las2orillas.co",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeHRyWVE0LVBxLUoyRklGSU4zUlFOVjNwTEdYUGhxMEdNTG4wVG0wUnl5aXBJQzdlX3B1OGplN2Rfd0tBaDVCZENEandmVHktVGRpODBtY0VvSEVOMGdBbUtMbzN5U0tQX3ZMbExTaTNHSUtCVU1UV1pJMmNsMVQ3RUpJMVkzcGhzYmNOT2FxdjYtejVSc0lqQU5mdnpncjhQMnVBU3pZNmtPMFl0d0hEdGlMWnpUV0VkZXlESkJqQU9hSXpZUkc0emZBbkJxM1dleE5TNlBhUUlzWFE?oc=5",
-      "fecha": "2026-10-18T17:52:55.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Encuentro académico en Medellín por reconstrucción de Quibdó y Chocó",
-      "medio": "Chocó 7 días",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQUdnYXZnLW9rakRwdWx4cXlCWXBmM2Fnd29fdnh3MjRKaWdvZ2pDdVBoVm5HeVAxeEswaExhWUJ1c1hESWRrdFlpZUJvWGtGck9wR1pzbTNUZ0ZPTkZfQ3ZXcThEQU40VTVhLS1tRGFXaUlaN3ZUcUFyQlRtUUEzQ0VKRWl6WW80d0hwYVg3S0VYemhkMWow?oc=5",
-      "fecha": "2026-10-18T15:59:11.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "UNGRD destina $3.647 millones para damnificados por el sismo en Caldas",
-      "medio": "BC Noticias Manizales",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1B6UTVvd3RwLUJkTllKcEVFbGFXWWZxazhyeXF6VzNxcUFyaUNXWDV4WExFUU15c0t4Y2hpeEFaM0c5N0xXOE8xbVRUQlI5MF84b3dBUThfS1U3WWgxMzlhQXc5SkdoOUhNemswYUhxRndDTVcxamdHYWVBOU9JUDlMbDkwWW12QXBJZGpPZHdJcDFHRWE0b1lta09Fd0lWVnc?oc=5",
-      "fecha": "2026-10-18T15:37:13.000Z",
-      "depto": "Caldas",
-      "consulta": "damnificados terremoto UNGRD"
-    },
-    {
-      "titulo": "Dos meses después: más dudas que ejecución en el Fondo Milagro",
-      "medio": "hoy diario del magdalena",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3FwY041d2I2UTBlSjlGRURwOUlNY2pSdFlDZ0xQQXJZZTJxSV9iZlFHUjFyUWVYbnh5emRLa3NmWGhzdTY1TTAwMVNRcFRBWi1LTVdHeU4xM0xnQlFMTk14TG1GeFhnb20tSnVWcGFYdVNIVEh3akZva0pFS29GbjhnWDNzU0FNc3ZwZ2VHenpTUWMxbFZsZmx5NVY2ejhQbTFWYlZLNHExOWNjSXlHbm9DczdWSEwzbi1n?oc=5",
-      "fecha": "2026-10-18T15:10:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
