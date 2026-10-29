@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T20:35:12-05:00",
+  "actualizado": "2026-10-29T03:05:49-05:00",
   "total": 200,
   "noticias": [
     {
@@ -979,6 +979,14 @@
       "consulta": "terremoto Pereira reconstrucción"
     },
     {
+      "titulo": "Más de 7.300 viviendas recibirán apoyo del Fondo Milagro tras el terremoto: así avanzará la reconstrucción",
+      "medio": "La Patria",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajZhOWZHR0hza25nd2lsQjJ0cWhIQm1IdC1zVGFzWFh2OVlQcGtBOUM0YXhIMVo5d2U3dVd6SzhmRlFZcVhyMnoyVExHejlfaFF1Uml1UllKdTR1SEpqd1VUNTBxNThyQnFfdGFVUTdtQmQtbXM3a1RSN0dpR0RzdXJzSDdBMVZxMGtGMTl2UjF6SGlIQU14anRDbElRcXRKQzc5UmVhMmRsOXItTi1uQnhYVE5GeWJFMUYtTW1maUo?oc=5",
+      "fecha": "2026-10-23T11:21:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
       "titulo": "De la Espriella anuncia 350 bonos de vivienda en Cali y $4.600 millones para pequeños negocios tras terremoto",
       "medio": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVXl5dTFMMVNiRm1OaF9oOFBSSmdLaW8zNTNscGZ1TDFZRU80ZmtvVWl4TW5vZGdRd3BseTJlT1dFckJLMUtoeFBMUTEwd1BKVXhiSXI5b1FLd0JvTG1lYS1iWkpXb2o2LWZBZDdEeVpOMmc0eGZlYlEtbnRxNDBfSU1GaU15R0dxV1ZCREw0MDcwX2psZmdGbFlwcEJKV1I2R1R5WUQzYWZhZWs5eGpWN1RwX1I0aXhXMEJVUXhIaGd0SU91dVUyWkkzdUlJMzE2VkdJeFNXUzJDMW1fV1ZRX1MtOWV0aTjSAYICQVVfeXFMTUowSllTMXRXNTZNclRfLWVQNU96bWVMQm1fSy1YT1JVR0JoN2UtQjBoUVNpQ25HSXpZWmFDaFlSZnBCaDQ4YWx3WGV1TTdRN240Wlc0TldrS3pjVHhESDJyTmpVVjJXYmxURkd1SHZ1T2txSlhvZFFIeHBXWHN2QVJuc012ZXRGRHhTTGw5OWMzUm9tSnFvczJrREY2U1RYcUVrSzVMYXFOREt6ME9tcEJHZ3l6b3I4cnJwTEdrMXFsaE1RZ3BqWGQzNDlDQTFRZ0txS0l1b3UwQ3V1azlFYlR1MXlSWjF6UkJ0ZXVXUmJad0YyUGFqMUs3SE93QWl4ZUpR?oc=5",
@@ -1591,14 +1599,6 @@
       "fecha": "2026-10-19T07:00:00.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "A más de 60 días del terremoto, Cali rinde homenaje a las víctimas y avanza en la reconstrucción",
-      "medio": "Noticias Día a Día",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wczFwQVE1VDV2czlZWEhhd081ZWdQZlozREVWcXdnd1lwQzlBSFRfVHpVS2V1Q05KUmMtbjhIVndZM25xN3VhLXQ3RlptQzRSbU1SQzFKU3Q4eHh1Q0FJLWFB?oc=5",
-      "fecha": "2026-10-18T19:33:12.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
     }
   ]
 }
