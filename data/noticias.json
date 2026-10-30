@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T19:10:04-05:00",
+  "actualizado": "2026-10-30T01:13:57-05:00",
   "total": 200,
   "noticias": [
     {
@@ -19,6 +19,14 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Gobierno nacional solicita postergación del debate de control político sobre la reconstrucción tras el sismo",
+      "medio": "IFM Noticias",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSW92allvMk1rdENaMS1ZMjJhY3FsODN2RUg2WEowQ2I5a1BYLXZZdDA4aHo3clpJY2xUU25DeFhVZXFRZGFCY1lzWjFOcTkwUnJxSU1fd3dJZWE5NkUwZ0tJWjlQbk1zeHJOakhoRGlYc3hpWG1Md0RJaWVwa0RJdDVIaUxTRmktdjdaU0NMTFFfVjlRN2lYZGVNM1pNN25zdUJiem5RcHA1THRwbXNFcXdyT1k?oc=5",
+      "fecha": "2026-10-29T20:09:42.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Hacienda, UNGRD y Fondo Milagro pidieron al Congreso aplazar la rendición de cuentas sobre la reconstrucción tras el terremoto",
       "medio": "IFM Noticias",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSW92allvMk1rdENaMS1ZMjJhY3FsODN2RUg2WEowQ2I5a1BYLXZZdDA4aHo3clpJY2xUU25DeFhVZXFRZGFCY1lzWjFOcTkwUnJxSU1fd3dJZWE5NkUwZ0tJWjlQbk1zeHJOakhoRGlYc3hpWG1Md0RJaWVwa0RJdDVIaUxTRmktdjdaU0NMTFFfVjlRN2lYZGVNM1pNN25zdUJiem5RcHA1THRwbXNFcXdyT1k?oc=5",
@@ -33,6 +41,14 @@
       "fecha": "2026-10-29T19:02:01.000Z",
       "depto": "Nacional",
       "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Cuestionó la falta de ayudas a los damnificados y el funcionamiento del Fondo Milagro. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb2F2MnI2Nl91ZlBORUlQZURuQlN2Y19uNm9ld05pMUhHdjhiYjU4c1lSeTlLYUtka2lvblVid2NEdFFJZmxIUUswNlg3NVZ2SGR5VHYyWTU1Y1U1elp5a1hJd3I0YkJ4cDNhVThKRExtTXpMNUh5Z0pmMnBhbElNdmhKbDFlRTBjVTZkZ0dTWV8zZXJjOTRmcVRPejU2TVNJbnFKYUh3ay12c1Q3WjU3X0xxbGQ2czhtcnB3Qm9pdzliQl94bWpDY2lsZWpIMkc5UG1faXBnOEppWGJMQmlhbzg5V0NjNUxE?oc=5",
+      "fecha": "2026-10-29T18:48:35.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Personeros debatirán en Pereira cómo financiar la reconstrucción del sismo - Emisora Atlántico",
@@ -91,12 +107,28 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Piden arresto del ministro de Hacienda por presunto desacato en caso del Fondo Milagro",
+      "medio": "Crónica del Quindio",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTdGXzllQWlWZU1MTXNIdEZoVFVXZE1HVFF6dUFuTHlXNl85VV90WGpCaEhEWEl0OERMdmUyNkcxSk5kckY5SDhMQW9jQnNudkFTSVRNN3lvVXRZRXBQZnBZdjI0bzF4bkFwMm1qRG1BOTQ1VW5UT1M1bjFxM19heEpmbjN6YWxRdFNqOUpXaW9ZRWtuSWlVcnZLS0VXMk5XYnJoaG1KYnVvaTFMSGNxSUFpajNXck1aRFJfVXpGV0pHZlNtTnJCUmF0MTNrZnh3czU4?oc=5",
+      "fecha": "2026-10-29T14:48:18.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Tras polémica por su presencia en el Senado, Matador pidió explicaciones sobre recursos del Fondo Milagro",
       "medio": "LA RAZÓN.CO",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFJYcmNuOW81dFE4cy1EZkhIdFp1eDZuM0dvcmxldzUyNFJlV28za205RFdtQ3p4SEYzUFZqbjZBSkVmdXZSQzNfS1lzN1l1MmlHMk5oTlp5NXlDWXFwWjhQb3hiQnJTR2M2c0RzQXpvQjk2LS1VSS1Sc1pmSzd0dFdfU1c0X3BFVGtjS09MUE9uQW9Ya0NXWm90Z2ZXbG9vUFRDa2E4MzhqTHdENFRtaUt5VmM2NDkyX3VrcVJ1U2R5dw?oc=5",
       "fecha": "2026-10-29T13:59:30.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "La iniciativa busca atraer a más de 530.000 asistentes y generar una derrama económica superior a los $800.000 millones para contribuir a la recuperación de la capital vallecaucana tras el terremoto del 10 de agosto",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMlVCOW5tUzB2WjRjM3NmdWdHMEN5V21sS0pFaDBTNFNwSUpHY2dMZnZZS2VjWlZ1TjA2SXYyS1FrekJwaW1WdXQtZjZYbTN0akRrZVNmY05MeXVtTkJ2RF9IQ294eDdEaHRZalR1SnA1ekdsWWtyWHFlZnlzOFpNOHJqRVhFR3pmVHE3MUQzUTlUdlZJZnNPNG5DWVIzR0FwOGVLX1VtOWEyVG0wQzN1MFFISzQwNldhU0VQdVJEYXpObk40Snk5THktaTJoNE9tS0lfbGNWS1AxdHBhdTBxSUdhWEM?oc=5",
+      "fecha": "2026-10-29T12:54:53.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Cali reconstrucción"
     },
     {
       "titulo": "Risaralda insiste ante la UNGRD abrir nuevas inscripciones para familias afectadas por el terremoto",
@@ -153,6 +185,14 @@
       "fecha": "2026-10-28T21:40:13.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "El Gobierno pidió más tiempo para rendir cuentas sobre la reconstrucción tras el terremoto | El Colombiano",
+      "medio": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVE4S19XcngxQXVMcWpVYl91U1JndWlQc2FxclpMdmE2Wm10QjlFYUxLT19maTVGME1RZF9pRzVGU3M2VTVyRkVnV0FEVmhhM1NTMlc1WlJLdER4S2FoVVlRZ28yc1B6eDVwMFZORjgzVEcyNW5CSnk1TFRPcUpxa1B5V2Mya21xQVQ3QjFoMWlNY0RaWldpcjF2eDBKTTZhQVdwMG9FdkU3cFBONjY4WDFrTkxWTWlFN0ZoclRIM2UyM1RU0gHKAUFVX3lxTE05REZEcWtrMWxMZ2tKeTZnNmZMY0NYRk5JaEtzWmUzWHNsUWxLRXJkZVpKb1hxQVZ3OXFmRzBySUJJSHFMSlgySm9zMm1Iemd6V2hzY1c4ZGVNb1ZWZHo5NkdqT2lDbHRUSndBS29XQ0REbHAtVWdMcGZGaGtDeXNpZFpZTFNRTnVOMUlhd240Qjk2SXNjdmtVNjJiWlR3cTN6aFQwSElmN0NGTndIZ1MyU3lvT3JjUkd6eklzZUktS2NOY29wTEhVdUE?oc=5",
+      "fecha": "2026-10-28T20:59:11.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "El Gobierno pidió más tiempo para rendir cuentas sobre la reconstrucción tras el terremoto",
@@ -395,6 +435,14 @@
       "consulta": "damnificados terremoto UNGRD"
     },
     {
+      "titulo": "Cali avanza en la demolición de 16 edificios afectados por el terremoto, vea las zonas",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9scWdGRlAtWTQ2d29RZURDU1pQWjIwaF9DVE9SdHdGTmd3UENabl9YYzRyYUE1NGoyVjhWaVd0cFZkcUNVa19xV1piSmFWa2lncklsOEFmeEI2UkhBT2lXa0tJNVl1V3Nib0lUdGtUcTRuSXFmV0Jj0gGCAUFVX3lxTE9QOHM2YXF2XzdUX3U4elVuNVhTMTlnMmw5T01NX1Y3NjEzcEV4N05oVHNSTjFjRmp3eHdyc2VTMXowN3hpZnd4N2FobVJxcTR6WDBSUGxwa2Vkb3VFVURhRmlQMkNCVmlJdUQzbFNGQ1lDd2VaSnlvbko0MGhGV0FGcEE?oc=5",
+      "fecha": "2026-10-27T12:00:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
       "titulo": "“Los recursos han llegado a Cali, Valle, Pereira y próximamente a Manizales”: gerente Fondo Milagro",
       "medio": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXZWM2doaGMwel80a0RrWi0zWC1rY2VnY01YT2VuaTFOYnNDVnQtc3VIbnNjN080bkc2WWVreEZldmgxT0hMY21EX1RScnduRkxxQ0cwRU1GQmIzZl9qT1NWWkdtaWtoWldSYmFKbGxYd3pMVllPM0NSbTZNa3FFRXk1dUllYlY2WW4xSjhGNG4xQXR3eW9ZVVJhZlprak1aNE1WQXdxQmJzS3piSUhoT1lkamoyNVNQRU1jRXpEV05YTWQxd1J4QtIB3AFBVV95cUxQM2RZZy1lNkk3N0xTT2pEMHBOTnBhakpNa1VNdmVfbFBJaHBoYlRid19nUzNMMk5mNTF1Q1ZpcWlZdGZzVzc1M0tldHlOaS1HUGY4Q09YRERxX1RrUHhZYVFac0VRWWRqUDBRRVBwUDJpNlc4S3c4cjNlQVJtQ3ZKeGVScWg3UzBCeTBZQ3NIblduWWx5QmZuTkxsanZGRTI3X3F5dTltNkhBck5lZzZfZ0kxY0VnbWs1WEpnd0JWQnJYcUVLQWVjWDBrUTc5U2tmbFZBYllpU0RRRUFa?oc=5",
@@ -576,6 +624,14 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzhWbnhHQ0VaY2dEWjlEZFJUWkpVU1VNa3hhLU9NNS02ZDJJeVViRVg3dmpvQ1JhWTZFWUhraHhlR0RLMnZPLXVVa01uN1NkZVFCZ1ZDMWdRa2RRV1ZqbGpyU28yVE1LaWFBSzFKSmNqY2ktSmFKWHV4bEtVbHFzTHNXV043NnN5Zm12ZFRqc29YSGvSAZ4BQVVfeXFMTlR5RWN5TWtPcmcyWkhaOVpDUkZlbU5wQVk5cC1NT180WmU0TnVUclJSZFpsNEZYNDFjYUFONFlNNlF0TEVENHZKTW5JSVVrQzFaWWdvR3pza1U2YXNDNFVXQklONTVkZ09vaGFyOEZDOXR4LTNNVnFtZ0hJUUFLYlJhdmVmZTU0MS1YRXNZZ1M1eFp6ZTdhY3hDeFpjWXc?oc=5",
       "fecha": "2026-10-25T09:30:00.000Z",
       "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Vatia dona para la reconstrucción tras el terremoto",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2k0RFFmSTdFNUpEcjJIX2ZKQXpEZjhxcEVfbHZmdkRoVnVWSGNqU1p1cHJ4em54RURMUXRvWUVaZ2RwdlppOEVKNEtvaDlCNHJjWVROM3NMWEdkeDdfVEkta0ItUWh2RktkM0FtdjRhSHRvTGlEU3dVWnAzMEItSU40TGVlbzF6VTJNc1h6WXNPVUJaV2JDdGNhaUhUazh3TmfSAawBQVVfeXFMUGZNNmlCb2dheUtmSDFhcVRTQVJhSEhSZHFUcnBVZGRQVFpKekpyRXo4Nkc2aDJfR3g1UHlHcDhXalAyUkd6WF9VTnBkWFh5dnltenFHWjFhd3BqSWZpdzAyR0R4a0VkekdMNjRNM2piRHVsdkVQaGlhRU1vcHNFMW5ZaGdyOElOdDdDZllPVjI0b0c4Zmo4elF3N19QNHhNZjBOdHRqX1VKV1pkUQ?oc=5",
+      "fecha": "2026-10-25T09:30:00.000Z",
+      "depto": "Nacional",
       "consulta": "terremoto Cali reconstrucción"
     },
     {
@@ -1543,62 +1599,6 @@
       "fecha": "2026-10-22T17:12:15.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Presidente estará hoy en Cali con agenda centrada en la reconstrucción",
-      "medio": "El Tabloide",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZU9UVjdBNVpSUmpHRlUza0xkRXk1MmRZWGpza1R4czNCUnpJdlk0Ry1heUtndlpPb1lUeTNBVk9RUXdDd3VwUnRjQ1ZBN0dXdjBMUklFdW44Qk90SklEaHpuUThMOEJSVVMwMkpxRS1xOHNLRDBrLUVGZVJ5SklBLVB1RFo3MkN6Q01yWmFkSjJOTU1FWDJHR3ZRMnR3dw?oc=5",
-      "fecha": "2026-10-22T16:59:50.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "El Fondo Milagro iniciará demoliciones en Pereira con la presencia del presidente de la República",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSmhCMWJfQmgwdTd4STFpMkdGUzIyU1J0VkFNcXM0R3NtSVRTQTYxczFNSi1fei1lUEFvdTh1dEFQWXROYXZ5aGxDZDFWaEt4eUlOWU5ZaXlhWktrVEMyRlV6UlkyWGMyT2V4WF93XzgyUUpyTi1JZURZWTNvOG52Z2xwYmF1TV84QjVVcmkzSmtoZ1pvRjVKRmdfb2VoZkxPanhhVWdUVWp0ejdNYnBNZkdkd0I3dUQ2RVFxQkNxMHA0MW1pU0pqZGVvOHHSAeABQVVfeXFMTXBqa1pfNldrQjZ0WjNjS3V3eTQtVzRoVTgtbktsT285TGh1bm9YVm9TMzBvUGVVSk9vNlp3VEVFWm1CaEI5YUEta29obGlhbGFFWlBxUS1iTTVrYy1HTEtIUkdfQVI3VTBweW5TMGV1VU5yNnEzbGQzdGhlM0dnUzdvRDNYMzFGdG14dmwydGx1NEUySTI5bl85UTdObEE2aWd6VjV2OHkwaGpPY09hMlZ6UllrTnIxeG5DQUJBMDdSamk1QlRjNkZ5ZmhHTzVjMlZ6Q24wSWo3c2VYeHlvM3Y?oc=5",
-      "fecha": "2026-10-22T11:01:36.000Z",
-      "depto": "Risaralda",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Soldados del Ejército en Cali se capacitan en construcción para recuperación de colegios y comunidades afectadas por el terremoto",
-      "medio": "El País",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOWN6QzVBeEdZaWNoWVdlUXBXZHNENGFldGdjMjl1NWh2UFZrWUl6V3F1YmFMS1lnd1lJYThKWmhOWUVweFprU28tYVNFQkYtQi1BTE5VZFk4cEVOd04tUHoyaFVWSmo0STd6SVJYQTJFdldmQU96ZnpJRzJxTG1RS05GVXRhb2N4LWM2alY0dTB3NjB0T1NEX1NVUC04UkN6T3JSVEFEc3BvYXJWYkNjNkduSERZOGFlQnlTdlRiZFZsUDgwWWNlRFUyaENTU0g1OFJzR19NVWJVenpxT21NSXBrVlZLQTlZSzY5dk5BLS0tTWY0aVZtZmY3SC1RdkHSAYQCQVVfeXFMUFREbjJzQjFoRnBOSnNlODRITzJ2Sm9FdC1NQ2E2Y1YxLTZUcENzeDZESGZ5ZWVLdk5vTUF0YnctUEtqd1VKUUE3c1NueG1jM2RxSjB1T2t6R2RPMmlseFdUanpSRU9jZXY2OWFybW5tWHdxVFdMSXM3U2s0RU1vODJyQ3BqS2tSMkdTZmQ3WmRJX29yU1BSYmZndWc5cWNSWkdTOUl0bTRGYVFxcnN5bjdyVjFnMWFlQUdBekQzSm1RZEdTUTl4RVk0anpTMUs1MmE0Z2RXWHNlZU9FazVxX1lUaWFQdjk2M2pzZmRRbFdvc21JRjB0R19lR0N0MWkzU0xhbGE?oc=5",
-      "fecha": "2026-10-22T09:30:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Reconstrucción en Chocó: Minvivienda brinda apoyo a 11 municipios y entidades tras el sismo",
-      "medio": "Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmMwanl2VEJoQ25ZMUo3Vi1ha3QxSTdUQkFscXo4NFVOUE1zUkJ4aFJKYXAtMjRISVM2cHlCSE5ESmRUZzEwMW42RTdJU2Z5R1VGNFRhUjBFR2hIWmNiWElNUURPWld1YW5vRWM4WU85cmZWR0ZzRmY5bGtmVkltYWZwNG42YnZJazF0Z3BOYWNjN09PNXFoWGpQS0NveFRfUi1tdEJzbDZZMWdreXM3SzZZREVsNExxbm1hR21Jdm9tbldOY2tOZXA1YXBLaHV1S0d6UGtpTjLSAd4BQVVfeXFMUFV6VUYxUjI3UWp2VEF6VlJLYlE1ZUFxeFIxeFBPTG5vRHNua01SV1RNUVlRakVYRlNaZG5WOGl3WUVWd3hwbnZYY0FuUkVUUW44UkRDZVFhX2FjNHVLQmpyaVNnbzA5OVJqajMtUnhxcXg5R1diTGVha1ZIbFdDakFSeGRIMm1WZjFJV2lmRDhqajJiT2NKSjJSWnhXcmNzY05hLWprM2RreERoZFllUjNpcHpKLTF0WklmWTRIMFBnVEZHQ0c5MG0wbUVyX2Q5bzkxN09DN3EtYXZZVmRn?oc=5",
-      "fecha": "2026-10-21T23:39:46.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Se prepara un programa de mejoramiento habitacional por $32.000 millones para atender inicialmente cerca de 640 viviendas afectadas por el terremoto del 10 de agosto. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
-      "medio": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNVZ1Y18wU0xZaW41N2huaFYtaDhYQTIyUU5acVZ0OEUtVnJGT1RIc3JUMXpMSkNtNjZIdnM5SlRsckhQWS1ON012bDhLMFpQb3kzdU5UOGdqME9uOVVManVEdkI0dUpOYWRJNGl2R2YyTU11WF9LZ3VCS1FzT1lhQWlpckJQTEVzOVExdW91d3BvQlh0LS1CZko2T2V2bW13QTdPbXItQlM3bTcxNDU0a0dycjdFdFBYZWdyV01rSFdZTjROOXRnTUtxVlBiV0ZtUFZDRk1yekZEZWJic0xGWGdn?oc=5",
-      "fecha": "2026-10-21T23:06:25.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "El plan para reconstruir El Cairo, uno de los municipios más afectados por el terremoto, sin borrar las huellas de su arquitectura tradicional",
-      "medio": "Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPSl90WkoyZFZjSy00QzVvaTFSSlAxYVRnc3NOLWZmTUlxSXVOUTU0aF8zQ24zbGF2bWE3dy13QTBoOV95MU9samU4WVVHY29weWhQaUZuU2lKLWJwaEt2bF9fYXhJUWQ5ZkpVMDFqc1h3aHZHR1hLMFpyQUxacHptQmtGQmE4WUZlVFB5SDJEZU91VHE5Nnk4Z0Q3YlFYdTA4NWRIaDJRazNOaFc3Nm51Q1RPU1IzdHQxN09Xa2dlOU9lN0NIc0VfMXV5T01Ld25CTW1uRlFSVHFnMjNrNXp5YlFCWGRBV2psOWhBMmRSM3hxN21ndnllbWd2UDFiY21rM05pNDV2VVBFTnJOMGxiVEZickp0QlZKUGJEMWhfQTHSAaYCQVVfeXFMT2JGUTVVWktpY3ZYbkgycU5tTFhsVU16TVg2ekJ2QlRuclEzSjlkcUJEQjQtc3pjdi1jaTI0NzZFUm92cFphVTFqcVdVVXVxRVl6THl3WXBKNXgtbkVPMy1qSjRiSGI5TmhHcWJoeVV4V2lGMExuamhweGFyVnlkbkxoNDducEFYbWR2azZxb1N4ZEZDV2x1cm9IY2ZDMDVOblZaUUVUYmtzbzQzYlJtU21jN3dzRkNiQmFWVG8wTjNjdkNpRk5LSk5fc2hES1RVNE1UcjBpM2ZNNkMtTXkycjdTeDZxYWgtZDJXNEx0RVpRa3IzWE42eHZyN3ZwT2NISVpuUm1HZlBFWWk1eHBzREtoaFhBM1p4ekVLSFlSWmtWX2pGYmp3?oc=5",
-      "fecha": "2026-10-21T22:23:34.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Terremoto dejó más de 255.000 viviendas afectadas y obliga a duplicar la capacidad de construcción en Colombia | El Colombiano",
-      "medio": "El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnRVWlR3WEFDdGFnLUNWaGh2S2ZRaXE1OGR4cUxtaExuV2h5N1MycU9MQ01DWWpoNkhGcnVPRXB1enhXTFJfZjJUd2oybVFzbm9ZQ1FJR1Awa3FxZHBUZWV1dVRTVlJhU2huc215M1NMMGlCaVpGd21ZMW9HcDF5VHNra0NSX01VMktlUFh5WVZUbnF3b0ItR09JZjNRb3YzZE1yeERwNGlVZVFGZmpV0gG0AUFVX3lxTE9XOTlwbmUzRUlHUTEyRW5tY25Fc21Id1ZzVldkLWYzaGhTdmt4X2R6a2g0Y1dFU0hLMlRyTEhTZmo1TU5sNUNYVnFhUTY0MzhFSnVDU0JRTE1YRUpQMnpLbEpYWWt6cUVwWVl4djgtcGozUTZxdXd4bkU1Y0lIeEVJbzI0UjdncThPQVpJcTFJNjZXTnViZ0VhWTRBSFk1bGxqNGtqUE9zYjJKZGpLcElOdFVlOQ?oc=5",
-      "fecha": "2026-10-21T21:40:29.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
     }
   ]
 }
