@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T01:13:57-05:00",
+  "actualizado": "2026-10-30T08:20:15-05:00",
   "total": 200,
   "noticias": [
     {
@@ -120,6 +120,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFJYcmNuOW81dFE4cy1EZkhIdFp1eDZuM0dvcmxldzUyNFJlV28za205RFdtQ3p4SEYzUFZqbjZBSkVmdXZSQzNfS1lzN1l1MmlHMk5oTlp5NXlDWXFwWjhQb3hiQnJTR2M2c0RzQXpvQjk2LS1VSS1Sc1pmSzd0dFdfU1c0X3BFVGtjS09MUE9uQW9Ya0NXWm90Z2ZXbG9vUFRDa2E4MzhqTHdENFRtaUt5VmM2NDkyX3VrcVJ1U2R5dw?oc=5",
       "fecha": "2026-10-29T13:59:30.000Z",
       "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Cuestionan lentitud en atención a damnificados del terremoto en Dosquebradas y demoras administrativas en el Fondo Milagro",
+      "medio": "Diario La Libertad",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTR1VWlERXRBcElROGs3emljbHRyWWV6M0R3eW1OZGVOd2o1d1drTjlUX1N2MWczdVdoVGd1b0RURmFIdDUyS1VjQmxFODc4V0pBZFJTQ05uUGpwdVlRWDRLMHdUZ3dMZTlYdHducG41V2paQXp1RjdKMEF2YUIzRjRkTS1YOHZlSGltMjIyN0QtV192SDVaQjJ5bFdSa0xSamZUb2JWcktwYVVzdTRHcURtbnlJWFN0T04zZkJ3TjJOT2g2dU1hbVBXY2FCVVdxU2ZJcjc0YmRiOUhPVkFVXzRPVTcwcG9Qai1wWGo4c0RSWjZaYWc?oc=5",
+      "fecha": "2026-10-29T13:19:47.000Z",
+      "depto": "Risaralda",
       "consulta": "\"Fondo Milagro\""
     },
     {
@@ -1589,14 +1597,6 @@
       "medio": "Diario Occidente",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkNzLXo4SThocDBTMGxTVi1QOE5pbFhvZEREaXg0WHZKRnZMRzhqem1haGpqTVdTcWRnZ3BZSjQwNi1jVDRVX2VMZDRQTEJJMllBUGJZZjBjMzdxX1pnQUFYak5vWjRIM3BQUXp1WTcyU0o2eXMwbzRpOUFCU3lyejA4NGFEWlNn0gGTAUFVX3lxTE45b3Fady1id1hDRkd2WkhTN000eFU4dGhia3RXV0hMbDU1ZTRyeTRLeWwwX2drSXl6NkFKMzFUUG5ZT3MwaUx6bnVUZXNGUEhDTEtqNjVMNGdsbnVHRk03MnZacHo3aXRpeG83YndFNmFWLVZzbS1Cb2g2ZExldHEzOHlacVpycHBpbFJkWU5FOWVfNA?oc=5",
       "fecha": "2026-10-22T17:39:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Inicia reconstrucción del colegio Nuevo Latir en Cali tras terremoto",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUk0Y1Ztc3Z1NjRBdUJhQ2pNVzZyMndJWnV4RWVmdnFIQWxlakNGclRucW1abEIyRjF2YnM4WEJxdUZiU0VRVXhvSzkxNXpFTnN5YmxjZXo3c09BTDYtVzYtRjVWLTNrWEZ4VUVFTlNtMkZqVkU4UUhYTXJrT2Q0M2xPS3RPbTE1SmM5VGVRR3JMM25KQ1otNlVPb1EzcV9vdUJiT3Vn0gG6AUFVX3lxTE1WdmtTMVpaMzRSckxFZFZ1X0txTzJRSlFuYjdEZ2FXbXhtbUtmTk02Z1ZKWEx0bExMdDlMbGVtMEd1T04tX3JrR1A3eGl1b3liVUNQZHR3NkdJNDNOdkNmdENYREd2N19jUEo5UUNVdXpnLXNnQ3UyYXUtdDFPN25KU1BWZXZrVEZ0SlJWVVJBWXZiTGktbEFtbXZXYVRUUzB2QTNtRXdkY1JQOXI0d2ZYQURuVXRPUVdXZw?oc=5",
-      "fecha": "2026-10-22T17:12:15.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
     }
