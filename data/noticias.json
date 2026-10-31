@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-30T21:02:21-05:00",
+  "actualizado": "2026-10-31T03:40:47-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Halloween en el Fondo Milagro",
+      "medio": "El Espectador",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1ZhTzNiYm13VmRld0Y4bUVrUEVsTnhjRU1NVmJILWhRZHI1R09Yelp1X0FkcVRQSDdZTUh5OHB4bFBSQzdKekxFTG1tZG9zeWEtLVlSOWRyRHQ4bk1kMXNZZjdtXzllc1ozZGhXaTBkX1FHemFZd2NZZFFhbGFZNmFIYmtnYmlWeGw1NHBEc0RHOVVY0gGoAUFVX3lxTE84R1ZOVm5FZDZUbmF4YjMyV01udDg2ZDNCRnNoTGMzUmJlanpGb1pIc0RDNXBYcTJNRGZvb2VXUkM4RVlmcExpU3I5b2VnZEd3bER1LXZpTENWcC1jaHdSRi03T2x0bFNjY2N1NEtLVkU4eHFlNG1PUGdsV3JxQTFzS3JuR25iZGVkdmRUOWtvQVA2eEROS1BZM0Y3U2twWXFKSk5wdHFQag?oc=5",
+      "fecha": "2026-10-31T03:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
     {
       "titulo": "Cali presenta hoja de ruta de $24 billones para su reconstrucción",
       "medio": "CW+ Noticias",
@@ -73,6 +81,14 @@
       "fecha": "2026-10-29T19:58:41.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Damnificados por terremoto en Dagua protestaron en la vía al mar: quieren compromisos concretos para recuperar sus hogares",
+      "medio": "TuBarco",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjdWczlfRFlBSEk2MkVkMkNLQ0VJYXg1NGd6ajFrbHdVQlB3TkFRcHh6M2Y3bkpsMnIwZ0pfdHdmNDZWbUZyTXFjb3FkcXpLbWVCVGJVTkl6QkkwTDJ6RTBGX3YxSDByeUJWNWhoVjZCZTBvck5SNXhqSlZjczk4LTUwWFBUU3JnRmV1Wm1hVlNtd09fWkJ5c2Y5bw?oc=5",
+      "fecha": "2026-10-29T19:44:32.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
       "titulo": "Departamentos afectados por el terremoto del 10 de agosto saldrían beneficiados. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
@@ -369,6 +385,14 @@
       "fecha": "2026-10-28T02:42:12.000Z",
       "depto": "Risaralda",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Una casa con corazón recibió una familia damnificada por el terremoto en la ciudad de Armenia",
+      "medio": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3BmVkl5UzVVNzFYQ2VzelRiNzk2QkliVno3ZVhLdTlRZURfMEFkYmFYUWNmc3BLeWlrTUVZU05aejBRZ0dUMnVkdVVaVEdkV2daVE1rbnh2cjVhZFNMaURmN0xYdGZic3ZJbzgyVkNJa1Z6TVZuNEpPZGc4RmVDbHBWX2FoWVlQd3JDaTg5cnpNdkN3RFdJSmRoOGpFeDFMV3F0LWdwc0tPdXhUSEFFemNkaEVNM08xRl81VUt2UlZHZWdYMW1n0gHbAUFVX3lxTFAyLTJZY19TQ002Y3NfemFWQnBNMFkwSlAwcnZEclRrNi1td3JSVjVpSFRDWkZjZkpORDRURDhOMWNVYzFnc0c5aFVYbmw4WFNqMi1EMGtwLXp0RjNfZ2U0MmQ3d1ZpNldBWDZMcDRKc3AyTnpqV0hRcE1WSnZBQUNtZkpkcE1mUmRoVmxrX0JTaVhVQ1JSZk8zZE5SVXhPUUh4MmhlRWpRdEpyV2pEbFlteUoxanByY1QzT2JoOVdnZGdNSGZxTWZpTTF5eGticW1tdTVyTy01Ty1BZw?oc=5",
+      "fecha": "2026-10-28T02:04:16.000Z",
+      "depto": "Quindío",
+      "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
       "titulo": "Madera decomisada por tráfico ilegal será utilizada en la reconstrucción de zonas afectadas por el terremoto",
@@ -1575,30 +1599,6 @@
       "fecha": "2026-10-22T21:03:31.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Alcaldía de Cali asumirá la reconstrucción de las torres de Chiminangos afectadas por el terremoto",
-      "medio": "Diario Occidente",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xTlg3MExOUDZNU014QVdmeWVkSWpBMVItTTFGV0t2dFIxOG5tOFdNNXloZVB6dVRXd1pnbjNuUUZEeER2eWJjWkE3dEFLa1k0QzBQTEpfRTE1V2Ywc0FXMzljRE1XeGJzdFdYQjJ5dV9jaHAwNDBaZzhrWV9mWmfSAYoBQVVfeXFMT2x4VXpEQ05qazZYeWFsSUVnWjZCVjFnRXE5UUFVckVmSjBvZHdDR1AwcjV1bVlzT2l6TzJ1QTd1azU2OXZNYVdxY0Jab2l4dnVKa1JFeVpDYlI5ejRrLUpIRVFrNlBuYklKUmlSRm1qRk4xQ0UxWS1QWWVsaDBqX3NJdjJaWU1FY2hn?oc=5",
-      "fecha": "2026-10-22T20:31:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Reconstrucción de Pereira: presidente anuncia recursos para vivienda, comercio y cafeteros",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVU9XMF9OaTZsLXUxZi03bDBleEJRemhSemo3YnMxc3pNOUJwRlpBQTluckZsaVZTc3k4d3JWZVFCNTBxQUxLTVBzVXZzNzczOV9qMEZOS0hmd0c1OGU0c3c3REZYeW56QXR2TklTSnRuOERxaE1IOUV2S20tR2RvQXJGSXZDTHBJQlBzdThNZERJZllrUzUyT1VxVWowV3JLbTktbTY0MEc2V2lxZVpXUmlOUmVqbjhoQzJrTUkyQTjSAdQBQVVfeXFMTVBVNVBxdEFWNDUwclZsUXhhT3dFMndGZmNCWEF3Z2pwSC1JQXJZYTJ3dmtBX1p3Q3RVbTFKTzc1WHdDM3lqQkVTNkNzLVhPVjBmTFp5Y1h1UURCXzhJX3l5SklVZ2FnRzM1WDFRUklEQWVBbVF2UU5udWhiMmZBUEFVMjJuaU4wUGg3YXBIZ2lfMG1oOTlscjFGbDhualhtekd1RHdMdVB4MmdrQnVoY214TzdTY3c0dDBqbUc1U2E4MjhHQ3lhMWlocGpJWXB0bEE3TUE?oc=5",
-      "fecha": "2026-10-22T20:08:18.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Presidente De la Espriella anunció desde Pereira el inicio de labores del Fondo Milagro",
-      "medio": "ELHERALDO.CO",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS3pOX3M1cXFBZmNSb2NOMkxoaDY4dk04LTAyc0dyRGxlZnZOVGhaN2RxTFJzQ2NoWjdjUDZnZXFkN1YxSVR6aDBhc0hGWU51ak02T2JWVktWX09qUlBTb291czBwRmJ3aTVvVnJib2Vzd21FZnB3eE51RFUwMEVzYWc2TVMxTkFoOEdoYjMxT3VGZXhIU0NSdHhJam5CN1MxTGtiQ0ctWkhCRXVwbTFoZy1BRGRPZURVakNDeFpnRFlPOVRtakxFMk1EbXpfdw?oc=5",
-      "fecha": "2026-10-22T20:03:25.000Z",
-      "depto": "Risaralda",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
