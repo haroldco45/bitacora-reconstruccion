@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-30T17:48:09-05:00",
+  "actualizado": "2026-10-30T21:02:21-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Cali presenta hoja de ruta de $24 billones para su reconstrucción",
+      "medio": "CW+ Noticias",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3pMTDh5T0tfUmJDVHlpRkZjdWNhcWxnYWJqZ0Q1c1JHTWtrckxzUXgxTFRSNzhlc2ZuY1E5S2xjdmNkVExqYUhWRXZqQTN6dzJNQ2tFVEtZaUE3azBTcV9SSGZ4NEIzLV9vWWxVaEk2QldVc0VZZ3JheTlGOGZBZ3M2MXNuTktYeTZYOWVEcnRYcVJnbURN?oc=5",
+      "fecha": "2026-10-30T21:59:36.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
     {
       "titulo": "Reconstrucción de Cali: la ciudad presenta hoja de ruta de $24 billones al 2030",
       "medio": "CW+ Noticias",
@@ -1591,14 +1599,6 @@
       "fecha": "2026-10-22T20:03:25.000Z",
       "depto": "Risaralda",
       "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "De la Espriella habla del plan de reconstrucción tras el terremoto",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVhSTWRteVBIQTFwRTJoZ2VvczdSTFlMQjZGbkFzQ2NTX3RrMEYyYVRCNHlRZlJ1cWE3UE5tM2JHWnJUdXM0b1M5SVJHT1gwbnp3bTRsd2hlVF9meGV5bmprZERQcWtfc2JIQlFhbm9qdlpLMVdQUXBzT3pJV0oyRXZtRjQ1MGczd0dyalVSbllENTdvV1FxR01ydGxUa3kzbjduYk1nVnMyYUNZMk5hTGhzRmZVZw?oc=5",
-      "fecha": "2026-10-22T19:57:24.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
     }
   ]
 }
