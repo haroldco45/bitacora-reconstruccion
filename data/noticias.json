@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-31T03:40:47-05:00",
+  "actualizado": "2026-10-31T10:05:56-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Risaralda insiste a la UNGRD ampliar el registro de afectados para las familias damnificadas por el terremoto",
+      "medio": "elexpreso.co",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTy1GZGFMNnhBTTlCeDAwYzg1Ni1vZ0dhbG00aEVmSEtFVER5bXRCblI1ZXozeWdmeFFtTE02cmhJdnpORDJ0Sk45c0tyaUtTbGt2VENKSEc2VHZWUzF2b3BrZm92YWFxRHVFRUZpZm1WeW9ZMzBHdXotOXBISXN5ZGVRQkZuOU9YSEdwUExmZ1N3UEJCYUt4Z3FfOF9JR3JmQkFubmc5Nl8wcjV2dy1YLWRRSEE1OHVDMFhmMEdSMk5YMXBTYTBXMi1mOEdEenVT?oc=5",
+      "fecha": "2026-10-31T15:00:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "damnificados terremoto UNGRD"
+    },
     {
       "titulo": "Halloween en el Fondo Milagro",
       "medio": "El Espectador",
@@ -1591,14 +1599,6 @@
       "fecha": "2026-10-22T21:19:00.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "“¿Pero cuándo van a empezar?”: Abelardo de la Espriella respondió en Pereira a los reclamos por la reconstrucción tras el terremoto",
-      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMS1YQkJpR2NaaTYwb1pSZWFuTXFmZDN6cHlXR1Zxdnh2OE1uME0xSDY5ZTM3VDdmSktqUUZMT0VsaXI0YWxpUEs4UmFYN3lTckV4VHE2cFdvSWpWVVJJZXAwOV9qbF9GeUtZLWQzX0NrcEtwcG00NkxKSDVnUkhadWJqS1FLbjRSaFpKcUZpam5XVVBZb1BQTFhkb01EZlNVdVpVUGVTdk55SHFkVzRzZE5pMFZSWWVMNzJVaEpSQWU3Nko5X2lQckw3MnVVRHJRRWh3NnczVGFZR09XTDdQTmtwbHBJbG80LThSVmdnX3pud0VvSWR3OTRmTzY1Rm52eVNtWWtySVhneURuLWpj?oc=5",
-      "fecha": "2026-10-22T21:03:31.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
     }
   ]
 }
