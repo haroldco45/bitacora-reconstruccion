@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-31T14:27:15-05:00",
+  "actualizado": "2026-10-31T17:44:17-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Venezuela recibió 87 máquinas y 1.800 viviendas de China para atender a damnificados por terremotos",
+      "medio": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObHJabTVibDQ2RG9zTU9Sdm1UMVJpdjAzN0lFZ2VxZUJrS0dGT0NLcENmbWZSYUFGbGNVYkdqd1AyMFVwVUhDNkRTS2lVV0pzZ3o2M19TX1JzT2ZSQVI1YmlqUHZWdUNnR1JZRGQtaTc0V3RNUV82UjJZMlRvQ2IyVThkdVZGMmtpMHNCNVNhOU1mZXRvZHBxUXlIR1VEeVNtQkUyQ0pTLTBLZjNwSlVYQjBjUHpfU3pyVnBKbTNOOWs1elNfalcxdE5odl9hZ9IB4gFBVV95cUxOS3piUy1ydjlQWF9lSHByT3djVmJTWmIxYXNyM0tscXpaZmY4YW9lZnBoQ0VPbkMxUHYtY25rU1NtSjVPdzBlZHNFN0cyT3lfNzk4VkJtUmF4RzFFR3o0YXc3ZEFvZVpmZ3ZBem9lS1JiS2U2b1NtS19qOXhCSFEtRmprRlJOUE10TUlsUVZzN2JxTlBqUk5EWlBkOEtMei1HTWlUUzMxT0dLNDJWXzNGakhyek41cnYzMkMwZUJFQ3BkUlB2LWNaM0daYnRXV25iNHdwRkJMWUlUcTVDNE5tbWF3?oc=5",
+      "fecha": "2026-10-31T21:06:47.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Primera dama lleva viviendas a damnificados del terremoto en Dosquebradas",
+      "medio": "Canal 1 En vivo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTENCaXdrbzIya011NVFTcHpFa0dPaDVOSnFwTU5MczMxZ2I4Q0xaOS1oNlhVaXJ4eTY5UkVPaWs4UThFR2phd1BoaWlEV3hYSS1xaVNRajc1ZU4xdmhmVDZzQm94Wk5WTjJ3WGk4cExvbEM2aXl6bXJrV3FuRWROZlAxck9kcnhWdkJ3SFRsbm52YnA4cDFpUlJ1d2ZjX0dVeUdJT0lWOWxFN1JOZW000gG0AUFVX3lxTE44VWdwcnlpaGIxUXhFN3NrOS1CSlpYWFJTNXNXSm9kME9OR3FoVHBaemRaOFJ1R1hNQWI1bTVhSDNBa3dMb0p6bmRzbE5NbkRMdjFUWHJxZHJsMTlZNTZQSkoyQjFidG1fMzllTDhKQTl6WnRJUUZ3anI1RG05cmlDNGNWM2hsdnVFTF9DajUzOHp6M3RSS2w1U0x5V3lEVGN6SWdidWFtSEw1UlVVaEZGX21Icw?oc=5",
+      "fecha": "2026-10-31T20:45:46.000Z",
+      "depto": "Risaralda",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Minagricultura traza la hoja de ruta para reconstruir Quibdó tras el terremoto",
+      "medio": "ELHERALDO.CO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3RMdVJMZ0xlS0VldUUwT3ltOGNCdnowekNEcE4xbzlOT0h6N1RtVEhDVjQ3OEtuUXpfQlJKdHN6akVaQkNLTTFITURTV0NkQzU3SlFKbVBFR0NWcTlfY0hNWWN1T3BBVDYxX3JzRlEyU0FCa2RfQ1I0TVgyaUJ1b3VZeVJjMzBXeXNIZUNkVHROTXFXb3FlelVQYl9xUDNXSWY4UHI3UERqUkN6dEE3d2NxZEM3RWpLUkxLVmZsSXZaUlhMSkE?oc=5",
+      "fecha": "2026-10-31T20:24:36.000Z",
+      "depto": "Chocó",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Fondo Milagro anuncia subsidios de hasta $30 millones para damnificados en Quibdó",
       "medio": "Chica Noticias",
@@ -1575,30 +1599,6 @@
       "fecha": "2026-10-22T22:58:37.000Z",
       "depto": "Nacional",
       "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "De la Espriella confirma nuevos golpes al ELN y habla sobre reconstrucción con 'Fondo Milagro'",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEtYUzlwZ0FsWnNzMS1wemZfN294Z2hhZ3pia2p6dlBXV2lDS2dlRnJLOTZjbjQtYl9MRGF1Wlp1dGZCN2cxSUFLZEdHOV92Y01qdzY3VFdVMllIR3JURWphZUlHNjZEb29oR1Y5Q1pGejNLMm5ZN280dlF6dFBQQkFOc2hldlZMQ0pxakRna9IBjwFBVV95cUxOeEJZN3VvamtiNDV1OHcyZ1E2ZmNJdXJhRXRTRk5QNm1PdUVOMmVfNHVNdGRpOWd1RGt2SkswMjFMR2ZBcTBJWHpDWlFYMmRlZTJpalFYRkMxd2lidDVTMHN1WC0wZEFla1FsWGVlQzVZaGpObHB6ZzBKbE1sQWdEbzFFSDFJTVlKeng4Um5pcw?oc=5",
-      "fecha": "2026-10-22T22:30:36.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Empezó la fase de demoliciones y reconstrucción de estructuras afectadas por el terremoto en Colombia",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUN2RFhTYXNqUWw0X0FOZGFtRjdjNlBrYjFUX2trSVRrVDcwdUxPUlpnSlNSckFfYWFUYnQxOFlOMWNFNlBuY0FBOHR1V1ZDZHd0cWZRYWZBOFVYOVNBVVlJc3dpTG13ZnNQdDlTbTBzUnZQUW5DbnE2U19xZWgwS19kVk80Y01LbUJxYW1sNHlDLTNVSG1FQ3ZXTXBTbGNwNFQ0aGg2cjbSAagBQVVfeXFMTU5JeEs0alQ2bHE0OUJTZmdpN25XM0lYMDd3WVRhOVdtWkVac1NfQzBOWTkzOWNQMnNNejZtUngyWGJnUkVLM1pxZWhzTnpEY180WU1tMkdmSzRNcnMwM3FvSzUtaHUtVXRyQmRPMW8zMm5zakpZUE5QYUM4MzRpTk1tLXlRVWttUTlidEhXUGQxa2YyRVh1eWhHalNTbHM3RTRQVkNJMjdq?oc=5",
-      "fecha": "2026-10-22T22:30:35.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "#Noti90 El presidente Abelardo de la Espriella se refirió a las obras de reconstrucción que se realizarán en Cali a través del ‘Fondo Milagro’, tras las afectaciones ocasionadas por el terremoto. 📌 Conoce más en 90minutos.co",
-      "medio": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYVFXRnRNRm9OOGhneDlQa0dLRWNiLXRTdVE3S0NjSDNlaEljRlJiZ19nb0VBeTFQUzBEX25pR1RNNS1GX2VBR19IVEhyYnRKV1lVdHhwNUpmOUhTcXF5UmtDZVVDT3J5eEw5ZnNmSFU4MEJHZFYyQjEtLWFaX2tQaGFxOFZSc0NvTU1COWwyYm9KdTdGMlcxTVhPSVExeGJ0YXBsSDFDZmZVdlAxN0tPWjZHMHBIbkg3WGxpNXdSbEJNbzRBS1FNamZzcWt3RnZad2tfcHI3VHViNzFOazlPUTh4ZTg2Sy1YREE?oc=5",
-      "fecha": "2026-10-22T22:24:13.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
