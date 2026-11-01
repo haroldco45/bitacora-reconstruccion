@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-01T10:48:35-05:00",
+  "actualizado": "2026-11-01T15:14:38-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "A 84 días del terremoto, 908 viviendas de Quibdó siguen pendientes de evaluación",
+      "medio": "Chocó 7 días",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2dCTjlINUpHWDdVT3paTkdtSHdBdkRDb19BT2x1Y1VoYVhUc3F4b1ZQSXdlSTNuXy1aUm4wd3hnRDd0RERSbGtWOURkTDBoc3B2QUFaSE9GV3o4V0l6aEpUX3VCQkFPaHByRVNUdDc0Yksta1pZcHA2aW1ITVZIYU03amxmR1lhVVMzMWU4OXZkR2NqYnR1NE80S0Fld0JwTGZTM0lB?oc=5",
+      "fecha": "2026-11-01T19:18:45.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
     {
       "titulo": "Así va la reconstrucción tras el terremoto: el Valle ya entrega casas y Cali sigue en evaluación",
       "medio": "El País",
@@ -481,6 +489,14 @@
       "fecha": "2026-10-28T12:17:11.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "DNP proyecta inversión de $7 billones para el Chocó y prioriza la reconstrucción territorial en la segunda jornada de los Encuentros Regionales",
+      "medio": "Departamento Nacional de Planeación (DNP)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXdONG43SEg2aFJvUUtjcVNMb1Yya0hUMlN6OGQzeU8zOGFUcEY1dHlYb3pWdGlwRHhTcW9qWWI1SEJnd1ZGOTZfLTBhbDNBc1hWaFFZYTRCZWRDOU93OHhjVTZJTHpWbzRhMmxES2VQVU1yRTYxUHd6NlQ1UEJSOVJGMExQMzFKX0hoMElZNDZtdW83ODNYQUEwQklZb2Zjal84LWFGVnl3djVLWkE?oc=5",
+      "fecha": "2026-10-28T09:53:00.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
     },
     {
       "titulo": "Wally, ahora senador, denunció que el gobierno de Abelardo de la Espriella no ha dado respuesta a los damnificados por el terremoto: “No hay ningún contrato”",
@@ -1583,22 +1599,6 @@
       "fecha": "2026-10-23T00:30:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Terremoto en Pereira: primeras familias reciben viviendas y empresarios accederán a ayudas para su reactivación",
-      "medio": "Risaraldahoy.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMENZRmFDMzVRUWJLNXFadUxKYUdoY1Z0Smw1eEtQMkx0Sjc2MlJLX2xiS3ZERzRTY2tBYW42LTR0UFZwYnE1QmpUWUhSc1Z6b2cxMFFSeFBUbVBhVGJfamZkbWszeWdsQV92eHdWRWEtZVNIUm9YZkdTcno4eVBsanFuVjM5blZNalhxT2QyVlBPYXRpUHo1dVdkTElLcVBsam03ck5MTURhdDd3RzJSemRweW1zSE5RTkxkN1djQnE0ekg1NHV6QjVpdzFwMTVsZ1E?oc=5",
-      "fecha": "2026-10-22T23:50:54.000Z",
-      "depto": "Risaralda",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "El Fondo Milagro dio sus primeros pasos junto a la Alcaldía de Cali: avanza la remoción de edificios",
-      "medio": "Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkFZLVBMdGRDZkFhM3lQTHc0OU91TXdWdVdBTnRYNEViSDFyaEo4U1M0N0Vpc2hhdE1JUWJKdlQtelk0YVE1RXZxSGZ6bGJLc2pzS2VBNDFFNzdJVi1TRjc1S016eTdEbXZFeDR3M0NUbVU4LWRFM2NDM0tPMGRtOWl1Q1YwLWdWOGhqb3Rna0lvUGpGWng4cVNOSEZYdWNhZzJjNHAwVFVCVlp2XzJwVmdMVTI4OXhXNXhrZHVFbFQwNVJVZnBDTUlWWHotTE9BTUdJTWhoc09yVk1DR2c4UTVmanR6Zw?oc=5",
-      "fecha": "2026-10-22T23:47:54.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
