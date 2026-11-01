@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-01T03:47:21-05:00",
+  "actualizado": "2026-11-01T10:48:35-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Así va la reconstrucción tras el terremoto: el Valle ya entrega casas y Cali sigue en evaluación",
+      "medio": "El País",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2JUbmhGaDg0V2RsNW5uQzc5OGpNMml3UDhSRkYwMXhsQ2VRcFVYNEJMcHB1TUF2YzZWR3Y3TGdyQTJ2eGJjVjhLSzFYeVE0YWFvY2g5Y2VObDJEaVpUZl9kSjRvOXNibms5dFUyRDYyZlBwbmZkdUU5SXNrdDJTTjdtaGRYcnB0WlBtWWhPbE0yVDZtVG9MQldoRFVzMWswNlpWUmptdlRCVlJYQWtIOFBnZThiVlJNY3JMRWRJZGdCQ0YwRk56Sm04Qk41X2hZQnfSAdcBQVVfeXFMTklzRVJVenlfR0V3ei1ZSWpBZGlKb0FyaHBjR2RNMkgtd2gwd241d3ZmajRsZkQ4THM3dExqYURPRC1CczRFOXE3bmF4eENxVXp6MGl0MlI2d080S2QzZHBGdlhyOUNaWGh4QVFvdkdkaHFSWFN6VUEya3B6cTc4ZnpMcmxwTWIzTHd4MC1NdzZncU9YWVZOS2hqbUlRemMwYkszTm1GdUdMT3ZfQ3prbjZBZ3lNVnpmNXlqOUpuUV9WenhFcVEzMkMxbjNvYUpLc2d6RDh1UkE?oc=5",
+      "fecha": "2026-11-01T11:20:01.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
     {
       "titulo": "Terremoto en Quibdó: Gobierno prepara cuatro líneas de apoyo para familias y comerciantes afectados",
       "medio": "Diario La Libertad",
@@ -358,6 +366,14 @@
       "titulo": "Alcaldía de Cali asumirá la reconstrucción de las torres de Chiminangos afectadas por el terremoto",
       "medio": "Diario Occidente",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xTlg3MExOUDZNU014QVdmeWVkSWpBMVItTTFGV0t2dFIxOG5tOFdNNXloZVB6dVRXd1pnbjNuUUZEeER2eWJjWkE3dEFLa1k0QzBQTEpfRTE1V2Ywc0FXMzljRE1XeGJzdFdYQjJ5dV9jaHAwNDBaZzhrWV9mWmfSAYoBQVVfeXFMT2x4VXpEQ05qazZYeWFsSUVnWjZCVjFnRXE5UUFVckVmSjBvZHdDR1AwcjV1bVlzT2l6TzJ1QTd1azU2OXZNYVdxY0Jab2l4dnVKa1JFeVpDYlI5ejRrLUpIRVFrNlBuYklKUmlSRm1qRk4xQ0UxWS1QWWVsaDBqX3NJdjJaWU1FY2hn?oc=5",
+      "fecha": "2026-10-28T19:42:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Edificio Torres del Limonar: tributo a víctimas del terremoto en Cali",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjg3c2ZKVHhCTkZNdEY1bHkzZFlFMGdoVlpjSHlweHhObWI4cGJXbGpLQVhnVDZIR3hadU45U1pDMzhDSXNWbmRJUlFoSUtZSDg4WHRzalRfTDBWcmczTWlGX2NHaUZlUzNHUGhyQUpWc3ZXdnZPM0ZhZ3BxZjNQck9wcHZfZUd4Y1dVR01NM0JtbHctMlBndTcyTdIBpgFBVV95cUxOZWIzcGh6TXRGeTBJZUg5czJVMTkzd3RUaDVoRXk5OTZxVllyWUhTdno0RjBSZEE3TGhrMkU0bU1Ra2lZVTBtVWNXdS1yeXZmSkJaNUdfWnVMMGhyMjJzcmJpRWRLME1VamU0OTltb0tPZnJkWTVEWWVkRS0tOEJQNzFDTTNnY0RKMnhXZnYyYjNhMXVaSldkeGpWcFBWaWJnQVhDMW53?oc=5",
       "fecha": "2026-10-28T19:42:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
@@ -1583,22 +1599,6 @@
       "fecha": "2026-10-22T23:47:54.000Z",
       "depto": "Valle del Cauca",
       "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Presidente Abelardo De La Espriella anuncia más de $332.000 millones para reconstruir y mejorar viviendas afectadas por el terremoto",
-      "medio": "Minvivienda",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSE5TZzBDckM4OWJJVWZDU2c0aVpUemNLLXM4Wlk5YTQxamZtcktZMnNZOThBMzZpNnBQRUJKZW82UnExRGlRaDk0alI3Smd3T3hoSkFRTTBiRFNlR1dIVk9ocDV1WHhOM3NhVk5ublNRbVNfTlpVa20ycmJmeFBGUjkxZmdKOWQ0U0RrWXB6WWZKTXE0V2VRb3RCMU1ZdzVVVkpGUkdiUVlLNFFNN1J1cG1uN01yZVdxRnhaaGUyOEtIZXNlZkFBckZLQldfT0ZqdDBZb1FZNjFlR0NQTklmdnB4dkdnWEF6alRuRWQwRHNkbGZXRzZVRjc2WW1FMFRPVGFaLV9nOA?oc=5",
-      "fecha": "2026-10-22T23:34:40.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "#Noti90 Tras el terremoto del pasado 10 de agosto, Cali avanza en la recuperación de su infraestructura educativa. Hoy, la Institución Educativa Nuevo Latir, ubicada en el oriente de la ciudad, inició la recuperación de sus espacios con la participación activa",
-      "medio": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMW1lZF9DYmp0cjdCOC0yS3pZbnhmTTc3U29wd0U0T0gzdDdtT3luNzBBbWsxVDl5b0R6UkJ3ejhFaERCWUJYRWxvcm5iajNNVi1YY29DU01uTTM4YXJiR0xYT2RBOUJsSFFKNkhTemU0T2hOWmZvNjFtc3ZWQ2xsZkRPSkNMSmdlbmRPNU50dnhpWWxKUFd4M0ZpRUdEQ1dKY0NBci1XSmdLQ1ZiX3V3a2NkTkVTVWxBTEZPQmgycEJDeEFYN2xWT3d2ZTdaUDFLemRPWXJ5eF9NSnp5V0FBZ2thdjVMWXhJMnFz?oc=5",
-      "fecha": "2026-10-22T23:20:51.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "reconstrucción terremoto Colombia"
     }
   ]
 }
