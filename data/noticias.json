@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-31T17:44:17-05:00",
+  "actualizado": "2026-10-31T20:53:48-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Terremoto en Quibdó: Gobierno prepara cuatro líneas de apoyo para familias y comerciantes afectados",
+      "medio": "Diario La Libertad",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzF3c0g2ZUlNR3lQRHNwcHRZSWU4VmlVUjl5UHRRR2RxZTh2QkhKOG9qMngzT25nckpaZC10MnREZEh0VTBIdHI2TU9LcmtjRG5DRGI0U2RkUlJSODl1Z2QwcUVVYlJXYS1TQnRreWxEUjBrdENjT2hIejJkeV9PTjVoWlQtMmMwZEpZUjVsNXNmZ2RXcVhUcFpmVlZ1c0hqMnFNYXk3VlpPRndtSGFEWUFWbkZETmRmLWlQNjZrQmxWT2dxQzVJT0tTOWFXNHk5UEJDNFRB?oc=5",
+      "fecha": "2026-10-31T21:32:22.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
     {
       "titulo": "Venezuela recibió 87 máquinas y 1.800 viviendas de China para atender a damnificados por terremotos",
       "medio": "Caracol Radio",
@@ -25,6 +33,14 @@
       "fecha": "2026-10-31T20:24:36.000Z",
       "depto": "Chocó",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "908 viviendas pendientes de evaluación en Quibdó 83 días después de terremoto",
+      "medio": "Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHRJb0pVd3VEaU43RUZhV3c5Q3YyVktEQ3AyMkRNb2lSU05DeTlXNHVVT0tJd09JRGFCeUtHa3Zxc3JuV21LN3NqV2o0X2NuSUdyZE5IVTFMZVlwOEFkU3N4dGtRbmViUVNHWFkyQ3FEQjBMVVNrb2x3cWJNbnFvSWN1bEp3TGNaa0xibnNoX3FLRVV3YlBUSmNEdi1ORUNqZ2oxMkl2bExvUUNuVUZxZGZ6REZRS1NTbGlnMnlFNTlHdlU?oc=5",
+      "fecha": "2026-10-31T18:27:54.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
     },
     {
       "titulo": "Fondo Milagro anuncia subsidios de hasta $30 millones para damnificados en Quibdó",
@@ -417,6 +433,14 @@
       "fecha": "2026-10-28T15:50:32.000Z",
       "depto": "Caldas",
       "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "Madera incautada será utilizada para reconstruir las estructuras afectadas por el terremoto del 10 de agosto: la CAR explicó la medida",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPc2x5V1BiV1EyQjFxekx1UjlNY21uaVRONllqU0lpb0p3OTREZnEzbW83eUo1MGhXYUpmMmFqNHZCdmQ3cnA3cEZYa3dQRVZ0VzBCWXpBSGNBejBLTTRSVDdhVDRpSERVZTdkTVFNM183bmtGTUNscmJUdzl1bklXSDdMYUpDM1NlYlI4Q0FOVjBlZHB6OFdCYUY3MWN0Wm9lQ3V6UFUzVlkya01RclZHTzR1ZnBCM01meHF0eTZuZWJ5X1hCanRacHl4c0NQbHQxZm81OElhOWZJeWVtcmNPSHIxWUp6dTJkSlNZMW9WTlpLNGM0RnV2LV9ackxTdXNLVG5rcUpFOE1IUdIBpAJBVV95cUxPdDlnT1BJSWhTaURUMFhXZWhlY0RmOURDVWc0TzhwbGtDa3NydDJIY0RmV0x3R2lRZW96X1gyR2d6MlhIX2xrMzEyT0tBZ1J1ckQ0bGNnMnBZemNwbDIycDVtMGhWaXVfR2JodTdERWJNMS04OEZGYkV3b1IxeWo0dnlZZC1GRmFGUlFuZDVNVGVxdEVTTjFXSldDeDllNEpTdXlTNlU0NzJYUF9sVVlHbTVhdUdvZGNkajBEcEFISWdEV2F2c084V3lrc3I1ZTM2M3VlSmxWaHBPMmNVc1JaSm1wRmNERVlVb1lMQ1NUYTNKU1RsRXNRM2FDcG5OQUtfRW1CVktNekM2SEpucE1HYVE1RHRVUi1RYWdDeklGYnkwMVN1?oc=5",
+      "fecha": "2026-10-28T14:46:53.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Fondo Milagro, UNGRD y MinHacienda piden aplazar debate político por reconstrucción tras terremoto",
@@ -1575,30 +1599,6 @@
       "fecha": "2026-10-22T23:09:40.000Z",
       "depto": "Risaralda",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Cali inicia la reconstrucción del colegio Nuevo Latir con recursos privados",
-      "medio": "https://calihoy.com/",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYm4zbkNBRjN0MkFqa0JGS1FncTVwOUFJVkdnTzRHUzNjMTdVeV9WNTRoZlByZGg3SEx0RzNfTkhpdDJJd05lQm5MbEZQTC1vUnR3WXpYeUhXUl9sT1hsVkZZTy1JX3RmMFdzN3VtZ1pBX1lWOUtKSFhSNTlLMDBpellmbVl6RndkN28za2I1VUFOMUdKSkpzMGhtS3VLNHkzd1liTjlFY3Nzd0d2YVhqbzVR?oc=5",
-      "fecha": "2026-10-22T23:07:52.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "De La Espriella anuncia más recursos que ingresarán al Fondo Milagro",
-      "medio": "Blu Radio",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVMbzA1S3IycGRMWnJGS0dGbDVxOVExSlAxNVhIOU5BWDBzaHMzTUQ1bEJQOGRwR3Z1TElaWVRsRTFWT0FFSTNVOUdILVM0S1oxdkFDVHJySjhTeHVCN1BxZzdxVG9EWE8ySWpzWDIzdnJXTXM2X0NkVWg3VWhPLTNNOGZiNzRRb0tKZWtVT1gycTZxOU5zV1V2dzgxNFhPY1JZZ2oyZzNGTlnSAbgBQVVfeXFMTVltUWdaTTY1UjFPR0czdTh6UTJZWVlMeGZMR213ZjRSZnBPS3RMRnQza29vYU1mN0c2MURON0I3Nmk3Q1pTcDRYQkY0WFR6bU5SUS1BNmpBVGxOU2xsVFMxRm82UlhYTS1UZFFaazdYeURIek8tci1HbUxIeVNnbjA1bHl3c1VDejFaN1p5Y3Z2T3UweW5SR2ExLWZZMlRHMEMzN296T2NGUllIZDhNcEdmS2loMy13Tg?oc=5",
-      "fecha": "2026-10-22T23:05:25.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "#Noti90 90 Minutos conoció una denuncia en el barrio Nueva Tequendama, donde la vivienda de doña Edith enfrenta una difícil situación debido a las labores de reconstrucción del edificio contiguo. Aunque su casa no sufrió daños de consideración tras el te",
-      "medio": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXRsZ0VqRldBRVVHeXBOeEV5N3U5UGtVdTFldjhwQUFMc253WUJpbkNhRi1DVU1pRm1YQ28wVGZtdF85a0ZONzc3WFctd2NSajRWU09WME5EQllueVZINjN1d0ZzWG1KY3FScm1PNjJSYjVjSkd0VEdPT1E4eFlPRlNiQ2x4NW9nMmJxcGtlX05vUGRFX19iOVRZdlVSeWdTZkpla3lxWGRtME9rczhLU29oY0pVV0tZOWhqUU1FdzMzMWFhY25RYWIxMHNDam9rTEdkYzJNWngzTTBMaXVJbXFtVmZtem4tLXBZ?oc=5",
-      "fecha": "2026-10-22T22:58:37.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Chocó reconstrucción"
     }
   ]
 }
