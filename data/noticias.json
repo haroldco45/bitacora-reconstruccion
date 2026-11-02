@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T23:42:26-05:00",
+  "actualizado": "2026-11-02T08:09:28-05:00",
   "total": 200,
   "noticias": [
     {
@@ -167,6 +167,14 @@
       "medio": "El País",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS0pDZ2VBLUIwMXdGdUZfaEY2Wk9NcTMtZjlxdFRMME85azJQYkplNDZKVGk1bDc2OUp5YlRDbDV2ZGtpc1NMN0stdEZfVXQxYmpZVWYwQjhSQXNwTmgtcHg4bUJZdEt6UnpnMzRiRkQ5Tm5xOUhDR0VVc1UzUk5hRDZVaUozaTB6LUY3WnpIY0NjZkxlaXdqYzFvWlk5QVo5TUVQS21DcFJxVHZhd0UwSzkwWVJCN1lsNEFTSDVRUl9nQXRKRU8yUVdkZndpSHZ4TGk2aE9YOWR2ejQ2UnlJWmVjRDNYUDhKR0IzZFBicmpYUFloSEhNN2tB0gH_AUFVX3lxTE1WcS1xUmlhMXFJVnltNW9wRTdTRGNvQ01CVVR0S3ZzOEp6dExkSk5ia2F4cXpNT2pqT3pNZ0FnNG5UYi1iSUJvZ1Nfcnotb2FTNE1FZXlBT25aTEtiUmM5T1B2V2JKZ0tDX3lDa0o5aXBreTZ2dlZjcFQtbHhRZnRWcFpxRURVb3BIcGlFT0NRQVdKancwekdqX2hTZVRVZUJWeWZzZlNjYUhLZ0tZNVE4Y1I1Wi1IaU5taTYzWGI1c2ZPZWlnUUZzRms3MGFhdGxIRFBGRnp4elRPRnFlNGQ3QUdmalNKOEFpQmlzNlFZeF9FNEVUSWtuR28xX0pHOA?oc=5",
       "fecha": "2026-10-30T16:46:49.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "La reconstrucción de Cali tardará 3 años y costará $10 billones",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGRYcEVQUndhUFlrV25hN0hPc05XRF91cnpoZ0JRS05FQ2R3Z0xFaWZJT09UUW5Kay1FQTN2di1UdTZ6M2QteXFyamQ4NnlXdFlxRGJ5VFphTWw4eGtwaGgzWnc5OEo1bUhZN0hBZXpSTEhPWkVwSGY5OE4zclIyZC14U0pWZzdJ0gGTAUFVX3lxTE5oMVlVYUpldXF1UkdIZUxjcXdKQWR1VTNVVDBYclk5cXF0ajhobUFiRWpWbHVWdXQtMHJodEk1cmExZzFlTnVjNHJRUzEwRVA0a0Y2WERkOFhEQ01aY3VINkJZY1FXWS1PaE9HbGU0ZHJVZjBGSmxnRG1mSU5WRWJkdjl5QjNKb2ZXbXJHNG1hYTdtaw?oc=5",
+      "fecha": "2026-10-30T07:00:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
     },
@@ -1591,14 +1599,6 @@
       "fecha": "2026-10-23T01:06:49.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Gobierno anuncia nuevos recursos para el Fondo Milagro y detalla planes de reconstrucción tras el terremoto en Pereira y Cali",
-      "medio": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XYmJ0c3l3MWJvbUZ4dlhjWXhfV3JPNnlZNHd2eTFtUnV0cXZMcFNJakxlS1NHbm9EV2pLTXpua011dXFEQTE4RUdQbVlnN1pBQlZzNWlRT3JGX20yRTJZNVlSNHprZ0xCUGE5c0hVbHRXWkROdlhxd183TjRLemMtRWJMamxKMXRwMEhUUENmdzZUS1FmNDlqRFVydTN6clNlbDZwNDVvZklnSG5IVkFwN0lWZV9PWGpTOG5PS3NtUVcxejZ3S9IBzgFBVV95cUxQRmxjLVlOSnd5UUtKTWJudHhaSllRNjhlSm5lczhTRkctOFd4UEJGblpzZm1sNUZNbnFPeVFiOElBdWRrZnZDYTdFX1BYcGROS2ZBT1l3YThUWjc0d1FIWnZyc1FFd3FBQUZfVnFvWWFuOHdxU2lWdjVPV0h5dmlnVjM0UTc0Z0x1dDRGMEV1emQ4R0tGTkhBcUx6QUpKbm0tby15VFBGN0hzV2tUdjdBUC1XaWxudHJFeUIzYVVmQ2tULU4zdm5ybnRTMzZZQQ?oc=5",
-      "fecha": "2026-10-23T01:05:43.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "reconstrucción terremoto Colombia"
     }
   ]
 }
