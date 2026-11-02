@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-11-01T18:46:11-05:00",
+  "actualizado": "2026-11-01T23:42:26-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Primera Dama de Colombia anuncia soluciones habitacionales para damnificados por terremoto en Risaralda",
+      "medio": "CRprensa.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzVPLThxRkdZMGhYc1NfS2VrbEFGYUZLb19Rc0pKVmtCaXZQY3F5cWlQbVNuZkdvQnZNczBPYTVOeU9VWlVBckQzNEpMOUZvVHotQXRBMnJ3aEVubEduMEFfLTd0SmxEeGI4MkdyQy1HaHVLbTZ6YjROdVg5MUVpWVdMaFF3VG5mTEotUnZtWVdxcWRTdE5QRGpYUWMzUGg5WGM0djN2MzM5dXp6R01fNWk3RXhrcGRCelpDR2VLN0RxdzgxM2N6OWVTa05UeVItTUE?oc=5",
+      "fecha": "2026-11-02T03:38:01.000Z",
+      "depto": "Risaralda",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "El anuncio se hizo durante una visita de Ana Lucía Pineda al barrio El Japón, donde conoció de primera mano las afectaciones que dejó el movimiento sísmico del 10 de agosto de 2026. Las obras hacen parte de las acciones de atención y reconstrucción dir",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONDlVamgyc0ZreTlRN0UxRUZ5TzM3blU3OXZ4QV9YZTdiblZNTWxNQjh1REoyanZlclhoajJUWlUydVVLMFF2am1qQ0NTUnVvRlhWQUZRMzE3LVJzTU5EWExFVUtxWlFJRC1KVEJra0xJSkt0TGZxWDVSN3lrUXFGMDZJclRTcEZkRzEzX2NLSThqUTd1a3FydzBXT29KVEdFbDdwWkdFU25UbFRKQnlyNkdVRWdjdVVGZ3NScHNCLTNIMzVzWjc1VmkxWVJlQUQyRWtORzNWcDRWakxta0FIeU9PaEZDX1pOZVJj?oc=5",
+      "fecha": "2026-11-02T03:14:10.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Risaralda tendrá cinco viviendas intervenidas tras el terremoto: la primera dama anunció nuevas casas y reparaciones para los damnificados",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZDRkRHlldlpPTWExU003S0ZyanRGRHctbWJnakNfR1IySUJMMUxHX3c4amJSXzN0d0ZiY2V0ckJyRjNRMnZlUlFmM1VXQmhsMmVHLWpXZFNlMHBqYVV1Qk00MlJxVS1GYURjYUxkR2pwMFVDTVVOcS1fODNGZGw2SjJBS1dyMzVvT0d3THFqUmpyaGNDR1hwa1lfQjRYeFppV20yYWZMczl4Y29NdV9PNm1KOWZ3RzN3Y0lyQ29OeXY3QzlRNS1zemY2c3gxbUFhaFhyVl9zMEIyaG5UWERrcVZzdWpXNGIydWtHME5ITzZtUkh3R25mZmoxM0d2VXFrekZ5S2ZtN0RUQXhRaEV30gGqAkFVX3lxTFBBRmRtam12R0N3bUJtSV9TWmhfUjdJMF9ScjU3QWdWNzRXbzE1bHgtanc0N2t6TU9RUk8xZVlDaVh5ME9JSXNBR1BhWnhBT0diQlNEQ0pkM3h3RGxCdFY0WTlDVWFPQmlkeTU4T0tlRkhiLUI3NnlZMmdNaVVoOFp2VmtBVVE2bWQ5djZXV1lyMjhYQjJPYVB6WUY3XzU1WnFnU242Y3lLU0N6Vk5oXzRxLVpDSkNHM0w2UUxOYU5oLWlCMldkWjBpbU5YcVA5ay1rVEg4dGI5MWZPUUFFczJzNkhqdUk1enpCRWpTRDhlYkdFbEZjSmoweHR4eWliRnlqSnRfdlVjaUpHeWkzU0NuRXUxQUZtblNVNkZLWFZFRm9GNlBzM3dxdHc?oc=5",
+      "fecha": "2026-11-02T02:19:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Caldas avanza en su reconstrucción tras el terremoto: ejecuta 10 proyectos de infraestructura por más de $107.000 millones",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbXdTODNMbzIzTjd3WkZhOTZQblVTR1RqdXdTdHF3RnBRa2dzeGtJMkswbDk4b3NMR092dEk3S0gtcE1nSzczcDRRVXBwSUtTSEd6ZG8tZkItSmxmUTJscHdDam9hYzMta3BqV0FqR29faHcxMklocDBNQU4yNU5Sc2ZNc1RtTHZDLWdqVENFR3lYRnRaZ1g4cXdFZUw2QkEwUFZxYzd2MzFKVVBRazFSTjJQWkpFYVRZM0FnR1JqWlRGQTl4NE9HbnFXMUxKeDVOcVBOUmUzN1hMVzhKZmJNcUE2dDM5UWo0X0l5M2Q4ZDB6ZDBxQTFJ0gGSAkFVX3lxTFBFYm5laEtrNkxzUU9hcXZPLXBNVGZXR2ZsYnRFY0hia1d0UndoSk5EV29hWDg2OFZoZVNEb1Zldzl0enV4R19GSC1oNk9lR1c1S0tYeTRKWG42aVQxTnBOVU10TlBULS1fX2JjN1M2Y3NMR2RaeE00a3VTZnd4WmRxOFY1c2RsWmdadF9rbUN4THNQdTI5X0dCOUY3VllqYTNEY19RUUY4RllPNENLZUN5VU15cUMyalJ0QmowNnRCVjFoQzVCREptcGs1TE1ZMk1GbHJWUE9pd1FqMUkxNDdJdEVrMDZDSDJZN2lEQ3I0Z0dmRWg0TGxCSHJCQ0UxWjk1LWxDcUtNUy1pZzZMQmo0Q0E?oc=5",
+      "fecha": "2026-11-01T22:24:00.000Z",
+      "depto": "Caldas",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "A 84 días del terremoto, 908 viviendas de Quibdó siguen pendientes de evaluación",
       "medio": "Chocó 7 días",
@@ -1490,6 +1522,14 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Preguntas sobre la fundación de la primera dama para el terremoto",
+      "medio": "La Silla Vacía",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2taYTltcnB6QnFRVjRnVEx0VXZpbEVhT3hBWkk0cTBxREFjb21TNWhkVDlEY3VpbFVGQ19fQUdfUDVUODRYZGliOExmOWMyU1FVWjdXUU1GOUVnLXpxMnMxTEo1YWJBRnl5MEU0blpoalFaS3QxcXNiX013VDVtVGQ4aUMwN2RYTzhxVGhMUHlVM0R4ckFyZ1hIWjJlalh2bXhDQjdjR1VLMG5UX19Z?oc=5",
+      "fecha": "2026-10-23T07:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "'Fondo Milagro' inicia labores, anuncio el presidente De la Espriella",
       "medio": "El Meridiano",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VPbzVQM1hlTFlZV0VlRk1NSkNvd2JIeE80LUtzUmpneFB3bFJESzFfMWpuQm1FNF9GSVVkaVczU0tIbnFKakM0NVFON211eHN3QXA4QlI0Tzlra3otbWxZZnVHMTRnRTZfUkY5Sm42T2gwVXB4M0RQV01xRE5OVmd3ZlBKakJSbW5RSGdKdm85MVhfS3lpWldyc0pobFJmVldHVlk4WDIzN1hPckE?oc=5",
@@ -1559,46 +1599,6 @@
       "fecha": "2026-10-23T01:05:43.000Z",
       "depto": "Valle del Cauca",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "De la Espriella respondió a críticas por gestión tras terremoto: “la reconstrucción comenzó”",
-      "medio": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakRST1hQT1NibEZWZ1lDVDQ0NkxDb1VlNEFEMTB6MVB0Wk9aYlZ1X1ctWVFIRUlxSTExc2pxNEYzQmgxYU1wM0t5ZzVoRDUtcXJMMkZiQndBM3ZsSGpBdW5MSDJ3MWRfWXpFZkJKRWM0ZmpWX0RFbExsXzhlNUpJYTdGV2lrWEhiS2NBSjF6T19wU3EwTGpjYzZ2QTd0bXpubkxzNFBsVXN6cXBEU1JtQVFiLXVpdHdwSDlnUEZjRTE2S3BxOHJJ0gHbAUFVX3lxTFBHYmNmTURFSmdRa2lVdEx3clBZN1pLVW4zWHlKMXBFYnFhcWswajQ4THJGUndEMXMwQ3Vmd2NRV2g5NXpvVGprcGh2a3otaF83R294UUxaT1ZibE1UR2wyNUpIcC1OUTdBWFc3VVNIcnA5V1dxS0R6dTZ2V09CZ19jT3RXaFpDVElLU1lGNU9IT2hhX1RfZnFqNUFkckRvUGFmZmxWM25HLUFNeFBBdkduN2ZVZnF4eFBzaEp5aDJYM3dJd0pucHRTZ0pkVTY3MlBhT2ZCd0dmSjJWOA?oc=5",
-      "fecha": "2026-10-23T01:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Al Valle lo reconstruimos juntos: Gobierno nacional se suma a la reconstrucción con 150 viviendas nuevas y 900 mejoramientos con el Fondo Milagro",
-      "medio": "Gobernación del valle",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNeVlZV3VfVmcyX0lGSWdha21fR1dKS19NeWpRS3VsN2xZM0lyQ2tOcktMU0Z6MUNaZzkxSEJERnB5QWVtcTRoUXRuWEU4eUZaMjRGbWJRaW1hWFFsZ05Mc1RtNVIwX3hGRHN4R2NDcVdRdHpvdjc1UFpIcjUtQ3A1QzlYcjhSbldHVDMxNUU2d3QxNnVLNDN2YW1VVWhreVBUS3l4S3JKZVphR1FoMUZxUm5TWnc3V0NWRWtWYlNUTXVXb3ZET2paTl9nYU45R0tUbkpPajRtZ0wwUWJiUURLZkxhTGVyNE13SS00ZzFpQ1dlMjRSaFUwWHhtWGl6d3NoMlNUNW1yS3Y4UmctQTc4b19iOUtmQjNVdXZ4d1lUYkFyVDlv?oc=5",
-      "fecha": "2026-10-23T01:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Gobierno nacional anunció 300 viviendas nuevas y 900 mejoramientos para damnificados del Valle",
-      "medio": "Blu Radio",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWswWDBYNlJueDhydGxqbWl1NG5vSEc1cnNUZFZwNDNYbDdlaXhmTW13UVV3SmVhOW83VWh4ekRhUU5yZW9EQ2l3SkRMSHV1QVBYeHAtX2ZXbVVIM1dPTS1rbjk1WFBvQm96QWI5eHA0M0VZS3VvWExfYUJ6bjB5aTFIMHYteTB0R01KT0tCcnduRXYxTS1PU2xQQm1IYnY0bU00aWt1MHVYbWpNaWVEUlZ3TGo2ajRmQlg0WGw5NXFLQ1NONm9PQ3dsRVVFYTJ4aVBtS0VuMDZod9IB5wFBVV95cUxPRUJiOGFKZ3l4QWJaMVpqRUwwUzI4YTloSDVwMDBocjZpbnljbUItbXRmQVpBbFJtYUhINzJkNGJyZXJYQmRhMk1HQUpNbXBVWVhydnhCcEVrYmtVSGRLMUJsb0NKSnllUzhlYjdTRXN4ZWJGcGJJR1RfUlJCQkZfVVNjT3pfZldKLWF5RVl6eU8xZnF5STduUVNMVHI2a181Y1ZkX1daLTl6LVgyVnZBQjlhOW8yR0lVSFFkMmJtd1piRWZFd2VzMVZLWVA4bml0TThZaXZ1d3kxejc3T2xlSHNjSTBicDA?oc=5",
-      "fecha": "2026-10-23T00:39:56.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "\"Voy a estar hasta que se ponga el último ladrillo\": presidente De la Espriella sobre la reconstrucción del Valle",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSmczbW5sVnF3OFZGZWtuU09NWkJ5NWZGQTFLb1c0UDRObGtSMkhpLUNQQjhPV1NJU05kWWJWaU9qRTdsam9ZZ3VrVGh6N21nZkwyVGIwOUF3cE5FbEdaSDUyNzBnN2ZYaUExSmt5Qm5WaXhIbVdXc09YTGFMNjJQUEpBbTZUMVpzQk0xd1FvQlZnSXZnU1AwWUtsV29DbThfZURKR2ttY2dkclk3dVFzUUFGdHJYTXZkOEJHSEE4QlYxREhzcjlDNmEwSlY3VTNqYlBF0gHTAUFVX3lxTFB3TG1wWEc3RFpwdThhWktaQXZDZWU2cWlVR0Zpa0xfdXlZSGNrV005YXVmR21lQzFQU2pWVU42WmtVcHlPVU9CVUdBSmIwbXVOWnNsR2IwcjdOb1czdjFSTnhZSHE5UlJ3WHJYSnFOcTZPa3hKemg2SUlLQkVWMDg1ZUdJV2tFWXM0eUdTUGtBUFlPS0pqQ05RdFNCSnlHUE96QlFNdWdQVENOREs5TUgzQXRiWnp6c0o4R1ZyXzA3ZG80WmNLZkV6NDdZY3NQWDVfOVU?oc=5",
-      "fecha": "2026-10-23T00:35:49.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Presidente entrega bonos de vivienda a más de 150 familias damnificadas por el terremoto en Cali y el Valle del Cauca",
-      "medio": "hoy diario del magdalena",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUFphbnhDNUJPbmhJNzNOb1NzdldLSTVCS1oxLXB4X1hlc1hjNGJfNzlSMWxYc21iN3oyZlVOUW1QNTNhTDNZUFhhSTRaU3ZUMURpS3lHU212ZGlZU0kzRWY2VGQ1Z2hzVTR2eE9GeERWWjdXVWt1VEZfcFlHOTl4Q0tucXpZbTVYRFJ6dko4WEtfYUUwQjRnTGg1bWh3SDF1ZFdubFJTNWtNUnVzVWlBMGpjcXZqVWl0RkU4ZWhCRmNUTmpKek5jRmNZLTdubzZpVnltV0o5UTIyNEVyOXh1ekpSdlVUeWdVUEV5VUhMWk91VXBCa09mby1HSzRneTB5MWc?oc=5",
-      "fecha": "2026-10-23T00:30:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
     }
   ]
 }
