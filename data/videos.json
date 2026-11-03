@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T07:40:00-05:00",
+ "actualizado": "2026-11-03T07:34:57-05:00",
  "fijos": [
   {
    "id": "Tz0796ggXZc",
@@ -34,5 +34,66 @@
    "titulo": "Últimas noticias sobre el terremoto en Colombia: 11 de agosto de 2026"
   }
  ],
- "nuevos": []
+ "nuevos": [
+  {
+   "id": "ZNzqQNmYt-w",
+   "titulo": "Gobierno De la Espriella entrega primeras viviendas a damnificados por el terremoto en Cali",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "fAxnFTZGqnQ",
+   "titulo": "Así fue la emotiva entrega de las primeras casas a los damnificados por el sismo | ArribaBogotá",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "hKcbPxWdZm0",
+   "titulo": "Así están quedando las viviendas que han recibido los damnificados por el terremoto en Colombia",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "FioCDbl7LEQ",
+   "titulo": "Terremoto en COLOMBIA: ¿Qué pasa con tu vivienda? ESTO ES LO QUE DEBES SABER",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "ncsXdFxo7ss",
+   "titulo": "Reducen al 8% tasas de vivienda para afectados por terremoto en Colombia | Noticias Telemundo",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "m_OHKB0bMqI",
+   "titulo": "Terremoto en Colombia: Gobierno entrega primera vivienda a damnificados y anuncia 1.000 casas",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "zxF7NptlXDg",
+   "titulo": "Terremoto de 7,4 en Colombia desencadena red de apoyo y ayuda humanitaria para los damnificados",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "5Zx0ZZFokNU",
+   "titulo": "“No creí que fuera tan rápido”: familia recibe nueva casa tras perderlo todo en el terremoto",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "K9L6UUTaXL0",
+   "titulo": "Terremoto: ¿debe seguir pagando arriendo, hipoteca o leasing si su vivienda quedó inhabitable?",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "a96HdqmE4bo",
+   "titulo": "Captan en video el colapso de edificios y daños tras el terremoto en Colombia | Noticias Telemundo",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "wRlGzDWmWm8",
+   "titulo": "¿Qué cubre el seguro de vivienda ante un temblor o terremoto en Colombia?",
+   "visto": "2026-11-03T12:34:57.601Z"
+  },
+  {
+   "id": "wdR_DtjPAWg",
+   "titulo": "Abelardo de la Espriella: SUBSIDIO de arriendo tras el terremoto, ¿quiénes recibirán la ayuda?",
+   "visto": "2026-11-03T12:34:57.601Z"
+  }
+ ]
 }
