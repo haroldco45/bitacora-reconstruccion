@@ -16,7 +16,7 @@ const DEPTOS = ['Nacional', 'Chocó', 'Valle del Cauca', 'Risaralda', 'Caldas', 
   'Norte de Santander', 'Santander', 'Boyacá', 'Cundinamarca', 'Bogotá D.C.', 'Meta', 'Casanare', 'Arauca',
   'Caquetá', 'Putumayo', 'Amazonas', 'Guainía', 'Guaviare', 'Vaupés', 'Vichada', 'San Andrés'];
 
-const S = { oficiales: [], mios: [], noticias: [], noticiasVivo: [], cifras: null, actualizado: null };
+const S = { oficiales: [], mios: [], noticias: [], noticiasVivo: [], cifras: null, actualizado: null, fotos: [], videos: [] };
 
 /* ---------- utilidades ---------- */
 const $ = s => document.querySelector(s);
@@ -51,7 +51,13 @@ async function cargarTodo() {
   btn.classList.add('girando');
   $('#estadoSync').textContent = 'Actualizando…';
   S.mios = leerMios();
-  const [reg, cif, not] = await Promise.allSettled([traer('data/registros.json'), traer('data/cifras.json'), traer('data/noticias.json')]);
+  const [reg, cif, not, fot, vid] = await Promise.allSettled([traer('data/registros.json'), traer('data/cifras.json'), traer('data/noticias.json'), traer('data/fotos.json'), traer('data/videos.json')]);
+  if (fot.status === 'fulfilled') S.fotos = fot.value.fotos || [];
+  if (vid.status === 'fulfilled') {
+    const vistos = new Set();
+    S.videos = [...(vid.value.nuevos || []).map(v => ({ ...v, nuevo: true })), ...(vid.value.fijos || [])]
+      .filter(v => v.id && !vistos.has(v.id) && vistos.add(v.id));
+  }
   if (reg.status === 'fulfilled') S.oficiales = reg.value.registros || [];
   if (cif.status === 'fulfilled') S.cifras = cif.value;
   if (not.status === 'fulfilled') { S.noticias = not.value.noticias || []; S.actualizado = not.value.actualizado; }
@@ -92,39 +98,125 @@ function noticiasUnidas() {
 }
 
 /* ---------- pintar ---------- */
-function pintarTodo() { pintarHoy(); pintarRegistros(); pintarNoticias(); pintarCifras(); }
+function pintarTodo() { pintarHero(); pintarHoy(); pintarRegistros(); pintarNoticias(); pintarCifras(); pintarMultimedia(); }
+
+/* ---------- fotos y videos reales ---------- */
+const hashN = s => [...String(s)].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
+// Foto real que corresponde al registro o noticia: por tema y departamento
+function fotoPara(x) {
+  if (!S.fotos.length) return null;
+  const k = hashN(x.id || x.titulo || '');
+  const tipo = x.tipo, depto = x.depto;
+  const a = S.fotos.filter(f => tipo && f.temas.includes(tipo) && depto && f.depto === depto);
+  const b = S.fotos.filter(f => tipo && f.temas.includes(tipo));
+  const c = S.fotos.filter(f => depto && depto !== 'Nacional' && f.depto === depto);
+  const lista = a.length ? a : b.length ? b : c.length ? c : S.fotos;
+  return lista[k % lista.length];
+}
+const imgTag = (src, alt, extra = '') => `<img src="${esc(src)}" alt="${esc(alt)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.closest('[data-caer]')?.remove()" ${extra}>`;
+
+let heroIdx = 0, heroTimer = null;
+function pintarHero() {
+  const fotos = S.fotos.filter(f => f.portada);
+  if (!fotos.length) return;
+  if ($('#heroFotos').childElementCount !== fotos.length) {
+    $('#heroFotos').innerHTML = fotos.map((f, i) => `<img src="${esc(f.src)}" alt="${esc(f.texto)}" referrerpolicy="no-referrer" ${i ? 'loading="lazy"' : 'fetchpriority="high"'} onerror="this.remove()">`).join('');
+    $('#heroPuntos').innerHTML = fotos.map(() => '<i></i>').join('');
+  }
+  const mostrar = () => {
+    const imgs = [...$('#heroFotos').children], pts = [...$('#heroPuntos').children];
+    if (!imgs.length) return;
+    heroIdx %= imgs.length;
+    imgs.forEach((im, i) => im.classList.toggle('ve', i === heroIdx));
+    pts.forEach((p, i) => p.classList.toggle('on', i === heroIdx));
+    const f = fotos.find(x => x.texto === imgs[heroIdx].alt);
+    $('#heroPie').textContent = f ? `${f.texto} · ${f.lugar} · Foto: ${f.credito}` : '';
+  };
+  mostrar();
+  clearInterval(heroTimer);
+  heroTimer = setInterval(() => { heroIdx++; mostrar(); }, 6000);
+}
+
+function tarjetaVideo(v) {
+  return `<div class="vid aparece" data-video="${esc(v.id)}" data-caer>
+    <img src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt="" loading="lazy" onload="if(this.naturalWidth<=120)this.closest('[data-caer]').remove()" onerror="this.closest('[data-caer]').remove()">
+    ${v.nuevo ? '<span class="nuevo">Nuevo</span>' : ''}
+    <span class="play"></span>
+    <div class="lab">${esc(v.titulo)}</div>
+  </div>`;
+}
+function tarjetaFoto(f) {
+  return `<figure class="foto aparece" data-foto="${esc(f.id)}" data-caer>
+    ${imgTag(f.src, f.texto)}
+    <figcaption>${esc(f.texto)}<small>${esc(f.lugar)} · Foto: ${esc(f.credito)}</small></figcaption>
+  </figure>`;
+}
+function pintarMultimedia() {
+  $('#hoyVideos').innerHTML = S.videos.slice(0, 6).map(tarjetaVideo).join('') || '<p class="vacio">Sin videos por ahora.</p>';
+  $('#gridVideos').innerHTML = S.videos.map(tarjetaVideo).join('') || '<p class="vacio">Sin videos por ahora.</p>';
+  const orden = [...S.fotos].sort((a, b) => (b.portada - a.portada));
+  $('#hoyFotos').innerHTML = orden.map(tarjetaFoto).join('');
+  $('#gridFotos').innerHTML = S.fotos.map(tarjetaFoto).join('');
+  const banda = S.fotos.find(f => f.id === 'f04') || S.fotos[0];
+  if (banda) $('#bandaCifras').innerHTML = `<div style="position:absolute;inset:0;background:url('${esc(banda.src)}') center/cover"></div><span>Foto: ${esc(banda.credito)}</span>`;
+}
+function reproducir(el) {
+  if (el.classList.contains('jugando')) return;
+  el.classList.add('jugando');
+  el.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(el.dataset.video)}?autoplay=1&rel=0" title="Video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+}
+let visorLista = [], visorI = 0;
+function abrirVisor(id) {
+  visorLista = S.fotos; visorI = Math.max(0, visorLista.findIndex(f => f.id === id));
+  pintarVisor(); $('#visor').hidden = false;
+}
+function pintarVisor() {
+  const f = visorLista[visorI]; if (!f) return;
+  $('#visorImg').src = f.src; $('#visorImg').alt = f.texto;
+  $('#visorPie').innerHTML = `${esc(f.texto)}<small>${esc(f.lugar)} · Foto: ${esc(f.credito)}${f.fuente ? ` · <a href="${esc(f.fuente)}" target="_blank" rel="noopener">Ver la nota</a>` : ''} · ${visorI + 1} de ${visorLista.length}</small>`;
+}
 
 function tarjetaRegistro(r) {
   const estCls = 'est-' + r.estado.split(' ')[0];
-  return `<article class="item">
+  const f = fotoPara(r);
+  return `<article class="item con-foto aparece">
+    ${f ? `<div class="item-foto" data-caer data-foto="${esc(f.id)}">${imgTag(f.src, f.texto)}<span class="cred">Foto: ${esc(f.credito)}</span></div>` : ''}
+    <div class="item-cuerpo">
     <div class="meta">
-      <span class="chip ${r.origen === 'oficial' ? 'verif' : 'mio'}">${r.origen === 'oficial' ? '✔ Verificado' : '✎ Mi registro'}</span>
-      <span class="chip ${estCls}">● ${esc(r.estado)}</span>
+      <span class="chip ${r.origen === 'oficial' ? 'verif' : 'mio'}">${r.origen === 'oficial' ? 'Verificado' : 'Mi registro'}</span>
+      <span class="chip ${estCls}">${esc(r.estado)}</span>
       <span class="chip">${esc(r.tipo)}</span>
     </div>
     <h3>${esc(r.titulo)}</h3>
-    <p>📍 ${esc([r.municipio, r.depto].filter(Boolean).join(', '))} · 📅 ${fechaCorta(r.fecha)}${r.entidad ? ' · 🏛 ' + esc(r.entidad) : ''}</p>
-    ${r.monto ? `<p>💰 <strong>${pesos(r.monto)}</strong>${r.cantidad ? ' · ' + esc(r.cantidad) : ''}</p>` : r.cantidad ? `<p>🔢 ${esc(r.cantidad)}</p>` : ''}
+    <p>${esc([r.municipio, r.depto].filter(Boolean).join(', '))} · ${fechaCorta(r.fecha)}${r.entidad ? ' · ' + esc(r.entidad) : ''}</p>
+    ${r.monto ? `<p><strong>${pesos(r.monto)}</strong>${r.cantidad ? ' · ' + esc(r.cantidad) : ''}</p>` : r.cantidad ? `<p>${esc(r.cantidad)}</p>` : ''}
     <div class="item-acciones">
       <button data-ver="${esc(r.id)}">Ver detalle</button>
-      ${r.fuente ? `<a href="${esc(r.fuente)}" target="_blank" rel="noopener">Fuente ↗</a>` : ''}
+      ${r.fuente ? `<a href="${esc(r.fuente)}" target="_blank" rel="noopener">Ver fuente</a>` : ''}
       <button data-wa="${esc(r.id)}">Compartir</button>
       ${r.origen === 'mio' ? `<button data-editar="${esc(r.id)}">Editar</button><button data-borrar="${esc(r.id)}">Borrar</button>` : ''}
+    </div>
     </div>
   </article>`;
 }
 
 function tarjetaNoticia(n, i) {
-  return `<article class="item">
+  const propia = n.imagen;
+  const f = propia ? null : fotoPara({ titulo: n.titulo, depto: n.depto || DEPTOS.find(d => d !== 'Nacional' && sinTildes(n.titulo).includes(sinTildes(d))) });
+  const src = propia || f?.src;
+  return `<article class="item noti aparece">
+    ${src ? `<div class="noti-img" data-caer>${imgTag(src, '')}${propia ? '' : `<span class="cred">Archivo: ${esc(f.credito.split(' / ')[0])}</span>`}</div>` : ''}
+    <div class="noti-txt">
     <div class="meta">
-      ${n.vivo ? '<span class="chip verif">● En vivo</span>' : ''}
+      ${n.vivo ? '<span class="chip vivo">En vivo</span>' : ''}
       <span class="chip">${esc(n.medio || 'Medio')}</span>
       <span class="chip">${horaCO(new Date(n.fecha))}</span>
     </div>
     <h3>${esc(n.titulo)}</h3>
     <div class="item-acciones">
-      <a href="${esc(n.url)}" target="_blank" rel="noopener">Leer ↗</a>
+      <a href="${esc(n.urlDirecta || n.url)}" target="_blank" rel="noopener">Leer la nota</a>
       <button data-anotar="${i}">Convertir en registro</button>
+    </div>
     </div>
   </article>`;
 }
@@ -208,28 +300,30 @@ F().addEventListener('submit', ev => {
   const i = S.mios.findIndex(x => x.id === r.id);
   if (i >= 0) S.mios[i] = r; else S.mios.unshift(r);
   guardarMios(); limpiarForm(); pintarTodo(); ir('registros');
-  toast('Registro guardado ✔ Compártelo para que quede en la bitácora pública');
+  toast('Registro guardado. Compártelo para que quede en la bitácora pública');
 });
 $('#btnCancelar').addEventListener('click', limpiarForm);
 
 /* ---------- detalle, compartir, borrar ---------- */
 function buscarReg(id) { return todos().find(r => r.id === id); }
 function textoWA(r) {
-  return `📋 *Bitácora de la Reconstrucción*\n*${r.titulo}*\n📍 ${[r.municipio, r.depto].filter(Boolean).join(', ')}\n📅 ${fechaCorta(r.fecha)} · ${r.estado}\n🏷 ${r.tipo}` +
-    (r.entidad ? `\n🏛 ${r.entidad}` : '') + (r.monto ? `\n💰 ${pesos(r.monto)}` : '') + (r.cantidad ? `\n🔢 ${r.cantidad}` : '') +
+  return `*Bitácora de la Reconstrucción*\n*${r.titulo}*\nLugar: ${[r.municipio, r.depto].filter(Boolean).join(', ')}\nFecha: ${fechaCorta(r.fecha)} · ${r.estado}\nTipo: ${r.tipo}` +
+    (r.entidad ? `\nResponsable: ${r.entidad}` : '') + (r.monto ? `\nMonto: ${pesos(r.monto)}` : '') + (r.cantidad ? `\nCantidad: ${r.cantidad}` : '') +
     (r.detalle ? `\n\n${r.detalle}` : '') + (r.fuente ? `\n\nFuente: ${r.fuente}` : '') + `\n\n${location.href.split('#')[0]}`;
 }
 function verDetalle(r) {
+  const f = fotoPara(r);
   $('#modalCuerpo').innerHTML = `
-    <div class="meta"><span class="chip ${r.origen === 'oficial' ? 'verif' : 'mio'}">${r.origen === 'oficial' ? '✔ Verificado' : '✎ Mi registro'}</span><span class="chip">${esc(r.tipo)}</span><span class="chip est-${esc(r.estado.split(' ')[0])}">● ${esc(r.estado)}</span></div>
+    ${f ? `<div class="modal-foto item-foto" data-caer>${imgTag(f.src, f.texto)}<span class="cred">Foto: ${esc(f.credito)}</span></div>` : ''}
+    <div class="meta"><span class="chip ${r.origen === 'oficial' ? 'verif' : 'mio'}">${r.origen === 'oficial' ? 'Verificado' : 'Mi registro'}</span><span class="chip">${esc(r.tipo)}</span><span class="chip est-${esc(r.estado.split(' ')[0])}">${esc(r.estado)}</span></div>
     <h2>${esc(r.titulo)}</h2>
-    <p>📍 ${esc([r.municipio, r.depto].filter(Boolean).join(', '))}<br>📅 ${fechaCorta(r.fecha)}</p>
-    ${r.entidad ? `<p>🏛 <strong>Responsable:</strong> ${esc(r.entidad)}</p>` : ''}
-    ${r.monto ? `<p>💰 <strong>Monto:</strong> ${pesos(r.monto)}</p>` : ''}
-    ${r.cantidad ? `<p>🔢 <strong>Cantidad:</strong> ${esc(r.cantidad)}</p>` : ''}
+    <p><strong>Lugar:</strong> ${esc([r.municipio, r.depto].filter(Boolean).join(', '))}<br><strong>Fecha:</strong> ${fechaCorta(r.fecha)}</p>
+    ${r.entidad ? `<p><strong>Responsable:</strong> ${esc(r.entidad)}</p>` : ''}
+    ${r.monto ? `<p><strong>Monto:</strong> ${pesos(r.monto)}</p>` : ''}
+    ${r.cantidad ? `<p><strong>Cantidad:</strong> ${esc(r.cantidad)}</p>` : ''}
     ${r.detalle ? `<p>${esc(r.detalle).replace(/\n/g, '<br>')}</p>` : ''}
     <div class="item-acciones">
-      ${r.fuente ? `<a href="${esc(r.fuente)}" target="_blank" rel="noopener">Ver fuente ↗</a>` : ''}
+      ${r.fuente ? `<a href="${esc(r.fuente)}" target="_blank" rel="noopener">Ver fuente</a>` : ''}
       <button data-wa="${esc(r.id)}">Compartir</button>
       ${r.origen === 'mio' ? `<button data-enviar="${esc(r.id)}">Enviar a la bitácora pública</button>` : ''}
     </div>`;
@@ -242,7 +336,10 @@ async function compartir(r) {
 }
 
 document.addEventListener('click', ev => {
+  const vid = ev.target.closest('[data-video]'); if (vid) { reproducir(vid); return; }
+  const fo = ev.target.closest('[data-foto]'); if (fo && !ev.target.closest('#modal')) { abrirVisor(fo.dataset.foto); return; }
   const b = ev.target.closest('button,[data-v]'); if (!b) return;
+  if (b.dataset.ir) { ir(b.dataset.ir); return; }
   const ds = b.dataset;
   if (ds.v && b.closest('.tabs')) { if (ds.v === 'nuevo') limpiarForm(); ir(ds.v); return; }
   if (ds.ver) { const r = buscarReg(ds.ver); if (r) verDetalle(r); }
@@ -260,6 +357,19 @@ document.addEventListener('click', ev => {
   }
 });
 $('#modalCerrar').addEventListener('click', () => $('#modal').hidden = true);
+$('#visorCerrar').addEventListener('click', () => $('#visor').hidden = true);
+$('#visorAnt').addEventListener('click', () => { visorI = (visorI - 1 + visorLista.length) % visorLista.length; pintarVisor(); });
+$('#visorSig').addEventListener('click', () => { visorI = (visorI + 1) % visorLista.length; pintarVisor(); });
+$('#visor').addEventListener('click', ev => { if (ev.target.id === 'visor') $('#visor').hidden = true; });
+document.addEventListener('keydown', ev => {
+  if ($('#visor').hidden) return;
+  if (ev.key === 'Escape') $('#visor').hidden = true;
+  if (ev.key === 'ArrowLeft') $('#visorAnt').click();
+  if (ev.key === 'ArrowRight') $('#visorSig').click();
+});
+{ let x0 = null; const v = $('#visor');
+  v.addEventListener('touchstart', e => { x0 = e.touches[0].clientX; }, { passive: true });
+  v.addEventListener('touchend', e => { if (x0 == null) return; const d = e.changedTouches[0].clientX - x0; if (Math.abs(d) > 50) (d < 0 ? $('#visorSig') : $('#visorAnt')).click(); x0 = null; }); }
 $('#modal').addEventListener('click', ev => { if (ev.target.id === 'modal') $('#modal').hidden = true; });
 
 /* ---------- exportar / importar ---------- */

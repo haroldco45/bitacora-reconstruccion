@@ -4,11 +4,30 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Bitácora de la Reconstrucción</title>
-<meta name="description" content="Registro ciudadano de todo lo que se hace en la reconstrucción tras el terremoto del 10 de agosto de 2026 en Colombia. Vibras Positivas HM.">
+<meta name="description" content="Registro ciudadano de todo lo que se hace en la reconstrucción tras el terremoto del 10 de agosto de 2026 en Colombia. Fotos, videos, noticias y cifras. Vibras Positivas HM.">
 <meta name="theme-color" content="#0f3d3e">
+
+<!-- Vista previa al compartir el enlace (foto real) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vibras Positivas HM">
+<meta property="og:title" content="Bitácora de la Reconstrucción · Terremoto del 10 de agosto">
+<meta property="og:description" content="Qué se ha hecho, qué falta y cuánta plata va. Registros con fuente, fotos y videos reales, noticias cada 30 minutos.">
+<meta property="og:image" content="https://www.vanguardia.com/resizer/v2/CW26VWHXZBEJ5PNZQZQ637XTIY.jpg?auth=22f86f430211d8c2b2e72cca747867dc509203fae80eda924c16f14b701a70d0&smart=true&width=1200&height=630&quality=70">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Edificio afectado por el terremoto del 10 de agosto de 2026 en Colombia">
+<meta property="og:url" content="https://bitacora-de-reconstruccion.netlify.app/">
+<meta property="og:locale" content="es_CO">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bitácora de la Reconstrucción">
+<meta name="twitter:description" content="Qué se ha hecho, qué falta y cuánta plata va tras el terremoto del 10 de agosto.">
+<meta name="twitter:image" content="https://www.vanguardia.com/resizer/v2/CW26VWHXZBEJ5PNZQZQ637XTIY.jpg?auth=22f86f430211d8c2b2e72cca747867dc509203fae80eda924c16f14b701a70d0&smart=true&width=1200&height=630&quality=70">
+
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icon.svg">
+<link rel="preconnect" href="https://www.vanguardia.com">
+<link rel="preconnect" href="https://i.ytimg.com">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -19,25 +38,37 @@
       <p class="kicker">Terremoto M7,4 · 10 ago 2026</p>
       <h1>Bitácora de la Reconstrucción</h1>
     </div>
-    <button id="btnActualizar" class="btn-round" aria-label="Actualizar">⟳</button>
+    <button id="btnActualizar" class="btn-act" aria-label="Actualizar"><span class="rueda"></span>Actualizar</button>
   </div>
-  <p class="estado-sync" id="estadoSync">Cargando…</p>
+  <p class="estado-sync"><span class="punto-vivo"></span><span id="estadoSync">Cargando…</span></p>
 </header>
 
 <main>
   <!-- HOY -->
   <section id="v-hoy" class="vista activa">
-    <div class="hoy-card">
-      <p class="hoy-fecha" id="hoyFecha"></p>
-      <p class="hoy-dia"><span id="diasSismo">–</span> días desde el sismo</p>
+    <div class="hero" id="hero">
+      <div class="hero-fotos" id="heroFotos"></div>
+      <div class="hero-velo"></div>
+      <div class="hero-txt">
+        <p class="hoy-fecha" id="hoyFecha"></p>
+        <p class="hoy-dia"><span id="diasSismo">–</span> días desde el sismo</p>
+        <p class="hero-pie" id="heroPie"></p>
+      </div>
+      <div class="hero-puntos" id="heroPuntos"></div>
     </div>
 
     <div class="mini-cifras" id="miniCifras"></div>
 
-    <h2>Noticias de hoy</h2>
+    <div class="sec-cab"><h2>Noticias de hoy</h2><button class="lnk" data-ir="noticias">Ver todas</button></div>
     <div id="hoyNoticias" class="lista"></div>
 
-    <h2>Registros más recientes</h2>
+    <div class="sec-cab"><h2>En video</h2><button class="lnk" data-ir="noticias">Más videos</button></div>
+    <div id="hoyVideos" class="carrusel"></div>
+
+    <div class="sec-cab"><h2>Así va la reconstrucción</h2><span class="nota">Fotos reales</span></div>
+    <div id="hoyFotos" class="carrusel fotos"></div>
+
+    <div class="sec-cab"><h2>Registros más recientes</h2><button class="lnk" data-ir="registros">Ver todos</button></div>
     <div id="hoyRegistros" class="lista"></div>
   </section>
 
@@ -59,8 +90,14 @@
     </div>
   </section>
 
-  <!-- NOTICIAS -->
+  <!-- NOTICIAS Y VIDEOS -->
   <section id="v-noticias" class="vista">
+    <h2>Videos de la reconstrucción</h2>
+    <div id="gridVideos" class="grid-videos"></div>
+
+    <h2>Galería de fotos</h2>
+    <div id="gridFotos" class="grid-fotos"></div>
+
     <h2>Noticias de la reconstrucción</h2>
     <input id="buscaNot" class="buscador" type="search" placeholder="Buscar en noticias…">
     <p class="conteo" id="conteoNot"></p>
@@ -69,6 +106,7 @@
 
   <!-- CIFRAS -->
   <section id="v-cifras" class="vista">
+    <div class="banda-foto" id="bandaCifras"></div>
     <h2>Cifras oficiales</h2>
     <div id="cifrasDanos" class="grid-cifras"></div>
     <h2>Plata para la reconstrucción</h2>
@@ -110,25 +148,36 @@
 </main>
 
 <nav class="tabs" aria-label="Secciones">
-  <button data-v="hoy" class="activo"><span>☀️</span>Hoy</button>
-  <button data-v="registros"><span>📋</span>Registros</button>
-  <button data-v="nuevo" class="tab-mas"><span>＋</span>Registrar</button>
-  <button data-v="noticias"><span>📰</span>Noticias</button>
-  <button data-v="cifras"><span>📊</span>Cifras</button>
+  <button data-v="hoy" class="activo">Hoy</button>
+  <button data-v="registros">Registros</button>
+  <button data-v="nuevo" class="tab-mas"><b>+</b>Registrar</button>
+  <button data-v="noticias">Videos y noticias</button>
+  <button data-v="cifras">Cifras</button>
 </nav>
 
 <div id="modal" class="modal" hidden>
   <div class="modal-caja" role="dialog" aria-modal="true">
-    <button class="cerrar" id="modalCerrar" aria-label="Cerrar">✕</button>
+    <button class="cerrar" id="modalCerrar" aria-label="Cerrar">Cerrar</button>
     <div id="modalCuerpo"></div>
   </div>
+</div>
+
+<div id="visor" class="visor" hidden>
+  <button class="visor-cerrar" id="visorCerrar">Cerrar</button>
+  <button class="visor-nav ant" id="visorAnt" aria-label="Anterior">‹</button>
+  <figure>
+    <img id="visorImg" alt="">
+    <figcaption id="visorPie"></figcaption>
+  </figure>
+  <button class="visor-nav sig" id="visorSig" aria-label="Siguiente">›</button>
 </div>
 
 <div id="toast" class="toast" hidden></div>
 
 <footer class="pie">
   App ciudadana de <strong>Vibras Positivas HM</strong> · Caucasia, Antioquia<br>
-  Los registros “Verificado” vienen de fuentes públicas enlazadas. Los tuyos quedan en este teléfono hasta que los envíes.
+  Los registros “Verificado” vienen de fuentes públicas enlazadas. Los tuyos quedan en este teléfono hasta que los envíes.<br>
+  Fotos: EFE, Colprensa, Presidencia de Colombia y los medios citados en cada imagen. Videos: YouTube de cada medio.
 </footer>
 
 <script src="app.js"></script>

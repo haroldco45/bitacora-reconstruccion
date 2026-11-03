@@ -1,7 +1,7 @@
 // Service worker: red primero (datos siempre frescos), caché si no hay señal.
-const CACHE = 'bitacora-reconstruccion-v1';
+const CACHE = 'bitacora-reconstruccion-v2';
 const BASE = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.json', 'icon.svg',
-  'data/registros.json', 'data/cifras.json', 'data/noticias.json'];
+  'data/registros.json', 'data/cifras.json', 'data/noticias.json', 'data/fotos.json', 'data/videos.json'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(BASE))); self.skipWaiting(); });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))));

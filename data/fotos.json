@@ -1,0 +1,286 @@
+{
+ "nota": "Fotos reales de medios (EFE, Colprensa, Presidencia). Cada una lleva su crédito y la nota de donde sale.",
+ "fotos": [
+  {
+   "id": "f01",
+   "src": "https://www.vanguardia.com/resizer/v2/avanza-la-demolicion-de-edificaciones-afectadas-por-el-terremoto-en-cali-I4KUNP5L65CTVNV5RAS6DDP2RE.jpg?auth=979a6bd0476ad13793496df1a48db900e0a97f9d345c39efc6418e7ed1fb91b4&smart=true&width=1200&height=800&quality=70",
+   "texto": "Una retroexcavadora demuele un edificio dañado por el terremoto en Cali",
+   "en": "A backhoe demolishes a quake-damaged building in Cali",
+   "credito": "EFE / Ernesto Guzmán",
+   "lugar": "Cali, Valle del Cauca",
+   "depto": "Valle del Cauca",
+   "temas": [
+    "Escombros / demolición",
+    "Evaluación de edificios"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/09/09/terremoto-en-colombia-un-mes-de-la-tragedia-entre-polemicas-y-retos-de-reconstruccion/",
+   "portada": true
+  },
+  {
+   "id": "f02",
+   "src": "https://www.vanguardia.com/resizer/v2/pereira-avanza-con-la-remocion-de-escombros-cinco-dias-despues-del-terremoto-GMKEJG5HNRH4XEGMCRYOG7WUJI.jpg?auth=c24a3f27f50e6b00fd9ee40834d42b2cb5f778da1b303c1072159332cc2d4b30&smart=true&width=1200&height=800&quality=70",
+   "texto": "Remoción de escombros en Pereira, cinco días después del sismo",
+   "en": "Debris removal in Pereira five days after the quake",
+   "credito": "EFE / Carlos Ortega",
+   "lugar": "Pereira, Risaralda",
+   "depto": "Risaralda",
+   "temas": [
+    "Escombros / demolición"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/09/09/terremoto-en-colombia-un-mes-de-la-tragedia-entre-polemicas-y-retos-de-reconstruccion/",
+   "portada": true
+  },
+  {
+   "id": "f03",
+   "src": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/08/25/6a8d51c6bdbc8.jpeg",
+   "texto": "Arranque formal de la reconstrucción en Quibdó, 24 de agosto",
+   "en": "Formal start of reconstruction in Quibdó, August 24",
+   "credito": "EFE / Presidencia de Colombia",
+   "lugar": "Quibdó, Chocó",
+   "depto": "Chocó",
+   "temas": [
+    "Vivienda",
+    "Plata / fondos"
+   ],
+   "fuente": "https://www.primicias.ec/internacional/abelardo-espriella-terremoto-colombia-reconstruccion-130993/",
+   "portada": true
+  },
+  {
+   "id": "f04",
+   "src": "https://www.vanguardia.com/resizer/v2/colombia-ha-recibido-mas-de-220-toneladas-de-ayuda-de-paises-como-espana-mexico-y-chile-VF4ZJGDYAJDRVNWGGJ2XCOTUEQ.jpg?auth=fbab358eb7c7a6a8efff1bbd491c55dd1eead9fdca0cf44bbee541b6526442da&smart=true&width=1200&height=800&quality=70",
+   "texto": "Edificios Chiminangos de Cali, con fallas estructurales y riesgo de colapso",
+   "en": "Chiminangos buildings in Cali, with structural damage",
+   "credito": "EFE / Ernesto Guzmán",
+   "lugar": "Cali, Valle del Cauca",
+   "depto": "Valle del Cauca",
+   "temas": [
+    "Evaluación de edificios",
+    "Vivienda"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/08/18/reconstruir-colombia-tras-el-terremoto-costaria-cerca-de-us9500-millones/",
+   "portada": true
+  },
+  {
+   "id": "f05",
+   "src": "https://www.vanguardia.com/resizer/v2/shakira-llega-a-la-ciudad-colombiana-de-quibdo-acompanada-del-filantropo-howard-buffett-EN4ZLXCGRFB57A4CU7SXUEB7TM.jpg?auth=47fa4ce8ad8ce2abd4eadb81baee10e10e2110b61516f8a863debbf895bf9d64&smart=true&width=1200&height=800&quality=70",
+   "texto": "Shakira visita la I. E. Carrasquilla Industrial; anunció reconstruir la Universidad Tecnológica del Chocó",
+   "en": "Shakira visits a Quibdó school; she pledged to rebuild the Chocó university",
+   "credito": "EFE / STR",
+   "lugar": "Quibdó, Chocó",
+   "depto": "Chocó",
+   "temas": [
+    "Educación",
+    "Ayuda humanitaria"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/08/18/reconstruir-colombia-tras-el-terremoto-costaria-cerca-de-us9500-millones/",
+   "portada": true
+  },
+  {
+   "id": "f06",
+   "src": "https://www.vanguardia.com/resizer/v2/plan-milagro-de-reconstruccion-3CC7APDLRZFCVBSCMAVBAV7AGE.jpeg?auth=4889b85da5a22fa7ea4e3b2c57669d9a10cc7d40d3019f769f38bcd5039ed59c&smart=true&width=1200&height=801&quality=70",
+   "texto": "El Plan Milagro, la hoja de ruta del Gobierno para reconstruir",
+   "en": "Plan Milagro, the government roadmap to rebuild",
+   "credito": "Vanguardia",
+   "lugar": "Colombia",
+   "depto": "Nacional",
+   "temas": [
+    "Plata / fondos",
+    "Vivienda"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/08/15/gobierno-lanzo-el-plan-milagro-de-reconstruccion-para-las-zonas-afectadas-por-el-terremoto-en-colombia/",
+   "portada": true
+  },
+  {
+   "id": "f07",
+   "src": "https://www.vanguardia.com/resizer/v2/fuertes-lluvias-en-pereira-agravan-la-situacion-de-damnificados-por-terremoto-en-colombia-P33ED5XDHBDIZKN2EEQGARWFNA.jpg?auth=b3b493540650eeb0ec45d402d4eee2e76526ec9a1f50a30d82f76edd479f4087&smart=true&width=1200&height=800&quality=70",
+   "texto": "Damnificados limpian su campamento en el Parque Olaya Herrera tras las lluvias",
+   "en": "Survivors clean their camp at Olaya Herrera park after the rains",
+   "credito": "EFE / Santiago Gaviria",
+   "lugar": "Pereira, Risaralda",
+   "depto": "Risaralda",
+   "temas": [
+    "Ayuda humanitaria",
+    "Subsidios",
+    "Vivienda"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/09/09/terremoto-en-colombia-un-mes-de-la-tragedia-entre-polemicas-y-retos-de-reconstruccion/",
+   "portada": false
+  },
+  {
+   "id": "f08",
+   "src": "https://www.vanguardia.com/resizer/v2/fuertes-lluvias-en-pereira-agravan-la-situacion-de-damnificados-por-terremoto-en-colombia-RW7BNJ5IWNDYBO2M3GTFD4CF5Y.jpg?auth=5cebe2cb20bef46e1c1427354e6bdf7e50c1cf2af1eaf33030332e7c3abbfed8&smart=true&width=1200&height=800&quality=70",
+   "texto": "Daños dentro del Hospital Universitario San Jorge de Pereira",
+   "en": "Damage inside San Jorge University Hospital, Pereira",
+   "credito": "EFE / Santiago Gaviria",
+   "lugar": "Pereira, Risaralda",
+   "depto": "Risaralda",
+   "temas": [
+    "Salud"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/09/09/terremoto-en-colombia-un-mes-de-la-tragedia-entre-polemicas-y-retos-de-reconstruccion/",
+   "portada": false
+  },
+  {
+   "id": "f09",
+   "src": "https://www.vanguardia.com/resizer/v2/colegios-destruidos-tras-terremoto-XXBVILIKGFGH3APJJ45HU6NMSQ.jpg?auth=d4b78d65660d9981b5e856c0654915f9bf484157b28fd0f3b0e4319a30b1994d&smart=true&width=1200&height=837&quality=70",
+   "texto": "Colegios destruidos: un tercio de las sedes quedó con daños",
+   "en": "Destroyed schools: a third of campuses were damaged",
+   "credito": "EFE / STR",
+   "lugar": "Colombia",
+   "depto": "Nacional",
+   "temas": [
+    "Educación"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/09/09/terremoto-en-colombia-un-mes-de-la-tragedia-entre-polemicas-y-retos-de-reconstruccion/",
+   "portada": false
+  },
+  {
+   "id": "f10",
+   "src": "https://www.vanguardia.com/resizer/v2/el-terremoto-de-colombia-deja-en-suspenso-la-educacion-de-decenas-de-miles-de-ninos-FRNOY7D2LBHVXD5PBYCWIYBABM.jpg?auth=7a408be6f78c6fbdf0f4319fdab6da185d9909b05ec1150c0e3bd0f009292d9b&smart=true&width=1200&height=800&quality=70",
+   "texto": "Así quedó por dentro la I. E. Jesús María Ormaza",
+   "en": "Inside Jesús María Ormaza school after the quake",
+   "credito": "EFE / Carlos Ortega",
+   "lugar": "Pereira, Risaralda",
+   "depto": "Risaralda",
+   "temas": [
+    "Educación"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/08/18/reconstruir-colombia-tras-el-terremoto-costaria-cerca-de-us9500-millones/",
+   "portada": false
+  },
+  {
+   "id": "f11",
+   "src": "https://www.vanguardia.com/resizer/v2/defensoria-colombiana-alerta-sobre-falta-de-censo-de-damnificados-por-terremoto-en-choco-LAPMPXA27NFALDENMOCRKOLBHM.jpg?auth=a247ffa4d3fed47578b265e440e574e434a54021c1bf99b1fde78353ba81776b&smart=true&width=1200&height=768&quality=70",
+   "texto": "Vecinos observan un edificio destruido en Quibdó, 12 de agosto",
+   "en": "Residents look at a destroyed building in Quibdó, August 12",
+   "credito": "EFE / Mauricio Dueñas Castañeda",
+   "lugar": "Quibdó, Chocó",
+   "depto": "Chocó",
+   "temas": [
+    "Emergencia",
+    "Vivienda",
+    "Salud"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/08/15/gobierno-lanzo-el-plan-milagro-de-reconstruccion-para-las-zonas-afectadas-por-el-terremoto-en-colombia/",
+   "portada": false
+  },
+  {
+   "id": "f12",
+   "src": "https://www.vanguardia.com/resizer/v2/presidente-abelardo-de-la-espriella-habla-en-pereira-XYF5NYNM7RED5EKWKGMZAX6NOY.jpg?auth=6d5a843ee048c31bb370bf00271f49cd2bfdbd4b552182762ba76d1bce99b29b&smart=true&width=1200&height=800&quality=70",
+   "texto": "Rueda de prensa del presidente en Pereira, 14 de agosto",
+   "en": "President’s press conference in Pereira, August 14",
+   "credito": "EFE / Carlos Ortega",
+   "lugar": "Pereira, Risaralda",
+   "depto": "Risaralda",
+   "temas": [
+    "Plata / fondos",
+    "Economía / negocios"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/08/15/gobierno-lanzo-el-plan-milagro-de-reconstruccion-para-las-zonas-afectadas-por-el-terremoto-en-colombia/",
+   "portada": false
+  },
+  {
+   "id": "f13",
+   "src": "https://www.vanguardia.com/resizer/v2/pereira-intensifica-la-remocion-de-escombros-y-comienza-a-reanudar-sus-actividades-diarias-HEU7RWL3YJDD5GYYQE4QKMLRUA.jpg?auth=14a64ff755d126721c7d47975b27e98f112c6f891894b9213c4a102a3e5ec84c&smart=true&width=1200&height=800&quality=70",
+   "texto": "Escombros del edificio Santiago Londoño en Pereira",
+   "en": "Rubble of the Santiago Londoño building, Pereira",
+   "credito": "EFE / Carlos Ortega",
+   "lugar": "Pereira, Risaralda",
+   "depto": "Risaralda",
+   "temas": [
+    "Escombros / demolición",
+    "Economía / negocios"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/08/15/gobierno-lanzo-el-plan-milagro-de-reconstruccion-para-las-zonas-afectadas-por-el-terremoto-en-colombia/",
+   "portada": false
+  },
+  {
+   "id": "f14",
+   "src": "https://imagenes.primicias.ec/files/content_image_simple_414_238/uploads/2026/08/20/6a86c187b16be.jpeg",
+   "texto": "Familias en carpas frente a edificios dañados en Cali, 17 de agosto",
+   "en": "Families in tents in front of damaged buildings in Cali",
+   "credito": "EFE",
+   "lugar": "Cali, Valle del Cauca",
+   "depto": "Valle del Cauca",
+   "temas": [
+    "Ayuda humanitaria",
+    "Subsidios"
+   ],
+   "fuente": "https://www.primicias.ec/internacional/abelardo-espriella-terremoto-colombia-reconstruccion-130993/",
+   "portada": false
+  },
+  {
+   "id": "f15",
+   "src": "https://www.vanguardia.com/resizer/v2/terremoto-6QN6DWASUNGCFBIGNAZ6IDDMP4.jpeg?auth=31231b1af1f62db716ee42704580b169baceae2502a137f0440d8881b27e3291&smart=true&width=1200&height=800&quality=70",
+   "texto": "La educación sigue afectada dos meses después del terremoto",
+   "en": "Schooling still disrupted two months after the quake",
+   "credito": "Colprensa",
+   "lugar": "Colombia",
+   "depto": "Nacional",
+   "temas": [
+    "Educación",
+    "Plata / fondos"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/10/24/reconstruccion-tras-el-terremoto-costara-54-billones-gobierno-aumenta-en-80-la-estimacion-inicial/",
+   "portada": false
+  },
+  {
+   "id": "f16",
+   "src": "https://imagenes.extra.ec/files/image_composite_mobile/uploads/2026/09/10/6aa2b8cebd7cc.jpeg",
+   "texto": "El Gobierno activa el Fondo Milagro y el plan de reconstrucción",
+   "en": "The government launches Fondo Milagro",
+   "credito": "EFE / Presidencia de Colombia",
+   "lugar": "Colombia",
+   "depto": "Nacional",
+   "temas": [
+    "Plata / fondos"
+   ],
+   "fuente": "https://www.extra.ec/noticia/mundo/siete-claves-mes-devastador-terremoto-magnitud-7-4-colombia-162341.html",
+   "portada": false
+  },
+  {
+   "id": "f17",
+   "src": "https://www.vanguardia.com/resizer/v2/abelardo-de-la-espriella-en-la-cumbre-empresarial-para-la-transformacion-del-choco-F6Q5CFKTNBG2JIN6RC46FB2BGQ.jpg?auth=855f6604bddc6eab1527fadaf6971141250d2ca039a7e974977c95f4a387e521&smart=true&width=1200&height=800&quality=70",
+   "texto": "Cumbre empresarial para la transformación del Chocó",
+   "en": "Business summit for the transformation of Chocó",
+   "credito": "Presidencia de Colombia",
+   "lugar": "Chocó",
+   "depto": "Chocó",
+   "temas": [
+    "Economía / negocios",
+    "Plata / fondos"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/09/09/terremoto-en-colombia-un-mes-de-la-tragedia-entre-polemicas-y-retos-de-reconstruccion/",
+   "portada": false
+  },
+  {
+   "id": "f18",
+   "src": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/09/10/6aa2b84c07af9.jpeg",
+   "texto": "Escombros de un edificio afectado por el terremoto",
+   "en": "Rubble of a building hit by the quake",
+   "credito": "EFE",
+   "lugar": "Colombia",
+   "depto": "Nacional",
+   "temas": [
+    "Escombros / demolición",
+    "Emergencia"
+   ],
+   "fuente": "https://www.extra.ec/noticia/mundo/siete-claves-mes-devastador-terremoto-magnitud-7-4-colombia-162341.html",
+   "portada": false
+  },
+  {
+   "id": "f19",
+   "src": "https://www.vanguardia.com/resizer/v2/imagenes-de-la-destruccion-provocada-por-el-terremoto-en-pereira-y-las-acciones-de-rescate-de-victimas-QNL6NBT2PNGIHJIIIYV6SEXOGA.jpg?auth=9d874c084dd371f94edf6ce090b1c09bd630b860340d7d638eb2796fb40365b8&smart=true&width=1200&height=800&quality=70",
+   "texto": "Rescate y destrucción en Pereira en los primeros días",
+   "en": "Rescue work in Pereira in the first days",
+   "credito": "Vanguardia",
+   "lugar": "Pereira, Risaralda",
+   "depto": "Risaralda",
+   "temas": [
+    "Emergencia"
+   ],
+   "fuente": "https://www.vanguardia.com/colombia/2026/10/24/reconstruccion-tras-el-terremoto-costara-54-billones-gobierno-aumenta-en-80-la-estimacion-inicial/",
+   "portada": false
+  }
+ ]
+}
