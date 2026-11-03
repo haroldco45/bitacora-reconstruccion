@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-02T22:37:14-05:00",
+  "actualizado": "2026-11-03T06:39:30-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Reconstrucción mágica",
+      "medio": "El Espectador",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFIwNDNUQ0pJTGEzN3FKX1poRFR6N3dUc19PM0dJUkJDa0c4djVyTXVzVVVVNFVOQnh1U3JSMjdPWnRLTEt2ajV0WTc3S0tUR3kwS1dxaTVMYWZzN0ZtQXFwRzVtM25SakY1RE91TEYxWjNTb3hDckgxaWFha21XQTNuQ3RoanUyS2Y1dHlVdlBJNGU5LWdCONIBrAFBVV95cUxPN2c3U0NkdmFjaE41UWlLNWZxcDhyQ2JfNlQtd05NQ0tOeFB3QjNqWUJCQTBGcVpoOHFoN0NmTUdmWVRIWENPZ2hWUm8yLS1vOUgwQndCX2ZqQ0lWNl9VSEdrRlljR0NvVmtjdG5vWTJVYVNCXy1RZ0VzYmxZY2lXMXRFWTZXU2l6ODBQZEtNWWl0SE1PTVJpNHl5Zlh5UWNHUXR2c3hNZlh1S1ZN?oc=5",
+      "fecha": "2026-11-03T08:46:48.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
     {
       "titulo": "Panel Soluciones de vivienda tras el terremoto | RE Quibdó & Chocó",
       "medio": "Chocó 7 días",
@@ -1592,14 +1600,6 @@
       "url": "https://www.elheraldo.co/colombia/2026/10/23/de-la-espriella-presento-balance-del-fondo-milagro-y-detallo-inversiones-para-la-reconstruccion-tras-el-terremoto/",
       "fecha": "2026-10-23T07:35:00.000Z",
       "depto": "Nacional"
-    },
-    {
-      "titulo": "Desde Pereira el gobierno Nacional presenta balance del Fondo Milagro y hoja de ruta para la reconstrucción",
-      "medio": "El Quindiano",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2xkOTZwak4tWTJXUjBYa1NHSVdLWEwyZXo0Y3lTU0dmMHJvTUdkX2t4ZTZiTVJuc3BNYWNjMXBYd1NzOUo3N3k1YTFzajZ6cUllbHItcVo4TW1nZlJJclBpRzVacjZSRU9jdkZqUnYxOTRDOEJBWEQ2V2pCeG0wQ28zTGNmQjRmQkxDcFhLQi1Gcjk2WV9vaVJSYzh5OUxPVVNLLTBveVltZTdlZF9zYmVqM1d6US1BNWJZTm9JeDZmU0pjU3N4dVBROUtRZkdNX1pid2FiYzZsVmEzbVVHVA?oc=5",
-      "fecha": "2026-10-23T07:00:00.000Z",
-      "depto": "Risaralda",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
