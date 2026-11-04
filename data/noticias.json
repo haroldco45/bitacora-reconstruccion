@@ -1,7 +1,32 @@
 {
-  "actualizado": "2026-11-04T01:51:51-05:00",
+  "actualizado": "2026-11-04T10:09:25-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "La Cámara de Comercio gestiona ayudas, revisa barreras para empresarios y busca acceder al Fondo Milagro. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcXRmcXlvcDFIWlJ4ZUt0bmJUZ3RDSUFITGExaXFDSExJMVZtbzU0OHFTc21jbEdIMlZmWkVNTzFKdHc0Q3FIU2o2T2VjYXJoVmItMWZkaWctUmVfaWRXLUlEYkZPSi1YVTNvMDhxUnpsN0c4d3I3Y00zZkRXYVhNYnRBTFBmS3E3Q1RHNURuTDFPa0lTbTI5MGtVTWRLa19xTEpwdmJONTJkSi05NW9DdURvOW9HeEgyWVduOUVqVzJQRVlzTG9WcTZYZk1OVFJiZEhTWXJYaGd0RXN6XzJZZEhQVjhjdEha?oc=5",
+      "fecha": "2026-11-04T12:21:11.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Fondo Milagro: Juvinao denuncia contratos sin Secop y sin tope",
+      "medio": "CAMBIO Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSTc3SVFibzdYel9KV2pSLWJRM3hYMUZ0eGlxN3NKRjNhZXE3RE5RVVBnMHFXazI0eU1ub3hwb1hhdEJyYUFxQUctTDV0Si1QSjNDS2ZGLWFVR3lOWFBBeWFyT01LMEVydnpsSFNwTG05MUZVcEg4ZE1FQW9KNHZicy1zZ0pnWmZIRTR1T3hIU1lXOWpod0dTUFFBWW9FNzBoYVQ5LWJ5ZDNXM09HcEIwclE3Z1U4RktkSXRFYmREYXVVWkotQXZ4bnJvUVo4NzhBb3Q1UlpVdEJaUm15djVGdg?oc=5",
+      "fecha": "2026-11-04T11:05:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Fondo Milagro: Juvinao habla de supuestos vac&#237;os y que manuales permitir&#237;an adiciones sin l&#237;mites a contratos",
+      "medio": "El Colombiano",
+      "url": "https://www.elcolombiano.com/colombia/politica/juvinao-denuncia-vacios-manuales-contratacion-fondo-milagro-PA43160870",
+      "imagen": "http://www.bing.com/th?id=ONUT.Ns4EeJ7UWSFVqxjSru5gkQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-04T06:33:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
     {
       "titulo": "Taiwán cambia el rumbo de Chocó tras el terremoto en Colombia: millonaria ayuda devuelve la esperanza a miles de familias",
       "medio": "RED+ Noticias",
@@ -43,6 +68,15 @@
       "fecha": "2026-11-03T18:00:48.000Z",
       "depto": "Nacional",
       "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Menos controles para gastar la plata del terremoto: lo que denuncia Juvinao sobre el Fondo Milagro",
+      "medio": "Cambio Colombia",
+      "url": "https://cambiocolombia.com/poder/articulo/2026/11/menos-controles-para-gastar-la-plata-del-terremoto-lo-que-denuncia-juvinao-sobre-el-fondo-milagro",
+      "imagen": "http://www.bing.com/th?id=ONUT.aK7Xcbr8R1KufpFFf663PA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-03T16:15:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Gobierno redirecciona recursos del ACPM y de obras clave de movilidad en Bogotá hacia el Fondo Milagro",
@@ -1622,38 +1656,6 @@
       "fecha": "2026-10-24T02:37:54.000Z",
       "depto": "Nacional",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Abelardo de la Espriella anunció la puesta en marcha del \"Fondo Milagro\" para la reconstrucción por el terremoto del 10 de agosto",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb1MxZDlDVnNlUTA1eG1hckItNk02M1NpcVVkVVNVNkhCQ0Q4OWtIalQ0TzB1bS1xYm5fUU1YQzJtd3haUncwZlRyRXZvaGVBTFhUamE3VHBoWjItXzdJWnkyNTR1TGhxaDNsRWxIODRpLTJFM2dsc3E5OGxNRUlYV3lOcDg1OXFfVVRGNTQ4R3lndkNHbE9LYWFtcndFM2dwejhuajZveHd5aUs1ZXZyWWNIRUEyMWpCbVMyaC01U3ozZjZZZWY2cVc0ZFJSMThhTl9FQ2o3RFpfNjFhVGE2OTh6bk9ESXhtSllwY3o0SUNDSng5am5VZTRFcldGeEdwVks1WktUMA?oc=5",
-      "fecha": "2026-10-24T02:33:46.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Colombia estima en $54 billones el costo de reconstrucción tras terremoto de magnitud 7,4",
-      "medio": "CRprensa.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHBoZ1JBeWs4M3ZkM2k3YkZBZjJESDhjSkFSWmQ3a0FXWmJQRDJwZ1RId1JSbkFlZEV3SFJkTmZrTHcyU0d0SjhNZWdHY2JhbFRWVGpFRHdGb2R6WGZGTEs5UnhfNGdDeHdsLUNaVjRtRWZISXZtVWZuZ2NFVG9VV1hsLWRZS2RpTXFnNFJJOVNjUENhZGZRdW9PMXdhckF4UW5PeWNzVWIxeGtSYWRZN3NucHpvckxuWVVOYg?oc=5",
-      "fecha": "2026-10-24T02:05:35.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Minvivienda estima en $54,3 billones el costo de la reconstrucción del país tras el terremoto",
-      "medio": "ELHERALDO.CO",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONU0zc05SemE4YmliWWlDTV96UVUyTktOX3VyV0F2TDZzUWVBakppUE1XRFFMUGlNUFgxekVXbkxIUXlOM0JJam5Xb2YtSFgtLWNDRVR5dGRVTlc4dWZXYm85cU9lQUx6YXVoWmZsMm5iM0psbVozd3U5VUZhdnFjYXk2V2o2T1FtUWRyLWxoSG1teWt3bGkydE1LUjFYSWFKVzlYcllzV2FROUd4bV9EVHF2SUtwSHNaS2o2RkNfU0o5eFhlTVh0MThNM0FMRVBiNGNJ?oc=5",
-      "fecha": "2026-10-24T01:54:01.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Reconstrucción en el Eje Cafetero: los billones que se necesitan tras el terremoto, en Un Café 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
-      "medio": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUEVGcDlLZkNsRERRSjBEbV9UQmtJV1NGOExXLWx4ckZLM1hObThCbjNfaWhXU0N6OXRuU1B0bzJqdXo3aW1pTmljOGVxNkJ1Tk5XYlhndWJ0YzZKYnFCUDRjR0VUbFFnMlhVYUY0clY4eVBVU0ZjM2w2d2JsdHhvUUZNZnFBZ0FRWVhkZ2xYVmpxY055ZzVMWkpDWU1OMGR3TXJ0NDYwMURSX2pJWGJWUmtwMU4yaEpxR2JWcmV5bGtRRGJaak1tXzE0cm03aEZNZWFob21VNFJtX1JKQzlLTUNUd3YyLWlo?oc=5",
-      "fecha": "2026-10-24T01:42:07.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
     }
   ]
 }
