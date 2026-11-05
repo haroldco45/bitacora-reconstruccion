@@ -1,14 +1,40 @@
 {
-  "actualizado": "2026-11-04T16:25:17-05:00",
+  "actualizado": "2026-11-04T20:40:37-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Colombia Mayor y el Fondo Milagro tendrían más plata ante aprobación que le hizo el Congreso al Gobierno: qué falta para que se haga realidad",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbUtZZi1mTjh3a0hGNVVLXzBoRktGdVFrVXRQeGJhMzRqNjRyX0NHa0hTa1VrTzZRZHdmV01LdndPVWwwRjlZa0pzMmM5eEZHWmFOMEFqMlNxUmpHdDVPc19vWEdLc2JyMEtwTnYxbjVHYWJMNVoxY3ZDY3AxaDNzdUhCRThybjR2SUFHUndYa1JDOVV6b2hHeFBxNVZnTnRjZUg2UEFRaUxncFcxdVBHUDZkOEM3SEtqMHJncTVfSExUNnVlT2g3TzFUYVNpRHNKWHVRVEhFNlZrVkxJZVNZSG1PekpHakNhTkVGMGpHaEYyUzVNangzNVlBTUZLWUctWU1MQ2lIbDFZcm5iNHlnc1ctSdIBrgJBVV95cUxQSXE2c2E2SS1Cd1hSVDQxb1VjZHljM3RDV0R3M2hpYldhdHR6QzJCSHpBV1ZvNHpBa1VSbERLWm81MlZwOXRSZGtqejZ4XzJXbjM5eWdjOTludW9jS0VJYWRPNm1wZE03eWpFbS1ZM0dMcUloVlJTZmlCYm54SDd0ekpJRDNNNXdUSm1zTm1WNE12a250Q08ySFNrSzd2RHRyaGZwcndPZDBOb0YwYXhHbk1IclpRQ3BUU2gxLWZNT2s4LThsVTZjNmZaRUd4MHdnTi1VSzFHLVc4Y3pqZXE4Y0ZhTy1ralBNblFWQ05GeWN1dG1xSGIxWXZyV1dVNmVlNTJsUWJSaVBOQkg2aHJhdmlxNXpFbnhNU3pqRS1OQndmaXJvMGFEbzFIN2QwUQ?oc=5",
+      "fecha": "2026-11-04T22:08:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Gobernación del Chocó inicia plan de reconstrucción de viviendas: busca apoyo del Fondo Milagro",
+      "medio": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbkZKQ2YxdFQ0UUFjUXFlLS1Lclktbjk2djdxOUhqblNFOWVmdEJ4SkIxOFZmeXZQOWl0LW45NTBzNTBPQ2FfNUtyd1JnYzhrUVlZWllUdC1MTlZieWZ6LUlNaW5aNTlmQjlXQnQzd1p1RndYSzQtZlo0a3EwZVBSemcxLUUtUG40N0dyU0wwY2RjR2pKYjM0NWtYUXJaRE8tYm1LS3Y1MzF1aGJ4MkY1X3oxS0lYSldLUXRMOFczNzliRFZLZ1hTVlljNENGWjF0dWx4Yk40TFd4SVRKM25kYzRpU0prcVU?oc=5",
+      "fecha": "2026-11-04T22:07:15.000Z",
+      "depto": "Chocó",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "#Noti90 Las personas damnificadas por el terremoto en Cali comenzaron a recibir nuevos desembolsos de ayudas económicas. Estos corresponden a pagos que estaban pendientes del primer corte, mientras avanzan los trámites para el segundo. Con estas",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa1dLRXcxVV91SW5sdUZWQnRtcFNGQjJXcmFDck8tb3haUUJ2LUlCMWhrSWlqWUpYSWpFSzNoZWQ0T0d6NURhVUFBUjJEU2Jtd1pYSGJVcjBGcWdWSUV3YWNya1RRaUNkU0piLVduVk03WUI3RnpmMnc2b3oyRmdhT0FaOWN1NURIcnJJVU9DQ1hMb3Bwajg1YnhHeGhCeU5JNEtmZXBmS2ZVMjUzMWgxUjFsMTR5Nmp2cXRxcGZodHN1WjNUQTlPZUNvZlgwVDZuTUFEcUpSaGs2c3ZHSElYUDItcHA?oc=5",
+      "fecha": "2026-11-04T21:29:18.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
     {
       "titulo": "Alcalde de Cali destaca respaldo del Gobierno tras terremoto y revela avances del Fondo Milagro",
       "medio": "Diario La Libertad",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakpFUEJlVnRVS0FjS2JPOGE2eTl5VXMyV1R5OTk4NUc2UlR4UHhVSUt0dF95a252N2JYSWZVTklMckU0RGlXc1dnMlJORmc4Q0trMW1HUUx1M1lrVWcyeThaVlF2VWd1NnRrT2lLMnRTMG1jQzhjNlBocThGcmJ3ckRLWE5GNVd2UDY4WWxwRThvcXJkRWczQWMxR05sRGhmZFNqMUJOSnRJM2dFU00yaklINVlyQUl1U0RYYWxvaTVSLVYxQlNUR1J4RzRxRjlpbkE?oc=5",
       "fecha": "2026-11-04T19:40:38.000Z",
       "depto": "Valle del Cauca",
-      "consulta": "\"Fondo Milagro\""
+      "consulta": "\"Fondo Milagro\"",
+      "imagen": "http://www.bing.com/th?id=ONUT.bJIKWw-D3iF0fLu7M_3X_Q&pid=News&w=640&h=360&c=7",
+      "urlDirecta": "https://diariolalibertad.com/2026/11/04/alcalde-de-cali-destaca-respaldo-del-gobierno-tras-terremoto-y-revela-avances-del-fondo-milagro/"
     },
     {
       "titulo": "¿Es damnificado del terremoto en Cali? Consulte las jornadas para reclamar el auxilio",
@@ -83,6 +109,33 @@
       "consulta": "damnificados terremoto UNGRD"
     },
     {
+      "titulo": "El terremoto del 10 de agosto, abri&#243; una puerta a una nueva planificaci&#243;n del pa&#237;s: Gilberto Betancourt",
+      "medio": "prensamercosur",
+      "url": "https://prensamercosur.org/2026/11/04/el-terremoto-del-10-de-agosto-abrio-una-puerta-a-una-nueva-planificacion-del-pais-gilberto-betancourt/",
+      "imagen": "http://www.bing.com/th?id=ONUT.b_b6JiieVvAiHy5XbS51Hw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-04T15:52:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Gobernaci&#243;n del Choc&#243; inicia plan de reconstrucci&#243;n de viviendas: busca apoyo del Fondo Milagro",
+      "medio": "Semana on MSN",
+      "url": "https://www.msn.com/es-co/noticias/other/gobernaci%C3%B3n-del-choc%C3%B3-inicia-plan-de-reconstrucci%C3%B3n-de-viviendas-busca-apoyo-del-fondo-milagro/ar-AA2gLJOh",
+      "imagen": "http://www.bing.com/th?id=ONUT.mf_kjGFgRtgj27oVnRX1qg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-04T14:06:29.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Subsidio para desempleados por el terremoto: Gobierno fij&#243; fechas clave para estos giros",
+      "medio": "Semana on MSN",
+      "url": "https://www.msn.com/es-co/dinero/apoyo-y-previsi%C3%B3n-del-gobierno/subsidio-para-desempleados-por-el-terremoto-gobierno-fij%C3%B3-fechas-clave-para-estos-giros/ar-AA2gLpJp",
+      "imagen": "http://www.bing.com/th?id=ONUT.qcNuDUzZrLXPq5H6_XWpkg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-04T13:42:38.000Z",
+      "depto": "Nacional",
+      "consulta": "damnificados terremoto UNGRD"
+    },
+    {
       "titulo": "Fondo Milagro: Juvinao habla de supuestos vacíos y que manuales permitirían adiciones sin límites a contratos",
       "medio": "El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOejZYNV9KM29GQUU4QTBicDBRNWlKZWRBeFhHZXJBYmRscXBiQ01tSEhXYWhBTVZWZmUzOV9KZVR4Qk4tOWpTZVFqdTZXdkhTWGlvS3ZXWW9mY1lDcXdzb2FBRVpkRkZObXhhZ0hNWEN6YXdvTjdSTWZrZHlxN255Nng0b1RGT21NOVZOakJYaHp3VzBmUmVSTFMyS2M3MElUZE5Hd3dCZm81MkdBejhiT28ya29vTjJN?oc=5",
@@ -153,12 +206,30 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Seminario Mayor San Pedro Ap&#243;stol prepara encuentro solidario para damnificados del terremoto",
+      "medio": "Noticiero 90 Minutos",
+      "url": "https://90minutos.co/cali/seminario-mayor-san-pedro-apostol-encuentro-damnificados-terremoto-4-11-2026/",
+      "imagen": "http://www.bing.com/th?id=ONUT.ju_Zv8xZOB_j3UokrYbr2Q&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-04T08:55:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
       "titulo": "&#191;Es damnificado del terremoto en Cali? Consulte las jornadas para reclamar el auxilio",
       "medio": "Noticiero 90 Minutos",
       "url": "https://90minutos.co/cali/damnificado-terremoto-consulte-jornadas-reclamar-auxilio-4-11-2026/",
       "imagen": "http://www.bing.com/th?id=ONUT.9Oh1n9qPgGIPYCpMtaneBQ&pid=News&w=640&h=360&c=7",
       "fecha": "2026-11-04T08:13:00.000Z",
       "depto": "Valle del Cauca",
+      "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "Recomendaciones de la UNGRD para actuar despu&#233;s de un sismo y evacuar de forma segura en Colombia",
+      "medio": "Pulzo",
+      "url": "https://www.pulzo.com/vivir-bien/sismo-en-colombia-recomendaciones-clave-de-la-ungrd-para-actuar-y-evacuar-con-seguridad-PP5348516A",
+      "imagen": "http://www.bing.com/th?id=ONUT.Uoj7M4yLPZmMbM-cIU2ENQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-04T07:56:00.000Z",
+      "depto": "Nacional",
       "consulta": "damnificados terremoto UNGRD"
     },
     {
@@ -205,6 +276,15 @@
       "fecha": "2026-11-04T03:21:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "Colombia Mayor y el Fondo Milagro tendr&#237;an m&#225;s plata ante aprobaci&#243;n que le hizo el Congreso al Gobierno: qu&#233; falta para que se haga realidad",
+      "medio": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/04/colombia-mayor-y-el-fondo-milagro-tendrian-mas-plata-ante-aprobacion-que-le-hizo-el-congreso-al-gobierno-que-falta-para-que-se-haga-realidad/",
+      "imagen": "http://www.bing.com/th?id=ONUT.0E25PRUPPmoOwM55P4HSaQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-04T02:08:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Taiwán cambia el rumbo de Chocó tras el terremoto en Colombia: millonaria ayuda devuelve la esperanza a miles de familias",
@@ -1593,78 +1673,6 @@
       "fecha": "2026-10-25T19:55:12.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Reconstrucción tras el terremoto en Colombia costará $54,3 billones",
-      "medio": "elnorte.com.co",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWxIMUtGaGFlSjlMWHlBZzI2RWdNbmFSczlKRVBBbjBXUUROdVg3cTk2aWVQZy1VeXdhLVhObzY3YzdsdFpJc0hnNFZQUlB5Ny1ZMzBvcFd3UDBGay1XQWFqdXZ3dlpMbnN3RUNuTXJ0ZlJKbmY1a3VBbUJBSHoySmVNa0FVTUtNSHNqN0ptNmNkQUU?oc=5",
-      "fecha": "2026-10-25T18:12:32.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "ONU Derechos Humanos pide reconstruir y reabrir la Casa de las Memorias de Cali, cerrada tras el terremoto",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc1ZaajhzQ1ZRaGNXTDI5d01KVmo2Y1RxeFdnNTIwaGFzcEFMSTEtV1NIUmFhelR3eDhycDBsODRNa1NvZ20tN0Y3UVZXbG13cnc1TmZwR05zTGRjUFZzdUZnMXo1cHo1cy03SVQyNG40QkxCTF9CcEI3MFZobXFfZFhGa0R3Znp4cDA2eU9YMS02c1JwbElIWDJrV3NaRzhyVkdxSlg0T0pFMjcyZzJreWZTX2JGT2xDSHN1MC1zMTR3NmFNRWE4Ry1UOHdjTm1hZWNMc0hHV04wY3N3cW5OT212YnlHUmPSAewBQVVfeXFMT1MzekhTZHkza1NINXNyUHFVY2tJMzg2aGJJUWVUaVBzLXNiZktvUnNYcTZIeXpLeGRUSDJSS1l1d2lnRXNpUHFhRkJrZkRjbUwtSkRBVW5BMVNsLXVzWUJOcy02TGxDdUQ1NmlrNVRSOGJyMmEtZzZYSmpqbE1KU1BKQURCLVN2WVhKVC1PMnhMb3MwVXo2SEVibEk5a1ZRM3NYek95Y29XS0YxaVZSdEJOdVVNREh3NDVJclA0TzJRcUpWQmk1aVRxZFU5ZlNyU29GSWFEMkozeHdBWUh0WVVDWDRPVllwa3hlamc?oc=5",
-      "fecha": "2026-10-25T17:16:34.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Proyectos ante el Concejo de Cali buscan la reconstrucción",
-      "medio": "Diario Occidente",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzhWbnhHQ0VaY2dEWjlEZFJUWkpVU1VNa3hhLU9NNS02ZDJJeVViRVg3dmpvQ1JhWTZFWUhraHhlR0RLMnZPLXVVa01uN1NkZVFCZ1ZDMWdRa2RRV1ZqbGpyU28yVE1LaWFBSzFKSmNqY2ktSmFKWHV4bEtVbHFzTHNXV043NnN5Zm12ZFRqc29YSGvSAZ4BQVVfeXFMTlR5RWN5TWtPcmcyWkhaOVpDUkZlbU5wQVk5cC1NT180WmU0TnVUclJSZFpsNEZYNDFjYUFONFlNNlF0TEVENHZKTW5JSVVrQzFaWWdvR3pza1U2YXNDNFVXQklONTVkZ09vaGFyOEZDOXR4LTNNVnFtZ0hJUUFLYlJhdmVmZTU0MS1YRXNZZ1M1eFp6ZTdhY3hDeFpjWXc?oc=5",
-      "fecha": "2026-10-25T09:30:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Vatia dona para la reconstrucción tras el terremoto",
-      "medio": "Diario Occidente",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2k0RFFmSTdFNUpEcjJIX2ZKQXpEZjhxcEVfbHZmdkRoVnVWSGNqU1p1cHJ4em54RURMUXRvWUVaZ2RwdlppOEVKNEtvaDlCNHJjWVROM3NMWEdkeDdfVEkta0ItUWh2RktkM0FtdjRhSHRvTGlEU3dVWnAzMEItSU40TGVlbzF6VTJNc1h6WXNPVUJaV2JDdGNhaUhUazh3TmfSAawBQVVfeXFMUGZNNmlCb2dheUtmSDFhcVRTQVJhSEhSZHFUcnBVZGRQVFpKekpyRXo4Nkc2aDJfR3g1UHlHcDhXalAyUkd6WF9VTnBkWFh5dnltenFHWjFhd3BqSWZpdzAyR0R4a0VkekdMNjRNM2piRHVsdkVQaGlhRU1vcHNFMW5ZaGdyOElOdDdDZllPVjI0b0c4Zmo4elF3N19QNHhNZjBOdHRqX1VKV1pkUQ?oc=5",
-      "fecha": "2026-10-25T09:30:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "La reconstrucción por el terremoto en Colombia es una prueba de fuego para el Estado",
-      "medio": "Periódico UNAL",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTUdCVlptT25xS3dhVjhpT0xjbDR3VFhKWlNoN21mQkNtdUxvemJMelhjbVdyaUtWZmJTYmpsSDREaVFKT1UxVGNKNHR4QjM4TlFhYURDcXdiMWhsNU5wOFhmUkJKQ0NiaWtYY2NiWFotNDFrakc1THlNa2ZXWHQ5SnczRy1sTTJxSUNYclBmbmVfWjJCeUFfbVhGYlVpU25jOUpuTUhaekJfYzBGaHhobUNLUmxfd2htdU55QVMwNk1KZw?oc=5",
-      "fecha": "2026-10-25T07:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Desde Pereira el gobierno Nacional presenta balance del Fondo Milagro y hoja de ruta para la reconstrucción",
-      "medio": "El Quindiano",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2xkOTZwak4tWTJXUjBYa1NHSVdLWEwyZXo0Y3lTU0dmMHJvTUdkX2t4ZTZiTVJuc3BNYWNjMXBYd1NzOUo3N3k1YTFzajZ6cUllbHItcVo4TW1nZlJJclBpRzVacjZSRU9jdkZqUnYxOTRDOEJBWEQ2V2pCeG0wQ28zTGNmQjRmQkxDcFhLQi1Gcjk2WV9vaVJSYzh5OUxPVVNLLTBveVltZTdlZF9zYmVqM1d6US1BNWJZTm9JeDZmU0pjU3N4dVBROUtRZkdNX1pid2FiYzZsVmEzbVVHVA?oc=5",
-      "fecha": "2026-10-25T07:00:00.000Z",
-      "depto": "Risaralda",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Reconstrucción de Cali y proyectos estratégicos del Valle: los temas en la mesa en el Encuentro de Infraestructura",
-      "medio": "TuBarco",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRUdhQXhzM3d5UVlXYnZTQzdfWEV2SkFMcUIxUlhGT2dReE9laVg1cW1IZHVETUpRRVM2bVFGWERnbzVxeFFlb0E5cElIT2NQNmJMbEo1UDkwTjh3ZjZwUXdibmQxWDhXZW1PUEI1eEd5dk5XR0JrWWs3dVVQaE5UWWlTVjI2dw?oc=5",
-      "fecha": "2026-10-24T22:44:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "“El Valle del Cauca tiene presidente”: De la Espriella prometió seguir la reconstrucción",
-      "medio": "CW+ Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ08xOUJLU09ZckpHTTcybGlHYllOc2h5aFhvWER4VXAxYV9qSFdfamVrT3RTTkxOWW0xX3dYc2haenZOOXdJbkp6MmxuZHY0RE9OZ0M0U1RiZzlyeE51dG5ET2M2YWhFUzB4aUt0ZVYxWGhoSXNPT2JodG9jRTd0TFAtNDhoNGt2eXdDUHRYbV8tM2o3Q3VGUFhUNUQwWkVyN3pFWm9OME03aUw2aUttQ0JiT2x5V29zMEdRYU1yUmhIUzFKTExieF93dlREN2xlaGlxVXg2YzZiQ1Rqa01MZklRT0cxT1k?oc=5",
-      "fecha": "2026-10-24T22:12:54.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "\"No podemos mezclar la plata pública con la privada\": De la Espriella aclara desde Cali que el billón donado por empresarios no entra al Fondo Milagro",
-      "medio": "IFM Noticias",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXk0VjZVb29sVDVKVUdabFNGS0EwTnFSbzZjSF9ISkxIcWZHaUhSc290NzJ5N291YV9HRUNvaEhtd2lmODMxd1FzSnNta19fMGxLV0RGcUExNzYzZlMzUmUxZUxPZWZaaGZUM3JqaDV4ay1LTUM0Y2ZVVmRGZ2VVTTcyTVh5OFdPc0Y0V2FJUkkxbmV0LVg5VzM0T3BiSV9pWURxSVBiWFliOTU0c3VZT3VSUkw?oc=5",
-      "fecha": "2026-10-24T21:41:14.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
