@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T20:40:37-05:00",
+  "actualizado": "2026-11-05T04:01:00-05:00",
   "total": 200,
   "noticias": [
     {
@@ -355,6 +355,14 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Mulino promete reconstruir casas, hospitales y escuelas afectados por el terremoto en Panamá",
+      "medio": "Telemetro",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZVdnY25uZkY4NTNrOEZLdmZFV2VYUngxaWF4Rk91dXJZY3VrNUdaajlaRmppZ2hMbHA1S1lMbEtycW9mS0JXOXpXVzlPMERNWnpQc0gzMnRhUWRJTTY4VVJWZlhoOW1oSlR0cEhyWjFyX3k5eGE1dlFZSlh4a3dON0FubVMwcUxuTUFxYWU1bEhXdkZsQzZ2SXp5T1VZcDhEdmdCQUoycFplRjVDRy1JeXJ6MEZWRllta3djSml6T1AtOTYxYXRmZHVn0gHPAUFVX3lxTE05TVVEMEFKX014Q21rVGFGTFBITWNmNHVfbjVCZFVvRnBRYWZzNmdvRHJwMEVXTnB4aFVqQ011Yks5R1A2azhHR2ZyRGFTRVp3aXd4TnY5TWJLajh1WHU0Tks4QnJDbUk0N0dzNWhPVURIMktPbndBaWd3c0tFYnVvVFR3T1BGVTY4YkVBU3BjYkQ0UGNjU0VNOVlVX0xNVDNoeTluVndjQ1lJaGt4SUJyQlNBN0I5TWk5NzBtOUxOWEp4bjRRejNScXYtdnJ5dw?oc=5",
+      "fecha": "2026-11-03T15:22:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
       "titulo": "La magia de ‘Encanto’ regresa a los cines para ayudar a los damnificados del terremoto",
       "medio": "Vanguardia",
       "url": "https://www.vanguardia.com/entretenimiento/cine/2026/11/03/la-magia-de-encanto-regresa-a-los-cines-para-ayudar-a-los-damnificados-del-terremoto/",
@@ -468,6 +476,15 @@
       "fecha": "2026-11-03T06:24:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Cementerio San Camilo busca superar los da&#241;os del terremoto en Pereira",
+      "medio": "El Diario",
+      "url": "https://www.eldiario.com.co/noticias/risaralda/cementerio-san-camilo-busca-superar-los-danos-del-terremoto-en-pereira/",
+      "imagen": "http://www.bing.com/th?id=ONUT.ffkPZ1C7HmGIfXwcmKIvLw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-03T05:01:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
     },
     {
       "titulo": "Gobierno redirecciona recursos del ACPM y de obras clave de movilidad en Bogot&#225; hacia el Fondo Milagro",
@@ -1195,6 +1212,15 @@
       "consulta": "terremoto Cali reconstrucción"
     },
     {
+      "titulo": "Damnificados en Cali siguen sin recibir el subsidio de arriendo, &#161;qu&#233; est&#225; pasando?",
+      "medio": "Diario Occidente",
+      "url": "https://occidente.co/cali/subsidio-de-arriendo-en-cali-retrasos-terremoto-ungrd-2026/",
+      "imagen": "http://www.bing.com/th?id=ONUT.8TVz2oslgXBE0DJphEC_Zw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-10-28T16:42:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "damnificados terremoto UNGRD"
+    },
+    {
       "titulo": "“Necesitamos claridad, víctimas del terremoto merecen respuestas”: Simón Molina sobre Fondo Milagro",
       "medio": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGliSnhrdC0wckJlWW9tMkpUbzV5OW5sZ0tsMk5JSEJvdWpLVVJyZWZCX2ZkV3pIMGx3YWRyVHJ0RWZnYlBBSFdGcTdRY3d1TzYtbkc3enJsZVdGajd1UGlxMGNFVFNwSkNTZmFjLXBRLXJLMy1sYWs5Ql9xeUFLaGpfTnJCaWMySXgyVHN6SVg3NXRSZTgyS3VHd3dJQ2lvTWRQd0w0TlljT25JaWJXYWxLY3owMDlJZUQ5akFseTUzVkluQnYyV2pn0gHeAUFVX3lxTE8zbTByamJzSzdmVjB4YS1ZQl9MUG1Rbm5KaF9mTVVmRWd3dkU1UXg4Um1uVlN5SlQzT2FIVFVEV3hxWFRhVHV0dUpiaXVsSUtSYmx5XzNyTDdYUWxEa256YkVtQkRUajR6TVpmMGJxYzVOX1d3Y1JucWhkZmx2TmExeExab0dzaGdmZkVqdE9aczVZTkJIdE92YnVDUnBsMzBiZ0NxTDZzTHhuUm9JZUJFQjNwYzQ1RWtjcjF5VHlFRWM5WkJsdHg2VkZyRFN4cG41ZHVwVkYtZ05zdGhIUQ?oc=5",
@@ -1647,32 +1673,6 @@
       "fecha": "2026-10-26T02:13:22.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Ministro de Vivienda estima en $54 billones el costo de reconstrucci&#243;n tras el terremoto en 16 departamentos de Colombia",
-      "medio": "Pulzo",
-      "url": "https://www.pulzo.com/economia/vivienda/reconstruccion-tras-terremoto-en-colombia-costara-54-billones-confirma-ministro-de-vivienda-PP5338930A",
-      "imagen": "http://www.bing.com/th?id=ONUT.aqrNUxc5c7xhhKk7XVB0Nw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-10-25T23:05:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "&#191;Qu&#233; ha pasado con el Fondo Milagro? Presidente De la Espriella hizo un balance",
-      "medio": "Noticias RCN",
-      "url": "https://www.noticiasrcn.com/economia/presidente-de-la-espriella-aclaro-que-ha-pasado-con-el-fondo-milagro-1075480",
-      "imagen": "http://www.bing.com/th?id=ONUT.vwXCHiar8pF67W7BG9AMVg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-10-25T20:54:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Primicia: Amarilo llevará a Pereira el modelo de Quora, su megaproyecto de $2,4 billones en Bogotá, tras el sismo",
-      "medio": "Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2ZBc1RzOWJnaFo2akdTbFFlM3R3MzlmckNfWFNMcTJWSlgydGo5VmRLUUY0X0dodmdTeE14WUpsVkhQcTc4aHBKaG9HOVQ4MHFvbEwyZ2VseGhJNzJubHJMekxJaHJmaXc0SlltRFc2WTVzWklXRE9OMEJKZUxqY2x2bUpTOVRhSWdudVE3aW5KODdIWE9zZEVaUlphNi1PM3JubG00OTlxeVVPZ1ZKNERZdW9lVm5KbnJwc3E0amdteF9Bb1NzUDhJN1ByczNBOUJYRmxEYlRwMlIxSHhQbElVZDl4Z9IB6wFBVV95cUxNd09vR2U0azQtWDBYSzlQUDVpTmg5eG15cFU0b3pjNnV4N0ZTZVlURm1lNGlyVFB0RFZucjRGS3ZKUGpaWV82VldTNWNnU0liSjdBa3h2dWx3UnlkTHBMZU45UTQ4c3M3VWJSejBDQmo4OFdVbDBzNVdYcWFaRDdXd3NsMS1HVEZLMnBaMi1OTnRWTUZkUzJ6N2tNekk4VmgtVkNvOVE1d2tSM2ZLdDdJNUJIeUZZZGZ0Vks4N1pTUVQwZmdsT090cUh6Q01IamNtODhOSmVUWkkzRU15dlVrUHhTZTlRRVU4Nllr?oc=5",
-      "fecha": "2026-10-25T19:55:12.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
     }
   ]
 }
