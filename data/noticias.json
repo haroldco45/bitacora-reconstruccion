@@ -1,7 +1,32 @@
 {
-  "actualizado": "2026-11-05T22:31:42-05:00",
+  "actualizado": "2026-11-06T06:51:23-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Terremoto, Colombia Mayor y Air-e: los destinos de la adición presupuestal que pasó su primer debate",
+      "medio": "CAMBIO Colombia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkZLN1hycVp6bHU2VWp0NWZHNHlUQURSaXhrOGpUNzIzVmNXalFYUjJ6RkhXaHdlYjM2RVlOX1B6Z1U3MHBhYVZsY2ppWEdLTTZmdnhHS2tBa2xzeDdJT0ozUl9MLUFwUzZtamxweUZBOVVwNWR2MHVOSEFPVWVrM25CSGNlZ3BkaHktWUN1LUJxMzJ6dFc4NTVxMjFjZkJwMGt4T2EwUVljNmpHVU9UaWt3?oc=5",
+      "fecha": "2026-11-06T05:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Chocó: Fundación Imusa anuncia entrega de 22 viviendas para damnificados del terremoto. Inconformidad por la falta de apoyo del gobierno nacional",
+      "medio": "Chocó 7 días",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNVlDYnNRRHc5d0VrRi1Nc3lEcG1DT1BFM1ZaM1dpVFJDWXNDY3ItNjhhaVE4VjBPYk5JbHRPYUFJMHZGekhPeDBVLTVPNUktRzBobkhKTGhFRTRIa0VoMGdBM1FrVUFrRnZjWlEyRFBONzJBTXZ4RUx5cVRfRU8tLUhjTnVHTExRS281STVqQUhyanlJOFlwR2NIdnE1eXJ1NlBzQjNndWw3aDEwSzROM3BHVE9LT2VranJYSEZnUnNGYWItell3a3NiNVRoUmR1WmFrZXlIZ19TU19tOWtYNzZSTFh6Tl9uTWY2aTN1dVcyRlpJOWtZU24xUQ?oc=5",
+      "fecha": "2026-11-06T03:43:18.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Fundaci&#243;n Imusa entregar&#225; 22 viviendas a damnificados en Choc&#243;",
+      "medio": "Buenaventura en L&#237;nea",
+      "url": "https://buenaventuraenlinea.com/fundacion-imusa-entregara-22-viviendas-damnificados-choco/",
+      "imagen": "http://www.bing.com/th?id=ONUT.gcOjEBi9tjM_nDv4U3QCrg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-06T03:15:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
     {
       "titulo": "Julián Pinilla y Camilo Triana construyeron 14 casas a los afectados por el terremoto en Buenaventura",
       "medio": "Noticias RCN",
@@ -89,6 +114,15 @@
       "fecha": "2026-11-05T16:06:14.000Z",
       "depto": "Chocó",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Fondo Milagro, Colombia Mayor y Air-e: as&#237; se repartir&#225;n los 3,8 billones que el Congreso le sum&#243; al presupuesto",
+      "medio": "Cambio Colombia",
+      "url": "https://cambiocolombia.com/economia/articulo/2026/11/adicion-presupuesto-2026-fondo-milagro-colombia-mayor-air-e",
+      "imagen": "http://www.bing.com/th?id=ONUT.VPUZsgFL5DPqTnFLSQrJuw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-05T16:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Chile apoyar&#225; a Colombia con tecnolog&#237;a nuclear para reconstrucci&#243;n post-terremoto",
@@ -256,6 +290,15 @@
       "fecha": "2026-11-05T07:19:00.000Z",
       "depto": "Nacional",
       "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "El centro de Pereira lucha contra la inseguridad y la oscuridad, tras el terremoto de agosto: el miedo ahuyenta a compradores",
+      "medio": "La FM",
+      "url": "https://www.lafm.com.co/sociedad/terremoto-en-pereira-deja-oscuridad-miedo-e-inseguridad-comercial-en-el-centro-416218",
+      "imagen": "http://www.bing.com/th?id=ONUT.ygckDEl5PDC0gWEs0r6lDQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-05T06:57:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
     },
     {
       "titulo": "&#191;D&#243;nde est&#225; el Fondo Milagro? Gobernaci&#243;n del Choc&#243; usa recursos propios mientras siguen esperando respuestas",
@@ -1652,47 +1695,6 @@
       "fecha": "2026-10-28T13:48:08.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Senador denuncia que la mayoría de los damnificados no ha recibido ayuda del Gobierno Nacional",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3cyQ2U3QV9QNmhVRnlmY2lJbkEwdEM5a3ItbnpRTm56Rlg0cG13SmJ4dWNOYklhbzdzNXg5SzFBWU9WRmJMeEhyQ0ViT2FGWDFGUk5wXzlPX3VKQTN4MGpIVm9zLU5GY19xVW9ubnUyd2NEcGVCNHJwTlNnazc1T1JBSFNqd2JJSl9iM3R5NEpDMDhUU2hCZ2dyNkg4Zm1jOHc0aVdxbFdDM3NzWllsMmFwY2dJWXQ0TTJCNGRVTzA2OWFLOW9BTdIB3AFBVV95cUxQMWg4R0VNaGZJUEZkUGkzS2tGNjZGdl9hSmRyNkNrMmRjMk1fRWhtSk84NjZ1SFYycEFsZWg3dFhvUzVXNV92bXJMVWFVSDQ4VG8zRGYybDVXdjZOX0tGX1U4TUhiRUQtdUdnSDUwci1OZVV0ckppOUoyY1ZxOUdLMjNheWNDcnhmUy1rYldEdHZvME1LSGJfS0l6Mm1feFZpX3B1R1FOZjA2MzVETW42cURmeHBvUDBjbGY2MFNrTzN1WFpJc0lQai1JN0VGdTFUY2ZSMzVOWXcwbmFj?oc=5",
-      "fecha": "2026-10-28T12:25:18.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Pereira reunirá a más de 100 personeros y autoridades para exigir avances en la reconstrucción",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUEzNFlNcHlpVFc2Z3NRaTdHb0NXLWJSWGFnQTJxTUFUTUd1YmgxdFBjWEZwRHdpM29NcXE4MWo4MkR0THRLRzdvXzdvbnQyeWwwaVhITXJ3YlVIdkhWcWVFWHk0aEVPWHBBbENUMG53VmppdVR0RXBEWi15bVk5Y0x2T01oZHRrcmd3emV3V1pOSWtWclZJMVp5XzYxV2tyblRsQmx1amFCRmdsOTFPQW1kSXhMUU4tUVVZalkzdlZxaTAxWngzSnRFTVI1cm5LeGplY1dmTjZmdlhG0gHcAUFVX3lxTE9xQTM0WU1weWlUVzZnc1FpN0dvQ1ctYlJYYWdBMnFNQVRNR3ViaDF0UGNYRnBEd2kzb01xcTgxajgyRHRMdEtHN29fN29udDJ5bDBpWEhNcndiVUh2SFZxZUVYeTRoRU9YcEFsQ1QwbndWaml1VHRFcERaLXltWTljTHZPTWhkdGtyZ3d6ZXdXWk5Ja1ZyVkkxWnlfNjFXa3JuVGxCbHVqYUJGZ2w5MU9BbWRJeExRTi1RVVlqWTN2VnFpMDFaeDNKdEVNUjVybkt4amVjV2ZONmZ2WEY?oc=5",
-      "fecha": "2026-10-28T12:17:11.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Wally, ahora senador, denunci&#243; que el gobierno de Abelardo de la Espriella no ha dado respuesta a los damnificados por el terremoto: “No hay ning&#250;n contrato”",
-      "medio": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/10/28/wally-ahora-senador-denuncio-que-el-gobierno-de-abelardo-de-la-espriella-no-ha-dado-respuesta-a-los-damnificados-por-el-terremoto-no-hay-ningun-contrato/",
-      "imagen": "http://www.bing.com/th?id=ONUT.-__YFk7m4YzP2igoD46Bzg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-10-28T11:54:00.000Z",
-      "depto": "Nacional",
-      "consulta": "damnificados terremoto UNGRD"
-    },
-    {
-      "titulo": "DNP proyecta inversión de $7 billones para el Chocó y prioriza la reconstrucción territorial en la segunda jornada de los Encuentros Regionales",
-      "medio": "Departamento Nacional de Planeación (DNP)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXdONG43SEg2aFJvUUtjcVNMb1Yya0hUMlN6OGQzeU8zOGFUcEY1dHlYb3pWdGlwRHhTcW9qWWI1SEJnd1ZGOTZfLTBhbDNBc1hWaFFZYTRCZWRDOU93OHhjVTZJTHpWbzRhMmxES2VQVU1yRTYxUHd6NlQ1UEJSOVJGMExQMzFKX0hoMElZNDZtdW83ODNYQUEwQklZb2Zjal84LWFGVnl3djVLWkE?oc=5",
-      "fecha": "2026-10-28T09:53:00.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Wally, ahora senador, denunció que el gobierno de Abelardo de la Espriella no ha dado respuesta a los damnificados por el terremoto: “No hay ningún contrato”",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOOGxkLWVMRzZ6QTRBQlZZdlNVZXVSbmVmcU82MURCUV95ZTBWak1ISHlrWFBXTnRsMElELTlxblluZ1hnQlZoQndPM2ZGRmFFRHlRZEVFdFk5Ykd5Zm5yTjhsaFZyemxBM0hxcjdiakgwMTZWcUYyZ0JXRHFJR3RDOUhGQms4ekJqMHNIN2NCM0NSLWVCV0tBb1lLeTNZTUlwT3NDZXpjOGp2SWFXcE51QXF2X1RhbjVQRGJ6Q0JBMVVZUjJtUzJLT2FrSXhIb1NqUkFYMXozV3h6OWZNOVpEWmFTS1Azam9KZ1dKbkR5aEpxQWpKSE40blVyZ2gzQlVyWWtqb0IzRk5IMHZfcDEtNGpmU2pTNWpDNWs4SDhnbGlxc3fSAb4CQVVfeXFMT1p0cll5cXJBVzdXUkhDNHRmZkdSNW9qTHdaOXlKczdYSzVLYVR2cXdENmx1SEFxUDd0MnVibzl4WEVxTVJuUFZTVjZsUUZHbGRuV0xSaEJSSnFhN3JkWDJiT0pjOWJYVElmZWZIRXNyVFYwRFJWOGlmSHFhVnFoZHkzZmNLNDMtYVQ5UzNKb0ZuN0EtZ2t3SDJ0eV9Hc0hzb1VtRnNSWHNPZ0lnLWNialpUZ1dUZjhzbDByUzNfcUNmdnNPS0VESnlOaGZINE9MSHMzX3JqS3o0RWk1Q3Q5Y1pMNkQ0RWRvZDZyRFV3M3Rtd055MGNBWUJ4Zk05MHZVTGx6ay05eDEzZi1CTFNQay1Vbm1iZ3pteHdDeUVudjhOZ1RMN1dBOE15U004UUdTVUFnaGt6YU41MnFjQTF3?oc=5",
-      "fecha": "2026-10-28T07:52:00.000Z",
-      "depto": "Nacional",
-      "consulta": "damnificados terremoto UNGRD"
     }
   ]
 }
