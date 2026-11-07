@@ -1,7 +1,17 @@
 {
-  "actualizado": "2026-11-06T23:52:08-05:00",
+  "actualizado": "2026-11-07T06:31:24-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Terremotos en Colombia: a tres meses de la tragedia, miles de damnificados siguen esperando ayuda",
+      "medio": "Acento",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUER3RWxuV0FOM01vZkpXVTJZN2wtMmhCd0NnZG5ZVGVfX2Y1Z2VHMVRJc25jbE5WSk9PQ2piUEZEaDdBMmgzSE9hNDVFRWZ0OUpoWE9TX1hnSW1lN0pVUi00S2JSNksyTUNoajNEM0R3RmdMWkJweFlKaFZScFBoU21vTGFCaEpTMmpRaWN2bkVkd1lRVmFSOTVvSGRaajRnVll1bFFSRnRNTThTSDZxVnY3dEZXdEZ1aG1ySm9nNGhtVHYyemMxQjlzRWQ0WEnSAc8BQVVfeXFMUFBEd0VsbldBTjNNb2ZKV1UyWTdsLTJoQndDZ2RuWVRlX19mNWdlRzFUSXNuY2xOVkpPT0NqYlBGRGg3QTJoM0hPYTQ1RUVmdDlKaFhPU19YZ0ltZTdKVVItNEtiUjZLMk1DaGozRDNEd0ZnTFpCcHhZSmhWUnBQaFNtb0xhQmhKUzJqUWljdm5FZHdZUVZhUjk1b0hkWmo0Z1ZZdWxRUkZ0TU04U0g2cVZ2N3RGV3RGdWhtckpvZzRobVR2MnpjMUI5c0VkNFhJ?oc=5",
+      "fecha": "2026-11-07T09:47:03.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia",
+      "imagen": "http://www.bing.com/th?id=ONUT.i2UJTlIUtpECIFPZAPKaJA&pid=News&w=640&h=360&c=7",
+      "urlDirecta": "https://eldeber.com.bo/rfi/terremotos-colombia-tres-meses-tragedia-miles-damnificados-siguen-esperando-ayuda_1794047666"
+    },
     {
       "titulo": "Luz verde a $ 40.000 millones para que la Universidad del Valle pueda reconstruir sus áreas afectadas por el terremoto en Cali",
       "medio": "Tenemos Noticias",
@@ -118,6 +128,15 @@
       "fecha": "2026-11-06T16:00:00.000Z",
       "depto": "Nacional",
       "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Jap&#243;n dona US$2 millones para ayudar a damnificados por terremoto en Colombia",
+      "medio": "Prensa Libre",
+      "url": "https://www.prensalibre.com/ahora/internacional/japon-dona-us2-millones-para-ayudar-a-damnificados-por-terremoto-en-colombia/",
+      "imagen": "http://www.bing.com/th?id=ONUT.shNmavkATtlnwZWNcojk5g&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-06T15:40:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
       "titulo": "Procuradur&#237;a requiri&#243; a la Alcald&#237;a de Cali por atenci&#243;n en el sismo y esta fue su respuesta: '&#191;Me censaron y no estoy en el registro?', dijo afectado",
@@ -430,6 +449,14 @@
       "fecha": "2026-11-05T20:15:00.000Z",
       "depto": "Risaralda",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Reconstrucción de Cali inicia con el Fondo Milagro y auxilios",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk55U3JUYmxhbG5kTTRxcExkU0ZHR2I4RHlSamFqdHBFNjBic2RzbFRvVFRidVUzQ2FkU0JqSG9KUXhRV2x2WGRwT0UwclVaRDJPX2VBbGgzTVhHeGEwVko5ZmFYUU4tN2x4UkxnTHpsS3VjTmNKSG5KeW5ya1k3aHNZM2t1V0dCd0ZNVnhUNnBDeVI0RFHSAaABQVVfeXFMUGJwd1NxWWdaWHk4SXM3SnFFckt3RXBNaUF1YmtQdGw3UFNyQVo0ckRXM09fOUhJQUwxc0wwVXE4eEhGWnA4OFZRWmpNUncyTFpTQm5rZF9DaHZaWkgyOGlWc2RIeFEzcF9VdlQ4TnJDVzZ2TldQTTJpX1d6YUwzMDVKZi1ndVZPUFRjTFVNVG1QdW9raEdsZDVCWDFFekQ2eA?oc=5",
+      "fecha": "2026-11-05T19:59:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
     },
     {
       "titulo": "Colombia Mayor y Fondo Milagro recibirían $3,8 billones: ¿qué falta para que lleguen los recursos?",
@@ -1693,30 +1720,6 @@
       "fecha": "2026-10-29T22:25:42.000Z",
       "depto": "Caldas",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Gobernación del Valle, Deportivo Cali e Industria de Licores sellan alianza para la reconstrucción del departamento tras el terremoto",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU2EzNnM1SDBYVW5ra2xoWDZQLWJPVkpQUm00dDh0SHJFQTR0TW5LM0pTSFRCVFo1dUpYUTY1TUhpcnVtbjNSRi1rZmNkaVVZRFZzY1ZLNE8teWNZWkExQnZkNW1DU2ZFSm9CeU5ZbWk1TTBNbFBUUzI0Sm1ySTIxUV9jZTk0U3k5LVV3YTBJRVEydkVJdmFicXdYYkNJUVBXQXJ6blI0UGVTX0o2bXFHd3hpV1llcWlVTEpUR2tRbnpqbExHQW5qOFJMNVdjMnkyYVNnX1EwTElYdVhLM2VlZkxmd01yQVhSbWJJdkpFU3Q1cGdPRWQzUm1wREI5WEIxT0Y2S0c2VnZfNmvSAZACQVVfeXFMT204ZUxQRUJwUnFfU09YV0dyaGM4VGY0TlVWdS1nM1NOVWFDbnlLbURfVXMtS1FJdG5MbTRmVm80ZVFsRzJvNVRMU0I4QTluY3RBWk5heHJwNXIyVGROelotN09SeTFBZktxTEpET01kem9yNTR2QlZpU09vMzNBYmpmWXdLMkpWaWpISzc4X3pQQzBRQWktdElwampZYXJNS1lsTTA0bnNNNnZHYzBOYVJiY2dTTVAzNmFNdEI3NWpDclJMQVFvZnd5ZWtGTE1RNlRQaXNYcGpsX2d3VzgxUndlQzhNWmJNQXEwaTJQbkc5azlISjR0YUxWbTBXWDhDOXk1Y3dFbUM1ZW4ydm1JcUU?oc=5",
-      "fecha": "2026-10-29T22:24:54.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "La Gobernación del Valle del Cauca, Deportivo Cali y la Industria de Licores del Valle unen esfuerzos por la reconstrucción del departamento",
-      "medio": "leanotas.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOEVPREwzNzlTekZkLUxqUWFoWlo0TF9KX21rLXU1NkhvWGVPWUFhMWRQTUhHOEduYVhlWVNKcmdfUFc3YndqQ3l2WWJSc1R5STBHenZKcEhJVW9Zbk95aEdKQXpUWjQtd2J1dHNQUjFDUTFOLXlpa0otZGZNRDV0djVod2haVmI0a19UWHVPbi16UDRGTHJLQjNrSE80QkNJam5tbFFMeFd4NGN0QmktVHpJSXJwQ2RkVjI5Mnc0ejJKa2NxdzVyLW1xZ2ktN0lNQWFkTE5LSlh1UGVxQ3Vxd0laeGpKdHFzUklUWUQ4WGJxUWM?oc=5",
-      "fecha": "2026-10-29T20:17:08.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Gobierno nacional solicita postergación del debate de control político sobre la reconstrucción tras el sismo",
-      "medio": "IFM Noticias",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSW92allvMk1rdENaMS1ZMjJhY3FsODN2RUg2WEowQ2I5a1BYLXZZdDA4aHo3clpJY2xUU25DeFhVZXFRZGFCY1lzWjFOcTkwUnJxSU1fd3dJZWE5NkUwZ0tJWjlQbk1zeHJOakhoRGlYc3hpWG1Md0RJaWVwa0RJdDVIaUxTRmktdjdaU0NMTFFfVjlRN2lYZGVNM1pNN25zdUJiem5RcHA1THRwbXNFcXdyT1k?oc=5",
-      "fecha": "2026-10-29T20:09:42.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
