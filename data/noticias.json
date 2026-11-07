@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T12:29:04-05:00",
+  "actualizado": "2026-11-07T16:03:39-05:00",
   "total": 200,
   "noticias": [
     {
@@ -28,6 +28,14 @@
       "fecha": "2026-11-07T07:46:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Leyendas de Colombia y Ecuador juegan en Armenia por la reconstrucción del Quindío",
+      "medio": "Crónica del Quindio",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnZkR2JPRHRHdzZnRE9ndlQ0U2pST1RNeUwzS2NJUlMtS3R5QkN4MERwXzhJWkZFUV8yVV90cW8tVmtHdjVfSERxT2J2aGx1UmlqeUYwWmtOU2xPVGJqM3RwSG9Demgxa2J5Z0Nfc3JmME1FUXgzRDNmVTZTTk1WakFOeXZ4U1g5dkVjbzRjZlhVX1hFa291NndDaVMxQ01BNjk4R1J6eThXa05KaEpyWDZjRjE4eG4yX2lBT0RB?oc=5",
+      "fecha": "2026-11-07T07:16:54.000Z",
+      "depto": "Quindío",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Terremoto en Colombia: a tres meses de la tragedia, miles de damnificados siguen esperando ayuda",
@@ -128,6 +136,15 @@
       "fecha": "2026-11-06T18:41:32.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Jap&#243;n destina US$2 millones para atender a las comunidades afectadas por el terremoto en Colombia",
+      "medio": "Valora Analitik on MSN",
+      "url": "https://www.msn.com/es-co/noticias/other/jap%C3%B3n-destina-us-2-millones-para-atender-a-las-comunidades-afectadas-por-el-terremoto-en-colombia/ar-AA2gWWWx",
+      "imagen": "http://www.bing.com/th?id=ONUT.K53b58I1gjRtGBIgl61OOw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-06T18:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Tres meses despu&#233;s del terremoto, damnificados de Risaralda siguen esperando ayudas estatales",
@@ -1567,6 +1584,14 @@
       "consulta": "terremoto Chocó reconstrucción"
     },
     {
+      "titulo": "Sociedad de Mejoras de Pereira: la confianza institucional puesta al servicio de la reconstrucción",
+      "medio": "EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZGlwd2tuZVVkZGxNN2U0cVdnbmVuYnl2M0pwUVV5US0tbWl4MkRhQjQ3bGxLeGYyc01rWUdqVTZrdXVPNS1aY3dyZGlvTGEtSXVQWjJkVGNCTEpaMzU1dUlqUEtXOHk1UjNYR3JtcWpHMnFsaDhJOWNYclF0SlZkSU9tTmNqZXlhd0UzV09hLXlWTUtqUDRLN3ZGbVF5Nk5hdDcwQUY2QXBuUVBzbWlqaWlLRTNyRmdMVmtZdXVCT2I3M01wRFpzU211d21fa0lnZGZ3NEJ4QUFqeXJMSmk2bTZsZVgteFdKRG5xRU02SV91VkxiRjRmSWNaRFl3dHFDaDB0c2c4c01Pa1VjTHfSAaICQVVfeXFMTTk2aDRYVVlGaEwwbWZXSkFabHFDaWJkbWpwRFptNy1xSTVXMWJPdVY2UW9sTEw5OG9Bck1maFd4V0NCZzVPRWppZHFHSFpQd04tQU5WX0Z6VHROZzlxVFlTcTNrZERlZThUMDgzZEgycTdTSDhjMThYNGhMRXdEMmZwdG5kVXBWLW5rOXVTdXQ5ZnFDQWY0NWRLSVpnc3MxVDRaOFlveWlsVkJXRXA2Z2E4TzNxYS1Cb09yNGFXQTFUWE9qUDdhQmhCZTl4dkxGWTd6cVVreUpfODRqSTlXRXlpZ2NzUGhPNTFYa0tfd0k5UE1MaXlqV2kteGdzanRXeVR4eGFzcW9aUWZjcUJINUtjR081bXJNNmp1WXBteVpUb3c?oc=5",
+      "fecha": "2026-11-01T09:30:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
       "titulo": "As&#237; va la reconstrucci&#243;n tras el terremoto: el Valle ya entrega casas y Cali sigue en evaluaci&#243;n",
       "medio": "Diario El Pa&#237;s",
       "url": "https://www.elpais.com.co/cali/asi-va-la-reconstruccion-tras-el-terremoto-el-valle-ya-entrega-casas-y-cali-sigue-en-evaluacion-0101.html",
@@ -1697,30 +1722,6 @@
       "fecha": "2026-10-30T21:24:30.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "\"En Chocó hay que trasladar materiales en mula durante 7 horas\": minvivienda sobre reconstrucción",
-      "medio": "Blu Radio",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLWx5UU95NWx0RWIyYzdCQzVsTkNycGRxeV9HUzh0ZXpoeWhaVkNRcVZVRDdpSUpKYzZkS0owWGNKR2ZBV3VBLXZYdGQtSFh1ZlZnR1pPWW1HWE1mN2p5SUN1UlJEdjFjdkZyamVQSHVfZzVURGsxSV9nX2JHWVpMcDJtRUdiQzN4bnVjNVJMSm9aOVlVVVNuYXZ3Ql9UQ01LRm5aY3huMnRNV1FDOWdBc3lwRWhOQmJJbWhFOHVQT18wRnZBR2p0c0swUFdIRVVLNE9RR19ySmlDUdIB5wFBVV95cUxNaWVFemMyUGdfMTFCZHhBR3IxZ0RtaFRqWHNWZm40cXk3Y25uNF9aWm9YYUxkemhDWTlzU0NSU09jSGVsUjBfWTlBZWFTal84RzVSNklndml1M0FsZXl6anhvT1hjM0U2ZlNDTmtJMi1sanVFN2I2UDd4WWFmRHktN1ZXZjN3ejN3YWZGa0QtVDJIc253RmpiSjZSNXgtc3BKRkZJSUZwel9GUk1LZjU0SVduSElZTnpndDBLazZwbGFHR01GbVUyb2phVWhoN2hlaV9MYkF3VEc1MWJXajlGdjZsVU1STkk?oc=5",
-      "fecha": "2026-10-30T19:48:41.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Cali necesita $24 billones para su reconstrucción y proyectos estratégicos: la propuesta de Alejandro Eder al Gobierno Nacional",
-      "medio": "El País",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS0pDZ2VBLUIwMXdGdUZfaEY2Wk9NcTMtZjlxdFRMME85azJQYkplNDZKVGk1bDc2OUp5YlRDbDV2ZGtpc1NMN0stdEZfVXQxYmpZVWYwQjhSQXNwTmgtcHg4bUJZdEt6UnpnMzRiRkQ5Tm5xOUhDR0VVc1UzUk5hRDZVaUozaTB6LUY3WnpIY0NjZkxlaXdqYzFvWlk5QVo5TUVQS21DcFJxVHZhd0UwSzkwWVJCN1lsNEFTSDVRUl9nQXRKRU8yUVdkZndpSHZ4TGk2aE9YOWR2ejQ2UnlJWmVjRDNYUDhKR0IzZFBicmpYUFloSEhNN2tB0gH_AUFVX3lxTE1WcS1xUmlhMXFJVnltNW9wRTdTRGNvQ01CVVR0S3ZzOEp6dExkSk5ia2F4cXpNT2pqT3pNZ0FnNG5UYi1iSUJvZ1Nfcnotb2FTNE1FZXlBT25aTEtiUmM5T1B2V2JKZ0tDX3lDa0o5aXBreTZ2dlZjcFQtbHhRZnRWcFpxRURVb3BIcGlFT0NRQVdKancwekdqX2hTZVRVZUJWeWZzZlNjYUhLZ0tZNVE4Y1I1Wi1IaU5taTYzWGI1c2ZPZWlnUUZzRms3MGFhdGxIRFBGRnp4elRPRnFlNGQ3QUdmalNKOEFpQmlzNlFZeF9FNEVUSWtuR28xX0pHOA?oc=5",
-      "fecha": "2026-10-30T16:46:49.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Esta es la esperanza tras el peor terremoto en 27 años en Colombia: historias, imágenes y reconstrucción después de la tragedia",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNlhwc0hubnBwQ296RXQwMldoa1VjVzJ1LWl5RnpBSWhtcGFRTXF4cXlrdFhxQXpvSlkwLWVLaW1Ud003aVlPQVVpSm9xNTBjajdvNzJXbUM2ZGJUOEpBcU5US3Z6RVlIUVF0cENscWgzdUp4azIzc0NqRDgyS0M4WEY5YTJmdmJ1eFJaTV9teEpiN0tlWVhuZjNScjA2RHZLc21uY0lmS0toVWIwUnJvZmszS2NqNXlQbl9aS1Y0eVhsMWNZZExRZlNNSjFIa2U0OFZXQUJfMEJBa1hTd3FGUVZRQ2ZkU1BEZFFSaEs5a1VoY1pTcWFYOG1OQThaOTBidVJQVkJVeFRfQy1qbG9z?oc=5",
-      "fecha": "2026-10-30T16:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Cali reconstrucción"
     }
   ]
 }
