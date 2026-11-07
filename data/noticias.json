@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-07T06:31:24-05:00",
+  "actualizado": "2026-11-07T12:29:04-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Mario Alberto Yepes y el partido Levantamos a Colombia 2.0 en Armenia por la reconstrucción",
+      "medio": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZGd0NmRzWkZvRUlJWmROa3RvdnhKQmZjZXlFWFJMenJMMnlJUzBuV2RiVjNQMm56Zl81NE5MdzVOSlRfTE5wcXlSeUhIdUQ2eXFxZkNnSDJfQW5wenJqWFBMemMxc3VxLUNfMEdEb0pEQUhBN2Z6eGVzcjg3aHdoUXdkV0tlaDVkVm5XMmJMWXZtNmxaenRrYzRQY1E5YW5Gc0ZVRDFDR2R5T00taUctSm1tUFRuYnVUT1VzSnl3TnpzX03SAdcBQVVfeXFMUDkzeXlNbGNYRnp4aGxCaFNvV2FzREx2bGpWbkN5N3hRMVQ2MUVzRXptQm5xblNMSnl2aFNCeFJGNVJJWEJyT0NRM1gwWEVSampFOFlpc2ZDYi1tSVI0WklRY1kwcGRIYWdDb2JtOVZxLVVtLWtRbDM2S0tiRkdhYllaVHBHY0pQR1Y4dzVWNHU2T016OExYZUNZTUlkVnkzbXdSZmM5ai1BRmVkM1RxazFHUzV0UlNrN2hCT1psYnIzS2g1RmVnbExPcU1LcHNEa0hwWXQ5WHc?oc=5",
+      "fecha": "2026-11-07T13:44:22.000Z",
+      "depto": "Quindío",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Terremotos en Colombia: a tres meses de la tragedia, miles de damnificados siguen esperando ayuda",
       "medio": "Acento",
@@ -13,11 +21,47 @@
       "urlDirecta": "https://eldeber.com.bo/rfi/terremotos-colombia-tres-meses-tragedia-miles-damnificados-siguen-esperando-ayuda_1794047666"
     },
     {
+      "titulo": "El renacer de Diana Troncoso: sobrevivi&#243; 30 horas bajo los escombros del terremoto en Cali",
+      "medio": "Diario El Pa&#237;s",
+      "url": "https://www.elpais.com.co/cali/el-renacer-de-diana-troncoso-sobrevivio-30-horas-bajo-los-escombros-del-terremoto-en-cali-0705.html",
+      "imagen": "https://www.elpais.com.co/resizer/v2/ADSA777DVRFMFEDT6JMCCSYK4Q.jpeg?auth=ed838194e5c00e4bf5bff369cf57aff0d913779d983541517647652d3c9bfbf5&smart=true&quality=75&width=1280&height=720",
+      "fecha": "2026-11-07T07:46:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Terremoto en Colombia: a tres meses de la tragedia, miles de damnificados siguen esperando ayuda",
+      "medio": "Acento",
+      "url": "https://acento.com.do/rfi/terremoto-en-colombia-a-tres-meses-de-la-tragedia-miles-de-damnificados-siguen-esperando-ayuda-9785979.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.qC8I33dNGggiWy4UJWCJgg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-07T04:38:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
       "titulo": "Luz verde a $ 40.000 millones para que la Universidad del Valle pueda reconstruir sus áreas afectadas por el terremoto en Cali",
       "medio": "Tenemos Noticias",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRm9VV2lMSEhlaWhLdWtyYm9TLUNCRmx2aVdyUGJMejBOaEdKbkYxcldIMExVbHhhd2lGU1pKS3I1QlBGTE9pSXVhMnRibFZ5RjVxb0N3alZjNFpDU0tBazloWEtlb0UtNWlFZkZ5dE1RajBFb0RIUEFUY1VzeDFQVjNwUmtTbmxmaGxyYktad2w5SVE4aXpXdWdZUk01cHJuM1VoM1RCak5UMW15MlhYUFBDWTloaDFiVk5WYXQwelVYSDJtV3BkUHFzeWh2d2k5NFdWRnlIMThwdldzdm5nUzhaSm8zd2YyMjJTWW41OE00dHBHeXdUNDdoUWU1aG1wYmlCSEFLdnY2SW91NEpFbHU1dHAwV2NHYzM4?oc=5",
       "fecha": "2026-11-07T03:30:02.000Z",
       "depto": "Valle del Cauca",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "ComfaTolima abre convocatoria de apoyo econ&#243;mico para personas cesantes afectadas por el sismo",
+      "medio": "ECOS INTERACTIVA",
+      "url": "https://www.ecosdelcombeima.com/economia/nota-197492-comfatolima-abre-convocatoria-de-apoyo-economico-para-personas-cesantes",
+      "imagen": "https://ecosdelcombeima.com/sites/default/files/2026-11/miniaturas-web-nov-2026-scaled.jpg",
+      "fecha": "2026-11-07T02:05:00.000Z",
+      "depto": "Nacional",
+      "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "Mario Alberto Yepes y el partido Levantamos a Colombia 2.0 en Armenia por la reconstrucci&#243;n",
+      "medio": "Caracol Radio",
+      "url": "https://caracol.com.co/2026/11/07/mario-alberto-yepes-y-el-partido-levantamos-a-colombia-20-en-armenia-por-la-reconstruccion/",
+      "imagen": "http://www.bing.com/th?id=ONUT.oC_tLd7KyxxaI_wKT3uxxQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-07T00:44:00.000Z",
+      "depto": "Quindío",
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
@@ -128,6 +172,15 @@
       "fecha": "2026-11-06T16:00:00.000Z",
       "depto": "Nacional",
       "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Leyendas de Colombia y Ecuador juegan en Armenia por la reconstrucci&#243;n del Quind&#237;o",
+      "medio": "La Cr&#243;nica del Quind&#237;o",
+      "url": "https://www.cronicadelquindio.com/deporte/leyendas-de-colombia-y-ecuador-juegan-en-armenia-por-la-reconstruccion-del-quindio/",
+      "imagen": "https://cronicadelquindio.com/wp-content/uploads/2026/11/El-partido-recaudara-fondos-para-la-recuperacion-del-Quindio-tras-el-terremoto-del-10-de-agosto-scaled.webp",
+      "fecha": "2026-11-06T16:00:00.000Z",
+      "depto": "Quindío",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Jap&#243;n dona US$2 millones para ayudar a damnificados por terremoto en Colombia",
@@ -1668,58 +1721,6 @@
       "fecha": "2026-10-30T16:00:00.000Z",
       "depto": "Nacional",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Halloween en Cali: negocio afectado por terremoto pudo reabrir sus puertas tras 78 d&#237;as cerrado",
-      "medio": "Blu Radio",
-      "url": "https://www.bluradio.com/regiones/pacifico/halloween-en-cali-negocio-afectado-por-terremoto-pudo-reabrir-sus-puertas-tras-78-dias-cerrado-rg10",
-      "imagen": "http://www.bing.com/th?id=ONUT.k6Q-1hbzPpVr-hABR552Pw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-10-30T12:21:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Gobierno Nacional alista giro de recursos para completar las ayudas econ&#243;micas a damnificados del terremoto en Risaralda",
-      "medio": "El Expreso",
-      "url": "https://elexpreso.co/hoy/gobierno-nacional-alista-giro-de-recursos-para-completar-las-ayudas-economicas-a-damnificados-del-terremoto-en-risaralda/",
-      "imagen": "http://www.bing.com/th?id=ONUT.e3QnVMeKcliergymDWiQ5w&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-10-30T10:03:00.000Z",
-      "depto": "Risaralda",
-      "consulta": "damnificados terremoto UNGRD"
-    },
-    {
-      "titulo": "Cali necesita $24 billones para su reconstrucci&#243;n y proyectos estrat&#233;gicos: la propuesta de Alejandro Eder al Gobierno Nacional",
-      "medio": "Diario El Pa&#237;s",
-      "url": "https://www.elpais.com.co/cali/cali-necesita-24-billones-para-su-reconstruccion-y-proyectos-estrategicos-la-propuesta-de-alejandro-eder-al-gobierno-nacional-3049.html",
-      "imagen": "https://www.elpais.com.co/resizer/v2/JBVFVGSF5BHSHMASIPD3X3VJQ4.jpg?auth=7c1f394d00da4609e963b6a0eef25e3aefbaa671b077489da37016eb71d418e1&smart=true&quality=75&width=1280&height=720",
-      "fecha": "2026-10-30T09:46:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Reconstrucci&#243;n de Cali: la ciudad presenta hoja de ruta de $24 billones al 2030",
-      "medio": "cwmas",
-      "url": "https://cwmas.com.co/suroccidente/cali/2026/10/30/reconstruccion-cali-hoja-ruta-24-billones/",
-      "imagen": "http://www.bing.com/th?id=ONUT.DM_i6Iu9RcLxz_dWUZUlqg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-10-30T09:23:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "La reconstrucción de Cali tardará 3 años y costará $10 billones",
-      "medio": "Diario Occidente",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGRYcEVQUndhUFlrV25hN0hPc05XRF91cnpoZ0JRS05FQ2R3Z0xFaWZJT09UUW5Kay1FQTN2di1UdTZ6M2QteXFyamQ4NnlXdFlxRGJ5VFphTWw4eGtwaGgzWnc5OEo1bUhZN0hBZXpSTEhPWkVwSGY5OE4zclIyZC14U0pWZzdJ0gGTAUFVX3lxTE5oMVlVYUpldXF1UkdIZUxjcXdKQWR1VTNVVDBYclk5cXF0ajhobUFiRWpWbHVWdXQtMHJodEk1cmExZzFlTnVjNHJRUzEwRVA0a0Y2WERkOFhEQ01aY3VINkJZY1FXWS1PaE9HbGU0ZHJVZjBGSmxnRG1mSU5WRWJkdjl5QjNKb2ZXbXJHNG1hYTdtaw?oc=5",
-      "fecha": "2026-10-30T07:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Reconstrucción de Caldas tras sismo: hospitales, colegios y otras obras que requieren financiación",
-      "medio": "Blu Radio",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNamxiRnN5N2lnR3ZVRWt2UzVtVkRxY1ZHdFFwOVc4RTNSWG9kX3B5dFBGXzhmQnFqcF9rWGFXR2tsWmpZMVBTZXJxT2kwNzhRS3dTOTM3Ry0yRDB3Tnl3RmlRNl9LVlAzc29DRjBBcWwzVi1od2VwWHlQeVBPMFM0QUEtNFpySURob3BqMkFvaHozTnNBbktXV01nWllhd3Fsall2cDJCeF9wamVqVzh1WG42UFpTQWxxY0xkc0pJVWxRbUtSZnVLc0l1blhDd9IB2wFBVV95cUxQVXF3dDZSR0lFdFJ6QXl6RVpYNjZXalVtRHlhZ0NRQ3pSUXM0bHVYaVRhZURBWnY1U0NLNGNHN3I2a2hXdzNxdDlkS2c0WGRYM0tmdXNjOVJ5aEhlTVpncm00YmlMcWIwX0RSaXdSSlIxQWJ4VmtMRlczaTdwOXFrVXozNWJjVDh2NnR1eTNVclZsX2YzbWNTWnB2c3UtT0VFS2FCSlB2VzlkelkzQjM1bk93RmtVY204R1JmTXROeVVSQU8tN3lzS3dWeFBDSkJ1MHdldXlrQ25IWHc?oc=5",
-      "fecha": "2026-10-29T22:25:42.000Z",
-      "depto": "Caldas",
-      "consulta": "reconstrucción terremoto Colombia"
     }
   ]
 }
