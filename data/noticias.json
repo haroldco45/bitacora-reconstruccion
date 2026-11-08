@@ -1,7 +1,24 @@
 {
-  "actualizado": "2026-11-07T19:51:06-05:00",
+  "actualizado": "2026-11-08T01:56:54-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Colombia Â¿Fondo Milagro o contratadero?",
+      "medio": "Aporrea",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrTjlKSXVWXzB5OEVJZ3NzWllZY1ZIUEVtRVNMLVZkSHZjVHAxZ2Y4aUJmYkd3TFQzdERYTkpJdW91VjY0WURUNjZFemw5SEJ2NndjZThFcDBJZUQwcHRwakdn0gFnQVVfeXFMTlVkdTNjZlZTbVpUMGUyZ1lxcjZrdVdJM045RHV5bTFWMDJfdE5hZ1lkeW05c3NfMzJvMUhVWTJHUG1HdHhVbFRUMkhhTlNwU2VSSE4yUE9PcG1tOS03aHV6R0xIVXVISQ?oc=5",
+      "fecha": "2026-11-07T20:25:54.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Terremoto Cali: Crisis de salud mental afecta a 60.000",
+      "medio": "estrelladigital.com.co",
+      "url": "https://estrelladigital.com.co/nacional/terremoto-cali-salud-mental-afectados/",
+      "imagen": "http://www.bing.com/th?id=ONUT.ORQAvgNCsYpj5b19CeioPQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-07T19:01:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
     {
       "titulo": "Jap&#243;n dona 2 millones de d&#243;lares para atender a v&#237;ctimas del terremoto en Colombia",
       "medio": "Diario del Sur",
@@ -25,6 +42,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZGd0NmRzWkZvRUlJWmROa3RvdnhKQmZjZXlFWFJMenJMMnlJUzBuV2RiVjNQMm56Zl81NE5MdzVOSlRfTE5wcXlSeUhIdUQ2eXFxZkNnSDJfQW5wenJqWFBMemMxc3VxLUNfMEdEb0pEQUhBN2Z6eGVzcjg3aHdoUXdkV0tlaDVkVm5XMmJMWXZtNmxaenRrYzRQY1E5YW5Gc0ZVRDFDR2R5T00taUctSm1tUFRuYnVUT1VzSnl3TnpzX03SAdcBQVVfeXFMUDkzeXlNbGNYRnp4aGxCaFNvV2FzREx2bGpWbkN5N3hRMVQ2MUVzRXptQm5xblNMSnl2aFNCeFJGNVJJWEJyT0NRM1gwWEVSampFOFlpc2ZDYi1tSVI0WklRY1kwcGRIYWdDb2JtOVZxLVVtLWtRbDM2S0tiRkdhYllaVHBHY0pQR1Y4dzVWNHU2T016OExYZUNZTUlkVnkzbXdSZmM5ai1BRmVkM1RxazFHUzV0UlNrN2hCT1psYnIzS2g1RmVnbExPcU1LcHNEa0hwWXQ5WHc?oc=5",
       "fecha": "2026-11-07T13:44:22.000Z",
       "depto": "Quindío",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Tres meses despu&#233;s del terremoto: la crisis de la salud mental por consultas de casi 60.000 personas y el dolor por 155 vidas desvanecidas en Cali",
+      "medio": "El Tiempo",
+      "url": "https://www.eltiempo.com/colombia/cali/tres-meses-despues-del-terremoto-la-crisis-de-la-salud-mental-por-consultas-de-casi-60-000-personas-y-el-dolor-por-155-vidas-desvanecidas-en-cali-3599314",
+      "imagen": "http://www.bing.com/th?id=ONUT.fKA4ltb3Oa97FoAv0ZMWpQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-07T12:06:00.000Z",
+      "depto": "Valle del Cauca",
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
@@ -1698,31 +1724,6 @@
       "consulta": "damnificados terremoto UNGRD",
       "imagen": "http://www.bing.com/th?id=ONUT.yFwE-ol8o9MuhPeGG1mH_A&pid=News&w=640&h=360&c=7",
       "urlDirecta": "https://elexpreso.co/hoy/risaralda-insiste-a-la-ungrd-ampliar-el-registro-de-afectados-para-las-familias-damnificadas-por-el-terremoto/"
-    },
-    {
-      "titulo": "Fondo Milagro prepara subsidios de hasta $30 millones y cr&#233;ditos para damnificados en Quibd&#243;",
-      "medio": "Blu Radio",
-      "url": "https://www.bluradio.com/regiones/pacifico/fondo-milagro-prepara-subsidios-de-hasta-30-millones-y-creditos-para-damnificados-en-quibdo-rg10",
-      "imagen": "http://www.bing.com/th?id=ONUT.6vj5wF8aOtFYk5UQ6MZUbg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-10-31T10:08:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Halloween en el Fondo Milagro",
-      "medio": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa1ZhTzNiYm13VmRld0Y4bUVrUEVsTnhjRU1NVmJILWhRZHI1R09Yelp1X0FkcVRQSDdZTUh5OHB4bFBSQzdKekxFTG1tZG9zeWEtLVlSOWRyRHQ4bk1kMXNZZjdtXzllc1ozZGhXaTBkX1FHemFZd2NZZFFhbGFZNmFIYmtnYmlWeGw1NHBEc0RHOVVY0gGoAUFVX3lxTE84R1ZOVm5FZDZUbmF4YjMyV01udDg2ZDNCRnNoTGMzUmJlanpGb1pIc0RDNXBYcTJNRGZvb2VXUkM4RVlmcExpU3I5b2VnZEd3bER1LXZpTENWcC1jaHdSRi03T2x0bFNjY2N1NEtLVkU4eHFlNG1PUGdsV3JxQTFzS3JuR25iZGVkdmRUOWtvQVA2eEROS1BZM0Y3U2twWXFKSk5wdHFQag?oc=5",
-      "fecha": "2026-10-31T03:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Cali presenta hoja de ruta de $24 billones para su reconstrucción",
-      "medio": "CW+ Noticias",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3pMTDh5T0tfUmJDVHlpRkZjdWNhcWxnYWJqZ0Q1c1JHTWtrckxzUXgxTFRSNzhlc2ZuY1E5S2xjdmNkVExqYUhWRXZqQTN6dzJNQ2tFVEtZaUE3azBTcV9SSGZ4NEIzLV9vWWxVaEk2QldVc0VZZ3JheTlGOGZBZ3M2MXNuTktYeTZYOWVEcnRYcVJnbURN?oc=5",
-      "fecha": "2026-10-30T21:59:36.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
     }
   ]
 }
