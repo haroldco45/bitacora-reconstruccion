@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T13:57:37-05:00",
+  "actualizado": "2026-11-08T17:44:19-05:00",
   "total": 200,
   "noticias": [
     {
@@ -16,6 +16,15 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVpCZlM4WmloclE2Q2E3N2x5OVFvMEtmLUhTUVYzTlZnOUVyZ1pEcVJqYURGMFdDWi12R29uVzhTa25kU25MSk9TU0xZZXhjZjZiU2lGMm8xOGtzQndzMkpOUS1yWnZHcVp0SVdSdy13T0R0bTF6Y3o2aFU5M3BRdjUyTVFOYUUtS1JQbGxVY1RIQ2lhNnBaLU1kU3ZpZzhYNE12bHlUcHhhd0RtTHh6cFVoOWdxWGdJaUpTSGJWNNIBxAFBVV95cUxNRHlVWHU5Q3cweElWLW1oX29FVnp0bFdhQXpQbEs4Zmh6emRaSHZnZ2FBbnpNSEdJRmF6S0dZUkVjRmw5QW9mS1ZUMXEzOVZTa2ZYR2ZTXy1yeDh3UzVGRXRQcVRub3JfMGdjTDlXZ1J2Q0pVYzlLcFJJNzB2QUpuMl8ySHB5X3J3b2RDYjljZmx3cjIzcE1fYVZjRTRtTDhTdS0tYk9tUVdSUWNQb09vcjBjVm9keWFGalZCd2VKWTkyLUkt?oc=5",
       "fecha": "2026-11-08T12:27:02.000Z",
       "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Monje budista tailand&#233;s llega a Cali para dirigir una velat&#243;n en honor a v&#237;ctimas del terremoto",
+      "medio": "Diario El Pa&#237;s",
+      "url": "https://www.elpais.com.co/cali/monje-budista-tailandes-llega-a-cali-para-dirigir-una-velaton-en-honor-a-victimas-del-terremoto-0842.html",
+      "imagen": "https://www.elpais.com.co/resizer/v2/5RFLUGR2GFGXXBXKTSS4KIRLHI.JPG?auth=c53eea4e959be9bd896e09e7ee2df87d3f3b294e1d85611edb04bd88517184a4&smart=true&quality=75&width=1280&height=720",
+      "fecha": "2026-11-08T10:05:00.000Z",
+      "depto": "Valle del Cauca",
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
@@ -125,6 +134,15 @@
       "urlDirecta": "https://eldeber.com.bo/rfi/terremotos-colombia-tres-meses-tragedia-miles-damnificados-siguen-esperando-ayuda_1794047666"
     },
     {
+      "titulo": "Colombia &#191;Fondo Milagro o contratadero?",
+      "medio": "Aporrea",
+      "url": "https://www.aporrea.org/internacionales/a358306.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.uI0833ffkAT5x6BGQNmDFA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-07T08:22:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "El renacer de Diana Troncoso: sobrevivi&#243; 30 horas bajo los escombros del terremoto en Cali",
       "medio": "Diario El Pa&#237;s",
       "url": "https://www.elpais.com.co/cali/el-renacer-de-diana-troncoso-sobrevivio-30-horas-bajo-los-escombros-del-terremoto-en-cali-0705.html",
@@ -207,6 +225,14 @@
       "fecha": "2026-11-06T22:21:13.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Comfama: una red para trazar el futuro y acompañar en la reconstrucción | El Colombiano",
+      "medio": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONEJDYUxMQ2VvWG4wS1U3ZVlvU3hlR194a0hVQkl5OGF2UG1OZEJhcnhfdndheU5id0dfRzVIeDBaQ1c3b0phSDY5elJad2pzeGRXTS1yNnpKRlNzM2pCNmcydDdjc0dvbHRDQU5lSVBIc1pjREh2ejl1Vm1QRFBUOXk3aGcwZzM5bmppSDZ3dFI5RV93SHdWRTh2S2lYOE1MQlVhVmpBTkNyMGg5QVF0T01jZHFZMlYzRF96eHBsWlRVY2dPVnBWcEs4UEtEaXktak0xazU2VjduSmhReFI4VTkxdlQwZVJK0gHuAUFVX3lxTE15RkNueXN2UWxtTmh2SEhiSm9RRXdkWVc1VGZWV0JUSE1JVlJnSzAtWFZIU1o0UHNTQUVoVzdyU3VKYm9pVEJBcVBLbzFSdHdsUE9TcHJlVUVOSGNxX3JtSmRlRTVva0ZKWHBIMngwbGxYdzZKb09NdkFyai1sU2ExWHlWTEJXdjh3X09teEpDOU5NZjl2QTZCOU1vOWhBRTIzSUllTlV5NkNoS1NnbXV2aE44N2tIV3Q5Vnc3NURLYTF2Y0tfQUNvRVZ3YTF2WExweGxjWmhXYklZQTRrX0RBYlpzZlRQWktkem5paGc?oc=5",
+      "fecha": "2026-11-06T22:05:55.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Adición al Presupuesto 2026: la posible asignación para el Fondo Milagro y lo que le correspondería a Air-e",
@@ -1703,30 +1729,6 @@
       "fecha": "2026-11-01T03:20:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Terremoto en Quibdó: Gobierno prepara cuatro líneas de apoyo para familias y comerciantes afectados",
-      "medio": "Diario La Libertad",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzF3c0g2ZUlNR3lQRHNwcHRZSWU4VmlVUjl5UHRRR2RxZTh2QkhKOG9qMngzT25nckpaZC10MnREZEh0VTBIdHI2TU9LcmtjRG5DRGI0U2RkUlJSODl1Z2QwcUVVYlJXYS1TQnRreWxEUjBrdENjT2hIejJkeV9PTjVoWlQtMmMwZEpZUjVsNXNmZ2RXcVhUcFpmVlZ1c0hqMnFNYXk3VlpPRndtSGFEWUFWbkZETmRmLWlQNjZrQmxWT2dxQzVJT0tTOWFXNHk5UEJDNFRB?oc=5",
-      "fecha": "2026-10-31T21:32:22.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Venezuela recibió 87 máquinas y 1.800 viviendas de China para atender a damnificados por terremotos",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObHJabTVibDQ2RG9zTU9Sdm1UMVJpdjAzN0lFZ2VxZUJrS0dGT0NLcENmbWZSYUFGbGNVYkdqd1AyMFVwVUhDNkRTS2lVV0pzZ3o2M19TX1JzT2ZSQVI1YmlqUHZWdUNnR1JZRGQtaTc0V3RNUV82UjJZMlRvQ2IyVThkdVZGMmtpMHNCNVNhOU1mZXRvZHBxUXlIR1VEeVNtQkUyQ0pTLTBLZjNwSlVYQjBjUHpfU3pyVnBKbTNOOWs1elNfalcxdE5odl9hZ9IB4gFBVV95cUxOS3piUy1ydjlQWF9lSHByT3djVmJTWmIxYXNyM0tscXpaZmY4YW9lZnBoQ0VPbkMxUHYtY25rU1NtSjVPdzBlZHNFN0cyT3lfNzk4VkJtUmF4RzFFR3o0YXc3ZEFvZVpmZ3ZBem9lS1JiS2U2b1NtS19qOXhCSFEtRmprRlJOUE10TUlsUVZzN2JxTlBqUk5EWlBkOEtMei1HTWlUUzMxT0dLNDJWXzNGakhyek41cnYzMkMwZUJFQ3BkUlB2LWNaM0daYnRXV25iNHdwRkJMWUlUcTVDNE5tbWF3?oc=5",
-      "fecha": "2026-10-31T21:06:47.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Primera dama lleva viviendas a damnificados del terremoto en Dosquebradas",
-      "medio": "Canal 1 En vivo",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTENCaXdrbzIya011NVFTcHpFa0dPaDVOSnFwTU5MczMxZ2I4Q0xaOS1oNlhVaXJ4eTY5UkVPaWs4UThFR2phd1BoaWlEV3hYSS1xaVNRajc1ZU4xdmhmVDZzQm94Wk5WTjJ3WGk4cExvbEM2aXl6bXJrV3FuRWROZlAxck9kcnhWdkJ3SFRsbm52YnA4cDFpUlJ1d2ZjX0dVeUdJT0lWOWxFN1JOZW000gG0AUFVX3lxTE44VWdwcnlpaGIxUXhFN3NrOS1CSlpYWFJTNXNXSm9kME9OR3FoVHBaemRaOFJ1R1hNQWI1bTVhSDNBa3dMb0p6bmRzbE5NbkRMdjFUWHJxZHJsMTlZNTZQSkoyQjFidG1fMzllTDhKQTl6WnRJUUZ3anI1RG05cmlDNGNWM2hsdnVFTF9DajUzOHp6M3RSS2w1U0x5V3lEVGN6SWdidWFtSEw1UlVVaEZGX21Icw?oc=5",
-      "fecha": "2026-10-31T20:45:46.000Z",
-      "depto": "Risaralda",
-      "consulta": "viviendas damnificados terremoto Colombia"
     }
   ]
 }
