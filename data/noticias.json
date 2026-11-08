@@ -1,7 +1,24 @@
 {
-  "actualizado": "2026-11-07T16:03:39-05:00",
+  "actualizado": "2026-11-07T19:51:06-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Jap&#243;n dona 2 millones de d&#243;lares para atender a v&#237;ctimas del terremoto en Colombia",
+      "medio": "Diario del Sur",
+      "url": "https://www.diariodelsur.com.co/noticias/japon-dona-2-millones-de-dolares-para-atender-a-victimas-del-terremoto-en-colombia",
+      "imagen": "http://www.bing.com/th?id=ONUT.6ntNgM5B9krb31PlOalyMA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-07T14:32:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Gobierno Nacional anuncia ayudas para la reconstrucción de Pereira tras el terremoto",
+      "medio": "Risaraldahoy.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV1RacGdZZ191eEdpSFEyWlZ6Nzl6ZWlQbnA0c3FoS3NVSW9qS0otM01FQkhRS3RzSjlrNUNVajZQdkRpZG9iRlVJbXBhQzVlSFNOX0RDS1VvN1VuSlIzeUM5cG9vRHFBVkwydEk2RWw4a0Q1a1lUa1BfbTZqcFBLQlJtSGtRdWhmcG5XeG5PYU1YVmI5eFl5RGljTUwyNnRmQUtDdEhFa1FVcXJMdm9j?oc=5",
+      "fecha": "2026-11-07T14:21:32.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
     {
       "titulo": "Mario Alberto Yepes y el partido Levantamos a Colombia 2.0 en Armenia por la reconstrucción",
       "medio": "Caracol Radio",
@@ -1706,22 +1723,6 @@
       "fecha": "2026-10-30T21:59:36.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Reconstrucción de Cali: la ciudad presenta hoja de ruta de $24 billones al 2030",
-      "medio": "CW+ Noticias",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3pMTDh5T0tfUmJDVHlpRkZjdWNhcWxnYWJqZ0Q1c1JHTWtrckxzUXgxTFRSNzhlc2ZuY1E5S2xjdmNkVExqYUhWRXZqQTN6dzJNQ2tFVEtZaUE3azBTcV9SSGZ4NEIzLV9vWWxVaEk2QldVc0VZZ3JheTlGOGZBZ3M2MXNuTktYeTZYOWVEcnRYcVJnbURN?oc=5",
-      "fecha": "2026-10-30T21:56:15.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Gobierno destinará $1,7 billones a la reconstrucción de vivienda y proyecta entregar hasta 5.000 casas a familias damnificadas por el terremoto",
-      "medio": "Minvivienda",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVURKZk1mREI1bE90SDFjUXQ5eTJEREF2YVV1OWc4SzBZVWxZbkwwSkVFY3FjYTVRWDZud0ZUY3BWQ053TC1ScnFIZENSNkhPS2NMV1lrR2xaSkNRb3FadkFHLUxUVmZYVUVGSTdfYzZpRmlPdHppX09CZG1aaDdRLW1RMnVlSW5LSEYtNVRTcUFpd25Ob3JPcjBwVXFHbGJjY3NBdERQVkJLSUtBNjNURmxJYlVkLTY4QmFNUndEQ00taUFzRmQwZDNxeDQ4RS1yVzFtOHJFQ2ZRMF81YzVzZWtIMTB2Z2lUbGlKdHhVa0pBWDJqaUx3U0FOeFdlY25GYkR0ekY2aWhmc1dScXFj?oc=5",
-      "fecha": "2026-10-30T21:24:30.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
     }
   ]
 }
