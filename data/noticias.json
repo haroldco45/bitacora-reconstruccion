@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-11-08T01:56:54-05:00",
+  "actualizado": "2026-11-08T09:09:51-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "La finca Casa Grande, escenario de la jornada, sufrió daños durante el terremoto del 10 de agosto y actualmente está en proceso de reconstrucción. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZWZTUmx3eTBOTUtqOExpbDk2TGFDRXpWX2Itc0Fpdnh6OG5mRDNaRENJVHQ5Q2N5bThoZGo1ZUNNTHZ2QkdjaFRNMFJnWE55UHJ1SFlPeGN1eXFZM0JaTnNiTjg0S2VkNnphd01oT3h6X3FKQkZWOGM5RHpremliTlFhWWpoZUtuOTRkb3lzaUtRc21XREFOS2hWdG9haDVsVHowU1hpaVlMRG9aMFFYR3BMbTlnbFhJYkptcUFnNEZVYTVhNDJESlVYd081T3BCWEU3YzUtLS00MWE5VWdmTkhOMks0ZkxqdmxHZUs3UQ?oc=5",
+      "fecha": "2026-11-08T14:01:32.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Se mantiene a&#250;n en 96 la cifra de desaparecidos tras tres meses del terremoto",
+      "medio": "Diario El Pa&#237;s",
+      "url": "https://www.elpais.com.co/colombia/se-mantiene-aun-en-96-la-cifra-de-desaparecidos-tras-tres-meses-del-terremoto-0855.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.FiU6j6VvEl8hDfhpAi1msw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-08T04:27:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "&#191;Por qu&#233; el terremoto se sinti&#243; m&#225;s fuerte en unos barrios de Cali que en otros?",
+      "medio": "Diario El Pa&#237;s",
+      "url": "https://www.elpais.com.co/cali/por-que-el-terremoto-se-sintio-mas-fuerte-en-unos-barrios-de-cali-que-en-otros-0823.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.ltxOrszv37Mg7jx7WE0p0Q&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-08T03:37:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Pereira: Sanar heridas emocionales tras sismo, 3 meses despu&#233;s",
+      "medio": "estrelladigital.com.co",
+      "url": "https://estrelladigital.com.co/nacional/terremoto-pereira-heridas-emocionales/",
+      "imagen": "http://www.bing.com/th?id=ONUT.X33fBCZolVFkrH71Bx7r7g&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-08T02:35:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Tres meses del terremoto en Cali: 155 muertos y 60.000 en salud mental",
+      "medio": "Buenaventura en L&#237;nea",
+      "url": "https://buenaventuraenlinea.com/tres-meses-terremoto-cali-155-muertos-60-000-salud-mental/",
+      "imagen": "https://buenaventuraenlinea.com/wp-content/uploads/2026/11/port-harbor-27.jpg",
+      "fecha": "2026-11-07T23:17:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
     {
       "titulo": "Colombia Â¿Fondo Milagro o contratadero?",
       "medio": "Aporrea",
@@ -1545,7 +1589,7 @@
       "titulo": "Taiw&#225;n apoya a v&#237;ctimas del terremoto en Colombia: ayuda en construcci&#243;n de viviendas y donaci&#243;n de equipos",
       "medio": "El Tiempo on MSN",
       "url": "https://www.msn.com/es-co/noticias/otras/taiw%C3%A1n-apoya-a-v%C3%ADctimas-del-terremoto-en-colombia-ayuda-en-construcci%C3%B3n-de-viviendas-y-donaci%C3%B3n-de-equipos/ar-AA2gBC8l",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.QvGG-qaHBdCdXXJYmt270w&pid=News&w=640&h=360&c=7",
       "fecha": "2026-11-02T07:59:55.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia",
@@ -1682,48 +1726,6 @@
       "fecha": "2026-10-31T18:27:54.000Z",
       "depto": "Chocó",
       "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Fondo Milagro anuncia subsidios de hasta $30 millones para damnificados en Quibdó",
-      "medio": "Chica Noticias",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob29Kd0dIX1NTdEF3c0s3NGY2c294TFY2dTJUbVJ2LXR6UE1XbTNWZ0pyVFJYUTMzcnZGYWFoeTlidVMteDBVOVd5LWNYYVNKaWgzMV9UMS00bjV0bHZXeHJGRWdqUQ?oc=5",
-      "fecha": "2026-10-31T17:39:12.000Z",
-      "depto": "Chocó",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Fondo Milagro prepara subsidios de hasta $30 millones y créditos para damnificados en Quibdó",
-      "medio": "Blu Radio",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTTdDSFVScnIxRkhjOUVSeDlXM2FPdFgtdnBMQzJhUkt6ZVNTSlhxbGIwQUhCR1RNZUp3RjFoa1J3UGZCeTQ3VFdrWXJvNGZZZ3ROWlJYbVpLMDZ4aWFHQ0I5SEpqYnBjVzNRczRFTTJYVnBGalhVdkpTVmhlUkxZX05KS3RwdF9HVUxSR1lkYmhzTFdrVktGWXRKcVVvUWZEUTJ0N2JOeUVKNWtPeE1SMkJYbkZ5S3hhZURfUk10S09ISV9FVFExRlo4NWtobUdzaDRxanRB0gHjAUFVX3lxTE83dTZDRVYwRG9MeGhfV3JDVFhGQ0xDamhVUTRZNjB5YXJDVWx6MkdmdkpNTUVGUFZlUVVza0RGSUlYMGNHUXltSUQ1eFQ4ZmFBcURHS0phWmFzcC1DR2lBOEdlQkNrbDhvNWJTSWo3RWkyTU5MWjVZc19PZ1V6OVlCTWcwc0FPVDZqWDZ2dTJCOWlpVkRZMHUzWjhoVlIwX2VJWFV0Y0R6aVA0S3FjRk9DU1ZESGNWT2xTb0FNc2pmWU5LdUk2MUFpX25Vdjl4aVdxZFJxNHVWbld2aXpNN2M1RGlV?oc=5",
-      "fecha": "2026-10-31T17:07:53.000Z",
-      "depto": "Chocó",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Gobierno venezolano entrega 564 casas a damnificados de doble terremoto",
-      "medio": "El Caribe",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3h4RHJSMUtzWkpWVTRQRmZMQTlmaEFKQ2ZqcW5iQzE0clJURUlWREkwOGtQSWlwUHliWnhJQjhzQnVIMm9hYWM4VkRKZ0pjT2w5a2xlaDdvcEowc0FPUXVQS1N2SVM0UG52S1BGb2V6Znh4YzBTdTZoZHF3RTVBdUNwMjQySUt5Wnl6eDV1LU9SQ2dUaU80dGNjZlpkak83MVV4ZEVSZE5OYWsybWdpeDNpcHZQZmZQVXV0RWw0bU5BMU0?oc=5",
-      "fecha": "2026-10-31T15:23:17.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "MinVivienda anuncia la meta de entregar 5.000 casas a damnificados y alista el programa \"Mi Casa Milagro\"",
-      "medio": "Ecos del Combeima",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0U5Zk12Vy00S0RjMVg0bG1PRHNxYXJSdkhjdnpBWFFRM1lrdFMtNEkzck1OemZxSDhCWURzb2dMVm02cDBDb3lKWlhJZk14VElMSi1Ed2VreUhXS3BFeTMxd1NyUUdMZmpQLUw4bjc1ZUFjaWpGeXVGTXloSEI1MUo1VERYUThPYXBBVVB3MndON0txVzNpYlFLSDlMMVc1VVJ2ZEp1cGlYcHRaS0hBUFRZWVJaSzV5aHZfTjRDaEY3XzFmaGJn?oc=5",
-      "fecha": "2026-10-31T15:02:32.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Risaralda insiste a la UNGRD ampliar el registro de afectados para las familias damnificadas por el terremoto",
-      "medio": "elexpreso.co",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTy1GZGFMNnhBTTlCeDAwYzg1Ni1vZ0dhbG00aEVmSEtFVER5bXRCblI1ZXozeWdmeFFtTE02cmhJdnpORDJ0Sk45c0tyaUtTbGt2VENKSEc2VHZWUzF2b3BrZm92YWFxRHVFRUZpZm1WeW9ZMzBHdXotOXBISXN5ZGVRQkZuOU9YSEdwUExmZ1N3UEJCYUt4Z3FfOF9JR3JmQkFubmc5Nl8wcjV2dy1YLWRRSEE1OHVDMFhmMEdSMk5YMXBTYTBXMi1mOEdEenVT?oc=5",
-      "fecha": "2026-10-31T15:00:00.000Z",
-      "depto": "Risaralda",
-      "consulta": "damnificados terremoto UNGRD",
-      "imagen": "http://www.bing.com/th?id=ONUT.yFwE-ol8o9MuhPeGG1mH_A&pid=News&w=640&h=360&c=7",
-      "urlDirecta": "https://elexpreso.co/hoy/risaralda-insiste-a-la-ungrd-ampliar-el-registro-de-afectados-para-las-familias-damnificadas-por-el-terremoto/"
     }
   ]
 }
