@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T09:09:51-05:00",
+  "actualizado": "2026-11-08T13:57:37-05:00",
   "total": 200,
   "noticias": [
     {
@@ -9,6 +9,23 @@
       "fecha": "2026-11-08T14:01:32.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Se mantiene aún en 96 la cifra de desaparecidos tras tres meses del terremoto",
+      "medio": "El País",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVpCZlM4WmloclE2Q2E3N2x5OVFvMEtmLUhTUVYzTlZnOUVyZ1pEcVJqYURGMFdDWi12R29uVzhTa25kU25MSk9TU0xZZXhjZjZiU2lGMm8xOGtzQndzMkpOUS1yWnZHcVp0SVdSdy13T0R0bTF6Y3o2aFU5M3BRdjUyTVFOYUUtS1JQbGxVY1RIQ2lhNnBaLU1kU3ZpZzhYNE12bHlUcHhhd0RtTHh6cFVoOWdxWGdJaUpTSGJWNNIBxAFBVV95cUxNRHlVWHU5Q3cweElWLW1oX29FVnp0bFdhQXpQbEs4Zmh6emRaSHZnZ2FBbnpNSEdJRmF6S0dZUkVjRmw5QW9mS1ZUMXEzOVZTa2ZYR2ZTXy1yeDh3UzVGRXRQcVRub3JfMGdjTDlXZ1J2Q0pVYzlLcFJJNzB2QUpuMl8ySHB5X3J3b2RDYjljZmx3cjIzcE1fYVZjRTRtTDhTdS0tYk9tUVdSUWNQb09vcjBjVm9keWFGalZCd2VKWTkyLUkt?oc=5",
+      "fecha": "2026-11-08T12:27:02.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Tres meses despu&#233;s del terremoto, miles de damnificados en Risaralda siguen esperando las ayudas del Gobierno Nacional",
+      "medio": "risaraldahoy",
+      "url": "https://risaraldahoy.com/tres-meses-despues-del-terremoto-miles-de-damnificados-en-risaralda-siguen-esperando-las-ayudas-del-gobierno-nacional/",
+      "imagen": "http://www.bing.com/th?id=ONUT.80lyssxAK6euq1YyV1B_Yw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-08T07:28:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "damnificados terremoto UNGRD"
     },
     {
       "titulo": "Se mantiene a&#250;n en 96 la cifra de desaparecidos tras tres meses del terremoto",
@@ -1710,22 +1727,6 @@
       "fecha": "2026-10-31T20:45:46.000Z",
       "depto": "Risaralda",
       "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Minagricultura traza la hoja de ruta para reconstruir Quibdó tras el terremoto",
-      "medio": "ELHERALDO.CO",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3RMdVJMZ0xlS0VldUUwT3ltOGNCdnowekNEcE4xbzlOT0h6N1RtVEhDVjQ3OEtuUXpfQlJKdHN6akVaQkNLTTFITURTV0NkQzU3SlFKbVBFR0NWcTlfY0hNWWN1T3BBVDYxX3JzRlEyU0FCa2RfQ1I0TVgyaUJ1b3VZeVJjMzBXeXNIZUNkVHROTXFXb3FlelVQYl9xUDNXSWY4UHI3UERqUkN6dEE3d2NxZEM3RWpLUkxLVmZsSXZaUlhMSkE?oc=5",
-      "fecha": "2026-10-31T20:24:36.000Z",
-      "depto": "Chocó",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "908 viviendas pendientes de evaluación en Quibdó 83 días después de terremoto",
-      "medio": "Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHRJb0pVd3VEaU43RUZhV3c5Q3YyVktEQ3AyMkRNb2lSU05DeTlXNHVVT0tJd09JRGFCeUtHa3Zxc3JuV21LN3NqV2o0X2NuSUdyZE5IVTFMZVlwOEFkU3N4dGtRbmViUVNHWFkyQ3FEQjBMVVNrb2x3cWJNbnFvSWN1bEp3TGNaa0xibnNoX3FLRVV3YlBUSmNEdi1ORUNqZ2oxMkl2bExvUUNuVUZxZGZ6REZRS1NTbGlnMnlFNTlHdlU?oc=5",
-      "fecha": "2026-10-31T18:27:54.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
     }
   ]
 }
