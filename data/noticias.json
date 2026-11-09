@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-08T21:24:22-05:00",
+  "actualizado": "2026-11-09T05:06:05-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Colombia apenas empieza a reconstruir tres meses después del terremoto",
+      "medio": "Estrella Digital",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjJwMUF3N0RUcWlWNURuQXdOSlIxMGpicGNYNERGNGtKTE9RallxaVRPb3RCbHJIczVzcFRSenluRmVLZ1Bhazc3N1V6NEFYa1hNY3UwRFVzcUsyVlRlNlRqRENoZlFBdi1iZ0w4ZldudHFJSVoyZm5YbFhPX2UyMENUU0NENUVHdlRPUTlXaTVWdUpiTU0zcWgxV2FQU2NlV1FfYlBaN3FVZjhBajZlcGs0cDBGVE1Ub2s5UzlmV3pVZXhHTmp30gHMAUFVX3lxTFA5bmRIS1p6QVRTVHcwZ3hnX0VlOWRXbURKUE5UUmpweG40blY5NW5EWDB1ZklzVmFfdElXV3RNdk0tajNCV0g5ZXlFSGdvZXZTcDNpY040UXNXclFFc3poajN4aS1yMGM0ZHhaRUdpU0s3MXUzZUEtSVluT3ZNSy1tSW9PNlo2ak1kdkIzUk0yRW9NczBUa2o2TTlmUUkxNFhwaXJpM01fUXhVX0t3SUN5c0g2amNEbEczOWZpbUxaTFZmczBtSEhLUHNudg?oc=5",
+      "fecha": "2026-11-09T06:30:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Las polémicas cuentas del Fondo Milagro: Gobierno revela quién maneja los billones destinados a los damnificados",
       "medio": "Infobae",
@@ -29,6 +37,15 @@
       "urlDirecta": "https://estrelladigital.com.co/politica/gobierno-de-la-espriella-fondo-milagro-terremoto/"
     },
     {
+      "titulo": "Colombia apenas empieza a reconstruir tres meses despu&#233;s del terremoto que mat&#243; a 335 personas",
+      "medio": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/mundo/colombia-terremoto-tres-meses-reconstruccion-cali-ayuda-espana-ue/20261109073000453065.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.dUfEq8uooHLdwAGQEdD32g&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-08T23:30:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
       "titulo": "La pasión que une a De la Espriella con su gerente del Fondo Milagro: producir ron de lujo",
       "medio": "Las2orillas",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXNTUUxOd0VlbFE1WXkwd0NwLVNLTFEyV3FZSVRHWENpUnhIVko1c2M1X21IOHd4ZGIyc25UMUI5UzNhM3dnd2NqR2NfUmoyWWU0MmRKX3huZU9SYmNEdUdIamxZdE9nelZYc1RsNlFwSndQZHViX0ZlWWd3cThxRDU3clVBQnN5M1V6aHZOdUtDeTZvcUFKMmJPVVB4NXpPOWs1ZTRFSWFjQjJaXzlfd3ZGRVdpU1dN?oc=5",
@@ -52,6 +69,15 @@
       "fecha": "2026-11-08T18:09:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Donaciones del terremoto en Colombia bajo sospecha: la fundaci&#243;n de la primera dama deber&#225; explicar el destino de millones de d&#243;lares",
+      "medio": "ContraPunto",
+      "url": "https://www.contrapunto.com.sv/donaciones-del-terremoto-en-colombia-bajo-sospecha-la-fundacion-de-la-primera-dama-debera-explicar-el-destino-de-millones-de-dolares/",
+      "imagen": "https://www.contrapunto.com.sv/wp-content/uploads/2026/11/mujer-de-delaesprella-.jpeg",
+      "fecha": "2026-11-08T17:25:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "A tres meses del terremoto, gobierno de la Espriella rinde cuentas del Fondo Milagro: vivienda, apoyos econ&#243;micos y demolici&#243;n, entre las prioridades",
@@ -252,6 +278,14 @@
       "url": "https://acento.com.do/rfi/terremoto-en-colombia-a-tres-meses-de-la-tragedia-miles-de-damnificados-siguen-esperando-ayuda-9785979.html",
       "imagen": "http://www.bing.com/th?id=ONUT.qC8I33dNGggiWy4UJWCJgg&pid=News&w=640&h=360&c=7",
       "fecha": "2026-11-07T04:38:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Japón dona US$2 millones para apoyar a los damnificados del terremoto en Colombia",
+      "medio": "Risaraldahoy.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmNsX0ZUYTJOS3F5SDFOeU0wNTdRUjhaa01SVXpGSnZMaUhJY3k3a3kyQ2Rxb1VBVnAzb25qRzJ0TlJCaS0wNGNQZ3BhTndCb19panBrTFN1eGxiVXNHSV9DTzV0N0szUXJsRFU5enI2RGFDRUZJbS1NWHBIRWFTR1E2TC1qTnNuZ1pNSVhERVV4MTYxalZkbUdFWm51SlViOFpPZlZSYWwyZw?oc=5",
+      "fecha": "2026-11-07T03:59:00.000Z",
       "depto": "Nacional",
       "consulta": "viviendas damnificados terremoto Colombia"
     },
@@ -894,6 +928,14 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Congresista del Quindío Miguel Grisales y el reclamo al ministro de Hacienda por el Fondo Milagro",
+      "medio": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPczJ4MGkxQjVoZkMzaFpuczdkVzRCa2RtSVlyamRZOTFCdXFXSVhpWGZVNWlKMmxkdGhkdUU3RWozZjJITDNSWUlhUW83WUVzSm9MUjk5ZmVEdlNRcUNmc3pKdEowd3M1Q0dsOUNlNUFJTTh0ZF9WR0p2OEtnLWpXSFZPYnBmWHpDTHRhbldRY05pRHlfOFhsaUpWSlJtcF9vR3N3WEJvX3pCdTBKd0NmMjRUYnZ4dHVfNmdmR0h6SzlURTRWMFhIVXYtNGPSAeABQVVfeXFMT2R0RnphUkVobHFUMFNtMTU4cVZlT0ZwQndLOTV0eFB1U2tMd3o0WEoxMGs1VVZ4VTA4OV9tYkx3QldhX3lzZFE2WlZYMGpRa0tHQkdtazgtT0xTUjcyRENXWENOSEk2NGxmY1lfS2ZQTHVDRjlHVGM5NmFoU2FBWUdjMjJ4X2JpZVNueFh2bHhJUVl4NS1hWDhWMkNMSWM4M3JkSE1kSlFQdnh6UGI5VUhBSEw2LUw0T1BHZ1ZHbXdORWptYXdDSTdUeG9mQi1Db2NIWWJwWHJXaDFLb1RsMWw?oc=5",
+      "fecha": "2026-11-05T12:37:28.000Z",
+      "depto": "Quindío",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Habrá encuentro académico en Medellín por la reconstrucción de Quibdó y Chocó",
       "medio": "El Espectador",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSG5MM1BTaHJSUWJkNGNfMW1OTTN2a2JkWlBMdlpmVEV4QkVJQzNpTEM5eUdybnRWSXRILUZjWjd0djU1UDViOXlhZ0M4RklLMTlBeWhpNDhGbDM1dFd3OTBreHUxYUlab2Y4QmROQm9iSjZVRm0zN2dlaUdISHl4T3liX3dLQnJ1dktiLUhLZU5sWW12eFVhVnZ2dlBMX1Y2UldCMFYyVVlGSW1qSFM0UnNZTHZybjRzNUpOS2F6UGpYVGxYblNnWXFxU0d2d3luWnlLZ0F5OU1jQTNH0gHcAUFVX3lxTE9IbkwzUFNoclJRYmQ0Y18xbU5NM3ZrYmRaUEx2WmZURXhCRUlDM2lMQzl5R3JudFZJdEgtRmNaN3R2NTVQNWI5eWFnQzhGSUsxOUF5aGk0OEZsMzV0V3c5MGt4dTFhSVpvZjhCZE5Cb2JKNlVGbTM3Z2VpR0hIeXhPeWJfd0tCcnV2S2ItSEtlTmxZbXZ4VWFWdnZ2UExfVjZSV0IwVjJVWUZJbWpIUzRSc1lMdnJuNHM1Sk5LYXpQalhUbFhuU2dZcXFTR3Z3eW5aeUtnQXk5TWNBM0c?oc=5",
@@ -1023,6 +1065,14 @@
       "fecha": "2026-11-05T04:05:00.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Gobierno Nacional anunció más de mil viviendas nuevas para Risaralda tras el terremoto",
+      "medio": "Alerta",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3pDdGw2dGFJX0F0QnppX09rSThVUV84cGV1ZTNlT2xYRmk5VEUxeGQ0N2d1dWVkVHdQMVhhMmduaHpPZE9DOHo4QTdDRE1WV0FmZFVaOGxBclJxdDhoXzJLejFPXzZ0QkRPM3Z3YlFmSEx1UEY1Z0NLQjhsczZjQmNaanRzQWx6allERXJQZWZHTnRiV1YtVFlmQUYwZjc2QTFoeEJVQlBCanB5S05j0gGvAUFVX3lxTFBIelM1dDZnaFVDelJyTmMwSjN5MVByZWNQLUQzek9OdXUwWG9UckRxUGF1bTQ2czJZQUF0UjZ1MDRXYUZXQ2Y3MXd3eTIxLVNDTnlRYVFyTGtjcy1rWWh6MjVFNEZtTGxnMlVyd01ydl8yd1hrRDNIZFhNQlNtTlNOYW9TYnFNaENmSURmWWxhTFpuaW16T0VsckVXQW5pUXc2OTlKbWtLUWVCLVdaUnM?oc=5",
+      "fecha": "2026-11-05T03:37:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
       "titulo": "Reconstrucci&#243;n de Pereira y Risaralda podr&#237;a tardar hasta ocho a&#241;os por demoras con las aseguradoras",
@@ -1623,6 +1673,14 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Empiezan los giros para 11.000 damnificados del terremoto en Cali: Consulte el cronograma de pagos y las modalidades de cobro",
+      "medio": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZEU1OEZvSExXeUhYckNlUnNXQkQzOTlpcHpZU25oZk43TklWY3hGWXBmRmVfd0MzSVhkcUNZYldXa3AwTG5aQXhEczRRWl8wZUVHUDRCLTBmRjcwblN0bDRuaGNDMjJNZnFMYnN2ZklmSkttQjNURU5kRWpKbEFiNlpjaEc4aXVZZXM3UXJVR2Fsdk8yLXdwc1pwMl8tTVU2Sjd3TVl0NFBOcmRhMVJodXpiM2VTNm05eXEwVUtRd0hNdHNvWU9xNzVmekZ5WVFRRER3b0ZHY2JDMFZRYXZLdGNMTDVmeENTVG9QOGNJMFJpZUFHV1laVWVlU0h0R0xONHBFel9B?oc=5",
+      "fecha": "2026-11-02T18:38:01.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
       "titulo": "Panel Soluciones de vivienda tras el terremoto | RE Quibdó & Chocó",
       "medio": "Chocó 7 días",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjI2UGZ1T1VNSTd5X0N5Mkt1dkNWMTd3N2t3Vy1XWTR2V1VxZE02aV83dlBBQkd0VDhWRHV0ekZUQTZLY2o3NXFPRFhPRFNwakpub3pUVW1JQzFSN1NEWE1rd3M5UG5Kek00M0ROVDJPMzh6MDF0UHhMRFdlWDZMenZYQXF4RjJpQldMeGYtUQ?oc=5",
@@ -1671,67 +1729,6 @@
       "fecha": "2026-11-02T15:59:55.000Z",
       "depto": "Nacional",
       "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "#LoMásVisto Con recursos del Fondo Milagro se demolerán cuatro torres del conjunto Portal del Parque en Dosquebradas (Risaralda) que presentan daños estructurales. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
-      "medio": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN3g0YTN6MlFvSkpNTFdpbGZlampmUUpGQW83Yk9zbXRnbElqRmgyR1Z5WU5oU1hpa01kekNtQ1N4OWRiMkRQWEU0bjduanFnTlkzRV9yYjlBamEycFlnR0NsZE5GSVYtdGZ1bnhpamdDd2JZMDBGTVhzYVFVMkZIRkI5ZWdqSXJ2OHNjbk03OV91STVZVTdlM2pqb1BjWkxlZFduTVBnRlQ0UUVzR3kxaTRYWFNHUEt3NkVRdUIzR3d2Zk9NeU9FbEtla1c3R0NaOXROOEwyTTE3VUdXQWp5amk4UFNPZXBMMVlGaUpqRQ?oc=5",
-      "fecha": "2026-11-02T15:31:24.000Z",
-      "depto": "Risaralda",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Desde Caldas reiteran el llamado al gobierno en girar recursos del Fondo Milagro para reconstrucción",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjlLdWtkdTB1OFFHbktEN29XYjFIU3NmRmlTcHI3MzlwV2JuMk5DZEo4TGJPRXpQWi1WeVdzM1VQd3lua0dRMTFvZUJOMXZqemZsa0RFYmJZNVdiYURldFFWYUpfeXVncXc0R2g4MzdoU2hqLXJTR2YycDBMZURrUW5HanNyV1Y5d2hlMEh6TVUxRmw3YnprRE0xYlVXb3V1bEZtYWc3bGJCZFJ3eEpodnFGMGZLZTN5enFqYW54VDhzRDZaM19LeTZmcU9jWWxR0gHkAUFVX3lxTE5mTEFtUmxrNm9RVEJSMUNXQ2tGalNpNVhtZHZRcUV2S2lmLWt5akdaUHNEVjZzZ2RHbzFqNlZhZGNtMU8xNHBlbHdyUDd6M2JkUDZkMmJpWUw5dlRCNmFTX3lKSy1EdUN4VjRYMHBaTWpGcGctNHVjd0dPdzJSU3lOVlZhM0hlN2phRTJmd09ZSHh5dEhSRE1QUmZBQk51cW1VQmpldGxKcHF3Y1NfSll0NWZfMXpSVzdSdFdWamN6bDc3bmZlOE9ON3dpSVFTSHVhNEZHc2QxallaSDdfNUk4a1lMOA?oc=5",
-      "fecha": "2026-11-02T14:51:34.000Z",
-      "depto": "Caldas",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Esta semana inician demoliciones financiadas por el fondo milagro en Cali",
-      "medio": "Blu Radio",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjVuSy1rTjNuWjh5b1FsZE9kd1hCcWNKck1HS1EyazBQZWhuRW9abTRxY0VZV2FjV3pmWjhhNHJ4QjNfcERYdmMwWUlhYTVuWlhzZHhYUGZmNExzdDRiNEYyNnNEVGhaUkRDNS10TDJ4N3hZaTRsYXQtS3haR2w4YlJZcWVKY3RUenhPdHplcUZ3QTE3ZDlLdWpZX0Q5OF9fU2pObDJRQVEzR245NlRUbF9EVnlQYU9UWlF0SThn?oc=5",
-      "fecha": "2026-11-02T14:21:44.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "\"Fondo Milagro\"",
-      "imagen": "http://www.bing.com/th?id=ONUT.c5qCRt6hu0AdQb_OaxWIRA&pid=News&w=640&h=360&c=7",
-      "urlDirecta": "https://www.bluradio.com/regiones/pacifico/esta-semana-inician-demoliciones-financiadas-por-el-fondo-milagro-en-cali-rg10"
-    },
-    {
-      "titulo": "Fondo Milagro del Gobierno financiar&#225; algunas demoliciones en Cali: estos son los edificios escogidos",
-      "medio": "Diario El Pa&#237;s",
-      "url": "https://www.elpais.com.co/cali/fondo-milagro-del-gobierno-financiara-algunas-demoliciones-en-cali-estos-son-los-edificios-escogidos-0250.html",
-      "imagen": "https://www.elpais.com.co/resizer/v2/X25CJAZQDBH2VP2DTQXEMFZUFA.JPG?auth=e89ea006b48811350fa823db4b42705d9b31eb06e4c8e9274bd960d564ad9184&smart=true&quality=75&width=1280&height=720",
-      "fecha": "2026-11-02T09:27:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Taiwán impulsa la reconstrucción en la región del Chocó en Colombia",
-      "medio": "Noticias de Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3eU5xN3hneGJLa1RRMElONC1ENzRDbTNMTE9DSFMybFhrZlAwMDVRWm5OSm9PTHZLUXhvTVhtZnU1RFF0TVUxbmNxdTc0VFU?oc=5",
-      "fecha": "2026-11-02T08:03:21.000Z",
-      "depto": "Chocó",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Taiw&#225;n apoya a v&#237;ctimas del terremoto en Colombia: ayuda en construcci&#243;n de viviendas y donaci&#243;n de equipos",
-      "medio": "El Tiempo on MSN",
-      "url": "https://www.msn.com/es-co/noticias/otras/taiw%C3%A1n-apoya-a-v%C3%ADctimas-del-terremoto-en-colombia-ayuda-en-construcci%C3%B3n-de-viviendas-y-donaci%C3%B3n-de-equipos/ar-AA2gBC8l",
-      "imagen": "http://www.bing.com/th?id=ONUT.QvGG-qaHBdCdXXJYmt270w&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-02T07:59:55.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Primera Dama de Colombia anuncia soluciones habitacionales para damnificados por terremoto en Risaralda",
-      "medio": "CRprensa.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzVPLThxRkdZMGhYc1NfS2VrbEFGYUZLb19Rc0pKVmtCaXZQY3F5cWlQbVNuZkdvQnZNczBPYTVOeU9VWlVBckQzNEpMOUZvVHotQXRBMnJ3aEVubEduMEFfLTd0SmxEeGI4MkdyQy1HaHVLbTZ6YjROdVg5MUVpWVdMaFF3VG5mTEotUnZtWVdxcWRTdE5QRGpYUWMzUGg5WGM0djN2MzM5dXp6R01fNWk3RXhrcGRCelpDR2VLN0RxdzgxM2N6OWVTa05UeVItTUE?oc=5",
-      "fecha": "2026-11-02T03:38:01.000Z",
-      "depto": "Risaralda",
-      "consulta": "viviendas damnificados terremoto Colombia"
     }
   ]
 }
