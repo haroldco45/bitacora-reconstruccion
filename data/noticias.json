@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-11-10T19:11:15-05:00",
+  "actualizado": "2026-11-11T01:56:12-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Transparencia por Colombia alerta sobre falta de información en la reconstrucción post-terremoto",
+      "medio": "CRprensa.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFFvcl9TSEpxZW5RMUlJOEczT19nMmZGc3ZVM08zNk1nc1NVSlJWUFVJUlMwajhVR1N1Yi02NEh0aFo3a0J0V18wMmNRNndlNTFkUXliUkdCYU5Cc0IycWZscXV6cUVWZGV6OHhDTkxnSGNUbHVMN3lzdnp0ZjloczhjX2tmNVA3ZVo5bk9lby1OTHpJTGlvX09GU0p3b3J3dWFyZXdvcDJIMlExdlpxRmF0cmhTd3ZNc2hSRFVUdnJCUndGZVpqMg?oc=5",
+      "fecha": "2026-11-11T03:13:58.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "A tres meses del terremoto, gobierno De La Espriella rinde cuentas del Fondo Milagro",
+      "medio": "Emisora Nueva Época",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1VuM09JYUxwRzc1MjIxVDFfOUctTEdkRjdZUjBYRjBUTlBiLV9uSFhKYmIyZVdkOGY3bU9CRkJORE9wNHNfNTBEUUVfc1pSWjd2aFZiZTF2bWNaOEdJamJXYlQ5WHVIdktOWWo4ZnZyT01ROEFtek5DaXg0NHgxbG1VV0FhWVE?oc=5",
+      "fecha": "2026-11-11T03:03:28.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Transparencia por Colombia publicó balance sobre la reconstrucción del país tras el terremoto: advirtió sobre falta de información",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOY0VDdERKcW96eDJqUXN4VFFmUzhwbGRoYkZmMGFmZzBJcE9jOG9pT1U3MDZKYXBhRjZzZWlDS0ZFWTFoc0VoZEtybHpjTFN1Umt4MFVnNklTakEtaVJhQzluSmpPN0FXTjk1aGcwT05DODRyY3VFWFRWM3lYS2JMaWM2UDhPcmgxWDJyaXFRWGFhSkZSWVRZMmhtOGVmeHdEajlTZWZfakIyRDBWcVZyTWVwTWg5MjRYakhfQ1JxaUU4a3M3UWZnMVhMdlhsNmRaaFI3Z1FEdU54R2xXbVNUVlVidFZkWTBaR3dIV2lGTTJqd3NrVEhENWNna2h5MXFkOFdNTNIBnwJBVV95cUxOZTY1ZkpfZURGc3g3VEh4V2tFOFJVdml1RHF6QW1iNnRrS005dzZ0UWJtOGEyenlMNHFDSWtlMWtXRHB4OFU1czd3VGw0dkNTT3pqWXJlak92NmdYWU9CcTlQVE1Hckdvbmd3S2tITGtFWFI4UDZnXzc5WUl3QkRreVVGY0dyYTlQd0FpaVpYaE12V3VXcjlpVGN0cXVkX3NzbXFZYWNkMDFSVmJtQy04VzljSGhGZmUzLW14ZXVPQ1duS09SbEZMbEt3YzMtVlZLTGd0NmV0S25FMTJzTzZrQnJ2c2tFOTVmQi1rVHJPRDFtaGRUdHBzS3NXQlVWUk9SQl91OUhlWndyRWt0TGZWV241RDNqOGJDel81djRodw?oc=5",
+      "fecha": "2026-11-11T02:51:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "“Al Quindío no ha llegado ni un solo peso de las donaciones del Fondo Milagro”: Miguel Grisales",
+      "medio": "El Quindiano",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTDNaRFJleTB2cDBjTVFRUnNibTZoN1hVVjhYRDhhREE2SUhxang0SjhlY0syUTcydUQya2NIY292czl0WTE0Sl9fbUczNGhrMW1Ec001MUpSYlJNLU9tVVQ2b2hoMEpGMjJ2M05hUGlhM1dsdXhHVUtGdFU0bVZHU1RMRTFRTmhWaFVlRnpvUmdSNVNId1BUdTNLWkZhUTdoZ2FEaFVXbDNIWHdoZXljUk5VR0d2aERKRnV1ZTJsVEdFVVJPMmkxOWtPMDk?oc=5",
+      "fecha": "2026-11-11T01:54:39.000Z",
+      "depto": "Quindío",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Gobernador de Risaralda pidió celeridad y acciones contundentes para la reconstrucción del departamento: así va la recuperación tras el terremoto",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORzNPc2J5cjZObU0zT0NFYXJqdVgxNTVWcWJPZ2xWQTR4d0JGTWRmV2FiLXVxemxVTnJKVENWWHBveDJkX2VZWEdoNWRBdU9LeVBKRUxsUWJWdS1aaWpVZFRLOGZFYjVpZ3FDbzlnd0swYm9IZV9nMldySkY0ai1ha2FBalBzRXN4N0txN2tVZU5EbmpEaVg2RGN0SWpZWmZuVnE5ZzBtT0U2bjJBZkVwS1VNN2prcW12MWhpYnlpdmNpcnlVbXl6TzJ1TTFVTVNqNjJMZlVDZ19uTEp0UXhRUDJPUVJDZVYyNG9TazhlT2xDMHdDYmJTa3RCbDJfajU3Mmwzc3RqSWstS2hySG9WMEVnRU96TGtM0gGzAkFVX3lxTFBlRm9qT2Fhclg1cV9tZjc2NENOZ2VEOUF5UGtaaXE5djNacmZ4TlFZeU5xSE1pTjJ6UjZiR0g4ZkVQODl1MXBjTFlIc1MxR3Ftd2dmcWRZaWlKYV9aZWdQNVFxZ3FQX29FdmJ5M29Qd01YTy1STVZId2kxQVJTZHl3bUNXeFVpalNmUjE4M3dZUklhOGF1RVpSUkRXcEJyRDBSczJwcWVhYzdhbzFHUjQ3ZG9DNnV1Vk1YNGJpaW5ab2F0elJIOEpBd2xCWktrTEhJT0N1bEVqTzdjQ0FvMGNXUnl1ZmlmbVNET0JoVmo2Nno2X1NJS3Y2YUxBb3F0Wi1tVlVkT2tYVkJVRk5kdVdZTVlCT1laeFpQdS15RllTa0RkQnZvZGRxamJLQTFGQXgxQmc?oc=5",
+      "fecha": "2026-11-11T01:17:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "¿Qué pasó con el dinero del terremoto? Pacto Histórico exige respuestas al Gobierno",
+      "medio": "Colombia.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRi04SUlRTnNPRUc4WGpKTkFXLXNQeW43Zm5GVHR0a0JWSWVqenMwb2c1QnpQVnF1UE5EV2JhOWh0cVl5WWFWeC1JMDU2N1VlQVIxSS1icy1JcjZsSDcyQUNmYzVublZuZzl6NHNWUGRxUDhXTXh6M1pxRU85bmJwSkJhTWtFQ3o5NHZvQ2tyNkpFQmFqX1gtNk5zMEk4c0RYaHZYOVhUdHA0ckRselBzTTh3?oc=5",
+      "fecha": "2026-11-11T01:10:18.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "¿En que va la reconstrucción de Cali, Pereira y Chocó tras el terremoto en Colombia?",
+      "medio": "El Espectador",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWklvRDJ3bzBJSnBRbHY2eG9LMEx4SkpQZ1d6Q2RRcTZYdVdKYWhsVjFmNkJsZTdZVWllYW5VNksybmlHMUU2WjhpbE81c3B5VmdlTmhoWjFyVzNISnlwQmZwclpEalZMVmJqZVA4WDgyQ2FndDNsOFVTcnRteTk3R2MtR09qaUktLVdRUnIzX3gtWWNpTldDU1dTTTlPVEhrd25pRjBtZXZ3WW91NTJVQ3phb3U5TWp5MEMyMtIB0AFBVV95cUxQaHgwZ3V6Yzd2UWFnNG10aGNWZWNrOUotTXA1UXRiV1pDTWlJVGFSQl83OUFMY3REbkFNLUVKQzROOW1PU1BTaHNPVU9YM1BsQVZKSG82S01uQVMzLVpvRlV1ZFdLcmFVRFdaNzlkZEtqSzhzVVI2dkVQYm1PWnM4SzVhREE0bDE0VEQtWkl4TGxDMWhNcGFrUlh1YTBlMHFYcW0tai1BQVJWbHRnNXB6WVRXT2NLakVIdjN1THhMQVpzTFVUSnhfdkZhNVdvMU8t?oc=5",
+      "fecha": "2026-11-11T01:08:24.000Z",
+      "depto": "Chocó",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Tres meses del terremoto: así van las ayudas y la vivienda en el país",
       "medio": "CW+ Noticias",
@@ -15,6 +71,14 @@
       "medio": "Eluniversal.com.co",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM1dNaVZDOW1JMkp6bmlicVc4TjJqMnBIcHgtN25HbC1tYjFjNHF4TDJ1cjhYUHhhT1AwaHRxZUpHOENubmJCWHYwb3I3d2pMdkNJX1p1YmNmcGQ4cEZDRXJGT1F3dGJsRFF1eUM3OTQ0VVY4dDUwcHJUMjhyQ2FDQlBocTNjR2tFMDU3aldxeS1LTnQwamNkcGNEcEhXQUNVMkJlWVUxc3dzX2s1YVpOSXdyOUVrMzFaQmc0NmxsU0stWmU0SFdTb00zLVZjVGk1SEs0UEV0QVM?oc=5",
       "fecha": "2026-11-10T23:03:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Vivienda, vías y comunidades son los motores de la reconstrucción de Colombia | El Colombiano",
+      "medio": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNakh1TlA5OWxUeDlHYmJ0LXZsNzlIUTBJdHY2ZEM4ZTI4eXJHNkdDZ2tmdFdZVzhjYjgwQ1hhNTZ2aUU3aE1DRlJYelR3WGlHekJfOVBXQ2JodmExaFREekVYWmIxWHdNYmlnMi1acmxnOUtyNERjbkdDTUxxaDNSZGt4TWRVQTRSRFZSb2liV25LSXFKVFhOR19fV05Lam56VDlKX19yd2NZTkpBcVNQeFl4SUNqTXZNZlN4X0IwalBPdnlDSm0wQ1RQWC15UmYyXzd5c0FuNNIB3AFBVV95cUxOZDdmRkhGWlFBWVJBY2dTUklUb0lxN19JRnNwalAtdm9TME5rem5RWWJLcExYeTRpM0hKTkJhaWtCSk9jUks0YVV5NDdSaXpGWTQ5V0l3WDNUdDZhOWFnZFBCNDUxWU85ZkQ2MFVzTzMyVE1QZWtOQmZZMDN4OGVrVFMyTFZLTElIbzhpNUdmeFpjWURDSGxYQi11T2txcFRBbkp5eThwcFVOR2tLU0FNN3FiQlk0QjgtbS1Ga2FCVU1TazlUVGRNRzZPUDVIYS1fV0Nfa1FzcGRCaU5j?oc=5",
+      "fecha": "2026-11-10T22:56:28.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
     },
@@ -139,6 +203,15 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "90 d&#237;as del terremoto en Colombia: \"Seguimos esperando acompa&#241;amiento del Gobierno\", Leonardo Reales",
+      "medio": "France 24 on MSN",
+      "url": "https://www.msn.com/es-co/noticias/other/90-d%C3%ADas-del-terremoto-en-colombia-seguimos-esperando-acompa%C3%B1amiento-del-gobierno-leonardo-reales/vi-AA2hbnli",
+      "imagen": "http://www.bing.com/th?id=ONUT.3XJttPwf5LDZo0enKrdRtQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-10T18:48:27.000Z",
+      "depto": "Nacional",
+      "consulta": "damnificados terremoto UNGRD"
+    },
+    {
       "titulo": "¿En qué se están invirtiendo los recursos de la reconstrucción? Informe revela hallazgos sobre contratos y el Fondo Milagro",
       "medio": "El País",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZm5NNGNDNGcwR25IVGpUUk1fdXBRbTRFY2JaR1k3Y2llbTZhSENUdHBMdzc1R0hMNmU4aGVCazQxZ2ZaR0c2Tmh2clBFY2Z4cVhMa0Z6RUkwODVodGVIT040RGlQbnhKT096cWkwVktOdXJSMUtwdDUwZmpobHdud2lrWXJYNDBQTHFLRW4tWDhqU2VZU1hNUFIyMlh1VmpqQ1FaVGdUaElEQkJkel8ySW95UE16Y2VuS3ljMldQTVVtdWJfa0psSFJzbm1PUlNDNURVNEkxWUNkMGZGYk1DYzVwUWJ0Z29hV2E5U3o1b3lscTZsTHk0UE9n0gH_AUFVX3lxTE05eS1EcV8zRTJIS2NZZ0VVNWc1eUp3N3dqQWV6dWZmcGxrMFlDSHZvbzU5dnlnTjlIT040TzdYZ1NiU3E5OFk4LXBIbVhQMmJ0el9wVjI2UkNjSXRGT2hpLVQyVXZPUjJnbS1pdF9ZU3B6dUxkZ3FJSnY1Z2hVb0IycGhpbWJYX0lReXduSVhaWURveF9ybVJiZ1FYTV9hOHpuTnVkN0xjd2I5Yk9QcWJfVG5OWm5PQnk4STRKT2NnMHh0STlaak50dDlDZlBFekZidnRHaVEzN0ZTUlg4NTNGVE42VXd4SHpuZmhWSzI4M09MN3UzampyTk5MOE5CUQ?oc=5",
@@ -163,12 +236,30 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Costo de reconstrucci&#243;n tras terremoto sigue subiendo: $58,29 billones, seg&#250;n documento del Gobierno",
+      "medio": "Blu Radio",
+      "url": "https://www.bluradio.com/nacion/costo-de-reconstruccion-tras-terremoto-sigue-subiendo-58-29-billones-segun-documento-del-gobierno-rg10",
+      "imagen": "http://www.bing.com/th?id=ONUT.C5nzeJi2yzpYyb6vudlSBw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-10T17:36:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
       "titulo": "Reconstrucción no se ha iniciado, ni siquiera hay un bosquejo: personero de Pereira tras terremoto",
       "medio": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWEZ3WW9yQ1p5YTJBVkpCOFd6ams2TUF2eWhuUEFtZU9yV3VJd0w4ZzBIQXFIWm9XZXA4cHZuVmFTbkJJNjN4cFNMLTZxUkp1RHJ0dVdVYkV1UTJ6MTNyMjhtVUhlZnFoOFpvZWFqaFdoMGZKak9wM3U1X3E1aEdXa0JReWdraXFPMDJfT3p5VzZQUUVMQUxkbUVOOEhFS1FYTlFDdDNLMXNOY1h0NUpUMFhFZlNkTERqLUxycGZldkVYUi10UFViNng4UdIB3wFBVV95cUxNQzdjNnFRMmdINFVmMldDUGlETW1yZmMxXzRzQ0g2WGlUQWQzSG9GUlExYks2WkxEbkZjLThuNnlVaDY1RXdsWFljWTlNUjdKNlpnNUg0Yi1HdDNZWHVaQ0J2dTFFQ3JMVGFEeE9OaUEwb2NuYzdMSE5PUy1VSmUxZ2dsOENObXFEQ1VnX2RwQWM4N3ZGWFpCYUxDWlVsdVcxYXB6VjJrdVl5SGs3WVZhZXF4bmNDdkl3RXFJbVItWlJFaTIzRmtfLV9aNVV3OUhWdmZ3dHlmU2ZIcUF4RmJr?oc=5",
       "fecha": "2026-11-10T17:16:46.000Z",
       "depto": "Risaralda",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "'El Valle lo reconstruimos juntos': as&#237; va la recuperaci&#243;n del departamento a tres meses del terremoto",
+      "medio": "El Tiempo",
+      "url": "https://www.eltiempo.com/colombia/cali/el-valle-lo-reconstruimos-juntos-asi-va-la-recuperacion-del-departamento-a-tres-meses-del-terremoto-3600083",
+      "imagen": "http://www.bing.com/th?id=ONUT.wLn-jUgzaWYKNRdZGXYEYw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-10T17:03:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Cali reconstrucción"
     },
     {
       "titulo": "Defensoría alerta por demoras en la reconstrucción tras el terremoto",
@@ -187,12 +278,30 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "“El Estado no tiene cómo atender a la clase media que lo perdió todo”: gerente de la reconstrucción del Valle",
+      "medio": "CAMBIO Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSF9PNjg4c3UxS2dKUXREU2RfN0UwMWM2dTVjVURwQldYLTRsdHJzNTRXYkI5RkRZNWFEVDVqVUtERTFzZ1FXeDBIN3pHOFZIMm42Qnl0ZjRhLUZpdVljbzQxNXRzVWVKeDJmUE1WWGJYOE5xQm5zb2VGN2J3VXN5N2lDbmtUSTRpdVBuZ3dpd0FoU044Zmd4WXNGMU9mb1lvQ1R4dXMyLUhUWDZmQTlydk91YVNwZjhHRjBCdDluc1NfZm04MHBXYjdCQ0NZM1V2OU5GU0hjRE5hc1lXa3h4cFVqc1BORFgxMmZDLQ?oc=5",
+      "fecha": "2026-11-10T16:39:36.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
       "titulo": "Así va la reconstrucción del Valle tras el terremoto, según gobernadora: “Un esfuerzo muy grande”",
       "medio": "Noticias Caracol",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFZxZ0EtQVowTEFiSFpqY09uUFNJYWVSQmVSV3VsT1ZWVzhVTGJLaUtXVTJ6a21aTm9YRXRmZnRBbnB5TlZpRFhLTDBMZV82VnQ2ejRZbHc5WHRDNWRRTmM3WTlxZkVrSWg3cEZYQkhKbnFqeUhJSzhScTlGRkVOWjF0NEd5Y1k3aC1meXJRQTBOdXNmaVd6YWJmT09ZcUh2Zy1nRFpSek1ORnZYakt3YjhuSHdSM2hvNDg5ZDFzM3pPOTRxYnhmVWNxcGtfZUNxdU1waGR30gHjAUFVX3lxTE1hb0FZUVIyb3VteEUtNmJPcjdTTkpXR2VkVEFRb3dEX0ZNLUczVGR2dG5naUxFWVRMNkNwb2lRSUMtaVh6Uk54VEdHdVFVUWNyM19rbHVUaU94M1lqQm1HdkdZRGRSRGc4OFlQSG9CeHdLdmd4ekJqYTVPaE90SUxOLWdQSEl3Vkw5dGRyd2tJMDZyRFdOdHplZVRvdVhGYTk4ZjFpYzExOU84LVZsdVVkb0tuZV9xb0pVNUIwTkgtZlFMaFRmcG1ZaGtZRkdoejJtQi1XQkpKQkFTVVdhMG5RbkFF?oc=5",
       "fecha": "2026-11-10T16:37:35.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Gobernadora del Choc&#243; revel&#243; c&#243;mo avanza la entrega de ayudas a damnificados tres meses despu&#233;s del terremoto",
+      "medio": "Semana on MSN",
+      "url": "https://www.msn.com/es-co/noticias/nacional/gobernadora-del-choc%C3%B3-revel%C3%B3-c%C3%B3mo-avanza-la-entrega-de-ayudas-a-damnificados-tres-meses-despu%C3%A9s-del-terremoto/ar-AA2haviW",
+      "imagen": "",
+      "fecha": "2026-11-10T16:28:51.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción",
+      "sinFoto": true
     },
     {
       "titulo": "Filantropía familiar impulsa reconstrucción y ayuda a damnificados tras el terremoto en Colombia",
@@ -210,6 +319,24 @@
       "fecha": "2026-11-10T16:00:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Damnificados por el terremoto en Colombia denuncian demoras en subsidios y pagos",
+      "medio": "Diario del Sur",
+      "url": "https://www.diariodelsur.com.co/noticias/damnificados-por-el-terremoto-en-colombia-denuncian-demoras-en-subsidios-y-pagos",
+      "imagen": "http://www.bing.com/th?id=ONUT.VXxZp6Z8V1BmIMEXyzRzog&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-10T16:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "El Pacto Hist&#243;rico exige al Gobierno cuentas sobre los recursos y las ayudas destinadas a los damnificados del terremoto.",
+      "medio": "Colombia.com",
+      "url": "https://www.colombia.com/actualidad/nacionales/la-pregunta-del-pacto-historico-por-la-plata-del-terremoto-612071",
+      "imagen": "https://cdn.colombia.com/sdi/2026/11/11/la-pregunta-del-pacto-historico-por-la-plata-del-terremoto-1365886.jpg",
+      "fecha": "2026-11-10T16:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
       "titulo": "Tres meses después del terremoto, crecen los reclamos por las ayudas que no llegan del Fondo Milagro",
@@ -250,6 +377,15 @@
       "fecha": "2026-11-10T15:36:00.000Z",
       "depto": "Caldas",
       "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Sigue la reconstrucci&#243;n en el Valle del Cauca, despu&#233;s del terremoto",
+      "medio": "Caracol Radio",
+      "url": "https://caracol.com.co/2026/11/10/sigue-la-reconstruccion-en-el-valle-del-cauca-despues-del-terremoto/",
+      "imagen": "https://caracol.com.co/resizer/v2/ZWGDORHBMZFLHGOMG5OPCKFLB4.jpeg?auth=7100f8f8359b25939b3452a298444b2338b62a2608a9db791b8eb015bdbae8a1&quality=70&width=1200&height=675&smart=true",
+      "fecha": "2026-11-10T15:31:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
     },
     {
       "titulo": "Valle del Cauca resiliente: los retos de la reactivaci&#243;n tres meses despu&#233;s del terremoto",
@@ -476,6 +612,14 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "El Fondo Milagro del gobierno De la Espriella tres meses después del terremoto",
+      "medio": "El Irreverente",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDlja1F4eTZxV041NEl3aWViNlVFSDRHYXBZYXl3VFI1R2dHRzhCc1U4bUdmbUJ2a255UmZ4ZkVpNnEtSncySW5TdmFJMFVmeUxNT3hpeG9XQ3EyYmlndFYxY0oxN3g0aDM1UWNkTkoyTTUxSWlNOHFvbGdkWDJpTkN2TlhFTHVLZkE?oc=5",
+      "fecha": "2026-11-10T12:20:43.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Alcalde de Cali prevé hasta 4 años de reconstrucción: “En tres meses no se recupera de un terremoto”",
       "medio": "Blu Radio",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWGtRWG83MnNVSWxWdXFjZ29qTk12amdpNTZvRXMzUW9XczZBY1VMaWNDN0hocHdaakpFcGE0Y094U0l2STE1Q3JJWU0tcmRqMkZIamFQUjRTbXlNMWZrM2tHNWF1V0YxZXFrM0pWUGVlUkNxTmNhX05GNEo2NC1QQ2sxTGlXNXBKVHVJLVJjc0xPc281VFkxTVgtd19RVHJhVTZ4Q0NldFFfMWt3RHg4c1RGeHBnV0Z3bWNSalkzWWdFTGwwek9DT3F4eDBSM0RQM1VTems5Wi0zWG11S2fSAesBQVVfeXFMTlFVZnZJa24yalB3bml5R2VuUl93SmlMOVR0N2tCSUFNQXVEUnRzQ1h0YlJtMHRvMUlsd3pOczRSS2pfMU5jTjRJN3kwdlhRQmlpdjhrSVEtUnpzMU4yQTNTZmw0MnE0bzNkQXZIcG5UcDJtZ0JGNHFpNkN6TE9FVmpaQ0pucUhNYkNGaGZqSEg4bGhNM3dfTk9YZ0FUcmExUVJUUm5hOG9BMWVPZTZvZ3FaWWhfekdCbW1ueGJ5NjFIVENsWnhOSDBUOFNTOHUwbjM0OGlVWWhHeFBBYWVPa0NSZGprSUlNcEtCYw?oc=5",
@@ -587,6 +731,15 @@
       "fecha": "2026-11-10T10:03:00.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Terremoto: m&#225;s de 776.000 afectados siguen sin soluciones",
+      "medio": "Diario Occidente",
+      "url": "https://occidente.co/colombia/terremoto-en-choco-tres-meses-brecha-financiera-damnificados-2026/",
+      "imagen": "http://www.bing.com/th?id=ONUT.0V21kwB4fNziz74Wba8_0A&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-10T09:57:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción"
     },
     {
       "titulo": "Bibliotecas p&#250;blicas en Colombia: 62 siguen cerradas y persisten da&#241;os tras el terremoto de agosto",
@@ -775,6 +928,15 @@
       "fecha": "2026-11-10T05:05:00.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Tras tres meses del terremoto en Cali: estos son los avances en ayudas y viviendas; la reconstrucci&#243;n tardar&#237;a hasta 4 a&#241;os",
+      "medio": "Diario El Pa&#237;s",
+      "url": "https://www.elpais.com.co/cali/tras-tres-meses-del-terremoto-en-cali-estos-son-los-avances-en-ayudas-viviendas-y-reconstruccion-1057.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.t34bx4P1j4fAicllozgj7w&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-10T04:42:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "damnificados terremoto UNGRD"
     },
     {
       "titulo": "Tres meses despu&#233;s del terremoto, Colombia avanza de la emergencia a la reconstrucci&#243;n",
@@ -1150,6 +1312,15 @@
       "fecha": "2026-11-09T16:00:00.000Z",
       "depto": "Nacional",
       "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "&#191;En que va la reconstrucci&#243;n de Cali, Pereira y Choc&#243; tras el terremoto en Colombia?",
+      "medio": "El Espectador",
+      "url": "https://www.elespectador.com/colombia/en-que-va-la-reconstruccion-de-cali-pereira-y-choco-tras-el-terremoto-en-colombia/",
+      "imagen": "https://www.elespectador.com/wp-content/uploads/elespectador/WZ3M2D5Y45AKLJIAFYXDB6OTQI.JPG?quality=60&w=1024&resize=1200,630",
+      "fecha": "2026-11-09T16:00:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Chocó reconstrucción"
     },
     {
       "titulo": "Gobierno dice que ya está en ejecución plata del Fondo Milagro",
@@ -1540,179 +1711,6 @@
       "fecha": "2026-11-08T03:15:00.000Z",
       "depto": "Chocó",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Pereira: Sanar heridas emocionales tras sismo, 3 meses despu&#233;s",
-      "medio": "estrelladigital.com.co",
-      "url": "https://estrelladigital.com.co/nacional/terremoto-pereira-heridas-emocionales/",
-      "imagen": "http://www.bing.com/th?id=ONUT.X33fBCZolVFkrH71Bx7r7g&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-08T02:35:00.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "El miedo que dej&#243; el terremoto en Pereira y las heridas emocionales que a&#250;n buscan sanar: los tres meses tras el fuerte sismo del siglo",
-      "medio": "El Tiempo",
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-miedo-que-dejo-el-terremoto-en-pereira-y-las-heridas-emocionales-que-aun-buscan-sanar-los-tres-meses-tras-el-fuerte-sismo-del-siglo-3599177",
-      "imagen": "http://www.bing.com/th?id=ONUT.gZA1K11CZscES31vqnqx3Q&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-07T23:34:00.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Tres meses del terremoto en Cali: 155 muertos y 60.000 en salud mental",
-      "medio": "Buenaventura en L&#237;nea",
-      "url": "https://buenaventuraenlinea.com/tres-meses-terremoto-cali-155-muertos-60-000-salud-mental/",
-      "imagen": "https://buenaventuraenlinea.com/wp-content/uploads/2026/11/port-harbor-27.jpg",
-      "fecha": "2026-11-07T23:17:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Colombia Â¿Fondo Milagro o contratadero?",
-      "medio": "Aporrea",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrTjlKSXVWXzB5OEVJZ3NzWllZY1ZIUEVtRVNMLVZkSHZjVHAxZ2Y4aUJmYkd3TFQzdERYTkpJdW91VjY0WURUNjZFemw5SEJ2NndjZThFcDBJZUQwcHRwakdn0gFnQVVfeXFMTlVkdTNjZlZTbVpUMGUyZ1lxcjZrdVdJM045RHV5bTFWMDJfdE5hZ1lkeW05c3NfMzJvMUhVWTJHUG1HdHhVbFRUMkhhTlNwU2VSSE4yUE9PcG1tOS03aHV6R0xIVXVISQ?oc=5",
-      "fecha": "2026-11-07T20:25:54.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Terremoto Cali: Crisis de salud mental afecta a 60.000",
-      "medio": "estrelladigital.com.co",
-      "url": "https://estrelladigital.com.co/nacional/terremoto-cali-salud-mental-afectados/",
-      "imagen": "http://www.bing.com/th?id=ONUT.ORQAvgNCsYpj5b19CeioPQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-07T19:01:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Jap&#243;n dona 2 millones de d&#243;lares para atender a v&#237;ctimas del terremoto en Colombia",
-      "medio": "Diario del Sur",
-      "url": "https://www.diariodelsur.com.co/noticias/japon-dona-2-millones-de-dolares-para-atender-a-victimas-del-terremoto-en-colombia",
-      "imagen": "http://www.bing.com/th?id=ONUT.6ntNgM5B9krb31PlOalyMA&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-07T14:32:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Gobierno Nacional anuncia ayudas para la reconstrucción de Pereira tras el terremoto",
-      "medio": "Risaraldahoy.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV1RacGdZZ191eEdpSFEyWlZ6Nzl6ZWlQbnA0c3FoS3NVSW9qS0otM01FQkhRS3RzSjlrNUNVajZQdkRpZG9iRlVJbXBhQzVlSFNOX0RDS1VvN1VuSlIzeUM5cG9vRHFBVkwydEk2RWw4a0Q1a1lUa1BfbTZqcFBLQlJtSGtRdWhmcG5XeG5PYU1YVmI5eFl5RGljTUwyNnRmQUtDdEhFa1FVcXJMdm9j?oc=5",
-      "fecha": "2026-11-07T14:21:32.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Mario Alberto Yepes y el partido Levantamos a Colombia 2.0 en Armenia por la reconstrucción",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZGd0NmRzWkZvRUlJWmROa3RvdnhKQmZjZXlFWFJMenJMMnlJUzBuV2RiVjNQMm56Zl81NE5MdzVOSlRfTE5wcXlSeUhIdUQ2eXFxZkNnSDJfQW5wenJqWFBMemMxc3VxLUNfMEdEb0pEQUhBN2Z6eGVzcjg3aHdoUXdkV0tlaDVkVm5XMmJMWXZtNmxaenRrYzRQY1E5YW5Gc0ZVRDFDR2R5T00taUctSm1tUFRuYnVUT1VzSnl3TnpzX03SAdcBQVVfeXFMUDkzeXlNbGNYRnp4aGxCaFNvV2FzREx2bGpWbkN5N3hRMVQ2MUVzRXptQm5xblNMSnl2aFNCeFJGNVJJWEJyT0NRM1gwWEVSampFOFlpc2ZDYi1tSVI0WklRY1kwcGRIYWdDb2JtOVZxLVVtLWtRbDM2S0tiRkdhYllaVHBHY0pQR1Y4dzVWNHU2T016OExYZUNZTUlkVnkzbXdSZmM5ai1BRmVkM1RxazFHUzV0UlNrN2hCT1psYnIzS2g1RmVnbExPcU1LcHNEa0hwWXQ5WHc?oc=5",
-      "fecha": "2026-11-07T13:44:22.000Z",
-      "depto": "Quindío",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Tres meses despu&#233;s del terremoto: la crisis de la salud mental por consultas de casi 60.000 personas y el dolor por 155 vidas desvanecidas en Cali",
-      "medio": "El Tiempo",
-      "url": "https://www.eltiempo.com/colombia/cali/tres-meses-despues-del-terremoto-la-crisis-de-la-salud-mental-por-consultas-de-casi-60-000-personas-y-el-dolor-por-155-vidas-desvanecidas-en-cali-3599314",
-      "imagen": "http://www.bing.com/th?id=ONUT.fKA4ltb3Oa97FoAv0ZMWpQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-07T12:06:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Terremotos en Colombia: a tres meses de la tragedia, miles de damnificados siguen esperando ayuda",
-      "medio": "Acento",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUER3RWxuV0FOM01vZkpXVTJZN2wtMmhCd0NnZG5ZVGVfX2Y1Z2VHMVRJc25jbE5WSk9PQ2piUEZEaDdBMmgzSE9hNDVFRWZ0OUpoWE9TX1hnSW1lN0pVUi00S2JSNksyTUNoajNEM0R3RmdMWkJweFlKaFZScFBoU21vTGFCaEpTMmpRaWN2bkVkd1lRVmFSOTVvSGRaajRnVll1bFFSRnRNTThTSDZxVnY3dEZXdEZ1aG1ySm9nNGhtVHYyemMxQjlzRWQ0WEnSAc8BQVVfeXFMUFBEd0VsbldBTjNNb2ZKV1UyWTdsLTJoQndDZ2RuWVRlX19mNWdlRzFUSXNuY2xOVkpPT0NqYlBGRGg3QTJoM0hPYTQ1RUVmdDlKaFhPU19YZ0ltZTdKVVItNEtiUjZLMk1DaGozRDNEd0ZnTFpCcHhZSmhWUnBQaFNtb0xhQmhKUzJqUWljdm5FZHdZUVZhUjk1b0hkWmo0Z1ZZdWxRUkZ0TU04U0g2cVZ2N3RGV3RGdWhtckpvZzRobVR2MnpjMUI5c0VkNFhJ?oc=5",
-      "fecha": "2026-11-07T09:47:03.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia",
-      "imagen": "http://www.bing.com/th?id=ONUT.i2UJTlIUtpECIFPZAPKaJA&pid=News&w=640&h=360&c=7",
-      "urlDirecta": "https://eldeber.com.bo/rfi/terremotos-colombia-tres-meses-tragedia-miles-damnificados-siguen-esperando-ayuda_1794047666"
-    },
-    {
-      "titulo": "Colombia &#191;Fondo Milagro o contratadero?",
-      "medio": "Aporrea",
-      "url": "https://www.aporrea.org/internacionales/a358306.html",
-      "imagen": "http://www.bing.com/th?id=ONUT.uI0833ffkAT5x6BGQNmDFA&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-07T08:22:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "El renacer de Diana Troncoso: sobrevivi&#243; 30 horas bajo los escombros del terremoto en Cali",
-      "medio": "Diario El Pa&#237;s",
-      "url": "https://www.elpais.com.co/cali/el-renacer-de-diana-troncoso-sobrevivio-30-horas-bajo-los-escombros-del-terremoto-en-cali-0705.html",
-      "imagen": "https://www.elpais.com.co/resizer/v2/ADSA777DVRFMFEDT6JMCCSYK4Q.jpeg?auth=ed838194e5c00e4bf5bff369cf57aff0d913779d983541517647652d3c9bfbf5&smart=true&quality=75&width=1280&height=720",
-      "fecha": "2026-11-07T07:46:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Leyendas de Colombia y Ecuador juegan en Armenia por la reconstrucción del Quindío",
-      "medio": "Crónica del Quindio",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnZkR2JPRHRHdzZnRE9ndlQ0U2pST1RNeUwzS2NJUlMtS3R5QkN4MERwXzhJWkZFUV8yVV90cW8tVmtHdjVfSERxT2J2aGx1UmlqeUYwWmtOU2xPVGJqM3RwSG9Demgxa2J5Z0Nfc3JmME1FUXgzRDNmVTZTTk1WakFOeXZ4U1g5dkVjbzRjZlhVX1hFa291NndDaVMxQ01BNjk4R1J6eThXa05KaEpyWDZjRjE4eG4yX2lBT0RB?oc=5",
-      "fecha": "2026-11-07T07:16:54.000Z",
-      "depto": "Quindío",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Terremoto en Colombia: a tres meses de la tragedia, miles de damnificados siguen esperando ayuda",
-      "medio": "Acento",
-      "url": "https://acento.com.do/rfi/terremoto-en-colombia-a-tres-meses-de-la-tragedia-miles-de-damnificados-siguen-esperando-ayuda-9785979.html",
-      "imagen": "http://www.bing.com/th?id=ONUT.qC8I33dNGggiWy4UJWCJgg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-07T04:38:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Japón dona US$2 millones para apoyar a los damnificados del terremoto en Colombia",
-      "medio": "Risaraldahoy.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmNsX0ZUYTJOS3F5SDFOeU0wNTdRUjhaa01SVXpGSnZMaUhJY3k3a3kyQ2Rxb1VBVnAzb25qRzJ0TlJCaS0wNGNQZ3BhTndCb19panBrTFN1eGxiVXNHSV9DTzV0N0szUXJsRFU5enI2RGFDRUZJbS1NWHBIRWFTR1E2TC1qTnNuZ1pNSVhERVV4MTYxalZkbUdFWm51SlViOFpPZlZSYWwyZw?oc=5",
-      "fecha": "2026-11-07T03:59:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Luz verde a $ 40.000 millones para que la Universidad del Valle pueda reconstruir sus áreas afectadas por el terremoto en Cali",
-      "medio": "Tenemos Noticias",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRm9VV2lMSEhlaWhLdWtyYm9TLUNCRmx2aVdyUGJMejBOaEdKbkYxcldIMExVbHhhd2lGU1pKS3I1QlBGTE9pSXVhMnRibFZ5RjVxb0N3alZjNFpDU0tBazloWEtlb0UtNWlFZkZ5dE1RajBFb0RIUEFUY1VzeDFQVjNwUmtTbmxmaGxyYktad2w5SVE4aXpXdWdZUk01cHJuM1VoM1RCak5UMW15MlhYUFBDWTloaDFiVk5WYXQwelVYSDJtV3BkUHFzeWh2d2k5NFdWRnlIMThwdldzdm5nUzhaSm8zd2YyMjJTWW41OE00dHBHeXdUNDdoUWU1aG1wYmlCSEFLdnY2SW91NEpFbHU1dHAwV2NHYzM4?oc=5",
-      "fecha": "2026-11-07T03:30:02.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "ComfaTolima abre convocatoria de apoyo econ&#243;mico para personas cesantes afectadas por el sismo",
-      "medio": "ECOS INTERACTIVA",
-      "url": "https://www.ecosdelcombeima.com/economia/nota-197492-comfatolima-abre-convocatoria-de-apoyo-economico-para-personas-cesantes",
-      "imagen": "https://ecosdelcombeima.com/sites/default/files/2026-11/miniaturas-web-nov-2026-scaled.jpg",
-      "fecha": "2026-11-07T02:05:00.000Z",
-      "depto": "Nacional",
-      "consulta": "damnificados terremoto UNGRD"
-    },
-    {
-      "titulo": "Mario Alberto Yepes y el partido Levantamos a Colombia 2.0 en Armenia por la reconstrucci&#243;n",
-      "medio": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/11/07/mario-alberto-yepes-y-el-partido-levantamos-a-colombia-20-en-armenia-por-la-reconstruccion/",
-      "imagen": "http://www.bing.com/th?id=ONUT.oC_tLd7KyxxaI_wKT3uxxQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-07T00:44:00.000Z",
-      "depto": "Quindío",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Japón destina 2 millones de dólares para apoyar a damnificados en Colombia",
-      "medio": "Tabasco HOY",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWFUMlIxeUVwMXZ6aTY5UjFEQlF1bERWcXN3WWtkeGZlSm8tUkhRVDZzaVhfLU5PYjJINk1VdWlCNEVmTlBLUExaRWE1TzRWYUpBNUIxMVBLdXNiQUt0NlF3VkxVcWZPRGhJMXBOSVRkVmcydlFwY0JJWS1XbUJpREttbVl0M0hpWC16ZDVFOUlyVjdHUnlaU2dVN0Zud0N0MTRTNQ?oc=5",
-      "fecha": "2026-11-07T00:01:35.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Universidad del Valle aprueba inversión de $40.000 millones para reparar infraestructura dañada por sismo en sus sedes",
-      "medio": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbExPTUhXZEhfUV9uSGlveUFnc200THhST2VJejJJcml5bXZCU1RzbmRPUzR2Wl9fdTZsU0lSVHJpVmdUYmV0UWlFU0pyc205WkluQW5uUDFFQTBvdGVCMDI3M1RIRkxfeWhyMHFnRG91cUtPaGFSNmxQQVI5M281ZnZBWnJTUnRYeWwwanQ0X29LRG1oVkpfLUx3OG5sRUV4cE9DVG5wMGVTY21Mdi1FR09jTW13YVk1dTI1dXVNcTdXTEVUU0l6V0l6TUPSAdIBQVVfeXFMT0NiVWxrb0lhZ19PaEl3TEttZ0pxa1FBc3FSOHlpcGtwQjQ3NktHVWE5eXBoNVFfY3JldEQ1aUhrOUJZOGhTTlptSFdnYzZGa2JlSDdvNzhjYm51RE1wUmNiS0p3SUFPTXBzOEl4V2c0RXJYN2tOLXQzbWpVWXhEQU9GZVk4S0NDMUlnZm9fTVJVajhpaF8yMWxjX0Q2X1NQQzFpWFNxTEItekJ4RFVPMkNTTFY4dTFhelVyT09VaXVnZ1VhQm14UVNmcnoyUHJIUUt3?oc=5",
-      "fecha": "2026-11-06T22:45:45.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Cali reconstrucción"
     }
   ]
 }
