@@ -1,12 +1,108 @@
 {
-  "actualizado": "2026-11-12T13:42:45-05:00",
+  "actualizado": "2026-11-12T18:58:40-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Nómina del Fondo Milagro al mes cuesta aproximadamente $765,6 millones",
+      "medio": "Asuntos Legales",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXR6SEpZY0pXNjNjTUZHRDdYRWlfNm1UcVZsN3hUdHViYk1MVDZUazJFWXoxOXpuUW9XME4wcmtlU3AzX3R4cmxRQnJWektNS043RTdicHI4RGFKdDZmMVlSd2JXalI3T3ZtUDdfZ19XYUgxVGk0ZEpDV3RJUzMxOFk2TzB5dXV3S0l5dVBoOERxcktqUFJIcDlvVWpEMmVtazRjcVdsOXM5ZUVmNDJkalRxdkM2RVByYVJzOVRDNNIBvwFBVV95cUxNZjhKRjVHR2JIak55X1pIRWJhRmJSY3pTdWZNYlVpajhXZ3MxMTNrR3dUck9NdWNuMGJZWlJHUmsyTFc5RGl1LXJROVdNUnhmUWQtZFhQQll2UEtRS2RncU95ZmZJaGxGZzhvaWlRbkk2anRGb1hXY3pyMGIxOUY4Smo3YlBFVGNrNDdjRHdnZUkySWtMREpXTWZUQUdFelZDbDN2VVVqdlRyU2lucE9lcmlTQUdmYUs4cGhxMzUwSQ?oc=5",
+      "fecha": "2026-11-12T23:31:23.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Diez familias afectadas por el terremoto recibieron viviendas nuevas 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcXJhMk1OcEtmcGI3dEhJTEJHX2ZFVmdCT1k5bUFncElYb3NCZ0lpTUo1TE11NmlkamZZZEVPd1VYQzFTN2xhYkVYZGdxZmFRX2d6VWVlQ2FzcVZTVTZJQXpZNFRIR0dEUWZKMjFoNjBzRmVyalBqRlRLamVMeUlsb01jaS1XZURIZG45d1Q4RW0zWVgtUDJXeFYyZmhIMGtqdGpGMkNrNHFuc2NSU3phWGxJTFg1WGttSFNJdWJvTVUxN1NJVy1UMzNiN3pNNi1iUVN1MnJ3SmM5MFA1SVlqUlZB?oc=5",
+      "fecha": "2026-11-12T23:02:26.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Damnificados del terremoto en Cali recibirán bonos de $50 millones para comprar vivienda",
+      "medio": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ0dvcjl6WnpfcGF4UGdBWEtyLWJRM1EzTURNdy1UeG5nRThOcnItM29zd1ptSWw3V1oxZ05GUjZRcXhyNXNTaHVmTC1rWElqc1RuaWx2c0RTbFYtZ1JNcHBWVVNhdHVmdDF6MjVrY3Y4c3pTb3ZPOU5mZU1iZ3l3d2JHS3hneXVKR2Z4cElpeXBVeTU5X2Jxd3BTajhlOHRVRkxHV2pPdkQ4TnJLMEFmcGp4clVfTWZqcklETkVQUmV4S1FNODNrMzlXbFdwbHg3Q252NlZnSjg4UdIB3wFBVV95cUxNWnFucUF4Um5qb2lEVEpLNjE4ckhUZURxZUl2NlJYdVRGU2NZN3cyWXJZVEVKY21ZSVVKWGN6c2ZaWXNiclZ5RDZJcWE5ZFp6YnEzUjA4ZUNfZGdNS09tSmtVbm82akNFZkNNT3R4RXlHdkVjczBrVGhMR29TZlpCREJhb09vOUtQcVJBcVJLZE9fUzhiMWhWcVNEc1FNMkxuSUtwU05HZUkzTmRic3JGZVpjZkhVSWtTNWc1ZEVEY3otOGlpemZXTld6LVdlSXhVZXJTTGJCYVdxUXFtYXZ3?oc=5",
+      "fecha": "2026-11-12T23:00:46.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Gerente del Fondo Milagro gana $39 millones mensualmente desde que se posesionó",
+      "medio": "El Irreverente",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzZuX0pjVE5fQ2hkQlRWQzJCNzhMV0tHaW51d25PZllOdG5nSU1MTTNYZmFOODRscU1DRUQ1OXFBRG5pcjhZdXV3TWpUYzlfaFlpQ2VTa0V6ZHUxa0NsMjY2YndIN2lISHdvcHl2Z0JNcWpQMHhkc0xrLXdCTU8tbDZEZ3Bqb2lDcmpSeWNQOGJQdW1kUWFCRDk5RHdJdld5SGJNb3JCYjJXRkNRMGNaUQ?oc=5",
+      "fecha": "2026-11-12T22:47:56.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Cuestionan al Fondo Milagro por baja ejecución de recursos para la reconstrucción tras terremoto",
+      "medio": "Noticias Caracol",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVnBCRHUwemdqblhDZXN3ZTRPVjI3aUxpbXQ4cWQxUm9HaFFLR3Z2aWt1dVE2RzdIM2dzVzBrS0FSWm52NFlsQ3EzczEwN1dfUmJUR3ZmdVI3NmpFVmJ2aldycTkzd3BFRGxEMUZOWFFJT18zY2VsZWoxVTBQOXdzN3JXOU52SVJsY2NnUVY2a09EOXlGb1hsd2t3RDMzT0NPRmdzYTdIb1VONzE2Y0FHcDVCQXp6VUp5UzRQbDZFcHVTMkFxY3FWUEQ5QWRmeE1URmVGejRzek91dVBNbTZ3clR4RnIzYWVkd2xrUGFuMWzSAf4BQVVfeXFMUE9qcVdrMTBCSEJOVlNxNm1JRnNMMDlsTHZlVl93SUpiTGxIOERyNW9hdjR0TlNrOWN6V3pWWkRDSGFVV1E1VFBhM2U3YURYQU9YcGcxTUM2NVJGOVczZlRfNWJsZmMtTHpzNFJrSlFDeEFtaVVIUkRJemwzV3VzVjNFRGhNMmVZaHljTVlWX0dGR1pnNGs4ZTJzTV9ldFJWTDJHanVXek92WF9jczEtazcydkQyT1ZXblJRNFdDRXN1TmdWYXpnaXVKeXh3NGZCRzFXZnBKQ3lFWnoybVhfcWYyUTBxX1VUdzI0TGIxaDlFaFZmTFZDbWhpallJQVE?oc=5",
+      "fecha": "2026-11-12T22:36:25.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Salarios del Fondo Milagro: nómina de $765 millones al mes",
+      "medio": "cablenoticias",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHV4a095NTVZU1N4eWxwa2dTTTR5cUEwS0lxMlQwWjhuM2IydTc0Y2VRd1N0Q3NwRTQ0amc1dzc3OFhycU1vUE9LN3dXc2xISjFDZlcxeERRTG0wMk5UUG9SMHpnbjlXYWVJaU9uVlRxdTJrRVpWTGsxdDVuZEl3VXZ5ZDRFbkJISzA0RQ?oc=5",
+      "fecha": "2026-11-12T21:42:43.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Cathy Juvinao cuestionó los $380.000 millones reportados y apenas $7.000 millones en ejecución del Fondo Milagro: solo con “TikToks haciendo show”",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTDhHbGl2Nkl2eUNBbTczTm1ETzNUY3pZU3MtdFNYSG5oSWxoRDIyM1FSNWZEOGFUNWs3Z0lMVGxCeDNkZXk2enVRaGFPSzJmNHZBUU1fWG15dk9JRWt6WHdyNUZxVUhqYi1tZlJ3dzY5b2xKVnRnM0h3YkZCOXBZUjJCdjJOeVpaUDJ0aGx1VWpEZVVSU0FrM2lpLUhMaHM2c0xzQ3dUa3lzZEJjMlpkYk1VYXgzeGtzTHliLWdsYk9yQ1hKWV9CVldpNmFpZGVNT0Jua3EzVGI5eDRsUEZwbEJPdDA1X1QxZzhWeGk0dUdIMVdrM3BVSTUtQVo1M2ZYdkh2UHI4T09tLTdray0zN2ln0gGsAkFVX3lxTE8wUHJYYUxpTXZIQjlSc1IxREdpdGNtTGZOT2VINGQtVzlfNkNtVXFXd0pzXzFST2NaU2dLMGk4c0M4RTFRYnhxVlRnNTRkdVNPNmlNZkYySkZLc2xMR2RHMW1HZnc4cTFJNjR1MldSazdzX05FbVJFcnBSbTBHOU45NDU5N0hWa1k1cWpjenkyNl9EVW80d1EtM0Jna0lsdUpEcTdURTFoNXc2dm9XSEFJWHczUVQzNDFkaWltSWtMQ0c4aTd6U2hkZWtnTUNvb0EyblpZaGRxZ2htUGRPWjRPT0stbnN4QUIyRUNNR2RkNXRWWkplVDItNjJSRVhtazJwMGlFZ2JzNXU0WU16TnhWYlFIXzZ0cllDQl9GRzdCU2gtS2xwckUydGtNbw?oc=5",
+      "fecha": "2026-11-12T21:24:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Lorenzo destaca el poder de unión del fútbol para el amistoso en Cali tras el terremoto",
+      "medio": "MiOriente",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX21NUHVJQTkyTTgxSE1CT00wb1FTYWN6cGhYTUp3UjJaems1MXM1R1BvcTc4T2dxTEx1aXFDSl8ycThzSXZWZUVUdzhxdnY4RDFZLVNTLTVXdXlwbE5yNkp0RTBLSEkybGFCOHVGek1TUWpKQ0VKT0RWR1RQc0xHVGk2Z01XX3RCeVNjUFZlTHRtWkp0blM5ZFVVMGFCdXJLaVpfOWx5MVp3S09FUm9NY0x2eE1CbmpwLTA3Q2VqeHRsSS1adk5GMA?oc=5",
+      "fecha": "2026-11-12T20:15:39.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Revelan salarios millonarios de trabajadores del Fondo Milagro",
+      "medio": "Opanoticias",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGszSXNtZXpQblkwZDNRRGhZWjdDQWdxN1lWek5iZ0tSWWxWUjdhbGdwaUlSSTRDV0RyV1BtekZVamdpYTlNTzdfQlF1bWx1NXNUdWpqUjZVUXV6bFNoMEFaQnROQ3hVY0xtLTBmN243elRMWWJxdG9rUUlpRUxURHhGd3NEYTVZYWtzUlB0R1pmZ2drU2VEbQ?oc=5",
+      "fecha": "2026-11-12T20:14:21.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Gobierno no descarta otro crédito con el Banco Mundial para la reconstrucción tras el terremoto 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+      "medio": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU29KUW9BQm9VY2ZGTlZiV1A0WTY3NDY2NzEtNFpUMHAzcWk5cUZhT0s2MXFVdEdYanhvS091MXVRc2Jlb3NmRlFKTnYydXQtSk92bXozdmVoRTdZNWhPYXVURjFXTG9pTlhmUW54aEhRc01fVFFnYmEwczkxQW5yaGtHNUdOd2JySkFzT1hadlUxclZkX2F2cTNEVWhjQWNROFM2TnBxX2ZCV19vVjFxQW9GUHUtOXFiVV9fcThzeUYwQlV6bWlLOF93TlJTRndJYjZkTThKUVpmeU05el9yY0xPaDE2cUczSDdDOVBrRQ?oc=5",
+      "fecha": "2026-11-12T19:29:37.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Gobierno busca agilizar reconstrucción tras el terremoto y avanzar en inversión con Fondo Milagro",
+      "medio": "Valora Analitik",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2l2NUJfQXZLNXo4cHV6bUd4WjhuSjNZYkI3S2ZZcHk2N0paalhLRmtLcEhGWTRiaGtfVUhwbzVnWlVmRmExVUZkdV9vUFNTUkZ3NlFyZXRxbEdOY045Szd6UXdyV3RSM0RJZXZOWU94NUJNVGQ3WER6b01HQ0lfU0JPRzBBcWVMT19MZjl3TFRDblBqSWlId3k5dkR5ejVzQ3FUSkloand2TUctZjRPM1ZBSUdBNE5pTFFhT0JTQUxiVm15UGZjatIBzgFBVV95cUxNZ2wySVYyZ1lkcHFDVlFxLTd4SDBFWjIzdlNfcnBQUExMRDBTSnAtWkhwSllJcFA0dzMwbTBBSlpOT2VnS3hBWDRQdFNpbkZKMno2a0dkTEJQLVRHR3ZUZUQtSHZwTEs3TlRvR1JKWVBic2VkdjBtMV96T2xpcHlMYlR2S1dfYnJVR21ZUEpZUml5UEpMZDlLX2V1TktPXzFjZHQ5UDQ1QW1QME95aGdJSEdGeFJfU1k2Mkl4cjdJc0ZOcHprUnVUdFBrcmNFUQ?oc=5",
+      "fecha": "2026-11-12T19:20:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "José Manuel Restrepo responde a quienes le reclaman al Fondo Milagro tras el terremoto en Colombia",
       "medio": "Revista Semana",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVWxVdmRxbEhCWFNmTjNhVVppMkNVajBtLVFTVzZsQVdlRzRBZ20wRS00QjVxYVJCcGVWekM3OFhtWVJGWVdRRXlpeldGZC1BdllXMTF4MGljT3hZT19UNzJ2WTk5aUh5MmhsajRFa05RV2xwLWNPR3U2cEF6WndnOTNleEwtektnTUdWY2hKbnhLUkRRS1Nlb2RGcUt5QW9WTXp6YnN4d1JvWHg0SVl4bVhBa0d1UFBMdlhmQ3R4LXZfRjkwV0pfQ2tFUTdfS3dEeEwyeEdvc3hJcE41UkhHVGZHY2FBTWpZcVB5NndFX19WRDlWSFN6M9IB_gFBVV95cUxPQXMzSjhWVnFFdFF0X2N5TVJxd3dZV2lZbkt0YkZiUUdvQ1JVLXROeXQ0TXl4S3F2WmdKNlY2QVV5SzlyTk12aThVdWU3cHEzT1ZLR045ZEZfYTB6c3liQ3l1V0hib2pUdmFhb1ZlUS1YbVdqRHluOUVSdk1zV1hJX0ktdlBoZVlJQXFhSFN4VUl3aHdkYi16b1R6VWhaOWlEdUp5VTNOQ0dsVzV5dTRsM3BlSjdGV3I4UEx5V2pJeU1penh4cWdsc0JaV1NYUjBsZ19za3RGOEhCV0RKMGlqOVp3QUV4dEFfWkhIdktKdEZQUlJQTXBDdjV6bjBLdw?oc=5",
       "fecha": "2026-11-12T18:29:27.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Representantes rechazaron ausencia del gerente del Fondo Milagro a comisión de seguimiento al terremoto",
+      "medio": "Cámara de representantes",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajJXVG9KZC1tbkNybWJKbE1GQm9TVk14SEhManV1UTFkd2huUXloaXdFYWs0WDNwVGphaEpsNFlkTE5vQXREbGlMam04elNFZUV5THhad3hRdUVWV2luLU9OQUp6ZGRuQ0pRTVVLY1VzYS1NWGVnbGdkdWE5UnNhOG8xbHdDNEdORUM0ZzFCRURiUHRnWXlDZGRZdUNhZTZfNVVWNGdTRExlM2pzTXQ0VTh6SVItbERDRTRQdjlCajBZclN0ajR5NXRB?oc=5",
+      "fecha": "2026-11-12T17:06:58.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     },
@@ -43,6 +139,15 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "F&#250;tbol por una causa: Colombia jugar&#225; contra Chile y la taquilla ayudar&#225; a los damnificados por el terremoto en Cali",
+      "medio": "Semana",
+      "url": "https://www.semana.com/mejor-colombia/articulo/futbol-por-una-causa-colombia-jugara-contra-chile-y-la-taquilla-ayudara-a-los-damnificados-por-el-terremoto-en-cali/202625/",
+      "imagen": "http://www.bing.com/th?id=ONUT.Y7oMGk5s1pxv3PGImiqp8g&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T15:45:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
       "titulo": "Estos son los salarios millonarios del personal contratado por el Fondo Milagro",
       "medio": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHpmcEJrUFBfeG9YVG9TZkxQQW5nNHFCRzBRNU1TQXNOWkQ2QmdoS1VrTUFYMHc3UWNBSzRaaEoyNmF6MEJST0lBVHFqemdJOHIzaXZuYWM4aGpHd3g4MTdPamVTWjN3YlZqWjhLTWo4R080YmdieHg5aXFfVF91UnVaVjc4UTIyQVVGelgxampCYnNwVWZweXpiQWotc25INDdwS3JQenl1NV8zY0hXRzBIaXHSAcgBQVVfeXFMTlcxa0o3VzdHX3BuZDVCU1RHbXdkejdHMmlNQklBUlNoS194bGVRWDV4cVlvb1dkbEpOSTRFdExZUW8xdG1tZ3BySXctaDgwcU94Mllfc3REZ2JIaFV3U3NURWx1Zk00U1NxcnVSTUVNcGx5Y3BQLWxCakFjbHh4Nl9sdkdMYU90d2lXR08wSC0tYTVzYXdEVDhoQ1RnSmNrTmt1MUstZDNNY2Jua2Z4S3RGTGRLYlBNV2FDNWN0X3p1QlBvSlhyUUM?oc=5",
@@ -61,6 +166,23 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "N&#243;mina del Fondo Milagro al mes cuesta aproximadamente $765,6 millones",
+      "medio": "Asuntos Legales",
+      "url": "https://www.asuntoslegales.com.co/actualidad/nomina-del-fondo-milagro-al-mes-cuesta-aproximadamente-765-6-millones-4523755",
+      "imagen": "http://www.bing.com/th?id=ONUT.pip2Ub2nTkgiBWAhojXUIw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T15:31:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Reconstrucción de viviendas y ayudas alimentarias: así es el detalle del plan de la Fundación Santo Domingo por el terremoto | El Colombiano",
+      "medio": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeWQzTzA2dU4wX21xR2dPdXhGVEhkREE3NEh3UHQwLWhPQlRYX3NPeC05R2huRmotMnYzbkhINEhmVXNBQWsyOWhpakdnLUZBbkk4d1BuSk5GYU9SM1FwZTROZ0QtVldzZk9VdGIzTnJNUnJhU3ZmUWNVMXJXSm0tanRkWUdnZzJDRktIOGtIZC1DT19aT3NYVkdiaHdBUWlHTjlXbdIBqgFBVV95cUxNb25zVzlmVFR2NjVVX29MUHFfTkY3ZVUyUTBnVVJDTjR2S3pkQ1BPMGpPeUNmMHdXVk5WalNzeFluWmUwUlY3WVVVLTFPbFRUUWRwRm1mWmFXSzFLeVBtYTUwd255Y0JzYkVfQTFXVnRCaXpkdGs4clRPN3B2dzN3dFFrQ2gxb3NzakkxMDZ4X3dhRjd0VW5uYjg4WC1PeWF4bThzNVpoNGZ3Zw?oc=5",
+      "fecha": "2026-11-12T15:21:02.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
       "titulo": "¿En qué se ha gastado la plata del Fondo Milagro? Esto respondió su gerente, Jaime Uribe | El Colombiano",
       "medio": "El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnJLVWU1Wm9KWmE3Wm9tZEFnRHRUdVJIYWhwYU1hZ2hUOEUyYmVEX2hzTmhIekhDcnNtc2FMTk10S2ZZazJWN2NEaVBDOTVDZklxdnpkclNYQm9FT3JubUJROEczWUhsV0Nma0FQN1Y1TTA3S09mR05namk2ZTJqclVOM1BWVUhET2pWamRyS2kzNkF3OWhGU1lLTW5WVHZKaHN4QWl1V27SAa4BQVVfeXFMT0s4aFBJdFpETzh6MUNmZk1qbkZCTlRNbVBZVk9GVC1yWUhZMjAyVzc5NWxpOFA0cEkzSG16dy0zRkNkOGNYbmNka3hBZ2V5X3VHYTJqdkhFWl9hQzJUc1NERlZXQzdMcW9HWC0waHZtcHpJSGxwV3FKclBVd1p1X1pYaDB5bXk3eG5BSEZ4Y2hPZTgtM0ZaOFZBajNqNTVLV0h3UUQ2MEh3NXNhMFBR?oc=5",
@@ -69,12 +191,30 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Damnificados del terremoto en Cali recibir&#225;n bonos de $50 millones para comprar vivienda",
+      "medio": "Semana on MSN",
+      "url": "https://www.msn.com/es-co/noticias/otras/damnificados-del-terremoto-en-cali-recibir%C3%A1n-bonos-de-50-millones-para-comprar-vivienda/ar-AA2hk1j5",
+      "imagen": "http://www.bing.com/th?id=ONUT.KoQTQ3aYcQBBnFpRQ7aUTg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T14:52:26.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
       "titulo": "El representante Santiago Osorio cuestionó la ausencia del gerente del Fondo Milagro en el Congreso: “No da la cara porque no ha puesto un tornillo”",
       "medio": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaURzbWdaV0VIcWNFLVdBYXFpZ1FnSVQ1SUtfeVpFTnh5NmYtbVhyMGcycUF2a0VSa0ZTNEEyWFVuQ0xCQkg4U2NkNnFwTXcxOTBXTllvaXQ0MjBGSmxManVUbkNTek12RWNfdTE5TVB3TjRJYUo1VXhuc1JUWEdKVXdQLVpTczNVQWJBS2NmMTJ5X25kMm5OMzduUVd2eW9RQTQ1a2tWLTFmblI5aDdYWnotTkREUVdMZEJCQzBMV0VTdHFZTGx4Y1pSRzRfdmhKMnBTQm5SNHpsVDY2RHBVa2pFUkpycmlodkg1MG9Cc0tqMFJKQWR2d3BuM1c4WV9uQTlQN2FZSl9qdmE5VE1wcV9wbkZpUkpXd3fSAbQCQVVfeXFMT1dCeXBtNzBxNjdzMmNOTXdxRG5pMzB4TWR2NVpFT01udGkzUHhoOVRJcC04Q3BwRFliaFNiY3NhRkhJZDI4YlhuWTcyckZncWRQTlBfSFVYTFAwTy1lMUxuUGFfbDVRcFhHbHA3ZlZrZEI5ZVljT25rU25tdkg1MjRYTmFpUG52cThPQUREbktzRll2eVhSTm5TZFJHSkxlMTFGb3VJMF9yQ1o2aFJWd3ZMbnNEUV9WRFdJd3FSUHMtMVNvM25pXzFnbkxXY2YtSlhWV1MtNGFRZHY2c0RKRS1nNm5UTVBhdkp3YTdFUWMtcmhDSVBQeElZWE1Xc2RteG1oWFY1RWt0Yk5VRXFXTFdtUnptTngyZWtHLVoyejFMMHktaE9tTy1wUXBUQ0poTmdadEM?oc=5",
       "fecha": "2026-11-12T14:42:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Cuestionan al Fondo Milagro por baja ejecuci&#243;n de recursos para la reconstrucci&#243;n tras terremoto",
+      "medio": "Noticias Caracol",
+      "url": "https://www.noticiascaracol.com/politica/cuestionan-al-fondo-milagro-por-baja-ejecucion-de-recursos-para-la-reconstruccion-tras-terremoto-y-altos-salarios-rg10",
+      "imagen": "http://www.bing.com/th?id=ONUT.hQCpT2mdvP3g8xyojv6ZMg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T14:36:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Con solo 85 viviendas entregadas, alcalde de Pereira cuestiona recursos: “Tengo un pálpito, el Fondo Milagro no tiene plata”",
@@ -90,7 +230,18 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcm5fUlZpOVh0cV9EVVZBb3IwZUtWUF96T1BDUlZEa3dHR21PR2o4YlQ2NVdGcmVrcUxrU3hqczE5Z0wzX29xOEZZVno5MlBDdElMaDdlQmppTWs4dnI4SzZ1ZXFLUG1DZTRVd08yMG1XWHFTWmVadG1GdWhQLTJVWllDMjFFNF81TzNrWDlJSXI3bHdEeFpJMTdrdnZfVk9iaVoweWVIMjhrZS05Uk1hb0E5Y2VhcUdEa0lSbWlaN1dOVjRVNUp6dTg4RWU0Y1dV0gHkAUFVX3lxTFBuSlVpSHNaYmJMcUtSeHd4RHF1azNHMmNCcnllbVV5eDV0QmdEcExSaE8yNktNMDVqN29RYlFMaHhZYnhKOG01ZDY0QXFqVmFDVUFUOGpWajRHM2hacU1DZlI0ajc5Y3h3c21FV19LTDR0ZDAxU2RZcnE1MTdqM1U5X0lyR0lKTWQ0R2s1TXJVQ0FmRVhCNnFKemxkTGlJNzZpRmlSc2xtZ3pCaXZVWEdxNFFyYjlZWFU1Z0Itbm1Md21UVnNfVDZZSWxoVHg4dE1URmJpUnlySFVGN2dBcWxsTHRaUg?oc=5",
       "fecha": "2026-11-12T14:11:39.000Z",
       "depto": "Quindío",
-      "consulta": "\"Fondo Milagro\""
+      "consulta": "\"Fondo Milagro\"",
+      "imagen": "http://www.bing.com/th?id=ONUT.eQaZEoIh_QHnODPVu64LVw&pid=News&w=640&h=360&c=7",
+      "urlDirecta": "https://caracol.com.co/2026/11/12/ministro-de-vivienda-y-gerente-del-fondo-milagro-entregaron-8-viviendas-para-damnificados-en-armenia/"
+    },
+    {
+      "titulo": "Denuncia P&#250;blica: Tres meses despu&#233;s del terremoto, la recontrucci&#243;n se hunde entre la opacidad, el papel y la improvisaci&#243;n",
+      "medio": "El Expreso",
+      "url": "https://elexpreso.co/opinion/denuncia-publica-tres-meses-despues-del-terremoto-la-recontruccion-se-hunde-entre-la-opacidad-el-papel-y-la-improvisacion/",
+      "imagen": "http://www.bing.com/th?id=ONUT.0klsTIlcT76Nmqfm1ytp2w&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T13:56:00.000Z",
+      "depto": "Nacional",
+      "consulta": "damnificados terremoto UNGRD"
     },
     {
       "titulo": "Así será la primera vivienda hecha en plástico reciclado que apoyará la reconstrucción",
@@ -117,6 +268,24 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Encanto regresa a los cines de Colombia este 12 de noviembre con funciones solidarias para ayudar a los damnificados por el terremoto",
+      "medio": "El Tiempo on MSN",
+      "url": "https://www.msn.com/es-co/noticias/otras/encanto-regresa-a-los-cines-de-colombia-este-12-de-noviembre-con-funciones-solidarias-para-ayudar-a-los-damnificados-por-el-terremoto/ar-AA2hjmsy",
+      "imagen": "http://www.bing.com/th?id=ONUT.UXF5Ix1UHVfH6iiUxYbM9Q&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T12:44:09.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Fondo Milagro gasta $765 millones en n&#243;mina. Gerente gana $39 millones",
+      "medio": "La Silla Vac&#237;a",
+      "url": "https://www.lasillavacia.com/en-vivo/fondo-milagro-gasta-765-millones-en-nomina-gerente-gana-39-millones/",
+      "imagen": "http://www.bing.com/th?id=ONUT.xy879BZXkt1-0G7X7Kf0kw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T12:37:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "¿Qué ha pasado con el Fondo Milagro? Alcalde de Pereira revela grave situación tras 3 meses del terremoto",
       "medio": "Tropicana Colombia",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVUxxWVd1dnhaUXlMZngwaDdDWXBZbnFvR0h4Nk1LQ3BERHlrUERqVm9FYk4tZDhPbVNvY0ZvMW5DLXRhemc3TlQyb2pzTUF3WWthVHI1aWt1QllEVUR4b0ZuRVZLWDlkLUdlX2pHd25IVzhGZTFxZHZMRjltUmdPdXNjcFdSeEkzWVZHSzhmMERXZG9DLWFQWE1rSlJmT2pLRzlCODc0SU5UVnJUTWtxUUd5eFg1TlVUSWZ3aWNRQ1RSM2sxdURuRl9oMmVpNjdiTDB0VnNxa1BDUFhOYlVGNFJ30gHnAUFVX3lxTE1jMFczQnN4TzdoWERjOVBDUlYtQmMzRGtfUzRKOGhjeEVZaEkzZmhuV0hUZzZIUHU1TVcyOHpucGFpVzM0WkQ3d1U0UHhIVGY5Tk00dndqT2pHUFFtY3pzN2JiU2p3bGFpMFBzalgtQnBhM2JEZDVTQUJWemNGTGU3REFqb3hnLXk5TTkwc1ZOdlVWWHJHanZBcUltcXBJUjU0U2pka1RlZVltN1ZrVzRtWE4tWjAtc3FnYjVXRmpaZlNOT0IzalNCdUF3NU1mMGRzRndMRXBYbW1yV2p1Y3JUTWdSU29jQQ?oc=5",
@@ -139,6 +308,33 @@
       "fecha": "2026-11-12T11:36:55.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Lorenzo destaca el poder de uni&#243;n del f&#250;tbol para el amistoso en Cali tras el terremoto",
+      "medio": "Yahoo Noticias en Espa&#241;ol",
+      "url": "https://es-us.noticias.yahoo.com/deportes/lorenzo-destaca-poder-uni%C3%B3n-f%C3%BAtbol-193554833.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.xElwH9UbGbW0DKJtjQVBpA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T11:36:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Marco Hincapi&#233; pone la lupa sobre los salarios del Fondo Milagro",
+      "medio": "El Nuevo D&#237;a",
+      "url": "https://www.elnuevodia.com.co/politica/marco-hincapie-pone-la-lupa-sobre-los-salarios-del-fondo-milagro-541302",
+      "imagen": "http://www.bing.com/th?id=ONUT.ysKkq_Q194Fc1pRti6PU1g&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T11:26:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Gobierno busca agilizar reconstrucci&#243;n tras el terremoto y avanzar en inversi&#243;n con Fondo Milagro",
+      "medio": "Valora Analitik on MSN",
+      "url": "https://www.msn.com/es-co/noticias/other/gobierno-busca-agilizar-reconstrucci%C3%B3n-tras-el-terremoto-y-avanzar-en-inversi%C3%B3n-con-fondo-milagro/ar-AA2hjcj3",
+      "imagen": "http://www.bing.com/th?id=ONUT.-TpNMVNvZAoRsodP6Zk_qw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T11:20:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Jos&#233; Manuel Restrepo responde a quienes le reclaman al Fondo Milagro tras el terremoto en Colombia",
@@ -201,6 +397,15 @@
       "url": "https://www.elcolombiano.com/colombia/fondo-milagro-gastos-contratos-nomina-jaime-andres-uribe-PC43503783",
       "imagen": "http://www.bing.com/th?id=ONUT.bbCT7zE5AHZ0-zT3YdUM8Q&pid=News&w=640&h=360&c=7",
       "fecha": "2026-11-12T08:48:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Fondo Milagro revela su n&#243;mina: 27 cargos cuestan $765,6 millones al mes y el gerente gana $39,4 millones",
+      "medio": "cablenoticias",
+      "url": "https://www.cablenoticias.com/noticias/salarios-fondo-milagro-nomina-765-millones-gerente",
+      "imagen": "https://www.cablenoticias.com/media/img/95b743bc-3099-4215-a3ba-7ac36d50c58d",
+      "fecha": "2026-11-12T08:41:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     },
@@ -304,6 +509,15 @@
       "medio": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc1NaSU1SbnhMVDRma1pUU3JuVmZUWldxM05NYzNid1lhYnZDVVpEa0xzT0ZOSEJMbmMyNnhRSmhPTGN6UjdzbFczSzJ5SG81UVVabW1BUGotaGpXcTVEcXZicWI5OVNzb1hRNFNfSTRualpMRi1mRDk4S3hmZHVJRkFqM0RrTU1FZjlrT19OakRxWV8tcFZWcGpJOVNzOTNUQjVxY19HNmtoVXljU1h4WkRWbmxuVW80TUl6WF9ZTnpPVzFDREk0cXQ3QzlVc05yYkpHNGh1WXFCNVhLZmtZM3JFel9WcGRqcDVLdQ?oc=5",
       "fecha": "2026-11-12T01:56:24.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Cathy Juvinao cuestion&#243; los $380.000 millones reportados y apenas $7.000 millones en ejecuci&#243;n del Fondo Milagro: solo con “TikToks haciendo show”",
+      "medio": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/12/cathy-juvinao-cuestiono-los-380000-millones-reportados-y-apenas-7000-millones-en-ejecucion-del-fondo-milagro-solo-con-tiktoks-haciendo-show/",
+      "imagen": "http://www.bing.com/th?id=ONUT.KX8aZaREew399wLGiUnvmQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-12T01:24:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     },
@@ -451,6 +665,14 @@
       "medio": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcEVnNV9UNVQwVG9XMldUZ0cweXZjYWF0c1gzQzVHYnJFUnlkRUhIU0hiRWFlQW1WeGRjWU5BakNJNHpwYkJDVkFQb3ZOWk85bWpKVU5YWGdBZXhMWXFWNFVKSEpIZG0yS1V6YmI2YTRreGxkNTZnTUYxc0tCYmJjMGVGb3I3RnlSc19LMWxuQjI4RHNEU08xd3VJVFZWTWtWZjZEM05vZTdxekdJVmM3eml4WE9zTldOcS1GdUNWNEJ3X0VkNXR3dk5tS056aFRUSm1hb204YTNLd0NLMDVkTS0wekJWWFJKUlpzTFJjOVB4eTDSAY4CQVVfeXFMTURvSG5TZGlvczNGZDhxM2RjUUtkZnB1emNybERBUUhfZ3FlS1FDY3poaVlfWDFhV2Y1YTRoZ0h3aXJKaUxWbFRubUNQWE5iWEdWdXJpejFMbG1MQl9aRGdrVTluRjVaNEFsNkktZDBoRW42NDUtdnFhUUF2YVN3ZldYZnJ2eElObUxGUnRtM25ITnUxRElhVlhqdjluS0xYLWdwajdfcG83ZlFXVGtqQ0ItTEIzeHlFaTU2Mm1zSE9hTHVBaS1IZHFIdG45cWhpMGhOUU83MkJZdWdNNUxyVUZMaU9zZHFxMWR1U05UbF9CdXg3X0tra3g1M1lpZk9PVV9PbXhISTJrdGxHNUV3?oc=5",
       "fecha": "2026-11-11T20:51:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Fondo Milagro gasta $765 millones en nómina. Gerente gana $39 millones",
+      "medio": "La Silla Vacía",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHZocm1YOVZ4d1Q5NFducVJDekt5Y3Nyb19BbWpWeHB3WWVWa2JIcFZ0WTY5OHZoY2dabDdVLUNQbEFEaTZnTHFhdVVTZEhFTUQ3elpNbDItNDBGYWlQN3dvUEpvSDRVdTVRYmNMS1R2dFF5OHAwekxsZ3pGdy14TkFBQUE0YUxiTDloWUxOVlBFMlhFWDdJQnEtMTFTZkpZaWVNRjhUY3Q?oc=5",
+      "fecha": "2026-11-11T20:39:55.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     },
@@ -1464,225 +1686,6 @@
       "fecha": "2026-11-10T18:23:01.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "La Defensoría alerta sobre las fallas del Gobierno para atender a los damnificados del terremoto",
-      "medio": "EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc0t2ZE5DR0dHY094MUpaaDVWRkd6Q295VnhEWnY1WlJ1ak5TUV9SY0xrYXdPUjBOUFNVRW5PaGZnVWtUT3d3QnVVbnRTb3hTMFZNcTByVmZmZklqOTdHZktfb1NkbjJkT0RYY3hEVFBtS2R0akE1c1FLejhWemtaLVFGVV9TbkhNa2JGMVVpVU5kNnk5Mm1aUDl1YnJoSHNjTEg4MklKMTFEM2s5N2ZNRmNqMFR3Wk1kUlIyemMtd3o3WE1kZ3dQS25YRnBxWXhvWnRYNDNDZ2VscXc0NTJzbmRR0gH2AUFVX3lxTE14bXRFWF8wT01oVWRHRldVSFFaeHF6aWxBbER4dWpheFl0Y0dUbTBFOElubnpIeEZDTjJjMHdRUi1ldV9LQUk5YUxUSUdZNkR1M3FIU2tCU1lDaHdXT2wwRlc1NE5OTlltQmdOT0xjN0N5SlkwQmM0TU43a2JkdGI5ZHhvemVqZGp2OUZ5dlFiNEh0QjVXLU9KZmpwV3ZXeWtIeklTZVBwekZKdEJCdjlVSlNLOGU3YjRhRENScTI4UHp2MkNHTE0xMFRXcERoVkM3MU4zZG1BWlBtSzhKTFNjT1pxS3VZWFZLSktzSFd2LVNMRnYtQQ?oc=5",
-      "fecha": "2026-11-10T18:09:55.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Gobierno detalla cuentas del Fondo Milagro: $332.000 millones irán a vivienda",
-      "medio": "Crónica del Quindio",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUjFwQi1FbktKOE1rOU5vVWVxSTI1aHoxY0otcVlpY1V5aHVxa2N3XzVUTWtsNVU1SFhBRnFDaEczQ3g0cHNpS0tEcWd4R0RGT184TnNLdDlmam9mZHp6dVBuRlVESkNkRXFlYVo0TFQzcWFVRy1yZEh1U1U3TFFxNWMtSVdSRlh2bVd4a1UwRzhiVVoyenFsZ1NrR1FHby1vMU1HTG9RRjluc05JcGJGcWNBQV9hTy1DMEZ6TzVTTk1Yc3Js?oc=5",
-      "fecha": "2026-11-10T18:09:37.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Costo de reconstrucci&#243;n tras terremoto sigue subiendo: $58,29 billones, seg&#250;n documento del Gobierno",
-      "medio": "Blu Radio",
-      "url": "https://www.bluradio.com/nacion/costo-de-reconstruccion-tras-terremoto-sigue-subiendo-58-29-billones-segun-documento-del-gobierno-rg10",
-      "imagen": "http://www.bing.com/th?id=ONUT.C5nzeJi2yzpYyb6vudlSBw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-10T17:36:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Reconstrucción no se ha iniciado, ni siquiera hay un bosquejo: personero de Pereira tras terremoto",
-      "medio": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWEZ3WW9yQ1p5YTJBVkpCOFd6ams2TUF2eWhuUEFtZU9yV3VJd0w4ZzBIQXFIWm9XZXA4cHZuVmFTbkJJNjN4cFNMLTZxUkp1RHJ0dVdVYkV1UTJ6MTNyMjhtVUhlZnFoOFpvZWFqaFdoMGZKak9wM3U1X3E1aEdXa0JReWdraXFPMDJfT3p5VzZQUUVMQUxkbUVOOEhFS1FYTlFDdDNLMXNOY1h0NUpUMFhFZlNkTERqLUxycGZldkVYUi10UFViNng4UdIB3wFBVV95cUxNQzdjNnFRMmdINFVmMldDUGlETW1yZmMxXzRzQ0g2WGlUQWQzSG9GUlExYks2WkxEbkZjLThuNnlVaDY1RXdsWFljWTlNUjdKNlpnNUg0Yi1HdDNZWHVaQ0J2dTFFQ3JMVGFEeE9OaUEwb2NuYzdMSE5PUy1VSmUxZ2dsOENObXFEQ1VnX2RwQWM4N3ZGWFpCYUxDWlVsdVcxYXB6VjJrdVl5SGs3WVZhZXF4bmNDdkl3RXFJbVItWlJFaTIzRmtfLV9aNVV3OUhWdmZ3dHlmU2ZIcUF4RmJr?oc=5",
-      "fecha": "2026-11-10T17:16:46.000Z",
-      "depto": "Risaralda",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "'El Valle lo reconstruimos juntos': as&#237; va la recuperaci&#243;n del departamento a tres meses del terremoto",
-      "medio": "El Tiempo",
-      "url": "https://www.eltiempo.com/colombia/cali/el-valle-lo-reconstruimos-juntos-asi-va-la-recuperacion-del-departamento-a-tres-meses-del-terremoto-3600083",
-      "imagen": "http://www.bing.com/th?id=ONUT.wLn-jUgzaWYKNRdZGXYEYw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-10T17:03:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Defensoría alerta por demoras en la reconstrucción tras el terremoto",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmZ1S0ExQmlCdEhBbUpqQmk5b2Z0R1dObFZKNXVXbXBCSV9jUTZNcGs1YXM1Zlc1dEpqS2hWNElWN0FzcGdEa2pIbUdCTS1IMUdTa1BOYmJBWEpsSFF1d29NNml3VHBHdWR3bjM1VG1tSy1FWnZmaWVGQ0g5aTJQT0RmSmdPTmZIM2xTeVk1eHhEYWc3bkNYREJkQTFNOXlVSW5PMEdLV2Z2UlFLOXfSAa4BQVVfeXFMTjFnZHBhZTBVY3lHRzROblp1enhJRHQ4N1h0Q3Rmby1zR3F5M1pydE5wMW96eGtiQVN0Y3JXcmdJTVFGamFRODg5d2kzSVZYak1oT0QxcnZjendISTRRbEF0V1lTcUxsQkptMEVhOXhudW5mOGJmRUZBcGNVQUo3Ym5YUlpKSzY3eHpLUFJpd3VCbkUyR0I3SFdILTBBRUYyRzFpZy15Q3ZBU2JGcXFn?oc=5",
-      "fecha": "2026-11-10T16:40:52.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Terremoto en Chocó: 543 viviendas siguen en proceso tres meses después",
-      "medio": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN1JVaEdaQnJHcUVqZmhMQkJOSGdDd19wRkkzY2FudWk2MmJ3aXdUd1RrV19PanJTLVFTWDgxSjg3Rnoya09hMDNfcDktM1FjVnppaTZublprWXltTk05QnI5RmhMMjdtU1hYaFdIU3VnbDNNalU1M25RS0tCVGVhTDFGcTFzVkk3Tll0U2ZENld3VWk1Z1FqUjVzUE9kRE5LVkViN3p1eXJJWXMx0gHAAUFVX3lxTE5wbmtzVnRPMTc5aFdUM29tSFdQdVBwbGlzT3BxRlZiTDJaQi1tZ0ZySG9UTWJxXzlhd3RCSlBDOWNuUzhOenA5ck1fZW9DcTRjekRxOVgxWmFDY1lEOXJTcFVwTC1iZXJUZVZLeVc3SG8zcnJ3RHB3TlZUMk1zNUIzQl9fSTZUSFBnYnk5QTBxS2wyWDBJRjc5OVVrVGNBd0JCblA1SUJXeEY0eG9XRjlIM2VyQ3R3bnhpNEsxZmtPRw?oc=5",
-      "fecha": "2026-11-10T16:39:51.000Z",
-      "depto": "Chocó",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "“El Estado no tiene cómo atender a la clase media que lo perdió todo”: gerente de la reconstrucción del Valle",
-      "medio": "CAMBIO Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSF9PNjg4c3UxS2dKUXREU2RfN0UwMWM2dTVjVURwQldYLTRsdHJzNTRXYkI5RkRZNWFEVDVqVUtERTFzZ1FXeDBIN3pHOFZIMm42Qnl0ZjRhLUZpdVljbzQxNXRzVWVKeDJmUE1WWGJYOE5xQm5zb2VGN2J3VXN5N2lDbmtUSTRpdVBuZ3dpd0FoU044Zmd4WXNGMU9mb1lvQ1R4dXMyLUhUWDZmQTlydk91YVNwZjhHRjBCdDluc1NfZm04MHBXYjdCQ0NZM1V2OU5GU0hjRE5hc1lXa3h4cFVqc1BORFgxMmZDLQ?oc=5",
-      "fecha": "2026-11-10T16:39:36.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Así va la reconstrucción del Valle tras el terremoto, según gobernadora: “Un esfuerzo muy grande”",
-      "medio": "Noticias Caracol",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFZxZ0EtQVowTEFiSFpqY09uUFNJYWVSQmVSV3VsT1ZWVzhVTGJLaUtXVTJ6a21aTm9YRXRmZnRBbnB5TlZpRFhLTDBMZV82VnQ2ejRZbHc5WHRDNWRRTmM3WTlxZkVrSWg3cEZYQkhKbnFqeUhJSzhScTlGRkVOWjF0NEd5Y1k3aC1meXJRQTBOdXNmaVd6YWJmT09ZcUh2Zy1nRFpSek1ORnZYakt3YjhuSHdSM2hvNDg5ZDFzM3pPOTRxYnhmVWNxcGtfZUNxdU1waGR30gHjAUFVX3lxTE1hb0FZUVIyb3VteEUtNmJPcjdTTkpXR2VkVEFRb3dEX0ZNLUczVGR2dG5naUxFWVRMNkNwb2lRSUMtaVh6Uk54VEdHdVFVUWNyM19rbHVUaU94M1lqQm1HdkdZRGRSRGc4OFlQSG9CeHdLdmd4ekJqYTVPaE90SUxOLWdQSEl3Vkw5dGRyd2tJMDZyRFdOdHplZVRvdVhGYTk4ZjFpYzExOU84LVZsdVVkb0tuZV9xb0pVNUIwTkgtZlFMaFRmcG1ZaGtZRkdoejJtQi1XQkpKQkFTVVdhMG5RbkFF?oc=5",
-      "fecha": "2026-11-10T16:37:35.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Gobernadora del Choc&#243; revel&#243; c&#243;mo avanza la entrega de ayudas a damnificados tres meses despu&#233;s del terremoto",
-      "medio": "Semana on MSN",
-      "url": "https://www.msn.com/es-co/noticias/nacional/gobernadora-del-choc%C3%B3-revel%C3%B3-c%C3%B3mo-avanza-la-entrega-de-ayudas-a-damnificados-tres-meses-despu%C3%A9s-del-terremoto/ar-AA2haviW",
-      "imagen": "",
-      "fecha": "2026-11-10T16:28:51.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Chocó reconstrucción",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Filantropía familiar impulsa reconstrucción y ayuda a damnificados tras el terremoto en Colombia",
-      "medio": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2tnM01aVlo5SnluOGpIekZva1hDQ2pka083bGFWS2ZOcldKVS1iVFVPMXphT2dKeTFqRTlWWTE1WDUzeHgwR0V1R0d0aEdmOXdteVBSMUpRZk1EV0tsdG4zY3A2bE5XTG5Kd0NPdzFCZHpONi0tZThhNWpqTnRnbFljT3lfc01vdmVnNXZYMnRSUExrd3JmQl9CSlgxUllHcUpubFc0eDRiZXRvLXlHWVMyTk93Q3pwLW5YVW9qYUdsSk5CMUJfSUdabFFBcTdnQ2ZVcW91TUtXd9IB3wFBVV95cUxOUWVqX2NZVXZTUUJhUzdRTWJlSEpzaDJZMDd6dnB3UVcxRFBZZDNXbW40N0xlb3hsYlJ3cDJkeVR2aHlXNThHQnptT085VG1uTm43YVp3TmlodVZIS3NPTm1GWVJScVpKeF9VVkxnVG1jSVZFaUFqOEdiQW5Tc0U4Y01samFJT3ZIcHp4Y0dOenNNa3RFaloyVEdQVWFYTFREbWExaGFFRlJ5a2JUMU5BZ3pXVHR5bzc3SnFEaVJsV3VlQmlLSkpKakQ2TjY1NDJhQlNxa2F2TnlsTm5OdkdB?oc=5",
-      "fecha": "2026-11-10T16:01:38.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Tres meses despu&#233;s del terremoto, dos adultos mayores duermen con cascos por temor a que su vivienda se desplome en Cali",
-      "medio": "Diario El Pa&#237;s",
-      "url": "https://www.elpais.com.co/cali/tres-meses-despues-del-terremoto-dos-adultos-mayores-duermen-con-cascos-por-temor-a-que-su-vivienda-se-desplome-en-cali-1009.html",
-      "imagen": "http://www.bing.com/th?id=ONUT.qYs3GS8tNj_FbdHncT61lg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-10T16:00:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Damnificados por el terremoto en Colombia denuncian demoras en subsidios y pagos",
-      "medio": "Diario del Sur",
-      "url": "https://www.diariodelsur.com.co/noticias/damnificados-por-el-terremoto-en-colombia-denuncian-demoras-en-subsidios-y-pagos",
-      "imagen": "http://www.bing.com/th?id=ONUT.VXxZp6Z8V1BmIMEXyzRzog&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-10T16:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "El Pacto Hist&#243;rico exige al Gobierno cuentas sobre los recursos y las ayudas destinadas a los damnificados del terremoto.",
-      "medio": "Colombia.com",
-      "url": "https://www.colombia.com/actualidad/nacionales/la-pregunta-del-pacto-historico-por-la-plata-del-terremoto-612071",
-      "imagen": "https://cdn.colombia.com/sdi/2026/11/11/la-pregunta-del-pacto-historico-por-la-plata-del-terremoto-1365886.jpg",
-      "fecha": "2026-11-10T16:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "D&#233; la cara: congresistas cuestionan al Gobierno por ausencia del gerente del Fondo Milagro en debate sobre el terremoto",
-      "medio": "La Opini&#243;n",
-      "url": "https://laopinion.co/politica/de-la-cara-congresistas-cuestionan-al-gobierno-por-ausencia-del-gerente-del-fondo-milagro",
-      "imagen": "http://www.bing.com/th?id=ONUT.Nf_qScH3rERmH-DVf5IM8w&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-10T16:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Contrapunteo entre Gobierno y oposici&#243;n por plan de respuesta al terremoto",
-      "medio": "El Nuevo Siglo",
-      "url": "https://www.elnuevosiglo.com.co/politica/contrapunteo-entre-gobierno-y-oposicion-por-plan-de-respuesta-al-terremoto",
-      "imagen": "http://www.bing.com/th?id=ONUT.hrjC9aZbPdY3rRWGOsD9BQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-10T16:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Tres meses después del terremoto, crecen los reclamos por las ayudas que no llegan del Fondo Milagro",
-      "medio": "Cesar Noticias",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGM0YWdjek0xSmt3SFpQMW1fNXNCUDhVd2RSS0NHb25tbnhMbXNpbGZmemZZdmdIN3VDT3dCYm5jVElqdjFxN2syTGUxNUdmY3haMldPX2xkSmFFMm01LUVyNk5zZ1F4a3NKTmNYR05oMF9oZVpWeThjUEdNTDhiVUc3TU9vV2ZWMUdrQS1WNHhSQW1acUpWSWxSS3ZGdlU0N3BycVdyRWlnUTBjMHVUMWJSVE92ZndZZUdNbUpMOTJlaDQ?oc=5",
-      "fecha": "2026-11-10T15:55:15.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Fondo Milagro: damnificada en Quibdó denuncia que “la ayuda no llega” y pide respuestas al Gobierno nacional",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMk5GVlZvQ0NyOU5pSk5IdTViUXpRUzVOZjRLY0Jwd1dMSlFNeUhnTUVEWFNpRFpwam9OT3M4QU1vcHNfZ0NxOHpYZkI3NjlVbFQ2MmZQeDl6bUlHdms2VW40YWhFbjVuUmJxaWlGOTNkeVF0cURrZ3BaVmdZRWlLTld2eEhTdTNwUWVKS3FuX3M3bWpYVm50SllqWERndl95UDJLdWhaQ3J1TGVVVTllcWpPU3BzSEZrRldNRDhIUzhSSENETzh4X1VpYU9zZndORXozNjVR0gHWAUFVX3lxTE9rejZPVnhFTDc2VnZ4OGp5WVFERTg5bDQxdEpxMElIODc2QTJNOTZnb3daMEJ3Z29IRE5VUk1Sd3QyNnZTVjVpTnZaaThDRVZJV2JYRk5QTVZ5MHZzYkRQbzNiam1tdkZkQzF0YXFOQW9TMVVtWnliLXA2Y2VEVW81TkpqWUhEcU5IUUVZbC1CTThRdElybldSRE5QbkFqaXdGTXM5QXQ0RTZCNnpldU9HbjZGVVFBMVkycVhkRlpNV1BmZzhoN0JybGc0UXA3enp3cHRRMGc?oc=5",
-      "fecha": "2026-11-10T15:54:41.000Z",
-      "depto": "Chocó",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Tres meses del terremoto que golpeó a Colombia: las millonarias inversiones contrastan con las familias que siguen sin hogar",
-      "medio": "TuBarco",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE82LU5LWDB4VndjTk9IY0tZbWRXSUt5R1ZYcEJFbE1XdFRRaHJaSkZSbERacWZNVE5qRXRjbnE1U0VDQVlFVGhLaGNmY2RTejh5V3ppRU5ocUhFUHpPbVZZdkM5Wm11akVsRm9IU0tqZXB1cnFHTVFmbXVLSnNfaHVxZk9MU1NjcnlsZURTbFJiUWRzblJRclFOSmw?oc=5",
-      "fecha": "2026-11-10T15:54:08.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Terremoto en Colombia: balance de la reconstrucción y el plan del Gobierno",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX1NzUnFqNVNLNDlpcnRYVjItZEFnTFVDWV9URENqN0V3cEtnSS1NZ0pNNTBoOGpIZF9lclhHLVRFRHdvcmlQQm9scG96enJ1U3NhUk1DcXVfM1N3TE93YnRleWRLdzJncEJjY3NBdmVDZUx4XzFTMHd6M0Y4WGxWemFNWEJvdEFRcEh0eWRrMk5HZHJNcHhTbG5hQzJiZDRQRXFUU3p0R3RfUkRPbE9xOGdPNkd0WGVEanp5UHE0WdIBxAFBVV95cUxNeXJWWkhfSnB4TGVXNm9xdUNHb0d2MmJZcEVWSFVyMFdFRnMyUC1sa2I1YlNTVnd6Y2l6aEJZdm9OQW90Ui14akpDZ3Z4UFVUc1BWRnYyY1RTSmV6QUhKcWZrR29oTjdDNUpVN2h6eTFFQkVfVldwbFRDTzViekx0U2ZRcWlIQXhuQVZMcXJYTUc2dk1TYkc0RkpHX3RDNVhGdEZ2eDJNQzdXV1hKLVd3WTRvTGp6UUNmOGhONE96YnFsNW90?oc=5",
-      "fecha": "2026-11-10T15:37:08.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Tres meses después del terremoto, damnificados en Manizales siguen esperando respuestas",
-      "medio": "Zona Cero",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2Q0cEJQSTBrVFBFN014VmdPM1JQZGQyUGNUMktydWFpLXBWczdFUU1ZLWNmTGlPX2NoME80VHl1MkRrZjk0T0FzQnUyMXBrWXEyUkNuM3pwMDlBVUM1aXBaLXgzQkZxWk5YaTd1WE1pUUQwU0xvMjVsWFJtV2dnbjY5dlJVMllMMG1ib1p4ei1rUGNSMnladkc5amR5d1gzZUV3MTk2d0tWbzNqXzR2eFhUWENKS1U?oc=5",
-      "fecha": "2026-11-10T15:36:00.000Z",
-      "depto": "Caldas",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Sigue la reconstrucci&#243;n en el Valle del Cauca, despu&#233;s del terremoto",
-      "medio": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/11/10/sigue-la-reconstruccion-en-el-valle-del-cauca-despues-del-terremoto/",
-      "imagen": "https://caracol.com.co/resizer/v2/ZWGDORHBMZFLHGOMG5OPCKFLB4.jpeg?auth=7100f8f8359b25939b3452a298444b2338b62a2608a9db791b8eb015bdbae8a1&quality=70&width=1200&height=675&smart=true",
-      "fecha": "2026-11-10T15:31:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Valle del Cauca resiliente: los retos de la reactivaci&#243;n tres meses despu&#233;s del terremoto",
-      "medio": "Cambio Colombia",
-      "url": "https://cambiocolombia.com/contenido-especial/articulo/2026/11/valle-del-cauca-resiliente-los-retos-de-la-reactivacion-tres-meses-despues-del-terremoto",
-      "imagen": "http://www.bing.com/th?id=ONUT.fGQ9TVbbSlW5Y7A89Y56HQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-10T15:27:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Se cumplen tres meses del terremoto en Colombia y muchos damnificados siguen añorando las ayudas: ¡critican lentitud del Fondo Milagro!",
-      "medio": "impactonews.co",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUc4NmFTNEo3VnBHRFB0cWo5X0ZBRWNKUXRHdlN1WVNLTUprVWhBOUVUZGM0NHMxUl85cWFrWUwwRi1fWUhZSFJZb1k2THZZWGxleWc0SlRiMzc2UGZEZzdzeU1ZeVg1dm02aEV6eWUxWGhFanpaeEpjd0Vpa29PY3RzeWZaY3FuMTNCbGdVODQwTngzc3NiTVg4Z3NSUjdIY1QwRUpXZFJxaWpDb1hfVXY4ZFBOdkFNWGFLcHlhQnR4R3E4V0s3MDVnb3BKb0ZCdjgzMm9LZ0ZWNzkyOUp5V2JhaUthUGlCMmtwUA?oc=5",
-      "fecha": "2026-11-10T15:24:31.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Terremoto en Colombia: persiste déficit y crisis en damnificados",
-      "medio": "cablenoticias",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzVyQlRrZGJ4dDlfRjFfOWVmX3E4cmZaRHgxTExNQzZSY1QzUkhOem5wVU5pS0x1UmJGT0xQRFJ5TXhWRm5ZQmtXV25FSHU2UGptdDMzeThtQjlWQjcyZ1NoczBtaTFSUGhQTHRHbHV2SHlnbmR4MklzWmZ4bURxUllUQ1NpaWMtSjdXNGU0UjFVYXYxRTA1ZmRDaUZVaDR2LXFCY2hnNkdvVjIzUEg1T2JhdGp0TWxuZkVCWGNkVFdzVVc3?oc=5",
-      "fecha": "2026-11-10T15:16:37.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Colombia aún no sabe qué hacer con las casas dañadas por el terremoto",
-      "medio": "El Comercio",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnVXZHJKQmxtTDFZc1BGUlc4Y21rQzlqb09ra2c3alJtSFREaVBHbng3TmRzb05iMGFYR1ljbEZZV2hvVUxid1Vyb3piRlJFaldGMXQxbU1fZ3A5cU9VbGQ0V3htckJLQ2ZiRVJZeG9aaU1vbHFFeTgyVXA3UXAxUHNWN2k2YWpUSXBGQ0sxSlJ6MXVLODVKSTJ1OA?oc=5",
-      "fecha": "2026-11-10T15:14:32.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
     }
   ]
 }
