@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T19:57:21-05:00",
+  "actualizado": "2026-11-17T03:56:45-05:00",
   "total": 200,
   "noticias": [
     {
@@ -8,6 +8,15 @@
       "url": "https://risaraldahoy.com/luis-felipe-henao-reemplazara-a-jaime-uribe-en-el-fondo-milagro-y-anuncio-que-no-cobrara-sueldo/",
       "imagen": "http://www.bing.com/th?id=ONUT.Q41hz44PNLRV4nb7G1RG2A&pid=News&w=640&h=360&c=7",
       "fecha": "2026-11-16T15:58:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Luis Felipe Henao ser&#225; el nuevo gerente del Fondo Milagro tras esc&#225;ndalo por millonarios salarios",
+      "medio": "Emisora Atl&#225;ntico",
+      "url": "https://emisoraatlantico.com.co/politica/luis-felipe-henao-sera-el-nuevo-gerente-del-fondo-milagro-tras-escandalo-por-millonarios-salarios/",
+      "imagen": "http://www.bing.com/th?id=ONUT.WvSSLD3cvIvnknkQJ-KgIw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-16T15:17:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     },
@@ -210,6 +219,15 @@
       "fecha": "2026-11-15T16:00:00.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Hoy, nueva sesi&#243;n de comisi&#243;n bicameral por terremoto en Colombia",
+      "medio": "El Nuevo Siglo",
+      "url": "https://www.elnuevosiglo.com.co/politica/hoy-nueva-sesion-de-comision-bicameral-por-terremoto-en-colombia",
+      "imagen": "http://www.bing.com/th?id=ONUT.KKKrMYvI6OTzGH1PJnUfbA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-15T16:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Plata del Fondo Milagro se ha gastado en sueldos de treinta millones para sus funcionarios",
@@ -577,6 +595,14 @@
       "fecha": "2026-11-14T07:51:00.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Redensificación en Cali: modelo de Eder para reconstrucción",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0xGTFRrd2FFUHpJSzVsRzhkQ3NoYVRZNEhySDdkZ3VpcTlTMHdpZTVIeUFhOWR2dW1yR1hSVnRsZ2wwWGZ4VFlTVUt5SnB3dHJIQ3R3SkJiTks4TGNjZkhXVUlBeGZ5enFIcnBMQnNIemJDQmdUc3lRRXh1dUVLUlhUT041Q0lMMVdzWkFLUldPbUFETnliaHFsTFFFd9IBqAFBVV95cUxOQjV0dXZWd0xCSktmYUkzR25zNnJ2QkxmVTlMQU1ZdXZEWWxCMy0xelhuM3lFS3JYNDBRVjFwMzR6SEgxVnpKb1JFMHIxbWN1ZFpMLVpKSWJoZHNrYk85NnYyNDV5ZzZ1ZlJfZzlmRHV3UXhHd25rd1FRaUZVazl0N0dfdnlIYW9HVThhS1QtVGhLSmlRSWdRVHBETWMyS1hRX0pXVnlGSnU?oc=5",
+      "fecha": "2026-11-14T07:30:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
     },
     {
       "titulo": "Fondo Milagro: Luis Felipe Henao dice que trabajar&#225; gratis tras esc&#225;ndalo por millonarios salarios",
@@ -1659,30 +1685,6 @@
       "fecha": "2026-11-13T12:57:50.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "De La Espriella ordena reversar salarios del Fondo Milagro tras conocerse que su nómina suma $765,6 millones: lo que se sabe de la ejecución",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZlR3THZXTWxjbUtTRGpTUGFpTW9mY3ZKcGNMM2NkMURneC1YZ3lhTkM5MmtfcER0bHBLYmNxS2t1ZFZTTzVrcV9VMWJRcTQxaWpUNVlXWVhyeFFCdUd0QjV5QnlwWnU4YjBBd3E0azZXSmhtYWZYc3RxZS1NYWQ0bmxGSXJ0cS1IYm9hTTViaEVHcWxPa3FaUC1FT3VmU0dzdU9ZZmJ3ZHFONXZEempCSWtOZ2oteEF2a092eFAwYm02cnpvbmFoaWxyTDlPMGFGcHZBSzBCX3pFTlo3Yng2RC1JRlRHUDN1WUFNbXpnYlB4WE1QdEl1N1JaSU9hbnZxVjZVM0RRd2ZnQ3ZnMmwxS1h1TEhsTDlE0gGeAkFVX3lxTFBhVVRRaVpCMTRUbWFpRjM0Vlk1ejNVOHlEV19aRzFvZkZlQTRIa1RrRUZJaFNSdktTWWJYLTRaaU82WXpwSU5DUHZlUWlUdXhqN0c1dm9vUlZud0IzMk5RRi1CejRUNlFRRWhucjdVWndpeWdUdEtlWGlvMVkwR2h5MEhmLU03WW82bGVXUWhBYXFlN3hKQzA1QXlFaDJLa0tNSWFvWFFFNklaMVJlaWNNcUQ2VE5pTTJKcUhHa3RVTXVWNDhBYllIWVdPUXpMMXpmNzdKT04waU12bjdYTVlQdHMyRW1MdHVxbFhTOFNSeUtBaXJOdXlGZkxZSl9XVFNIQmJyV1BITUtyZWt2OExmUVNQWFhPYjJwOTRzalE?oc=5",
-      "fecha": "2026-11-13T12:52:56.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Fondo Milagro: así va la ejecución de los recursos y por qué el presidente De La Espriella ordenó reversar los salarios",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZlR3THZXTWxjbUtTRGpTUGFpTW9mY3ZKcGNMM2NkMURneC1YZ3lhTkM5MmtfcER0bHBLYmNxS2t1ZFZTTzVrcV9VMWJRcTQxaWpUNVlXWVhyeFFCdUd0QjV5QnlwWnU4YjBBd3E0azZXSmhtYWZYc3RxZS1NYWQ0bmxGSXJ0cS1IYm9hTTViaEVHcWxPa3FaUC1FT3VmU0dzdU9ZZmJ3ZHFONXZEempCSWtOZ2oteEF2a092eFAwYm02cnpvbmFoaWxyTDlPMGFGcHZBSzBCX3pFTlo3Yng2RC1JRlRHUDN1WUFNbXpnYlB4WE1QdEl1N1JaSU9hbnZxVjZVM0RRd2ZnQ3ZnMmwxS1h1TEhsTDlE0gGeAkFVX3lxTFBhVVRRaVpCMTRUbWFpRjM0Vlk1ejNVOHlEV19aRzFvZkZlQTRIa1RrRUZJaFNSdktTWWJYLTRaaU82WXpwSU5DUHZlUWlUdXhqN0c1dm9vUlZud0IzMk5RRi1CejRUNlFRRWhucjdVWndpeWdUdEtlWGlvMVkwR2h5MEhmLU03WW82bGVXUWhBYXFlN3hKQzA1QXlFaDJLa0tNSWFvWFFFNklaMVJlaWNNcUQ2VE5pTTJKcUhHa3RVTXVWNDhBYllIWVdPUXpMMXpmNzdKT04waU12bjdYTVlQdHMyRW1MdHVxbFhTOFNSeUtBaXJOdXlGZkxZSl9XVFNIQmJyV1BITUtyZWt2OExmUVNQWFhPYjJwOTRzalE?oc=5",
-      "fecha": "2026-11-13T12:52:56.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Abelardo De La Espriella frena nómina de $765 millones del Fondo Milagro por altos salarios: 'No los autorizo'",
-      "medio": "Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOGJJQ0FOZXI2SHhSQzVOTjNFanR4ekF6cFZMaGNja0VMZmd1djR2M2hqMnZKVk9fdU8yMVQyUTRLXzhiZUJOMzJaWldFY2tVX2ZJS2l5RFdTMW9zdjBPVTZuLVRIR0lDR3FUWjBuNXd6U0tRVVNtUHNhUjEtVTVyVk9FdURmbGpSMERnaVM4Z1lUY1BkR2VVSUFRZXFacTJwZk1vOWJjektPUkR6RWgyVFZJZG4wVll2MFItMXViblYxSEIyczhjTEF3bXEtZnFLdUZzNWJiNFVsN3lRVnl5MmZEVlZMZF9EcWw2aFR30gHzAUFVX3lxTE5WZ0NYRk1wbllHdjNsTFA1TmdSdGhxT0U5NFMtRmM1M2RMc3o3b1U4T1ppWGUtVVloQ1VNd3c1TmM1a1M1UGFsVWRzeFEtZlptdXRGMGpwczdDXzNSYTVQOTlrSWZLdkJ1S0tPc2d1alZnZFVSVlJCYXRlQy1pU2wxbDlra29NNGdJRTJRTkFoUzNLN0hXX0ZTNzM2S0hNd1pLZ0Z1VndaaFFIUGo4UDcwRElncjBzbFFJREdDdFppR2hIRldQeEtPQ2R1aXZhbGtRQ3VJaDIyclJUNGZpTEt5a2dZc0JwR1lqLVBtaDZ0azN4aw?oc=5",
-      "fecha": "2026-11-13T12:51:18.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
