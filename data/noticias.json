@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-11-16T12:17:59-05:00",
+  "actualizado": "2026-11-16T19:57:21-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Luis Felipe Henao reemplazar&#225; a Jaime Uribe en el Fondo Milagro y anunci&#243; que no cobrar&#225; sueldo",
+      "medio": "risaraldahoy",
+      "url": "https://risaraldahoy.com/luis-felipe-henao-reemplazara-a-jaime-uribe-en-el-fondo-milagro-y-anuncio-que-no-cobrara-sueldo/",
+      "imagen": "http://www.bing.com/th?id=ONUT.Q41hz44PNLRV4nb7G1RG2A&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-16T15:58:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Terremoto de agosto habr&#237;a restado hasta 0,8 puntos porcentuales al crecimiento del PIB del tercer trimestre",
+      "medio": "Portafolio on MSN",
+      "url": "https://www.msn.com/es-co/dinero/econom%C3%ADa/terremoto-de-agosto-habr%C3%ADa-restado-hasta-0-8-puntos-porcentuales-al-crecimiento-del-pib-del-tercer-trimestre/ar-AA2hzvms",
+      "imagen": "http://www.bing.com/th?id=ONUT.b8pa4azPN_CSKiDSjBBviw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-16T15:10:45.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Buenaventura le apuesta a la reconstrucción económica y turística tras las huellas del terremoto y la violencia",
       "medio": "El Tiempo",
@@ -11,10 +29,37 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Colombia. Plata del Fondo Milagro se ha gastado en sueldos de treinta millones para sus funcionarios",
+      "medio": "Resumen Latinoamericano",
+      "url": "https://www.resumenlatinoamericano.org/2026/11/16/colombia-plata-del-fondo-milagro-se-ha-gastado-en-sueldos-de-treinta-millones-para-sus-funcionarios/",
+      "imagen": "http://www.bing.com/th?id=ONUT.eQLRTPea7yPvT6JxZ92UYQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-16T14:35:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Análisis de Ricardo Ávila: los accidentados primeros 100 días de la reconstrucción por el terremoto de agosto",
       "medio": "Portafolio.co",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZFdBLWdnUVBoX1VSX2NNNXI0eC1xZXJodWhMb0RLcnl6SGs2aWVwSDZjN0RZbDhRYXJkQVNaeGVqbFZuZE9kX1pUUTFuRl9BNzFja0c0NUZkQWltLVY3NjRsZ2UwZHYtN04wRFFyVEtFT2lmeWNac2NMNDZWN1l3N3FMbmowT0xBclU0QnRQNUM1eFNIRFRpMGZ0T080dGFGUmlaeHZrM2NVbnQzMm0xbHd4bG95LUk3ckJpbnFMZU5hYkxnUmc4ME9fOEdWNGIwRDY3U1NyM2ZJVHdXSDVranljN3F2NGVucE9hVHplS0hQa01fQlVmTNIB_gFBVV95cUxQQ0x6VjBDVE1yWkFkR0NLbzE1akdhVThJM1k4RnZfSzkxN0NTalF6WFctN0tlczNBZjZzeW5ocDVjWFFYZXFjb2lZV2p6VmRORXp5WHQxMi1oM2xwamRNYzE0YXBLN0p1ekRBWHRQVV9xYlJoaE1mOWRqSGJDWTh3aDZxV1NBanhVekdNZEVxLTlWcTZWRTBCUUwtRmZTR1NFY2plSW9RT3RQV0ROZkhVN1dpY1JQbS1iV2FOWndROGNnMjhwTHZXd2xWeW1Dbm5XajZuTFAxTjJGRkpRYUlhczVmRUJ5VlBpcTYwM29HVF85RGlXUnFYREd2a2ZBQQ?oc=5",
       "fecha": "2026-11-16T14:07:35.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Terremoto: Gobierno reporta m&#225;s de $343.513 millones en apoyos a damnificados",
+      "medio": "cwmas",
+      "url": "https://cwmas.com.co/poder/2026/11/16/reconstruccion-terremoto-fondo-milagro/",
+      "imagen": "http://www.bing.com/th?id=ONUT.I4dRroq61fLbyJMLS4yWCw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-16T09:18:00.000Z",
+      "depto": "Nacional",
+      "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "Abelardo de la Espriella: balance de seguridad, salud y reconstrucci&#243;n tras 100 d&#237;as de gobierno en Colombia",
+      "medio": "Pulzo",
+      "url": "https://www.pulzo.com/nacion/abelardo-de-la-espriella-balance-y-retos-de-sus-primeros-100-dias-de-gobierno-en-colombia-PP5356850A",
+      "imagen": "http://www.bing.com/th?id=ONUT.2-1BnJaZMJazPOH2eLmoJg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-16T08:30:00.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
     },
@@ -70,6 +115,14 @@
       "fecha": "2026-11-16T03:20:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "damnificados terremoto UNGRD"
+    },
+    {
+      "titulo": "Abelardo de la Espriella envía mensaje a damnificados por el terremoto y presenta balance de ayudas para la reconstrucción: 'No voy a descansar'",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMnZTRC1mbFNqZzJQR2N2aEQ4bVctRGVTaU1vc2dzZDZQTFBlVFpzdGZvcnRPN1ZuRHpNYVZ6Z3RxTEVuVFVWNWZDRmlrbXdrenZlRUYxd2pHeFBPaFFjVkh0aE92Y3JwX1pMRklvemRSWUQ0RjFjbkxBTGpGNTg4VlpCWmdZNzc3eExtckFJTlFfTnVoS1ZISzlFRUFOUDNwYldpb3hiYVhVSkM2b0lYWnF2VllicThqWWcwLXNKWVlvTjRXRUhva3NmSDhQYWM1eGdiU0dtM0NYZFpBUzNLcjlxaURuWktZVkljejA5Q0dQT2tBVXBsTWVuZW9NeXcyZkpFdVFkaG1QREczRTgxdlNlU1I3LXZOZC1yOUsxLVVwRHNuM3puUzRzQmRMSW1PQXfSAbcCQVVfeXFMT21MMzIzVFRfU3BrOENweWZ5bWJfQTRNbkNBT0dod2ZXVmtXeFZ4bGsyRHYwbDJHR1FzWnZXUUtWSEw3Y2JxMjlsSk4zQ2RYVWZYTDNTNEw5THUyUnZsZm5kZUswYTI2UFlhSVhsMW9zUVZCVTNmV0kwY1N5Vmk4U3FWbUctV2UzOU5YQ2NwVnVTZHc5ZzZzc3ZBVlZnV2ljVEVLZDJCVnRmdWVtUHhBRG1VSGdCMF9pWi1zdl9oMFB3ZXlDT3BhVmwwamw1TVhhQ1lucDRfdzI0bWJZQkR0V21SSkxRSzcwYnJ2dDl3WWd0MzR5aW1yTlJfNmFLeHBheWZ5ZTJONWsxeWVWaFdUNTBQMWJsRTY3OHo0eDRWbzlzQUZBbC1YeGJtU0ZGUHh6ZWcyWkpiVmM?oc=5",
+      "fecha": "2026-11-16T03:15:15.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
       "titulo": "Presidente Abelardo da primer balance de reconstrucción tras el terremoto: $624.000 millones para zonas afectadas",
@@ -210,6 +263,14 @@
       "fecha": "2026-11-15T11:11:02.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Reconstrucción de Cali inicia con el Fondo Milagro y auxilios",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk55U3JUYmxhbG5kTTRxcExkU0ZHR2I4RHlSamFqdHBFNjBic2RzbFRvVFRidVUzQ2FkU0JqSG9KUXhRV2x2WGRwT0UwclVaRDJPX2VBbGgzTVhHeGEwVko5ZmFYUU4tN2x4UkxnTHpsS3VjTmNKSG5KeW5ya1k3aHNZM2t1V0dCd0ZNVnhUNnBDeVI0RFHSAaABQVVfeXFMUGJwd1NxWWdaWHk4SXM3SnFFckt3RXBNaUF1YmtQdGw3UFNyQVo0ckRXM09fOUhJQUwxc0wwVXE4eEhGWnA4OFZRWmpNUncyTFpTQm5rZF9DaHZaWkgyOGlWc2RIeFEzcF9VdlQ4TnJDVzZ2TldQTTJpX1d6YUwzMDVKZi1ndVZPUFRjTFVNVG1QdW9raEdsZDVCWDFFekQ2eA?oc=5",
+      "fecha": "2026-11-15T07:30:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
     },
     {
       "titulo": "Detalles sobre el funcionamiento y la gesti&#243;n del Fondo Milagro",
@@ -1312,6 +1373,14 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "UNGRD no ha firmado contratos para reconstruir las zonas afectadas por el terremoto, denuncia representante",
+      "medio": "El País",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbi1DazNWVlFPM2VMQXJBUlVraGZhUmxsT0tqNEFaYzlYVC13QUs1WXc0ZFgtZV8tSzFjczhxMUhDS1QzeEV3am1tYUNJYkp3THJwTFhZQm1EVlI2Z0J3V0VoM0xuSTNXMXBFSnhlaHZyU0hSSzNfS3llMUd1a2l3dWp0QUwyOFhRWDJkVmFCMFViRjZNUjZnUEJkNVpmWnljQm5ncVVzTEs5TTRvV055VVBIRDlDXzl2N3VUNVRycHo2WVdzdVJvNEpROXk3aFVCanNKcDJGMHg4WTNPRk5kbC1TWUU4Z9IB6wFBVV95cUxPZkluUXlWX2VkVjl4YmtlcmttLXhZYV9kd1dpUE9XRjJzZ1lzODZzSklhcnFaRGtxTGpkaTgyUVRRemV5UHlqNmRuVjNYcVhXMnlWYW9CMUFkbTlVS2VwdmdvdWM3OGNESlFVbUFpNUlDM3JCVXR0OUlPVU1NUjdHWENINnhYUVFGQTJyQmgyNnhpVEN5SXVSazVvc0Y0VFFxM1lMQ0REc1U5YUlqWGJTTE1jemt6Ni1CeVRST1VUUU1DUGxRVWtpSjdzNjN0dVU5cEV6eWtwZUlzRTV1bFpwcE1RdGgzU0I1aGdB?oc=5",
+      "fecha": "2026-11-13T17:27:03.000Z",
+      "depto": "Nacional",
+      "consulta": "damnificados terremoto UNGRD"
+    },
+    {
       "titulo": "Luis Felipe Henao asumir&#225; la gerencia del Fondo Milagro: as&#237; lo anunci&#243; el presidente Abelardo de la Espriella",
       "medio": "HOY DIARIO DEL MAGDALENA",
       "url": "https://hoydiariodelmagdalena.com.co/archivos/1313980/luis-felipe-henao-asumira-la-gerencia-del-fondo-milagro-asi-lo-anuncio-el-presidente-abelardo-de-la-espriella",
@@ -1612,75 +1681,6 @@
       "medio": "Portafolio.co",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOGJJQ0FOZXI2SHhSQzVOTjNFanR4ekF6cFZMaGNja0VMZmd1djR2M2hqMnZKVk9fdU8yMVQyUTRLXzhiZUJOMzJaWldFY2tVX2ZJS2l5RFdTMW9zdjBPVTZuLVRIR0lDR3FUWjBuNXd6U0tRVVNtUHNhUjEtVTVyVk9FdURmbGpSMERnaVM4Z1lUY1BkR2VVSUFRZXFacTJwZk1vOWJjektPUkR6RWgyVFZJZG4wVll2MFItMXViblYxSEIyczhjTEF3bXEtZnFLdUZzNWJiNFVsN3lRVnl5MmZEVlZMZF9EcWw2aFR30gHzAUFVX3lxTE5WZ0NYRk1wbllHdjNsTFA1TmdSdGhxT0U5NFMtRmM1M2RMc3o3b1U4T1ppWGUtVVloQ1VNd3c1TmM1a1M1UGFsVWRzeFEtZlptdXRGMGpwczdDXzNSYTVQOTlrSWZLdkJ1S0tPc2d1alZnZFVSVlJCYXRlQy1pU2wxbDlra29NNGdJRTJRTkFoUzNLN0hXX0ZTNzM2S0hNd1pLZ0Z1VndaaFFIUGo4UDcwRElncjBzbFFJREdDdFppR2hIRldQeEtPQ2R1aXZhbGtRQ3VJaDIyclJUNGZpTEt5a2dZc0JwR1lqLVBtaDZ0azN4aw?oc=5",
       "fecha": "2026-11-13T12:51:18.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "De la Espriella confirma la salida del director del Fondo Milagro tras pol&#233;mica",
-      "medio": "Mi Oriente",
-      "url": "https://mioriente.com/nacionales/adle-renuncia-director-fondo-milagro/",
-      "imagen": "http://www.bing.com/th?id=ONUT.pd--NQvv8p_lWhJh9JtTMw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-13T12:39:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Selecci&#243;n de Chile hace millonaria donaci&#243;n a afectados por el terremoto de Cali; su presidente recibi&#243; las llaves de la ciudad",
-      "medio": "Semana on MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/selecci%C3%B3n-de-chile-hace-millonaria-donaci%C3%B3n-a-afectados-por-el-terremoto-de-cali-su-presidente-recibi%C3%B3-las-llaves-de-la-ciudad/ar-AA2hog18",
-      "imagen": "http://www.bing.com/th?id=ONUT.QUPjHU-Pt_GN8Whx8vj2aw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-13T12:36:49.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Los millonarios sueldos de los funcionarios del Fondo Milagro que el presidente Abelardo De La Espriella ordenó frenar: ganaban más de $30 millones",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPY0VHTjNEUUUzMS1rNndONEdkVHViSDhpcUt4OVNXNjJRVlJ3YmhlaW1COTlLa1VTbmpsRDZ4NWFfWjR5aDRjU0txSlI2Rm9pRXl2UzM5RVZQb1ViY3RuSkVPek8zT09RbGNUcWJud0dIY3dFZEdSVmJQWktXdUhaQ1RCei1UOGszSlM1STFXX2JUekd4X0d5VUZyQW1GM1pPYXZTMVFlSUZVc1RIZzRSdzZsQXFNSHZqVnF3MFJ5cVdYMXdfQUFiNlFaNGxqQWJkNmRLbV84d2Y4c3RsenVMSVg3elJpRGVRM1lwU25TU1JzY0lIcjRVeEtoTUMtVkVCUkJmUVFjczViSjVjN3oyV0lwaG02LW5XcncyNTg5U1ktRUFxRF92cnRtSUk3bkFrZjBYS0dac9IBvAJBVV95cUxPTHlHenlRb0JDVVc4eTJBNDFCUEcxcl9VTjRvcWc0Q0VCNnpPTUZ6RWlka2Z4NVplODIyTTBnS254UVB5WlM0bGRVZDE1OUFYOEJBVm4tQkZ4QkdFWHNoMkZXOGFwWE8tQzRoZS1ZSmYzMFdpUS15akxpekJRalF5cGlFa2luZWMwRWZkTkJ2bmIyVGlBZndoYVp3cEFwdWE4Wk9nSkRWQW1RYndLRk1sV2NtZWpWOFFPZGtCdk8yckNlX2JCMS1qNGdiU3UzRnJnUW50ZDVDeTRoamhYdG53dDV1cmhXd3A5RnRBR3M4ZEhuc0xCS3VZd0x1YWRGdjBtNjdqeVc5d1R6eWRORHp2NC1jSUF2eERoMlVlMEdlNjlYZ0ZrRml4blJLd3p6cU9iTkZXZUM0R25MLTN4?oc=5",
-      "fecha": "2026-11-13T12:35:49.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "De la Espriella ya nombr&#243; a gerente del Fondo Milagro luego de pol&#233;mica; era ficha de Vargas Lleras",
-      "medio": "Pulzo",
-      "url": "https://www.pulzo.com/nacion/luis-felipe-henao-sera-nuevo-gerente-fondo-milagro-espriella-PP5355891",
-      "imagen": "http://www.bing.com/th?id=ONUT.3AvRGxPuC6ECJ-hub5QZ6Q&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-13T12:21:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "&#191;Est&#225; funcionando el Fondo Milagro tras el terremoto?: Ma&#241;anas Blu, 13 de noviembre de 2026",
-      "medio": "Blu Radio",
-      "url": "https://www.bluradio.com/mananas-blu/esta-funcionando-el-fondo-milagro-tras-el-terremoto-mananas-blu-13-de-noviembre-de-2026-pr30",
-      "imagen": "http://www.bing.com/th?id=ONUT.LDb4vAdMdncHP33QVuSSGw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-13T12:09:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Luis Felipe Henao ser&#225; el nuevo gerente del Fondo Milagro",
-      "medio": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/11/14/luis-felipe-henao-sera-el-nuevo-gerente-del-fondo-milagro/",
-      "imagen": "http://www.bing.com/th?id=ONUT.g7jnEIJucWF4VSSxz8G9dg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-13T12:05:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "De la Espriella frenó salarios de Fondo Milagro por austeridad: así reacciona país político",
-      "medio": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaFBkdjlRSFVqTUpRQ3dNcVV2V09BV1ByU1dwOTZ6cW4wUjlBbkl5VTdoY3JzdFVfQ2Uyb0ZiME9xa3R1UjA5ZEprbk1Lc2Q2TUZVc3NGbDk1WWpwNUF3M3FNc2EzUjJ4Ujc5cmk2d2hobkJ0cjhpWE01c2IyVXo5cERXNHY0ZmhOY0c1aUhBSk5OaTRjMWFRa0Y0MzFxSi1TYWFERmpVakdrcUtjbDAyeWxDc09IcVhMdW90NXBPM2w3ZkRZeHfSAdoBQVVfeXFMTko5TlpmWmxncWV0TUJ1ZkFQSmVyUGk3MFJqOVFCQVlsbzVlVzU5U0IxRWM3ZXhTNXBVTWxhdWxGelJ4WUdJNjl1Q1VKa0RUYklxMVNPQWFQN29GYnFjcWJiWmxYTHBUb0JmQzVPZ3FFZzRiejR2c2JnT1ZNc2VJMnhGWEkyR0hNM25CUm80SDZoQThrMmNycmNfWklUQmFZRDNiakZlNklmdklha21xdmh4X1NKeVJrVG9QUUNtQXQ4TXNjT3dHOS00d3o2S0RqRWhlN2l0NHNxYVE?oc=5",
-      "fecha": "2026-11-13T12:01:25.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Nómina del Fondo Milagro incluía 27 cargos, más de la mitad con pagos de más $30 millones",
-      "medio": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEVjYVVRek5Mb3ZiWnk4TWRZR1FlMElCMUJtQS1BZVk2Vmhnd2c2TVVYaHpBUi1zWGNtOUVEV1gtOWRIMEdLM0xWTEhaenBva1hrUE54WkZDdW1Db1k0NXUyYzdMcHhHb1ZLMEQwcmEzTzlsbEp4QnNWWm94TlBHSFRYeGc2eU1zUnVmcklMTHMyeU8xWTBxUzUycFdKUG83R2NHRXh4OHB5RURJejRkWXlnY3BqelFJMlBYT01OekFuNnBDdHprV1JUZ9IBywFBVV95cUxQTUNYeUZVWDFTNnR2QVdrY0xwQUpjeldhZ010MUo0LVRLUklrSTM1aHJWSVJIeU9PaGt4c0NKcHh5eXgyWEtUTGNRQ3c3SXdub0M5dWVNaXE0eXNRVXJVa3hwaDZpOUZ1cTFGUHNzcFI5eHlTdlFYQ1phN3Qtell6OWF0ajJHUnZEd1JscXpkQ2diaWRQaHBwNHY0eHZTZDV2WEtIMVVBZklibGZUUkdjUnJCdU5ZUUt0LXJ1MG83eU1NY0FNYUtaeVdMMA?oc=5",
-      "fecha": "2026-11-13T11:50:55.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     }
