@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T20:09:55-05:00",
+  "actualizado": "2026-11-18T03:54:11-05:00",
   "total": 200,
   "noticias": [
     {
@@ -52,6 +52,14 @@
     },
     {
       "titulo": "Fondo Milagro: Luis Felipe Henao llega sin cifras para la reconstrucción",
+      "medio": "CAMBIO Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV3NKY0p4b3lyN2h0OUxrWTdyblJhQ0VodFE0ci1nWTJRcDU1SkNTQmtxMEdnSzBxa09MR21lOFBaVGZwWXhPOEZzaHZVTmExUWwxX1VTTkR6eXViWldFNTdKbGVuODdQNldCSUUzYVZZWWlhMVI5djRaVjlJeEZMNW1PQWZ0cDVXc1RXaXdMTEhueEwzOWw3RkRoakNNMFhvalRUNGlEVWtYY2ljS0hITXlJX05IeldhSTRUOGRSUWtqekZRSlhFcVpBR0kxWkxkZEI0b3pkbm5qWlZBMV82b3pBV1EyelZLSGJWTU1ZZWZYQQ?oc=5",
+      "fecha": "2026-11-17T16:44:39.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "“Ojalá yo no tuviera que ejecutar un centavo”: Luis Felipe Henao, nuevo gerente del Fondo Milagro sobre su llegada",
       "medio": "CAMBIO Colombia",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV3NKY0p4b3lyN2h0OUxrWTdyblJhQ0VodFE0ci1nWTJRcDU1SkNTQmtxMEdnSzBxa09MR21lOFBaVGZwWXhPOEZzaHZVTmExUWwxX1VTTkR6eXViWldFNTdKbGVuODdQNldCSUUzYVZZWWlhMVI5djRaVjlJeEZMNW1PQWZ0cDVXc1RXaXdMTEhueEwzOWw3RkRoakNNMFhvalRUNGlEVWtYY2ljS0hITXlJX05IeldhSTRUOGRSUWtqekZRSlhFcVpBR0kxWkxkZEI0b3pkbm5qWlZBMV82b3pBV1EyelZLSGJWTU1ZZWZYQQ?oc=5",
       "fecha": "2026-11-17T16:44:39.000Z",
@@ -205,6 +213,15 @@
       "consulta": "terremoto Chocó reconstrucción"
     },
     {
+      "titulo": "Damnificados del terremoto en Cali recibir&#225;n bonos de $50 millones para comprar vivienda",
+      "medio": "Semana",
+      "url": "https://www.semana.com/mejor-colombia/articulo/damnificados-del-terremoto-en-cali-recibiran-bonos-de-50-millones-para-comprar-vivienda/202626/",
+      "imagen": "http://www.bing.com/th?id=ONUT.4zuo3TOgTuXfSMbQMgLiZw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-17T09:09:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
       "titulo": "Habla Luis Felipe Henao, nuevo gerente del Fondo Milagro",
       "medio": "Semana",
       "url": "https://www.semana.com/semana-tv/articulo/habla-luis-felipe-henao-nuevo-gerente-del-fondo-milagro/202659/",
@@ -286,6 +303,15 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Gobierno: Luis Felipe Henao asume la gerencia del Fondo Milagro",
+      "medio": "Diario del Sur",
+      "url": "https://www.diariodelsur.com.co/noticias/gobierno-luis-felipe-henao-asume-la-gerencia-del-fondo-milagro",
+      "imagen": "http://www.bing.com/th?id=ONUT.WCutdN2GqkrtPMEHbXDw3Q&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-17T05:38:00.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Renuncia Jaime Uribe, gerente del Fondo Milagro, tras pol&#233;mica por altos salarios hoy",
       "medio": "Diario del Sur",
       "url": "https://www.diariodelsur.com.co/noticias/renuncia-jaime-uribe-gerente-del-fondo-milagro-tras-polemica-por-altos-salarios-hoy",
@@ -345,6 +371,15 @@
       "url": "https://www.lafm.com.co/sociedad/british-council-destinara-mas-1000-millones-recuperar-museos-417407",
       "imagen": "http://www.bing.com/th?id=ONUT.b2OSi80fg4Qpo5vyEDMsGQ&pid=News&w=640&h=360&c=7",
       "fecha": "2026-11-16T22:41:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Urgen al Gobierno acelerar reconstrucci&#243;n de viviendas impactadas por el terremoto",
+      "medio": "El Nuevo Siglo",
+      "url": "https://www.elnuevosiglo.com.co/politica/urgen-al-gobierno-acelerar-reconstruccion-de-vivienda-impactada-por-el-terremoto",
+      "imagen": "http://www.bing.com/th?id=ONUT.vK55GOMcnQPAdFGK-vdsBQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-16T16:00:00.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
     },
@@ -1156,6 +1191,14 @@
       "consulta": "\"Fondo Milagro\""
     },
     {
+      "titulo": "Luis Felipe Henao es el nuevo gerente del Fondo Milagro; el presidente Abelardo De La Espriella hace varios anuncios",
+      "medio": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaVViWTBDOThkZGg2QXBZaklWaUQ3Z05kTWVFbXJvZXRfM0dqZlI1aXJaejVRNUJ5UEpwa2hJX2I2M0JpMWs0MDBwZVZFX2JBRGZ0a1pKVnNxb0dza1cwei1kejJpalpsV3l3V3RFVGp6Q19HYmtndEZLaHRtQ1BSQzNaQWdmTWM5cGRqY0lBUVlmMlRIUnhWTzlKeGwxUUc2b1lPd0pOM0tYb0J0ME9MRzRreVVoZFpVRVFZUGJDNjF2ZDhwSUs2TjhJMFdlQXBEcVE1YUtCeE5Wb3VqWjZaVE9aQ1AwNjMxcF9oaVFtRTNyTklTVDBN0gH8AUFVX3lxTE9XYU9KVmZyWXc2aGZDbENHd18yTnVhM3haOHFES19pb0FETTJpTzJsV0d0bVJyN0liYnZDVDJzcEZJTlBTNjNobHA5Ynl1N2N3dGFaRC1EWFBDTE1FWVhGWlN2ZlFxcWpORjhNa0NqNXZfMm9KT3hKbXR0MzhDSk40RTZxOEd0Z3B6R01FRHBUQWUzeFFLRVBxRFNlWlg1NjhJb2hVSFFPRlAxVHhzVzBQYVRtRnRPWGtudjVCOWtKeUp0bC1iQWhFNUJDZ0Nrb1BUSEF3Z2lmOE45SEtYeEJJQjJVa0t1eHk4NEt6VDBYc19oT3ZmeDdsa3ZGag?oc=5",
+      "fecha": "2026-11-14T04:14:30.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Luis Felipe Henao, nuevo gerente del Fondo Milagro",
       "medio": "El Nuevo Siglo",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3o2SW54dVlUZEpWUVR0ankwR1hsbVJOenY2RW5EOWdMdEtaUkRZYlBIQ0ZUbnZISlIwMS1TS3A1dkZxd1hZbk0xVU0yR2NQako0UXJjb2ZxUEpUbnV0aHY5X1drbnRtM05UdnFZZ01ydXliY29Kc25MSmM5MFZibDNCVHFya0liRmpBdzNFWDhTckZp?oc=5",
@@ -1188,6 +1231,14 @@
       "fecha": "2026-11-14T03:00:00.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Fondo Milagro se rige por el derecho privado",
+      "medio": "Función Pública",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR21HUkcxY25TcjRQUXhKeHpXekZYdkhLODFhbGs4NXE3VkRlWmc5OHgwSEg5MHZ5RzVrVm85ZmZ4X2tuTVdjdUJVVGNMU29jSllaZWlzd0E0RkhSMEs3SmlaT0ItSENzazVUSU5NVmRxRnBZTHRKZHY3cTdjOU9OQ3Rzb09EWlE4Yl84UF9oVHNlUUJ4Wmw1WA?oc=5",
+      "fecha": "2026-11-14T02:51:26.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "¿Quién es Luis Felipe Henao, el nuevo gerente del Fondo Milagro que llega tras polémica?",
@@ -1644,55 +1695,6 @@
       "medio": "EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQck9WR212NmdwRW81WnQ3bTJjQ180UU53OU8zMHRQQk5oblJmOFlyNXZHbS1OY0VJNFp1a0UzbDNhNDN1LXY1dFd0NHdiWDAxT1A4eFpTMEh5dGRrLTlGUnFHelg1bnZmNTlaN3VKN2p3Yk91WUd5TkdibnhCdTRWSTloSXduTVp1azRyMXBfcExCMWVjZTl3ZHVCVWFHZ2F3TEJvbEg5UmtsZmtySTNaSHo3cHJqR2cxLUlveHdJTGhiRnhTaE9Oc0FINTZwWWlBZVZobEJiaHQxU0J5ZktZUGhJaTA0VVpGM0dwUERKWVjSAYQCQVVfeXFMTXhnNy1mX1JJdEdHZE41UHkzNGhnTExEME8wVEFWOXZVZzByWHNTOGVIRW1wVjNUQ2FBWFpXeHF5REIwVWFocXJOVURHbnQ1ZFBnY2RnYjVSVm1wWmZRNFlaSG5DaXZZODFrVUdkMHhJNWdyVnBNVHg0UTFrNXRVbGpfOU1Ob2VobmlaNWQ1OHdJRzVQNnIzTVd2cTR4cENHRjBhV1Y2MkxKYTJzc3kxWFN5NXI2LWJOdnR0OVBlTk1uT0d4elQ4RjAxWi0tZHFxODd0ZFJxVVBrT19Zc2w0NnA1VGFVOGFDWE4xdk4tallOSENhTU9JUWdvSWNEM3FvekduQ3o?oc=5",
       "fecha": "2026-11-13T19:13:31.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Sacudón con gerente del Fondo Milagro: hay salida inmediata luego de medida de De la Espriella",
-      "medio": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUE1d3FTMUtkcE1CMHNNdzBUYjludGFHbEEweXRCa1hpcWJaT1Y5dEw1X0dUb09vVnJMOUVieVJHTERHWXlCcW9ocUVTUVRVY2g2bTdwRFBwOHpzTXFPbGw2ZHpSTnRyME53M0lHVG1IY2JkUmEyT3dSZm1Kc0pUNEY1TWRjT3NvbkRONHM1YjRSaGJ0TE53c3plYm5MMFnSAaQBQVVfeXFMTzlVQkRhLTJKa2plaEJtY2FHNFhZMkp0MEd0U0JMdi1WbjFockN5eS1qYVk4RkxoMVBwa2UwcFA0MjI1QTBxa0JsTVpoQUI0UExWUUVrYzFMV2hYanZReWxQTU95bHliMEl2UkNRWUxIZ3hMeTFMelRGeTdnVzFjQzMxOEhiYUt5ZlhxMUk3M0REUU5XeU1pZW44RWhzNk5YY2dBN2Q?oc=5",
-      "fecha": "2026-11-13T19:12:25.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Luis Felipe Henao es el nuevo gerente del Fondo Milagro",
-      "medio": "Confidencial Noticias",
-      "url": "https://confidencialnoticias.com/lo-mas-confidencial/luis-felipe-henao-es-el-nuevo-gerente-del-fondo-milagro/",
-      "imagen": "http://www.bing.com/th?id=ONUT.wPQrQUC9X11zY41J0LyVnQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-13T19:09:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Renunció el gerente del Fondo Milagro, Jaime Uribe, tras cuestionamientos por altos costos en la nómina",
-      "medio": "Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNUR3S0RLcEVBOVNRZWRvajhBc2F5QWZ2a2lwNHZMTklzbVA5QTdWSU9SbHpXNHlZMmVaaDZicUl1U211b1VTYi0wazhTZVpFaTVWMWc1X0lhY2otTDRJNzdDZGUzMmlybGsyaXJZNUkwOUg4TFEzMnBVejBTLXRPSnhqVnRSVmNud2d0U280RjN2ZlJxSGUwVHVCMjV2clU3SUVxSF9IOGV2MEREYUZxZHYtUWxjdG5VQ2pib1kyalluZTdCNm1Ca0JwMTF6UmpiUFRZVFFyYzBnZGxNaUR2dGc4WUbSAeoBQVVfeXFMUC1EUkhHeWVSSV9Od1RJWWNraE1vek1RS2EzVVVUYlhvQUhDcWtLTjEtdERzcno0YkpXcHBzWFRyek83R2F0YmhJTXlzV2NnRGRJSFlIRVdzelJPemtnV1hYaXJOMURUb0FuMjZqVjVoWVZSVUx3YmlFQmNXd2dTS0YtVFE1QWdRdmRReXNhYlNSRExhX292aC04aGRpV2VsVTlQemZ0YURZNzBQTWphS2Y5dVdRa015RmF5UGs5UFFDODE3YjBLWmlPUHoxM002RDJESlVDMzZWbTdiY2kzSzd1eklvNW1pdnFn?oc=5",
-      "fecha": "2026-11-13T19:06:57.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Renunció el gerente del Fondo Milagro: presidente Abelardo De La Espriella anunció que pidió su salida",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRzJESzNBckRObFJaQmtvYndBa3BlY21NSHZmQzNHblhnZXFXSmFyMkZIWWktemM4Z2VJTzlTbTdsZHlTOVR5SHJlS3gzb1dXNjl2aGotNnF3OGM4eTlfUnpGZGY4ZkRHRVlyZkpQUVZ0NkRHM3JxZXRZaGdpbkFjSVRvTzAta0F6SV8wcHZ0Ul9mMmNod1l0WmtFM2g5UkxFa0NIQUVBWnBJRGxOam5pVXc1NDdsdUw0TTg2X3BRVnJxd1Z0T05uRkRuODdMOVo3cjNWQ3pkdDgzUmdjUW1DS1IzeFVJX0E?oc=5",
-      "fecha": "2026-11-13T19:06:37.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Reacciones a la renuncia de Jaime Andrés Uribe como gerente del Fondo Milagro: 'Acierta el presidente Abelardo De La Espriella'",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRzJESzNBckRObFJaQmtvYndBa3BlY21NSHZmQzNHblhnZXFXSmFyMkZIWWktemM4Z2VJTzlTbTdsZHlTOVR5SHJlS3gzb1dXNjl2aGotNnF3OGM4eTlfUnpGZGY4ZkRHRVlyZkpQUVZ0NkRHM3JxZXRZaGdpbkFjSVRvTzAta0F6SV8wcHZ0Ul9mMmNod1l0WmtFM2g5UkxFa0NIQUVBWnBJRGxOam5pVXc1NDdsdUw0TTg2X3BRVnJxd1Z0T05uRkRuODdMOVo3cjNWQ3pkdDgzUmdjUW1DS1IzeFVJX0HSAewBQVVfeXFMUDlGbnZvQmt2eERSYXU3Q09lSUFLblNFVUV1S1VLVC01R0wwaXplUTR5cVJSbWxoMnNfb29CWHFaa3lHZzVBb3hjd2RNa0tjT0lmbjR5UUJET3NFbXkyTFBBcTJFX0dDS2NEMEVncDlZR1ExbWdJdkF3SjFhdTBiVDJTYVBaTDVBX2lYVTdJbmw5SElza0ZJRkhCX1VuTjJRWlNnQ3EwWnd5OEJsbl94QmgyVXdKZ1RTbjg3YWtsVExWeDcyeEg4am9aSFFDTzJNVFpncTJaRUpqNUhhYmFUM2ZLVDVtcG5CSXJRZzQ?oc=5",
-      "fecha": "2026-11-13T19:06:37.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Renunció Jaime Uribe, gerente del Fondo Milagro tras polémica por salarios de funcionarios",
-      "medio": "Canal 1 En vivo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlNucGRkSmdzTWVIVWIteGNKQ3hxeXlEcWd1MnNLTTJnaGItcTFxQlpPMFJOYlpHcEpIenVoZ19icV9Ka21WSmJtVHpXd1FTaE8xVWJwY0cxMVhIaTg1THl6dGE4cjVuME9YeGc0RjJ2RlgweExtMTI5QU9ocW5oUXJNMG15NGpISlFGVlVxUGl6UFZ1N2w2S0o3VHY5Rlp6S1dMcXpYdDFTVnF3WEl5WC1ObkhhTDFlazRUQThn0gHDAUFVX3lxTE9CaEZHR1BaQmxoQmMwUUhnOEZmSjJadEw1TXBram1aM05YVEZMdjhkeDlZYTlRUWN2d3c0MmFZbk9wRkhtNHBBUWhseUxCbkRQb3pCaktOQzlzRGMxYUhpcWNZQ3RtaTJIazFxSF9NRENUZ01qVXJIbVVtSHpQU3cwWXRST09zempSbExkNzltSUNDQ2J2LS1RVTk3SHctRnFWVEw3c05EanNLck5LQlgyNWxqVFY5Mm9nZEk4RXczLU01aw?oc=5",
-      "fecha": "2026-11-13T19:06:09.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     }
