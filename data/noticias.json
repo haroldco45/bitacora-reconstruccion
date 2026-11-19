@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T18:56:47-05:00",
+  "actualizado": "2026-11-19T01:41:24-05:00",
   "total": 200,
   "noticias": [
     {
@@ -59,6 +59,23 @@
       "fecha": "2026-11-18T21:11:18.000Z",
       "depto": "Nacional",
       "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Homecenter y la Fundación Imusa Samurai entregan 22 viviendas nuevas en Chocó a damnificados por el terremoto",
+      "medio": "areacucuta.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVm1id2dHLW1hZjh2cldsNEpWX0ZneUNtNWF2cW00Nmd4U2xqdk5TM2JTLTg1eGxQMkI0S2NoZ20wMlhuWjc0U3dvZGN4TTBDeUVtSVRCbkctQThuTVZvcUIzMUNzdEY4al96TTREVHRwbi11V2FlOFdER21vdHZ1RXlRLWwtOGVOY3BKeG9MR0xLa2RZY2ozTHFmX25VMUxfRGpkeVNfX3BrQlpmZGgxVWdrUmZrUkk1QWplS0hHaHlta1Y0eW5JQ2UxcUpMdllEVnRR?oc=5",
+      "fecha": "2026-11-18T21:02:06.000Z",
+      "depto": "Chocó",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "Terremoto afect&#243; 5.738 sedes educativas en Colombia: 68 quedaron destruidas y 548 est&#225;n en riesgo de colapso",
+      "medio": "Portafolio on MSN",
+      "url": "https://www.msn.com/es-co/noticias/other/terremoto-afect%C3%B3-5-738-sedes-educativas-en-colombia-68-quedaron-destruidas-y-548-est%C3%A1n-en-riesgo-de-colapso/ar-AA2hKurx",
+      "imagen": "http://www.bing.com/th?id=ONUT.2z7nPUfeqJ5AiFRgYVVYTQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-18T20:35:46.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Reconstrucción de viviendas en Chocó: plan de IMUSA",
@@ -157,6 +174,15 @@
       "consulta": "viviendas damnificados terremoto Colombia"
     },
     {
+      "titulo": "Familias del edificio Bachu&#233;, con paredes colapsadas por terremoto, rescatan sus enseres a la fuerza en sur de Cali: 'No tenemos ropa ni d&#243;nde dormir'",
+      "medio": "El Tiempo",
+      "url": "https://www.eltiempo.com/colombia/cali/familias-del-edificio-bachue-con-paredes-colapsadas-por-terremoto-rescatan-sus-enseres-a-la-fuerza-en-sur-de-cali-no-tenemos-ropa-ni-donde-dormir-3602205",
+      "imagen": "http://www.bing.com/th?id=ONUT.gDKaZMpUPTW1uRVP6hrj9g&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-18T12:18:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
+    },
+    {
       "titulo": "Cali somos todos por el mundo: crece la cooperaci&#243;n internacional para su reconstrucci&#243;n tras el terremoto",
       "medio": "Semana",
       "url": "https://www.semana.com/mejor-colombia/articulo/cali-somos-todos-por-el-mundo-crece-la-cooperacion-internacional-para-su-reconstruccion-tras-el-terremoto/202604/",
@@ -227,6 +253,14 @@
       "depto": "Nacional",
       "consulta": "terremoto Chocó reconstrucción",
       "sinFoto": true
+    },
+    {
+      "titulo": "Urgen al Gobierno acelerar reconstrucción de viviendas impactadas por el terremoto",
+      "medio": "El Nuevo Siglo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUhsN25iM3NTOVYwa0hGMTRuNlZJdmtBQlF6dWdLbTFvTEJ6ZExVaUJTaGp0RFo3em1INHl4d0MwVjBwZVluMkNVSTBLX0JfSE1sTngybHM4SnpPUWVZR0kxVWhQU3F3ajZxdU1NMjV1SE94Sld1NUU4amYzdVMxYXNuMXVrNnJkbFdybHFleHRoQnU5SEpjSlV6aFNxVUgxTnNuVnVZOHRVWXBpRm5LXy05TXhNTG9JQ25MYUdR?oc=5",
+      "fecha": "2026-11-18T06:44:42.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Fondo Milagro anuncia entrega de 2.700 viviendas en diciembre para damnificados del terremoto",
@@ -1677,38 +1711,6 @@
       "url": "https://caracol.com.co/2026/11/14/luis-felipe-henao-anuncio-austeridad-en-el-fondo-milagro-el-equipo-y-sus-sueldos-seran-modestos/",
       "imagen": "http://www.bing.com/th?id=ONUT.g7jnEIJucWF4VSSxz8G9dg&pid=News&w=640&h=360&c=7",
       "fecha": "2026-11-14T01:28:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "De La Espriella confirmó al nuevo gerente del Fondo Milagro: será Luis Felipe Henao",
-      "medio": "Minuto60",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VXVjhfT2R3X0FjdWNSd1gzNzhubnZYTlJtdU9oYi15Ym0xck5rQTdRUU1VRG0zY2VOQmhaYnNoamV1Tk5mUnVucjNYdUVxZ3NKeGk3UGVkUDlZdkFudElPY0hhSVFmc1VlaEY2RFZWUFZRRExFOXlIWF92aGpTZFd5d2Nob1FxQkxESE9XRkk4d2hM?oc=5",
-      "fecha": "2026-11-14T01:21:55.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Abelardo de la Espriella nombró a Luis Felipe Henao gerente del Fondo Milagro, tras la renuncia de Jaime Uribe: “Que cada peso se traduzca en resultados”",
-      "medio": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUUViaGxFWmRuSm5XV1hOWkwwd0cxd2tBRWxQTXZ0WnU0a2s5bGo1c1dCNDQ3bWJyYlc5dGNfalRRMWNrNlBHc0IxN2JaUFE3alItWGpjRGNxRVVqeU9BWWJYNlZxT2JNT1ZCbzdNVTNsc0prWW9WeDJodDNhdE5lVzRGdmprWTFQSFp2X3U0LWxVeENFNzNDT0F3ZUw3UDRNYUg2TDV4TGZHc09CaVVrc0l0LTA0dEtTdjMtcmtqR1BkWjBJWDBnNWotNVk0cm5RbTNBTjhpQjQyaTB5OTBXME0zdk9wS0xuQW1SdEF3OWlEQXFHbzRkVmhBVnVGajNkY1NfcjVhemFoLVQyWTNwM1hyenpyYXlDZjd2YW8yZ9IBugJBVV95cUxPd1doUEFGQkFGUkJVcU9kNlRHSVFmQnUzVjViNDJKMDR2SnphNWxlQmcweC1SVXJTZjAyTmxtTjljV0NmLWFjeEpDNlFFbkVXakJHeVZMY3hhbXJ6eVJJaUkyUzhDbEtKR0NKUFYta25uVjlmTmdIWW8zV0RmN2tUd3dSMUw1b1M5Sl9aTF8zMmgwN0k2cjcxTnp4WTJaV1dLSFBNRTRFU0ZkYzBpODlXVFZkNnFBOWtEZUhtZld0eF80SHNrZEIxdWhqZzVXX3FaYlJ5dmVHWThDN3BtZm9zSmtwTFFTS3RMcEpYZGlBV0pyNnhvbWd2RXZvSnVOY0dfazRXY2tlbmZlTGtfSnk4TWdiYXl3MlJEU1ZNWENKclJpMzBhc1VqQmdSY1pHSWxfRnNvVXpEcWlLZw?oc=5",
-      "fecha": "2026-11-14T01:21:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "De la Espriella ya nombró a gerente del Fondo Milagro luego de polémica; era ficha de Vargas Lleras",
-      "medio": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1JROE0xRGpoN3B1MEVOUWJmaXNPMkp4SlV1ck5HTXMyc0hMSUllTFY1U192eDAtV3JjeGVtdnlCTFRKa195RVJiQndaNWRlSzdSdU9JNzhlSFd0NnJGQ1MxbkVRZTU4ZkRVUS1ZQjMzQXl5c1h1SVJwLXhfT1pVNjJJRnhrSEo1aHZuS3lPUTJReGU1STduVWE4MU5zSHlX0gGmAUFVX3lxTFBPcnRWeXRLa1hnb1ExVG1tRm5YODdscndZWHZTRGVxOVlHeFVTZnppVDFhYWNxZHJtNWlPQmM1dWN6Y0ZpVnItN1dHUEJhbEhNakVhTUxQWGNBME5hSFZBVUhRMWdiN29CRTNjalRZUkZFR1BZdXV4dGgzbEdVaGoxU1F2blFqUy1UMlUzUVkwdlBHOGVqdEZpY3l1R2xSWkR5NE45YkE?oc=5",
-      "fecha": "2026-11-14T01:14:40.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Luis Felipe Henao asumirá la gerencia del Fondo Milagro: así lo anunció el presidente Abelardo de la Espriella",
-      "medio": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHRhdHNqbU45SGdsa2lUZnIxSlRwdV9kbi0xVTZVNGRVMlBlYVRaOGRoR0tGNHlOelNtS0s3ZFVLYlVETDFOV2RnUDlEOUJuV3ZGcVJiem9zS0hVd3Yza1ZQdzFld1ZoZVBIX0ZoZHRkcThkSTV4Tml6RExSVmhHU1pPMTZiV09tRzlsXzI3WVh2S0NkWUlvZE5OMlZKbllHR1QyTm9iMWF6WmZVOHZj0gGvAUFVX3lxTE1kYjN5MG9PbWVrenpET2d4LTBtM1d5Y0N2MWxIQjdjQ0dDdGVQcGdEZnNBUGlxdzdnaVZ0OTN0WTBuU1VuQ2dpTlFLdXNRb0Eza0dZcHBvU19VZkM3X0pUdXNtbDhPSEFQTm1mYkUtS0hUMWxlamxHZmVPbUE5Q0dvbk5qaVdaYzAtV01ITUFOcXZ2OTc0enQwTVhoREhwNGZqb3RxMktLU1N3TnNJZTQ?oc=5",
-      "fecha": "2026-11-14T01:13:31.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
     }
