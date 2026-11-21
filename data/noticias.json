@@ -1,7 +1,75 @@
 {
-  "actualizado": "2026-11-21T05:41:11-05:00",
+  "actualizado": "2026-11-21T12:52:59-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "El gerente del Fondo Milagro anunció que donará su sueldo para la reconstrucción de Risaralda tras el terremoto del 10 de agosto: “Vamos a tomar decisiones rápido”",
+      "medio": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQSG9pTldXZ1F1Q1Z3aERYT2xtY2U1S2U3NWhHbzR0U0Nnb0VRcjdQUGVDTnNNTk94VkU1aVJra3dpT3dyX3hDcHo0blZ4YUI4UnFBQUYydHNXZzE4QVVpbDFFMVBQeEdYQzkzeWVjOEx6RmdrTGhfLVFIVEdqU3NnM3RGUFU0TXNPeEd3aDB5TEZEVmQzUnpOQjNVaUFCUUNoTFc5VkJSa3h4dUdvbnoyNThHUDdpZ1hBTUdxVnBsbDN1Y0Z3ZGVWdDhqMnNUZTFUWUVrRnBpdG9wWmpSdEoxUm9kZnBzbm9yUjRVTklVSTVEVVN0UTZXeDROaHhPYlVDX3BkT3d2Y1FnNnlwTjJPWjlycUkwci1NOF9ocFZGWUdVUV9oVzFacGc5Nk5sd9IByAJBVV95cUxOdHAzWjE1b0tEQnpUZTl5dFpYMFZ6bHVyeVdWVFFKeEo4U3h2dzJfVWlSU21Wb2NQRHZ1U1NxV1QyQjBOUkxxa2ZkbTRoREZEeUNWS0lEekczSXgzbVZRdklYWE0zRGh1Vm5PQlVtRkN5YkhPRzZDUHBBOWZRS2pBOENRS0xuOWIwVmlDdU9xcThBcVVLakEyWWxNNlFEZDFWd2ZYLXhHLU0xLTBSV20zYzBjN2VjX1Izc1JXc0t5Y2xDTE9JeUpIMGhCMDlKSHpheXAzX2NYdndfa1JJMUFMamdZb2dlb0VHMm14dE1kOElrcTV3NVFxRHZ2OGlReXlZMUlQVVVjZTc2WGw0RThPSklGellVaDhGd0pINDF5UkRxU0VkY0l2TVMyZHpzUEZ5bzRfZm1LMnhpRk9uSXB4RlhPR1dCWUI5?oc=5",
+      "fecha": "2026-11-21T17:23:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Gerente del Fondo Milagro, Luis Felipe Henao, donará su salario para contribuir a la construcción de Risaralda",
+      "medio": "Portafolio.co",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZEwtNWE3WWFQY2t4bmtSbUwzWG16WVlWV3pFdFFVaEt3Y1VUbFVVaV9TdDFGYmFMWEpOX3NyQVhPaXYwVW42dGl6RFh2Vk5lVFNjbWhqTFFjWmExOGpSWndwTExMQmhQR05sSmFTUTZfTHAxdklBd00yWVEyb3BrQ1ZWUVM4NWktRlBGWWpIWDF5dmZZQUZJSkNXOEZweE9mNm4zY1dER1RLVkpGaGlqcnVsWUh5MHdjdmdvbFRCTWhxZTBPOFU4UnIwSmhzUF9veENMbnFCVm1LUFlHQWpqdlZCTkFNMmYwYWxkM0poeEfSAfYBQVVfeXFMUDBXa1VQWkJOc3dmY3RRUmlwUzBIemMxcXBtVnV1RFV2eUxrMWpjMDZZWllld1hHX3lJZGZHblBpSjZSb183S0VfMFFLYzVhQWZ5eGpqendaSHRUNm5ibzE2X2ptbmRTZVBlN3VIUEZxNnlaY1IyNUdDWG9qZU1YaU1yUUlQYWhhVDh6cEt3SzE2MWFuQ0NocW1GeU05Mk1kVmxBdkh3QnNKaTZWOTFYcVZsVHFLaGRJT3ZHSjZSQUVEY25pNDV5bVRxSklBSUFERU11c2VRbExKY00xb2FvLWFPTkRkWW8wRWVscDFfeGIwVmpCNDdn?oc=5",
+      "fecha": "2026-11-21T15:18:12.000Z",
+      "depto": "Risaralda",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Luis Felipe Henao donará su salario como gerente del Fondo Milagro para la reconstrucción de Risaralda",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY09TWnFyNmFnclYzTmE2YkR2QWZPb2JfZmRBckZIMTVHX19xY0M5cVc2RWlwclNSeXdBTnVIWTE3cC1zTjJYSTVlcVNTYk9xUWFCNlZrYTFUNWpsWFB4czZaUklVREw2ME1zOHNVc0RBb2g2c3NzSUwtX3lhSU90M3RzV0M4R29NR2RNR2V4SVRBdEZzRE5NWlZKT0VCVDA0YnVLZFpnMDA4dHlkTDRBQXJhUGN2Yk1vTWxPV0hYZGVaUkN1bl9MRngtX1N2dFFYVXBicFZ5WHJPamh6aXd2RHZSZjJkQnlo0gHuAUFVX3lxTE5MUHZjUEkyU04yV3FuOWxJaUVBZlNkaTg3emI5MjR0WldPZjJMdUVmU2Z1eEIycExxUWZlc29GeldXWXZFYlJNN1pTWUdRRk0zakhqU1pWVlJuRXJuVHVBWkhIaEdQMjA0Ykk2VFhPbW5qdXRuV2JFd0VNZDdYOVJ4bXp4V0R6ZFUteC04YnNSZFp2RG5yRmlMS3ViVndPbWs5b0hPVVZUMTlSSWdMT2hpZ1o4Z3kyN2hGYWl5MnF5TENFWG5sdUFscjJzSFNFdjN2VllGSHBRN2FDNzBid1ZCaHpmMnllamtQYWwxR1E?oc=5",
+      "fecha": "2026-11-21T14:15:46.000Z",
+      "depto": "Risaralda",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "$1.66 billones serán destinados a subsidios de arriendo y vivienda para damnificados por terremoto",
+      "medio": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDFyZUxEWFRzaEFkUlhLZlVlYU84cDNxbldUbXJTQjh5M05EOVR3X19rbmFZODRhOEdmVTc3S05jWU1fcnFNLW0tM2VNeVJGcmE1UUNUQUpzMHFYNnJKWFUtN0VJUFR2RXFvTDhrbThBaXdPdG5ZeFU1QWxuS2FDUkxid3hsLTcyZUJGNTYtQ21RN2x3QmVjM01HT2l3T2xRVmxVeTRiQjc2c2Zld0NsNFZUZmo5OVUycmtzUFo2dktyUjZ3ZXFiWnpIVdIB3wFBVV95cUxQSExzMy1NMVZZbEJLWm5UQ2xpcWt3Vkk5U3p1RlBBZENWQThfcjliSnFuTVVNWGtObWdzcXBpTjZHbDQ3Qk5ZYzRLbG5ya2tLVWhmSHBEMnRaamJjOGZHXzN4Nmljc1poa3NRTDFJRGI0UUd3MjI5eXdtN1lQWDZya1B6WWp2Zm1jT0FOTWE3NFE2dVczb1pvQzlxZTRRVzlhOEkyVFpJd2xoN3AxTUZWbEdiUXJxS0dsdFg1SWN5NDVlUmhZZ2NtQU5wMHdxVVRuc0VHSENtUE12RFMyTGIw?oc=5",
+      "fecha": "2026-11-21T11:08:32.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "El gerente del Fondo Milagro anunci&#243; que donar&#225; su sueldo para la reconstrucci&#243;n de Risaralda tras el terremoto del 10 de agosto: “Vamos a tomar decisiones r&#225;pido”",
+      "medio": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/21/el-gerente-del-fondo-milagro-anuncio-que-donara-su-sueldo-para-la-reconstruccion-de-risaralda-tras-el-terremoto-del-10-de-agosto-vamos-a-tomar-decisiones-rapido/",
+      "imagen": "https://www.infobae.com/resizer/v2/RNV7OJFS2NBCNFUQ6DMKATQUBM.jpg?auth=93db981f40501dcb86994f3cfb3a4bb7ca21cfbaf5824be5108682f63d7ba476&smart=true&width=1200&height=630&quality=85",
+      "fecha": "2026-11-21T09:23:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "$1.66 billones ser&#225;n destinados a subsidios de arriendo y vivienda para damnificados por terremoto",
+      "medio": "Caracol Radio",
+      "url": "https://caracol.com.co/2026/11/21/166-billones-seran-destinados-a-subsidios-de-arriendo-y-vivienda-para-damnificados-por-terremoto/",
+      "imagen": "http://www.bing.com/th?id=ONUT.zGkVFwgh0s_4-0RLbBYC7g&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-21T07:15:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Luis Felipe Henao donar&#225; su salario como gerente del Fondo Milagro para apoyar reconstrucci&#243;n de Risaralda tras el terremoto",
+      "medio": "lalenguacaribe",
+      "url": "https://lalenguacaribe.co/2026/actualidad/politica/luis-felipe-henao-donara-su-salario-como-gerente-del-fondo-milagro-para-apoyar-reconstruccion-de-risaralda-tras-el-terremoto/",
+      "imagen": "http://www.bing.com/th?id=ONUT.KrOt8_NMcxXjLxVshl0eXg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-21T07:08:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Luis Felipe Henao donar&#225; su salario como gerente del Fondo Milagro para la reconstrucci&#243;n de Risaralda",
+      "medio": "El Tiempo on MSN",
+      "url": "https://www.msn.com/es-co/dinero/recursos-humanos/luis-felipe-henao-donar%C3%A1-su-salario-como-gerente-del-fondo-milagro-para-la-reconstrucci%C3%B3n-de-risaralda/ar-AA2hUXam",
+      "imagen": "http://www.bing.com/th?id=ONUT.RWRbiN8envlZCdwD1Y2z5A&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-21T06:15:46.000Z",
+      "depto": "Risaralda",
+      "consulta": "\"Fondo Milagro\""
+    },
     {
       "titulo": "Se necesita más agilidad y transparencia en el fondo para reconstrucción tras terremoto: Hernández",
       "medio": "El Nuevo Siglo",
@@ -11,12 +79,47 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Icetex ampl&#237;a plazo de cr&#233;ditos para estudiantes afectados por el terremoto",
+      "medio": "El Diario",
+      "url": "https://www.eldiario.com.co/noticias/icetex-amplia-plazo-de-creditos-para-estudiantes-afectados-por-el-terremoto/",
+      "imagen": "http://www.bing.com/th?id=ONUT.JidWzW1CEPkSjKyKMueilQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-21T05:37:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Pereira a 90 días del terremoto: demasiadas reuniones, fotos, videos y una reconstrucción de papel",
+      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkZVeWY1bVVHa05YZW1DUEdydllOSnJkN2hjVG1aYVc0YU9SQ1BPQ0lwU1NSYXU2aHhYTEpxV3Y1b0FNOUZzU3pvOGJ5dTUwOEkzMFpvRmRYMWZJX1ZpTXAxMVM5d0RuUUl4NEVLdnh1YWl1YXl5U05LNl8zd2hZRV9KbVgwdFl2SmpNTDAtazdvTzF2dDhPdVRsU1pMM0hPdHY5bXlPWjhaUjdSRUZVTWhnMU5TYW1jbG9BeldfekFyUVhLMGZjaEg1N0djcHFhdFE?oc=5",
+      "fecha": "2026-11-21T05:00:20.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Damnificados por terremoto podr&#225;n recibir hasta $875.453 para arriendo: as&#237; funcionar&#225; la ayuda del Gobierno",
+      "medio": "Portafolio",
+      "url": "https://www.portafolio.co/economia/gobierno/damnificados-por-terremoto-podran-recibir-hasta-875-453-para-arriendo-asi-funcionara-la-ayuda-del-gobierno-506822",
+      "imagen": "http://www.bing.com/th?id=ONUT.3VzWVg0Ali22_wmX7IagYg&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-21T02:50:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
       "titulo": "Gerente del Fondo Milagro anunció la donación de su salario para las obras de reconstrucción en Risaralda",
       "medio": "Alerta",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTVrZm13TTVtc1VLS1BoVHFLZjJhSVRNdE9XUk5uRkdoaVNFNU1oU1c3bWpiU2dlazhtbl9vRU04VVYzWWo4NmZwX2NGeFU4T1pfTHFRRWl0aVpYOGFkZ3BjU2RrVGctZTYySzFVaE0xSEQ3V1BLQmdNX1I4dnZOQjNGajNyT2tOLWJzMjJFUkE4Y1lTVW5SUy1YQWRBU3o3QzhkZ3NTb1FTdzRrZnMtVnlxLUgxdkxDTy00Yk1HTk9PX1NR0gHEAUFVX3lxTE9RNWtmbXdNNW1zVUtLUGhUcUtmMmFJVE10T1dSTm5GR2hpU0U1TWhTVzdtamJTZ2VrOG1uX29FTThVVjNZajg2ZnBfY0Z4VThPWl9McVFFaXRpWlg4YWRncGNTZGtUZy1lNjJLMVVoTTFIRDdXUEtCZ01fUjh2dk5CM0ZqM3JPa04tYnMyMkVSQThjWVNVblJTLVhBZEFTejdDOGRnc1NvUVN3NGtmcy1WeXEtSDF2TENPLTRiTUdOT09fU1E?oc=5",
       "fecha": "2026-11-21T00:58:09.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Gerente del Fondo Milagro, Luis Felipe Henao, donar&#225; su salario para contribuir a la construcci&#243;n de Risaralda",
+      "medio": "Portafolio",
+      "url": "https://www.portafolio.co/economia/gobierno/gerente-del-fondo-milagro-luis-felipe-henao-donara-su-salario-para-contribuir-a-la-construccion-de-risaralda-506821",
+      "imagen": "http://www.bing.com/th?id=ONUT.kRjHEw6cT9MHupJhd0dFOw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-21T00:57:00.000Z",
+      "depto": "Risaralda",
+      "consulta": "\"Fondo Milagro\""
     },
     {
       "titulo": "Nuevo gerente del Fondo Milagro, Luis Felipe Henao, tomó decisión final sobre su salario: “Voy a hacer un anuncio”",
@@ -1630,112 +1733,6 @@
       "fecha": "2026-11-15T21:26:45.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Abelardo de la Espriella env&#237;a mensaje a damnificados por el terremoto y presenta balance de ayudas para la reconstrucci&#243;n: 'No voy a descansar'",
-      "medio": "El Tiempo on MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/abelardo-de-la-espriella-env%C3%ADa-mensaje-a-damnificados-por-el-terremoto-y-presenta-balance-de-ayudas-para-la-reconstrucci%C3%B3n-no-voy-a-descansar/ar-AA2hvtuy",
-      "imagen": "http://www.bing.com/th?id=ONUT.Yo0MljaUEXjMUQP7q5rRmw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T19:15:15.000Z",
-      "depto": "Nacional",
-      "consulta": "damnificados terremoto UNGRD"
-    },
-    {
-      "titulo": "Presidente Abelardo da primer balance de reconstrucci&#243;n tras el terremoto: $624.000 millones para zonas afectadas",
-      "medio": "La FM",
-      "url": "https://www.lafm.com.co/politica/abelardo-espriella-balance-reconstruccion-terremoto-417318",
-      "imagen": "http://www.bing.com/th?id=ONUT.HVShDRegNSn8vobeZakrnA&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T17:52:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "No voy a descansar: Abelardo de la Espriella env&#237;a mensaje a los damnificados por el terremoto en Colombia",
-      "medio": "Semana on MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/no-voy-a-descansar-abelardo-de-la-espriella-env%C3%ADa-mensaje-a-los-damnificados-por-el-terremoto-en-colombia/ar-AA2hvjaW",
-      "imagen": "http://www.bing.com/th?id=ONUT.hxPRXD1TDaBPd7QJ15wdVA&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T17:42:26.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "&#161;PEREIRA Y LA AGUDA CRISIS POST- TERREMOTO!",
-      "medio": "El Diario",
-      "url": "https://www.eldiario.com.co/opinion/pereira-y-la-aguda-crisis-post-terremoto/",
-      "imagen": "http://www.bing.com/th?id=ONUT.LKopFA1Q4UL01Duk0Jmtew&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T16:00:00.000Z",
-      "depto": "Risaralda",
-      "consulta": "terremoto Pereira reconstrucción"
-    },
-    {
-      "titulo": "Hoy, nueva sesi&#243;n de comisi&#243;n bicameral por terremoto en Colombia",
-      "medio": "El Nuevo Siglo",
-      "url": "https://www.elnuevosiglo.com.co/politica/hoy-nueva-sesion-de-comision-bicameral-por-terremoto-en-colombia",
-      "imagen": "http://www.bing.com/th?id=ONUT.KKKrMYvI6OTzGH1PJnUfbA&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T16:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Plata del Fondo Milagro se ha gastado en sueldos de treinta millones para sus funcionarios",
-      "medio": "Colombia Informa",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGFXdDBtMUMyM1lVX2tqOUJ2czR5Yy1DMUZtdzV0bHdYTlF2NEhCbjR3X1dSSnQ0alFxSk1WczJEN3g4QTFlTmFoMzZ5eUFfanZQUkpoZHY3dUlhUVE1S0xRcksyS0VmZHVqc05UaG1FekZQOGZDOXB3UXpYOTJLWmNILWxpZnBhSXAwbmZIWk9nZW5jR1pzS3dUOEU2OUZBbHNuNWJHekhnSENOUm1XMmNMdXFhMWNzclF4ZVhKOGtHZw?oc=5",
-      "fecha": "2026-11-15T15:31:10.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Mano dura y un terremoto: los primeros 100 d&#237;as de De la Espriella en Colombia",
-      "medio": "France 24",
-      "url": "https://www.france24.com/es/video/20261115-mano-dura-y-un-terremoto-los-primeros-100-d%C3%ADas-de-de-la-espriella-en-colombia",
-      "imagen": "http://www.bing.com/th?id=ONUT.Qzznzgf_HAg7crec_rKCWg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T15:03:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "MinVivienda proyecta inversi&#243;n de $1,8 billones para reconstruir viviendas afectados por terremoto",
-      "medio": "Blu Radio",
-      "url": "https://www.bluradio.com/nacion/minvivienda-proyecta-inversion-de-1-8-billones-para-reconstruir-viviendas-afectados-por-terremoto-rg10",
-      "imagen": "http://www.bing.com/th?id=ONUT.mezwQDipCT3zpNAIR8cPVA&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T14:12:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Renuncia del gerente del Fondo Milagro por salarios",
-      "medio": "elnortehoy",
-      "url": "https://elnortehoy.com/noticias/renuncia-del-gerente-del-fondo-milagro-por-salarios",
-      "imagen": "http://www.bing.com/th?id=ONUT.O0BHIfP7fGi7PaOsSq2-PA&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T12:35:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Damnificados por el sismo en Cali tienen hasta el 17 de noviembre para cobrar apoyo econ&#243;mico en Gane; as&#237; lo puede hacer",
-      "medio": "Diario El Pa&#237;s",
-      "url": "https://www.elpais.com.co/cali/damnificados-por-el-sismo-en-cali-tienen-hasta-el-17-de-noviembre-para-cobrar-apoyo-economico-en-gane-asi-lo-puede-hacer-1513.html",
-      "imagen": "http://www.bing.com/th?id=ONUT.Sxg695X5duRqC6zu16gLKg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T12:20:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "damnificados terremoto UNGRD"
-    },
-    {
-      "titulo": "Un terremoto, inc&#243;gnitas sobre las ayudas y una ola terrorista: los 100 d&#237;as de gobierno de De La Espriella",
-      "medio": "France 24 on MSN",
-      "url": "https://www.msn.com/es-ve/noticias/otras/un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella/ar-AA2hu41D",
-      "imagen": "http://www.bing.com/th?id=ONUT.0Xa9g5ZhmpxRw8XYCHKM1w&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T11:11:02.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Reconstrucción de Cali inicia con el Fondo Milagro y auxilios",
-      "medio": "Diario Occidente",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk55U3JUYmxhbG5kTTRxcExkU0ZHR2I4RHlSamFqdHBFNjBic2RzbFRvVFRidVUzQ2FkU0JqSG9KUXhRV2x2WGRwT0UwclVaRDJPX2VBbGgzTVhHeGEwVko5ZmFYUU4tN2x4UkxnTHpsS3VjTmNKSG5KeW5ya1k3aHNZM2t1V0dCd0ZNVnhUNnBDeVI0RFHSAaABQVVfeXFMUGJwd1NxWWdaWHk4SXM3SnFFckt3RXBNaUF1YmtQdGw3UFNyQVo0ckRXM09fOUhJQUwxc0wwVXE4eEhGWnA4OFZRWmpNUncyTFpTQm5rZF9DaHZaWkgyOGlWc2RIeFEzcF9VdlQ4TnJDVzZ2TldQTTJpX1d6YUwzMDVKZi1ndVZPUFRjTFVNVG1QdW9raEdsZDVCWDFFekQ2eA?oc=5",
-      "fecha": "2026-11-15T07:30:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
     }
   ]
 }
