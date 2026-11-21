@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-20T21:42:14-05:00",
+  "actualizado": "2026-11-21T05:41:11-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Se necesita más agilidad y transparencia en el fondo para reconstrucción tras terremoto: Hernández",
+      "medio": "El Nuevo Siglo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaXM0dHZjY3FvX3pqMlNfWlFHNUZXZWZDTHVyQ05qN2lqa3VFQ0RZbFg5MUF6R292ODRVR0JROUFCTWJ4Q3AwUmdVUjl5RmZZUTlPcHdqOHVfT1NUNldLRk1YV3BSanFCZUdVcnlMRXpxbUJHRXFkNlVabTVEV2wtbHJDcmhVYlR1Y3JZMmNibmZMdF9sSmRRdDd5UmJLY2NSQ25HOEg5cDlydXVncmtnWVpIUkhmeWZvMkM3NVZWZ3duVTExUmRfazRHRQ?oc=5",
+      "fecha": "2026-11-21T06:06:23.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "Gerente del Fondo Milagro anunció la donación de su salario para las obras de reconstrucción en Risaralda",
       "medio": "Alerta",
@@ -51,6 +59,15 @@
       "consulta": "\"Fondo Milagro\"",
       "imagen": "http://www.bing.com/th?id=ONUT.K1NvSoOMdyMyCJ1paYNO8g&pid=News&w=640&h=360&c=7",
       "urlDirecta": "https://www.msn.com/es-co/noticias/otras/fondo-milagro-dio-fechas-para-entregar-las-primeras-280-viviendas-en-pereira-y-nuevas-acciones-para-la-recuperaci%C3%B3n-del-terremoto/ar-AA2hSmlD"
+    },
+    {
+      "titulo": "‘Salud Mental para Colombia’: la iniciativa de psiquiatras que acompa&#241;a a las v&#237;ctimas del terremoto",
+      "medio": "Semana",
+      "url": "https://www.semana.com/salud/articulo/salud-mental-para-colombia-la-iniciativa-de-psiquiatras-que-acompana-a-las-victimas-del-terremoto/202635/",
+      "imagen": "http://www.bing.com/th?id=ONUT.pwTNuNiAitBQtn2ZOb9CrA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-20T20:46:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Gerente del Fondo Milagro donar&#225; su salario a la reconstrucci&#243;n de Pereira y Risaralda",
@@ -112,7 +129,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1VYSTR6TUVrVXprY05VMWJtUjUxUXZrRENORmdLd1VzbVpHbVhMckVYdXlISmdpb3pPMTBPNGNSZGtOM0dJZGFGdXFxSWZTNTVGWlJNQ2dpdW1MOWFkYlhNbHlTX3BzUkM0aV9lNnFTR1JLbFZMMnRIWWpva05vTkFlYjV3Ni1SV2NWNjBSMnJ0QW9hT3ZzN0hTNW95Q1h4eVFHU19WR3dxeHM3SDZpMy10SnhiX25WTVNCTWZSUlZ0UdIBxwFBVV95cUxQdHJ4Z2dGU1hrS2pmWlJYQUJ5SnBYQTRwdkxGOUZmRFhJaTR1XzltamdrSXdFODFTOUV6blJDcDBPdHFjOW5qUEZoT1pIamtxYU16bUU1SVd3S0NNQXZfLUlka3hDRWpvOTRIek5KYXpFQXh1WXY1TkFwYTJFMDE2emI3WnIzZFExVXFRdjZqR1dRUFkzcmdsZjNhSFBhQWMydVhrTEZJOGFQVnZDai1Eal8zU1IzNW01WC1tSDhJU0NYSTZzYVd3?oc=5",
       "fecha": "2026-11-20T15:46:03.000Z",
       "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
+      "consulta": "\"Fondo Milagro\"",
+      "imagen": "http://www.bing.com/th?id=ONUT.K4in4FLnp956frqfEjnN7A&pid=News&w=640&h=360&c=7",
+      "urlDirecta": "https://www.elcolombiano.com/negocios/fondo-milagro-624-656-millones-trazabilidad-recursos-damnificados-terremoto-OL43843148"
     },
     {
       "titulo": "Gobierno activar&#225; subsidios de arriendo y vivienda para damnificados por el terremoto: as&#237; ser&#225; la medida",
@@ -171,6 +190,15 @@
       "fecha": "2026-11-20T12:57:07.000Z",
       "depto": "Nacional",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Dos cuentas para un solo terremoto",
+      "medio": "El Tiempo",
+      "url": "https://www.eltiempo.com/opinion/columnistas/dos-cuentas-para-un-solo-terremoto-3602844",
+      "imagen": "http://www.bing.com/th?id=ONUT.l4ugy8CQMp-d72lrhn2n9Q&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-20T11:02:00.000Z",
+      "depto": "Nacional",
+      "consulta": "damnificados terremoto UNGRD"
     },
     {
       "titulo": "Cali: 293 mil millones para damnificados tras terremoto",
@@ -461,6 +489,15 @@
       "fecha": "2026-11-19T16:00:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
+    },
+    {
+      "titulo": "Se necesita m&#225;s agilidad y transparencia en el fondo para reconstrucci&#243;n tras terremoto: Hern&#225;ndez",
+      "medio": "El Nuevo Siglo",
+      "url": "https://www.elnuevosiglo.com.co/entrevista/se-necesitas-mas-agilidad-y-transparencia-en-el-fondo-para-reconstruccion-tras-terremoto",
+      "imagen": "http://www.bing.com/th?id=ONUT.bDNkHa-Hac0joeKNyxDOvw&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-19T16:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "&#191;C&#243;mo solicitar el subsidio de vivienda de $50 millones tras el terremoto en Cali? Estos son los requisitos",
@@ -1699,40 +1736,6 @@
       "fecha": "2026-11-15T07:30:00.000Z",
       "depto": "Valle del Cauca",
       "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Vatia dona para la reconstrucción tras el terremoto",
-      "medio": "Diario Occidente",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2k0RFFmSTdFNUpEcjJIX2ZKQXpEZjhxcEVfbHZmdkRoVnVWSGNqU1p1cHJ4em54RURMUXRvWUVaZ2RwdlppOEVKNEtvaDlCNHJjWVROM3NMWEdkeDdfVEkta0ItUWh2RktkM0FtdjRhSHRvTGlEU3dVWnAzMEItSU40TGVlbzF6VTJNc1h6WXNPVUJaV2JDdGNhaUhUazh3TmfSAawBQVVfeXFMUGZNNmlCb2dheUtmSDFhcVRTQVJhSEhSZHFUcnBVZGRQVFpKekpyRXo4Nkc2aDJfR3g1UHlHcDhXalAyUkd6WF9VTnBkWFh5dnltenFHWjFhd3BqSWZpdzAyR0R4a0VkekdMNjRNM2piRHVsdkVQaGlhRU1vcHNFMW5ZaGdyOElOdDdDZllPVjI0b0c4Zmo4elF3N19QNHhNZjBOdHRqX1VKV1pkUQ?oc=5",
-      "fecha": "2026-11-15T07:30:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Detalles sobre el funcionamiento y la gesti&#243;n del Fondo Milagro",
-      "medio": "ifmnoticias",
-      "url": "https://ifmnoticias.com/colombia/detalles-sobre-el-funcionamiento-y-la-gestion-del-fondo-milagro/",
-      "imagen": "http://www.bing.com/th?id=ONUT.WgPHB6-8N3ktHEf_QphnyQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T05:00:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "JEP propuso al Gobierno que comparecientes ayuden en la reconstrucción por terremoto",
-      "medio": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaWstQWJ5bWp6cXdoY2VQV2RZS0gzR2hhSGpMOUZPZHRDcHdWMEtGRTFSdlN1RTl3M2ZCeTNWS0trMmlsMmg4Z040SnpoVE5KTGFkeVMycEVMdmRGV3NabmNZNFNtZ1p4NGhLSE94UmxLaVd2enNWZ3NkRUlSaDdVM01mejl6WUhCVUpyRUxpSUl1cXJRZGlyS0dtbmIzcGlXODVtRXRLcVo1SHEtOHdhQXZrbktmV3EwM0tQZ1hwc3N4WGhhZm1PclIzTkozWHRpS1pkZkdR0gHbAUFVX3lxTE9MZHRVMTFVUk5nYzZoT0otUFNGem9zV0EwVmlsX2tIc29fTHpZbVRpRmVlNWFDT0g5U3o3UUdJVHZVOFBNbGpWT0hHSzJEYi1fb2ptLU9hTW9KVnJkVV83MC1yVTk4VzlOdlVrNFpKYkxqM2xOal9qU0NmSmZiMjAyOUpoRld6RmswQVpJWUUwSGg1MkpTRmlUOTVXUFJTc25lTlcwOC1UWnR1OVZaUTlteHhKM3puRVd0ZGJBMVV4ZFVwSllqNEpxQVg1RUNQSUltT3BpYm9vZk82cw?oc=5",
-      "fecha": "2026-11-15T03:01:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Luis Felipe Henao promete salarios austeros en el equipo del Fondo Milagro",
-      "medio": "Diario del Norte",
-      "url": "https://diariodelnorte.net/nacion/luis-felipe-henao-promete-salarios-austeros-en-el-equipo-del-fondo-milagro/",
-      "imagen": "http://www.bing.com/th?id=ONUT.Xn7kMG0HOvj0IWmDwZcOTg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-15T02:54:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
