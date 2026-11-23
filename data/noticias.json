@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-11-22T18:43:47-05:00",
+  "actualizado": "2026-11-23T00:59:50-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "Así avanzan la reconstrucción y las mejoras en 900 hogares tras el terremoto en Buenaventura: maestros de obra se suman a un 'ejército de esperanza'",
+      "medio": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeWlFWG5nVkc3MlBvZGtrT25fUlhPZGxIbDNJekYyVS1XQkNWMHd1VlZ2SmdENmVCOUVBVzR1aFQxbS1YR2VlalUxQ3pOelNRQ0pham1td28yRTA3Ym1rSXk4Ty1MdFdiSzZQYTBfQ2lGbXdmWWFoU0phNWt2ckpsUzdFdU1acTBoMEFGcWx4THdWZFRxTmlOR052Y3RyU1ZTNVNrZUlPM09KU1h0em5XS2x6cjVJOHR0TWVZVnIzYy1pTDI4RDdnNmtRY3JKa1hxSXU1a1AzMDc0SHBfbzlyRFBKR0JEdFU5ME11SVRRcmk0WWszbWNPNjZfUWM5WkFQbjZ5NnRRNXhrV2ktNkNsaGYwendwMlQwNFNqYtIBogJBVV95cUxQZzlfcERVNzhJUU5FVkZReWNiVlVfVFhDM0FNZUNIUk1veGZzTDRoYVRFVGI2NTBRYnMxZ2pQYjdfUGZTRjNFLTYxc2I4eTRrWWpiY1UxaDU1OVdDNF8tZ0xpbnphVU9CNjh2OGJvaGdWcG5pQmIzVnhqQ3l4S3JfSEZvZkV4TVNDVXNSVlV5WlB2QUZVUGN5V0NWYmY4QW0wRGVzaENOWWxGcngtV3lLZzlHR0c5eVJrZHI1bFBhWDlselVyOXR1WDhHR29VbVR2REREbzBVQ0ZnSnNVOERsQ25wbzZPRXdkVDBCd2M0RnZUZTNNSExjdzdoZDFYZ0wzZ1pmYlJybU1IR1hRbXlXRDFiZERMMkxkRnBsV3BLMXV2dw?oc=5",
+      "fecha": "2026-11-22T23:48:18.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Buenaventura: Avances en reconstrucción de 900 hogares post-terremoto",
+      "medio": "Estrella Digital Colombia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUllQTmZvYkNRV0plTFNuaGFrVF9ScE1IdGlTZVgtaTdDRk92QnJ6X3cwdmt3ZUpwMHU0STJVV3JiTjRJZWQ2eTdHSk1NaDdRdTBXOXlEdUliblRyd1Awd0JlVUxpdXJ4bHNIdm4teUZwcDRvSkdfZUwydFduTW5BYXI5OHdDUkJ2Nldwa2lXUQ?oc=5",
+      "fecha": "2026-11-22T23:48:18.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
     {
       "titulo": "CAF destinará fondos de su foro económico 2027 a la reconstrucción en Venezuela, Colombia y Panamá",
       "medio": "Noticiascol.com",
@@ -35,6 +51,24 @@
       "consulta": "terremoto Pereira reconstrucción"
     },
     {
+      "titulo": "Buenaventura tendr&#225; 143 viviendas nuevas y otras 900 ser&#225;n intervenidas tras el terremoto del 10 de agosto",
+      "medio": "Diario El Pa&#237;s",
+      "url": "https://www.elpais.com.co/valle/buenaventura-tendra-143-viviendas-nuevas-y-otras-900-seran-intervenidas-tras-el-terremoto-del-10-de-agosto-2211.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.rYfo6R6wbRmekQJDix1RRA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-22T16:25:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Gobierno entregar&#225; subsidios de arriendo y vivienda a familias afectadas por el terremoto",
+      "medio": "La Rep&#250;blica",
+      "url": "https://www.larepublica.co/economia/gobierno-entregara-subsidios-de-arriendo-y-vivienda-a-familias-afectadas-por-el-terremoto-4529787",
+      "imagen": "http://www.bing.com/th?id=ONUT.H6LNwG0KsTQt9EWin6iRxQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-22T16:00:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
       "titulo": "Fondo Milagro abrió la puerta a la empresa privada: Henao se reunió con RedPRO y la Fundación Santo Domingo para la reconstrucción",
       "medio": "IFM Noticias",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEpFbXBuMUswY201VUV0OUhOSTZmVXRzSFJGc2d5dWVXQThVY0FRVVRPeUNyR2NTdHNUZWZRMDJFaUJpdXFlU2JsTTFDa0o4akt1ajk2enY5Z1dXWWxxUWFxcEFfWllJUjZlRV9QS05rYXQ5S1pVWHFHbFNwNWN4TzVSVm91Y1duWlFuZW5ybFJPSTVtRW9QWTJyLUpPdXlscWVKeXRySmRUcmZSWExCYXFWeWo?oc=5",
@@ -66,6 +100,15 @@
       "fecha": "2026-11-22T13:00:21.000Z",
       "depto": "Nacional",
       "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
+      "titulo": "CAF destinar&#225; patrocinios de su Foro Econ&#243;mico 2027 a la reconstrucci&#243;n de zonas afectadas por los terremotos en Venezuela, Colombia y Panam&#225;",
+      "medio": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/caf-destinara-patrocinios-de-su-foro-economico-2027-a-la-reconstruccion-de-zonas-afectadas-por-los-terremotos-en-venezuela-colombia-y-panama/",
+      "imagen": "http://www.bing.com/th?id=ONUT.ofeAp7g3i5RFZozW_sgGbQ&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-22T12:56:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
     },
     {
       "titulo": "Fondo Milagro anuncia cambios administrativos y nuevas medidas para la reconstrucción de Pereira",
@@ -148,7 +191,9 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMG1YbWxqSFRnYzV2R2tXbFluLTc4cjNuU296Y2ZGbXN3NjZJNFZOaUQ5dExsdFFTdk9kNGd4UDFwM1dYQS1rSnczUUE2ZmVVSUhjRVFrcEVSWm5qc3hySFRwaFBsV3ptQ1d1dHBXWlJiUE4yZ3ZreW9HLUk4bEFKR3pjU3VzNmhwWDZzc1QwaFVzZml0YmxucWZRUEU1Zk8ySmo3LXY4RlhyVWYyTWxSaTBJQXY4Y1RMUlhfcWplTEpvTFpGMl9wS0RNbHZHNlo1UEEtRWRfRnM0dWdOMEhERTQ3cHhNWi1hbTYteFNvNTJzNFBzLUljUEsxR28yZ3B3TW9USjJZZw?oc=5",
       "fecha": "2026-11-21T21:45:00.000Z",
       "depto": "Risaralda",
-      "consulta": "\"Fondo Milagro\""
+      "consulta": "\"Fondo Milagro\"",
+      "imagen": "http://www.bing.com/th?id=ONUT.m6oddrujAv55iDI8FGkAtA&pid=News&w=640&h=360&c=7",
+      "urlDirecta": "https://risaraldahoy.com/risaralda-oferta-680-viviendas-para-familias-afectadas-por-el-terremoto-fondo-milagro-anuncia-subsidios-de-hasta-110-millones/"
     },
     {
       "titulo": "Fondo Milagro publicará sus contratos en Secop 2 desde el 3 de diciembre para facilitar la vigilancia ciudadana. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
@@ -1313,6 +1358,15 @@
       "consulta": "reconstrucción terremoto Colombia"
     },
     {
+      "titulo": "Ilusi&#243;n entre damnificados del terremoto por ambicioso proyecto de Gobierno para comprar viviendas",
+      "medio": "Pulzo",
+      "url": "https://www.pulzo.com/nacion/gobierno-proyecta-compra-4699-viviendas-para-damnificados-por-terremoto-PP5358752",
+      "imagen": "http://www.bing.com/th?id=ONUT.iHDhj7fnoY_xKp1w3hi1ug&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-18T09:14:00.000Z",
+      "depto": "Nacional",
+      "consulta": "viviendas damnificados terremoto Colombia"
+    },
+    {
       "titulo": "El gobierno nacional, a trav&#233;s del Ministerio de Vivienda saben que deben obtener m&#225;s recursos para atender damnificados por terremoto.",
       "medio": "Colombia.com",
       "url": "https://www.colombia.com/actualidad/nacionales/ministerio-de-vivienda-acepta-falta-de-recursos-para-atencion-de-victimas-de-terremoto-613173",
@@ -1655,60 +1709,6 @@
       "fecha": "2026-11-17T10:03:57.000Z",
       "depto": "Nacional",
       "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "El Banquete del Mill&#243;n 2026 re&#250;ne apoyos para reconstruir zonas afectadas por el terremoto en Colombia",
-      "medio": "Pulzo",
-      "url": "https://www.pulzo.com/nacion/banquete-del-millon-2026-solidaridad-y-reconstruccion-tras-el-terremoto-en-colombia-PP5357760A",
-      "imagen": "http://www.bing.com/th?id=ONUT.95ZzQKnqIbwnddWP2UiKhw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-17T09:40:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "As&#237; podr&#225;n las empresas ayudar a reconstruir zonas afectadas por el terremoto en Colombia",
-      "medio": "El Universal",
-      "url": "https://www.eluniversal.com.co/colombia/2026/11/17/asi-podran-las-empresas-ayudar-a-reconstruir-zonas-afectadas-por-el-terremoto-en-colombia/",
-      "imagen": "http://www.bing.com/th?id=ONUT.qDEPscYyO-7-A_jHb9Utlw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-17T09:34:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Luis Felipe Henao revel&#243; la orden que le dio Abelardo De La Espriella tras nombrarlo gerente del Fondo Milagro",
-      "medio": "Semana",
-      "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/luis-felipe-henao-revelo-la-orden-que-le-dio-abelardo-de-la-espriella-tras-nombrarlo-gerente-del-fondo-milagro/202609/",
-      "imagen": "http://www.bing.com/th?id=ONUT.HRoLCdvtjU7Xueede9tPAQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-17T09:31:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Samac&#225; realizar&#225; el Banquete del Mill&#243;n para ayudar a damnificados del terremoto",
-      "medio": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/11/17/samaca-realizara-el-banquete-del-millon-para-ayudar-a-damnificados-del-terremoto/",
-      "imagen": "http://www.bing.com/th?id=ONUT.dl4Wq7jc1KPEoypUrxmJVw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-17T09:14:00.000Z",
-      "depto": "Nacional",
-      "consulta": "terremoto Chocó reconstrucción"
-    },
-    {
-      "titulo": "Damnificados del terremoto en Cali recibir&#225;n bonos de $50 millones para comprar vivienda",
-      "medio": "Semana",
-      "url": "https://www.semana.com/mejor-colombia/articulo/damnificados-del-terremoto-en-cali-recibiran-bonos-de-50-millones-para-comprar-vivienda/202626/",
-      "imagen": "http://www.bing.com/th?id=ONUT.4zuo3TOgTuXfSMbQMgLiZw&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-17T09:09:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Habla Luis Felipe Henao, nuevo gerente del Fondo Milagro",
-      "medio": "Semana",
-      "url": "https://www.semana.com/semana-tv/articulo/habla-luis-felipe-henao-nuevo-gerente-del-fondo-milagro/202659/",
-      "imagen": "http://www.bing.com/th?id=ONUT.2jQd3L9Dui59lBqgZXB-2Q&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-17T08:54:00.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
     }
   ]
 }
