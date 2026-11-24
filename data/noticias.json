@@ -1,7 +1,41 @@
 {
-  "actualizado": "2026-11-24T09:35:49-05:00",
+  "actualizado": "2026-11-24T18:46:16-05:00",
   "total": 200,
   "noticias": [
+    {
+      "titulo": "DIAN recaudó $3,17 billones para la reconstrucción tras el terremoto en Colombia",
+      "medio": "La Opinión Cúcuta",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTRUODE4QWZNb2RSYmNjbmlUdHc4M2RhbVMtaFVoQ1NZc01va2pqWmtNSXlwSVUzZXh5dDNvYXNyOURUeHpKUklpZ01ua1JfOW0yYmRpWkR0TW1RMXBEQkhpU3pnQlYxaW9TcFlDNVJ4VWZ3djdKdjRoOUxxWi02SV8ycVU2NjdwcUU4eXFUeW5KVjRDdmN0Qy1NcmZnRU5MMzhIR28tU01xQmxs?oc=5",
+      "fecha": "2026-11-24T22:33:56.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Grupo Nutresa reporta avances en las iniciativas para la reconstrucción del Chocó posterior al terremoto",
+      "medio": "El País",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNemNmWjlxWVlZV2RXZGtBSXdraE92Y0NVaHNlZkoyRUFzV25ZT0d0ZW5iSlRtdGhjbERUTW5FbFNLcnA1bXNMczkyclhrRTJYM3NuWVVHMVRmNVViMlVxenEydWc5X0Q1cXF0OUs0TUpsdjZKempLR1dLMG5MSzZJNS1ZRWxfQWQxdTNzZmg1VkhGR2FjZUUzRDJCNHdQZDhpaHV3V0ZZanB5Rk9weUpVVXR0NTVuS0hqMmNYd0lyZDZUOS02TEk0bGNZTGYtNGRxcnJMdVNMd3JLQnV6b0E2VW1pMNIB6AFBVV95cUxQUlpOSWs5X1JQbHVQYy0yamo5MjRYeDlDazFqenlfUzlhTkg4ZFdnR18zMFhwdmZ1RkNkVmVPZUhhRDlmUlM4R3U5b0gzbDd5bmQ5RjBydGJkR19sVmMzVks1T0dqZjVQRXdIMGR2TnJ4VDhDVldKR09hN0VOOFltUWdTZTAwbW5Xa2lQNWpTdnhreGxCMmlsQng4bGQ5NEhUQ0hHbjlWaWZLNUdnaXJCYkJSVDN5dFg1R3Brdk9WMEtOdW1zYUViMzUyQ19hWjRUNkYyV2MtdE5IMUVGR1pEbmtoNnFwdGJ2?oc=5",
+      "fecha": "2026-11-24T18:21:34.000Z",
+      "depto": "Chocó",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Aseguradoras de Colombia pagaron $351.000 millones m&#225;s por da&#241;os del terremoto de agosto",
+      "medio": "La Opini&#243;n",
+      "url": "https://laopinion.co/economia/aseguradoras-de-colombia-pagaron-351000-millones-mas-por-danos-del-terremoto-de-agosto",
+      "imagen": "http://www.bing.com/th?id=ONUT.b3tIh-MR8og7LwIfGKAN9Q&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-24T15:46:00.000Z",
+      "depto": "Nacional",
+      "consulta": "reconstrucción terremoto Colombia"
+    },
+    {
+      "titulo": "Dian recaud&#243; $3,17 billones para la reconstrucci&#243;n tras el terremoto del 10 de agosto",
+      "medio": "Diario El Pa&#237;s",
+      "url": "https://www.elpais.com.co/economia/dian-recaudo-317-billones-para-la-reconstruccion-tras-el-terremoto-del-10-de-agosto-2414.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.0aFwtxpdgeUonQJUxaumxA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-24T13:13:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
     {
       "titulo": "Gerente del Fondo Milagro hizo importante aviso para las familias afectadas por el terremoto: “El compromiso es antes del 31 de diciembre”",
       "medio": "Infobae",
@@ -11,6 +45,33 @@
       "consulta": "\"Fondo Milagro\"",
       "imagen": "http://www.bing.com/th?id=ONUT.S9hGwsnp7OHqKvQOpEW2eg&pid=News&w=640&h=360&c=7",
       "urlDirecta": "https://www.infobae.com/colombia/2026/11/24/gerente-del-fondo-milagro-hizo-importante-aviso-para-las-familias-afectadas-por-el-terremoto-el-compromiso-es-antes-del-31-de-diciembre/"
+    },
+    {
+      "titulo": "Aseguradoras aceleran pagos y entregan $1,7 billones a afectados por terremoto",
+      "medio": "El Heraldo",
+      "url": "https://www.elheraldo.co/atlantico/2026/11/24/aseguradoras-aceleran-pagos-y-entregan-17-billones-a-afectados-por-terremoto/",
+      "imagen": "http://www.bing.com/th?id=ONUT.Uu7r1tQPv1w1ibsudd3gIA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-24T12:23:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Grupo Nutresa reporta avances en las iniciativas para la reconstrucci&#243;n del Choc&#243; posterior al terremoto",
+      "medio": "Diario El Pa&#237;s",
+      "url": "https://www.elpais.com.co/economia/grupo-nutresa-reporta-avances-en-las-iniciativas-para-la-reconstruccion-del-choco-posterior-al-terremoto-2434.html",
+      "imagen": "http://www.bing.com/th?id=ONUT.iE4PBTmSaS1s90BA19imKA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-24T10:21:00.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción"
+    },
+    {
+      "titulo": "Agua potable, becas y apoyo a productores: As&#237; avanzan las ayudas para el Choc&#243; tras el terremoto",
+      "medio": "Publimetro on MSN",
+      "url": "https://www.msn.com/es-co/noticias/otras/agua-potable-becas-y-apoyo-a-productores-as%C3%AD-avanzan-las-ayudas-para-el-choc%C3%B3-tras-el-terremoto/ar-AA2i8jRg",
+      "imagen": "http://www.bing.com/th?id=ONUT.AH1VUx1jntXFKSI0iswkvA&pid=News&w=640&h=360&c=7",
+      "fecha": "2026-11-24T06:51:17.000Z",
+      "depto": "Nacional",
+      "consulta": "terremoto Chocó reconstrucción"
     },
     {
       "titulo": "Congreso llega a Pereira y Dosquebradas para revisar ayudas y reconstrucción tras el terremoto",
@@ -147,6 +208,14 @@
       "fecha": "2026-11-23T13:11:01.000Z",
       "depto": "Risaralda",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Denuncian presuntas irregularidades y carrusel de contratación en demoliciones tras terremoto en Cali",
+      "medio": "El País",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVVpZdjhDSlZPUmdGSVpuWkJ5TU1BakdGTER2ajBGb2swd24yZ3hmU3BlTy12MUhiMlZyQjN3R0pBSUlTX3oxVF9LZzJMVUE0Q3F6V2V3a2tlOW9rQkZrWUk2c2REYW93dnVMNWlWc0E2T3Npb2RCX3psdjhYX2RMNTJSUy1wcFNCUVpRRFA0ZUJBUzJIdGZGNUxuaXJudFZaM2VkMWZ5Vkw3TGd1emtPa2QyTjFBNTc2LTh1dnhDLXJzSFBTX01JUEdxX1RLeHpQSzZzT1dyS0c4dHlwdWNV0gHkAUFVX3lxTE9nZks4SmdIRUw1Z1dtM2ZvRjR0YWtZdWNYd2NOWENBT3JZRHhBMlgyZEprc1hVbHBCZkRXUHdMYTVpZXl3aEU0LWR2QzUtaXlJNU1rT2tJclBHMWhadVRjQjdKUWxKRWlrWkh1QWM3NUhpX0pEZV9jTEtvRTdGRWd0WkktZFlzbTdIcF9xbnpFMzhFcWFhdzJpdEYzVG5nc0ZLcWw5ZlprV0tRZUFXaDNBSkNRV2ZEdVpOejRTTjBnNkZoVERGUUJwdUVFamd1Vm93eS1zOWZHSU5KRWZMTWR2eXlIeQ?oc=5",
+      "fecha": "2026-11-23T12:46:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
     },
     {
       "titulo": "Vicepresidente del Senado denuncia presunta corrupción y carrusel de contratación en el Fondo Milagro",
@@ -344,6 +413,14 @@
       "medio": "elnortehoy",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzlXbExvcFdyZGwwTVVhSkVBb0plQlFPZ25neWRLV18zSUMxM002N3RoZU1fNS1RQTNIeUF4QXRqbEhQRHFDRk9OWG83dWlaVHc3WUN2WUl4TWkyc19OM0VUaml3aGxqRUo2UHZjazBSdFEwU1N3MkNWS19GMlg5UElzTXhwVlFoRFhraTJFaw?oc=5",
       "fecha": "2026-11-22T20:30:36.000Z",
+      "depto": "Risaralda",
+      "consulta": "terremoto Pereira reconstrucción"
+    },
+    {
+      "titulo": "Expertos franceses en Pereira investigan daños del sismo",
+      "medio": "El Pereirano",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjNRRHRIdEFKVUtPaXRIN3JpWWttY1h4bTF5VXFJOVZBREJWVE5sSG5vXzdmc05JNjJNNEE0akpRdVN4SlRaU2tmeHU5clhteUZ1TEZQUUVEamdKeVpUWTU0QUhaMVhiZEYtU2xvYmhxa2hTZ1JPSF81ZmN0Y1V2N2g3YWpSVEduSFdsVXB3aUswNG8?oc=5",
+      "fecha": "2026-11-22T18:28:49.000Z",
       "depto": "Risaralda",
       "consulta": "terremoto Pereira reconstrucción"
     },
@@ -851,6 +928,14 @@
       "fecha": "2026-11-20T17:57:00.000Z",
       "depto": "Risaralda",
       "consulta": "\"Fondo Milagro\""
+    },
+    {
+      "titulo": "Reconstrucción de la red de salud en Cali: proyectos e inversión",
+      "medio": "Diario Occidente",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUZGNUt4TUQ3OE5PTE14V1p0YmtVbEFDcmdKdm8yNU1JYWtHR3dHd2ZfdTNjVlg4QmdKX0NYTWZqV2lUTFF2MTZQTW01TDUwbUpQcUdtZ1Eza09hcjh4Q0sxQVMyajNQSEREYnVtREFGb0dxX2c0ZXZsLWdSaC1tbXl0ZDR2MFpIdnp6UVFzbC1JLWR5VC1rVG9jbXhIeElOZlR0aXBuTFRwNk1GbXpFSGtESVhVM1VZdlhQNDlYMTNxVE41N2JLa2RKbUZyZ9IB2AFBVV95cUxPbDRCaGZ1UnVtWlVhQnJKVWhkdzl5eEdkNXRRUUFkNFBNR2FWRVUzWlZCRDZtdVNMSWtMc243X284dEJPODgxUWs4T180dUNUN2lxbG5PS3hmZXdkY0xMVUZXaVgxTVcxUTBnQkl5Vk5IR0NoanE3WnV1UlBvbjg4NWpITm5XaWtyYXNKeDAtOEtkRDJZeXI1N2M3UnNzTjBBaER3Y19IeGw3b2VWZHE3Q0RyTE1kOXp3UWEtSTV5dUF1UVRrYU9Wdm9sWVN5WmJzWWJ1Ym12dHY?oc=5",
+      "fecha": "2026-11-20T17:37:00.000Z",
+      "depto": "Valle del Cauca",
+      "consulta": "terremoto Cali reconstrucción"
     },
     {
       "titulo": "Fondo Milagro anunci&#243; $158 mil millones para demoliciones y reconstrucci&#243;n en Manizales",
@@ -1610,110 +1695,20 @@
       "consulta": "terremoto Cali reconstrucción"
     },
     {
+      "titulo": "Fondo Milagro anuncia entrega de 2.700 viviendas en diciembre para damnificados del terremoto",
+      "medio": "Diario del Norte",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjZxbVphZzNleTVVVlIzOEoyWTRtVHFYaFVLbDJ0WHp1Yk1Xc0ZLQ0NHdjVldUp6OGFxV3o1VkJtOVVLejhnOWVRYkxQbmJ4cnkwbUNyMUNoREJUMER4RXZrQmpNVnZUMHpRUTRVdDV2dFNJOGtsUXEzdVh1aVRCWk9sbWQ4dXJ0OFNTOThZczFpdmJ4MmVkYW9WLXkwdEpfY3ByT2UxeHQ2T0FRVkppMHd2WXE0WGF0MXBXbGdtWTU0ajdOVFFz?oc=5",
+      "fecha": "2026-11-18T16:20:32.000Z",
+      "depto": "Nacional",
+      "consulta": "\"Fondo Milagro\""
+    },
+    {
       "titulo": "Gobierno cumpli&#243; promesa a Elena y le entreg&#243; una vivienda tras el terremoto",
       "medio": "Vanguardia",
       "url": "https://www.vanguardia.com/colombia/2026/11/19/gobierno-cumplio-promesa-a-elena-y-le-entrego-una-vivienda-tras-el-terremoto/",
       "imagen": "http://www.bing.com/th?id=ONUT.8AZ6doqP7DEs1xVgk0yg2Q&pid=News&w=640&h=360&c=7",
       "fecha": "2026-11-18T16:01:00.000Z",
       "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "Solo 795 millones de pesos para el funcionamiento del Fondo Milagro y “salarios modestos”, anuncia su nuevo gerente",
-      "medio": "CAMBIO Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYjlYWHZtNUllVDBlR0RYNW9ZSUFtbmdqUExDcmxzM05FX3dQcXVLcHExWDBuelpIYkVEc1Jsd0g3SVc4NnFINThERmJCZnhHZ0tGeHlnTXUtRTVkZUhfMVVKcEJ1d0tqdmtMNkNxT1VpV3dseVpSNnd3WmJxakJFRy1yY1hRUHIzQzhaTGIzeTNZRWFHN1c4X0E0RVZVQTZNRlhCNy1RM015NnNPXzdVNE5kUG9zRjJIUjJOc21zNEV0ck91RmNLY1E5a1FvQklraWczU2ZPZGtJSnNkVXpJa18zX1NMNnFsT2VDZ0M1Q21BY1c4RzZNUW9hQQ?oc=5",
-      "fecha": "2026-11-18T15:45:34.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\"",
-      "imagen": "http://www.bing.com/th?id=ONUT.Z60OaLnOuM7_xekbsGm_Yg&pid=News&w=640&h=360&c=7",
-      "urlDirecta": "https://cambiocolombia.com/personajes/articulo/2026/11/solo-795-millones-de-pesos-para-el-funcionamiento-del-fondo-milagro-y-salarios-modestos-anuncia-su-nuevo-gerente"
-    },
-    {
-      "titulo": "Tras el terremoto en Cali, empresas se unieron para respaldar la alimentaci&#243;n de familias de Altos de Santa Elena, Cali",
-      "medio": "Diario El Pa&#237;s",
-      "url": "https://www.elpais.com.co/cali/tras-el-terremoto-en-cali-empresas-se-unieron-para-respaldar-la-alimentacion-de-familias-de-altos-de-santa-elena-cali-1813.html",
-      "imagen": "https://www.elpais.com.co/resizer/v2/RVKYMQWBIZCRLD2REUAH7E6CHI.jpeg?auth=643cad3ce542913df762a5c4fca7870dcb83d2f2f0c352787d823e3e7c0df78e&smart=true&quality=75&width=1280&height=720",
-      "fecha": "2026-11-18T15:28:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "El Fondo Milagro dice que entregará 2.700 viviendas en diciembre a damnificados del terremoto",
-      "medio": "Noticias Caracol",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcGx4N3lHcmVKVy16bElvaGtvMkNQeHFzQnlYMkVQdTNyOWFUbWh5WGZDcG1BeFFOd1RRUEN2cjA1NlhxZ1M4RmlUamxlaUh3RVhKQ18tLVdxVUFEYWVqVVhraVVrYVRfeVBsYkVlOG1zUXlDdDZHcHhwYW1TbU92YmM5M3BWeDlYY1ByOW13em5RTV9NbGUyUWZIT3diaWpuVHNRaG1zVnJxWkxDRlg4Yk5HNVZkRGZTeWU1Vms4QldUTG8waUVRS1dfUHdoWHRuY3FlaHdB0gHjAUFVX3lxTE9wUVBvbHd1QVZneDNSSkhObUhlR3huOXVXNng1UFlqcFA1V0w0b203Ym51bDd1YXJMbHNwN1NUMVhqOGV2N1N6c05MQ1lsMXhaQU45TE15UnlveHRKY2QxbUdwTWpNeEdsbmdkOGI5R1ZTRm1hMGZWRUNielVkNk11QXdWLXZxOTd3djBuZjFLY05TeUo5YjBBT0g0M3hnQkF4WkRpUV9NZkVpVFJETTU1TzZlRHU2WEEwN3Faa3Vqd1pMcDNMczR1TmI4c3oxaHJtbDJiM2psWnF6NktiaWJ1czQw?oc=5",
-      "fecha": "2026-11-18T15:19:28.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "Manos Visibles reuni&#243; $1.800 millones para damnificados por terremoto en Choc&#243; y Buenaventura",
-      "medio": "Blu Radio",
-      "url": "https://www.bluradio.com/nacion/manos-visibles-reunio-1-800-millones-para-damnificados-por-terremoto-en-choco-y-buenaventura-rg10",
-      "imagen": "http://www.bing.com/th?id=ONUT.4PDvGWkoXGnqjywduNkYVg&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-18T14:42:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "100 d&#237;as despu&#233;s del terremoto: miles de familias siguen sin una vivienda segura",
-      "medio": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/11/18/100-dias-despues-del-terremoto-miles-de-familias-siguen-sin-una-vivienda-segura/",
-      "imagen": "http://www.bing.com/th?id=ONUT.NAJogsp09qbgvsgq6ZpFoQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-18T14:29:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "C&#225;ritas entreg&#243; 800 ayudas humanitarias a afectados por terremoto; as&#237; va la atenci&#243;n",
-      "medio": "Blu Radio",
-      "url": "https://www.bluradio.com/nacion/caritas-entrego-800-ayudas-humanitarias-a-afectados-por-terremoto-asi-va-la-atencion-rg10",
-      "imagen": "http://www.bing.com/th?id=ONUT.sPPbqCsM1lr7AvE2YhF08A&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-18T13:30:00.000Z",
-      "depto": "Nacional",
-      "consulta": "reconstrucción terremoto Colombia"
-    },
-    {
-      "titulo": "El nuevo gerente del Fondo Milagro promete cambio de rumbo con “nómina muy bajita” | El Colombiano",
-      "medio": "El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUlyMzVNWS0zYXNJTS1WbHpJUkd3c3g1OG82TThEdXdpZG55YTM2RDc3eTg2VXZCNlNreEhGSkZTZVE2RDA5aTJXZkViY3ZMLS12dExIb1RzRUVudFBYUmpYdFM4VHRmaGVxVUFhSHYxb2poeWxoRmdiLUJvMzJQTU1BQ2R4N3NmOUpENTVwSU4wbmstMjI5aWdKZEtZMWVMQUl2TnNjQ0xPZ1ZLaUg2dGpya0bSAboBQVVfeXFMTWhEN055ZmtNNkVHWUNOYmdqcWVSd3ZoVjdVT09hY2ZUMFhkWldRQkpBMElhdFYyLVFDcENnd3NLRElKaElraXJ5ZzdtVnhFbDEyc1R5YUlxbkZjd2pvbHlyYkJ6aTMzeHdKWjlNVGU5S004U2FQOHNSY1dyS1NuUFJFcFZXZ1VRSTJmS3JYWUpKMmVkNWIzbHZSUjlYQXd6N05ObldjNnhwZTFMcXVZZEpuTy02dy13WDdn?oc=5",
-      "fecha": "2026-11-18T12:57:48.000Z",
-      "depto": "Nacional",
-      "consulta": "\"Fondo Milagro\""
-    },
-    {
-      "titulo": "&#191;Perdi&#243; su vivienda tras el terremoto? Conozca c&#243;mo acceder a los 140 subsidios habitacionales",
-      "medio": "Noticiero 90 Minutos",
-      "url": "https://90minutos.co/cali/perdio-vivienda-tras-el-terremoto-subsidios-habitacionales-18-11-2026/",
-      "imagen": "http://www.bing.com/th?id=ONUT.2tarwmdhyHMjjjDhwOtQ8A&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-18T12:46:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Gobierno ADLE proyecta adquirir 4.699 viviendas para las familias damnificadas por el terremoto: invertir&#237;a $ 1,8 billones",
-      "medio": "El Heraldo",
-      "url": "https://www.elheraldo.co/colombia/2026/11/18/gobierno-adle-proyecta-adquirir-4699-viviendas-para-las-familias-damnificadas-por-el-terremoto-invertiria-18-billones/",
-      "imagen": "https://www.elheraldo.co/resizer/v2/RH3PEPUPHFBTHIWS53LUEQZNAQ.jpeg?smart=true&auth=702fe1835f511ca56aaf8f05aa0ab1fde9180b11f3063d2afc4e4c4ed47d04cf&width=1200&height=675",
-      "fecha": "2026-11-18T12:35:00.000Z",
-      "depto": "Nacional",
-      "consulta": "viviendas damnificados terremoto Colombia"
-    },
-    {
-      "titulo": "Familias del edificio Bachu&#233;, con paredes colapsadas por terremoto, rescatan sus enseres a la fuerza en sur de Cali: 'No tenemos ropa ni d&#243;nde dormir'",
-      "medio": "El Tiempo",
-      "url": "https://www.eltiempo.com/colombia/cali/familias-del-edificio-bachue-con-paredes-colapsadas-por-terremoto-rescatan-sus-enseres-a-la-fuerza-en-sur-de-cali-no-tenemos-ropa-ni-donde-dormir-3602205",
-      "imagen": "http://www.bing.com/th?id=ONUT.gDKaZMpUPTW1uRVP6hrj9g&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-18T12:18:00.000Z",
-      "depto": "Valle del Cauca",
-      "consulta": "terremoto Cali reconstrucción"
-    },
-    {
-      "titulo": "Cali somos todos por el mundo: crece la cooperaci&#243;n internacional para su reconstrucci&#243;n tras el terremoto",
-      "medio": "Semana",
-      "url": "https://www.semana.com/mejor-colombia/articulo/cali-somos-todos-por-el-mundo-crece-la-cooperacion-internacional-para-su-reconstruccion-tras-el-terremoto/202604/",
-      "imagen": "http://www.bing.com/th?id=ONUT.NgM6Nck0ieHuweHd8T8EbQ&pid=News&w=640&h=360&c=7",
-      "fecha": "2026-11-18T12:14:00.000Z",
-      "depto": "Valle del Cauca",
       "consulta": "reconstrucción terremoto Colombia"
     }
   ]
